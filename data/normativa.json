@@ -1,30 +1,770 @@
 [
-{"id":"normativa-01","tema":"normativa","subtema":"Constitución Política","dificultad":1,"tipo":"conocimiento","enunciado":"Según el artículo 67 de la Constitución Política de 1991, la educación es:","opciones":["Un derecho de la persona y un servicio público que tiene una función social","Un servicio exclusivamente privado regulado por la libre oferta y demanda","Un deber que recae únicamente sobre las familias frente al Estado","Una facultad discrecional que cada entidad territorial decide si presta"],"correcta":0,"explicacion":"El artículo 67 define la educación como derecho de la persona y servicio público con función social, con el que se busca acceso al conocimiento, la ciencia, la técnica y los demás bienes y valores de la cultura. Además, el Estado, la sociedad y la familia son responsables de ella. Decir que es solo un servicio privado o solo un deber de las familias desconoce esa corresponsabilidad.","fuente":"Constitución Política de 1991, art. 67"},
-{"id":"normativa-02","tema":"normativa","subtema":"Constitución Política","dificultad":1,"tipo":"conocimiento","enunciado":"De acuerdo con el artículo 67 de la Constitución, la educación será obligatoria:","opciones":["Entre los 3 y los 12 años, con dos años de preescolar","Entre los 5 y los 15 años, con mínimo un año de preescolar y nueve de educación básica","Entre los 6 y los 17 años, con los once grados completos","Entre los 4 y los 14 años, con tres años de preescolar"],"correcta":1,"explicacion":"La Constitución fija la obligatoriedad entre los cinco y los quince años de edad y exige como mínimo un año de preescolar y nueve de educación básica. La educación media (grados 10 y 11) no es obligatoria constitucionalmente, aunque sí hace parte del servicio educativo. Por eso la opción de once grados completos es incorrecta.","fuente":"Constitución Política de 1991, art. 67"},
-{"id":"normativa-03","tema":"normativa","subtema":"Ley 115 de 1994","dificultad":1,"tipo":"conocimiento","enunciado":"Según la Ley 115 de 1994, los niveles de la educación formal son:","opciones":["Primaria, secundaria y universitaria","Preescolar, primaria y técnica","Preescolar, básica y media","Básica, media y superior"],"correcta":2,"explicacion":"La Ley General de Educación organiza la educación formal en tres niveles: preescolar (mínimo un grado obligatorio), básica (cinco grados de primaria y cuatro de secundaria) y media (grados 10 y 11). La educación superior se regula por otra ley (Ley 30 de 1992) y no es uno de esos tres niveles. Por eso la opción que incluye «superior» no es la correcta.","fuente":"Ley 115 de 1994, art. 11"},
-{"id":"normativa-04","tema":"normativa","subtema":"Ley 115 de 1994","dificultad":1,"tipo":"conocimiento","enunciado":"¿Cuál de las siguientes es un área obligatoria y fundamental de la educación básica según el artículo 23 de la Ley 115 de 1994?","opciones":["Psicología","Contabilidad","Derecho comercial","Tecnología e informática"],"correcta":3,"explicacion":"El artículo 23 enumera nueve grupos de áreas obligatorias y fundamentales: ciencias naturales y educación ambiental; ciencias sociales, historia, geografía, constitución política y democracia; educación artística; educación ética y en valores humanos; educación física, recreación y deportes; educación religiosa; humanidades, lengua castellana e idiomas extranjeros; matemáticas; y tecnología e informática. Psicología, contabilidad o derecho comercial pueden ofrecerse como optativas o en la media técnica, pero no figuran en esa lista.","fuente":"Ley 115 de 1994, art. 23"},
-{"id":"normativa-05","tema":"normativa","subtema":"Ley 115 de 1994","dificultad":1,"tipo":"conocimiento","enunciado":"El Proyecto Educativo Institucional (PEI) es:","opciones":["El instrumento con el que cada establecimiento define sus principios y fines, recursos, estrategia pedagógica, reglamento para docentes y estudiantes y sistema de gestión","El plan anual de gastos que cada colegio presenta y aprueba la Secretaría de Educación","El reglamento del consejo estudiantil que elabora el personero cada año","El documento nacional que fija el calendario académico de todos los colegios"],"correcta":0,"explicacion":"El artículo 73 ordena que cada establecimiento elabore y ponga en práctica un PEI para lograr la formación integral del educando, y lo describe con esos elementos. Es construido por la comunidad educativa y no lo impone la Secretaría de Educación. Presupuestos y calendarios son instrumentos distintos.","fuente":"Ley 115 de 1994, art. 73"},
-{"id":"normativa-06","tema":"normativa","subtema":"Ley 115 de 1994","dificultad":2,"tipo":"conocimiento","enunciado":"Según el artículo 142 de la Ley 115 de 1994, el gobierno escolar de un establecimiento educativo estatal está conformado por:","opciones":["El rector, el personero y el consejo de padres","El rector, el consejo directivo y el consejo académico","El consejo directivo, el consejo estudiantil y el comité de convivencia","El rector, el coordinador y la asociación de exalumnos"],"correcta":1,"explicacion":"El gobierno escolar lo integran el rector, el consejo directivo y el consejo académico. El personero, el consejo estudiantil y el consejo de padres son instancias de participación, pero no hacen parte de esa tríada legal. Conviene no confundir participación de la comunidad con los órganos del gobierno escolar.","fuente":"Ley 115 de 1994, art. 142"},
-{"id":"normativa-07","tema":"normativa","subtema":"Decreto 1278 de 2002","dificultad":1,"tipo":"conocimiento","enunciado":"El Decreto 1278 de 2002 es:","opciones":["El régimen aplicable a los docentes que ingresaron antes de 2002 y mantiene el escalafón de catorce grados","La norma que reglamenta el Sistema General de Participaciones en educación","El Estatuto de Profesionalización Docente, aplicable a quienes ingresan al servicio educativo estatal por concurso","La norma que establece el calendario escolar y la jornada única"],"correcta":2,"explicacion":"El Decreto 1278 de 2002 es el Estatuto de Profesionalización Docente: regula el ingreso por concurso de méritos, el período de prueba, la evaluación, el escalafón y el retiro de los docentes y directivos docentes estatales que se vinculan desde su vigencia. El régimen anterior, con catorce grados, es el del Decreto 2277 de 1979, que se mantiene para quienes ya estaban vinculados.","fuente":"Decreto 1278 de 2002"},
-{"id":"normativa-08","tema":"normativa","subtema":"Decreto 1278 de 2002","dificultad":2,"tipo":"conocimiento","enunciado":"¿Cómo está estructurado el escalafón docente en el Decreto 1278 de 2002?","opciones":["Catorce grados numerados del 1 al 14","Cuatro grados (1 a 4) con tres niveles salariales (A, B y C)","Dos grados (1 y 2) con niveles salariales de la A a la F","Tres grados (1, 2 y 3), cada uno con cuatro niveles salariales (A, B, C y D)"],"correcta":3,"explicacion":"El escalafón del Decreto 1278 tiene tres grados, que dependen principalmente del título del docente, y en cada grado hay cuatro niveles salariales (A, B, C y D). Los catorce grados corresponden al estatuto anterior (Decreto 2277 de 1979). Esa diferencia es una confusión frecuente entre los dos regímenes.","fuente":"Decreto 1278 de 2002, art. 19"},
-{"id":"normativa-09","tema":"normativa","subtema":"Decreto 1278 de 2002","dificultad":2,"tipo":"situacional","enunciado":"Carlos fue nombrado docente en período de prueba tras ganar el concurso y obtuvo una evaluación satisfactoria al finalizarlo. Un compañero le pregunta qué sigue en su vinculación. ¿Cuál es la respuesta correcta?","opciones":["Será inscrito en el escalafón docente según su título y queda con derechos de carrera","Debe presentarse de nuevo al concurso para confirmar su cargo","Pasa automáticamente al grado 3 del escalafón por haber superado la prueba","Se le nombra en provisionalidad por un año adicional antes de inscribirlo"],"correcta":0,"explicacion":"Quien supera de manera satisfactoria el período de prueba es inscrito en el escalafón docente, en el grado que corresponda a su título, y adquiere los derechos de la carrera. No debe repetir el concurso. Tampoco asciende automáticamente: el grado 3 exige requisitos académicos y evaluaciones posteriores.","fuente":"Decreto 1278 de 2002"},
-{"id":"normativa-10","tema":"normativa","subtema":"Decreto 1278 de 2002","dificultad":2,"tipo":"situacional","enunciado":"Marta es docente de grado 2, nivel salarial A. Quiere mejorar su remuneración sin cambiar de grado del escalafón. ¿Qué figura del Decreto 1278 de 2002 corresponde a lo que busca?","opciones":["El ascenso, que la llevaría al grado 3 del escalafón","La reubicación salarial, que la moverá de nivel dentro del mismo grado","El traslado por permuta a otra institución educativa","La comisión de estudios con permanencia del cargo"],"correcta":1,"explicacion":"El ascenso implica cambiar de grado (por ejemplo, de 2 a 3), mientras que la reubicación salarial es el paso de un nivel salarial a otro dentro del mismo grado (por ejemplo, de A a B). Ambos exigen cumplir los requisitos del decreto, como tiempo de servicio y resultados en las evaluaciones. Marta busca lo segundo, porque no quiere cambiar de grado.","fuente":"Decreto 1278 de 2002"},
-{"id":"normativa-11","tema":"normativa","subtema":"Decreto 1278 de 2002","dificultad":3,"tipo":"situacional","enunciado":"Laura, docente de grado 2 del Decreto 1278, acaba de obtener su título de maestría y le pide al rector que la inscriba directamente en el grado 3. ¿Cuál es la orientación más acertada?","opciones":["Aceptar la solicitud, porque el título de maestría otorga automáticamente el grado 3","Esperar al próximo concurso docente para que el título sea valorado en el ingreso","Informarle que el ascenso exige participar en la evaluación de competencias cuando se convoque y cumplir los demás requisitos del decreto","Indicarle que el grado 3 solo se obtiene por traslado a una institución rural"],"correcta":2,"explicacion":"El ascenso de grado no es automático: además del título requerido, el decreto exige haber cumplido un tiempo de servicio y aprobar la evaluación de competencias que convoca el Ministerio, junto con una evaluación de desempeño satisfactoria. Por eso el rector no puede inscribirla directamente. Esperar otro concurso tampoco tiene sentido, pues ella ya está vinculada en carrera.","fuente":"Decreto 1278 de 2002"},
-{"id":"normativa-12","tema":"normativa","subtema":"Ley 715 de 2001","dificultad":2,"tipo":"situacional","enunciado":"Al terminar el año escolar, un docente de una institución oficial pregunta quién realizará su evaluación anual de desempeño. ¿Quién tiene esa responsabilidad?","opciones":["El personero estudiantil con base en encuestas a los estudiantes","El consejo de padres, por ser la comunidad que recibe el servicio","El Ministerio de Educación, directamente para todos los docentes del país","El rector o director de la institución, como superior jerárquico, con base en evidencias"],"correcta":3,"explicacion":"Entre las funciones del rector que fija la Ley 715 está realizar la evaluación anual de desempeño de los docentes y directivos docentes a su cargo, aplicando los criterios del estatuto docente. La comunidad puede aportar información, pero no evalúa formalmente. El Ministerio establece las reglas y los instrumentos, no aplica cada evaluación.","fuente":"Ley 715 de 2001, art. 10"},
-{"id":"normativa-13","tema":"normativa","subtema":"Ley 715 de 2001","dificultad":3,"tipo":"conocimiento","enunciado":"Según la Ley 715 de 2001, en un municipio que no está certificado en educación, la administración del servicio educativo corresponde a:","opciones":["El departamento, a través de su secretaría de educación","El propio municipio, por delegación de los rectores","El Ministerio de Educación Nacional, directamente","La Superintendencia de Educación, como autoridad territorial"],"correcta":0,"explicacion":"La Ley 715 distribuye competencias: la Nación formula políticas y regula; los departamentos administran el servicio en los municipios no certificados; y los distritos y municipios certificados (entre ellos los de más de 100.000 habitantes) lo administran por sí mismos. Por eso la administración de un municipio no certificado la ejerce el departamento.","fuente":"Ley 715 de 2001"},
-{"id":"normativa-14","tema":"normativa","subtema":"Ley 715 de 2001","dificultad":2,"tipo":"conocimiento","enunciado":"Según la Ley 715 de 2001, una institución educativa debe prestar como mínimo:","opciones":["Solo la educación media académica o técnica","Un año de educación preescolar y los nueve grados de educación básica","Únicamente los cinco grados de educación primaria","La educación básica secundaria y la media, sin preescolar"],"correcta":1,"explicacion":"La ley define la institución educativa como el conjunto de personas y bienes que presta, como mínimo, un año de preescolar y los nueve grados de la educación básica. Esta definición explica por qué muchos establecimientos se fusionaron en instituciones con varias sedes. Ofrecer solo primaria corresponde a un centro educativo o sede, no a una institución educativa completa.","fuente":"Ley 715 de 2001, art. 9"},
-{"id":"normativa-15","tema":"normativa","subtema":"Ley 715 de 2001","dificultad":2,"tipo":"conocimiento","enunciado":"¿Cuál de las siguientes es una función del rector establecida en el artículo 10 de la Ley 715 de 2001?","opciones":["Nombrar y retirar a los docentes de la planta de la entidad territorial","Fijar el presupuesto anual del departamento para el sector educativo","Dirigir la preparación del PEI y presidir los consejos directivo y académico","Expedir las normas generales de la carrera docente"],"correcta":2,"explicacion":"Entre las funciones del rector están dirigir la preparación del PEI con la participación de la comunidad educativa, presidir los consejos directivo y académico, orientar el proceso educativo y velar por el cumplimiento de las funciones de los docentes. La planta y los nombramientos dependen de la entidad territorial, y las normas de carrera las expide el Gobierno nacional, no el rector.","fuente":"Ley 715 de 2001, art. 10"},
-{"id":"normativa-16","tema":"normativa","subtema":"Decreto 1075 de 2015","dificultad":1,"tipo":"conocimiento","enunciado":"El Decreto 1075 de 2015 es:","opciones":["Un decreto que reglamenta solo el Estatuto Docente 1278","La norma que crea el sistema de evaluación de los estudiantes","El decreto que adopta el Plan Decenal de Educación","El Decreto Único Reglamentario del Sector Educación, que compila la normatividad reglamentaria del sector"],"correcta":3,"explicacion":"El Decreto 1075 de 2015 reúne en un solo texto los decretos reglamentarios del sector educativo vigentes, para facilitar su consulta y aplicación. No crea derechos nuevos por sí mismo: ordena lo que ya existía. Por eso, al buscar la reglamentación de una ley educativa, es útil consultar este decreto.","fuente":"Decreto 1075 de 2015"},
-{"id":"normativa-17","tema":"normativa","subtema":"Decreto 1075 de 2015","dificultad":2,"tipo":"situacional","enunciado":"Un docente nuevo quiere conocer la reglamentación vigente sobre gobierno escolar y recuerda que antes estaba en el Decreto 1860 de 1994. El coordinador le explica correctamente que hoy debe consultarla en:","opciones":["El Decreto 1075 de 2015, que compiló los decretos reglamentarios del sector, incluida esa materia","El Decreto 1278 de 2002, que regula el gobierno escolar","La Ley 1620 de 2013, que reemplazó toda la Ley 115","El Decreto 1290 de 2009, que organiza los órganos colegiados"],"correcta":0,"explicacion":"El Decreto 1075 de 2015 compiló los decretos reglamentarios del sector educación, y entre ellos la reglamentación de la Ley 115 sobre gobierno escolar. El Decreto 1278 trata del estatuto docente y el 1290 de la evaluación de estudiantes. La Ley 1620 no sustituyó la Ley 115, sino que regula la convivencia escolar.","fuente":"Decreto 1075 de 2015"},
-{"id":"normativa-18","tema":"normativa","subtema":"Ley 1098 de 2006","dificultad":1,"tipo":"conocimiento","enunciado":"Según el Código de la Infancia y la Adolescencia (Ley 1098 de 2006), se entiende por adolescente a la persona:","opciones":["Entre los 10 y los 14 años","Entre los 12 y los 18 años","Entre los 14 y los 21 años","Entre los 15 y los 18 años"],"correcta":1,"explicacion":"El Código define niño o niña como la persona entre 0 y 12 años, y adolescente como la persona entre 12 y 18 años. Esta distinción importa en la escuela porque la protección integral aplica a ambos grupos. La mayoría de edad civil en Colombia llega a los 18 años.","fuente":"Ley 1098 de 2006, art. 3"},
-{"id":"normativa-19","tema":"normativa","subtema":"Ley 1098 de 2006","dificultad":2,"tipo":"situacional","enunciado":"El consejo directivo debe decidir entre una medida que simplifica la logística de la institución y otra que protege mejor los derechos de un grupo de estudiantes. Según la Ley 1098 de 2006, ¿qué criterio debe orientar la decisión?","opciones":["Elegir la medida de menor costo administrativo para la institución","Decidir por mayoría simple de los miembros del consejo sin otro criterio","El interés superior del niño y la prevalencia de sus derechos sobre los demás","Preferir lo que decida la mayoría de los padres de familia sin más análisis"],"correcta":2,"explicacion":"La Ley 1098 establece el interés superior de los niños, niñas y adolescentes y la prevalencia de sus derechos, en concordancia con el artículo 44 de la Constitución. Esto obliga a que las decisiones de la institución que los afectan se evalúen primero desde la protección de sus derechos. La conveniencia administrativa o el voto mayoritario no pueden desplazarlo.","fuente":"Ley 1098 de 2006, arts. 8 y 9"},
-{"id":"normativa-20","tema":"normativa","subtema":"Ley 1098 de 2006","dificultad":3,"tipo":"situacional","enunciado":"Una estudiante de 13 años le cuenta en privado a su docente que un familiar le toca el cuerpo. ¿Cuál es la actuación más adecuada del docente?","opciones":["Interrogarla varias veces para confirmar los detalles antes de informar a alguien","Citar al presunto agresor para pedirle explicaciones y luego decidir qué hacer","Esperar a que sus padres decidan por sí mismos si denuncian o no","Escucharla con calma, no investigar por su cuenta y reportar de inmediato a las autoridades competentes activando la ruta de atención"],"correcta":3,"explicacion":"Las instituciones educativas tienen la obligación de poner en conocimiento de las autoridades competentes (por ejemplo ICBF, Policía de Infancia y Adolescencia o Fiscalía) las situaciones que afecten los derechos de los niños. El docente no investiga ni confronta al agresor: eso corresponde a las autoridades, y hacerlo podría revictimizar o poner en riesgo a la estudiante. Esperar la decisión de la familia es inadecuado cuando esta puede estar implicada.","fuente":"Ley 1098 de 2006, art. 44"},
-{"id":"normativa-21","tema":"normativa","subtema":"Decreto 1290 de 2009","dificultad":1,"tipo":"conocimiento","enunciado":"La escala de valoración nacional para los desempeños de los estudiantes del Decreto 1290 de 2009 comprende los niveles:","opciones":["Superior, alto, básico y bajo","Excelente, bueno, aceptable e insuficiente","Sobresaliente, aprobado y reprobado","Alto, medio, bajo y nulo"],"correcta":0,"explicacion":"El Decreto 1290 establece la escala nacional con cuatro niveles: desempeño superior, alto, básico y bajo. El desempeño bajo corresponde a no superar los desempeños necesarios en relación con las áreas obligatorias y fundamentales. Las demás denominaciones son comunes en otros sistemas, pero no son la escala oficial.","fuente":"Decreto 1290 de 2009, art. 5"},
-{"id":"normativa-22","tema":"normativa","subtema":"Decreto 1290 de 2009","dificultad":2,"tipo":"situacional","enunciado":"Un colegio quiere usar una escala numérica de 1 a 10 para valorar a sus estudiantes. Una madre pregunta si eso contradice el Decreto 1290 de 2009. ¿Qué responde correctamente el docente?","opciones":["Que no es válido, porque solo puede usarse la escala de superior, alto, básico y bajo","Que es válido si la institución expresa la equivalencia con la escala nacional","Que es válido solo si la Secretaría de Educación aprueba cada nota individual","Que no es válido, porque la ley exige una escala de 1 a 5 en todo el país"],"correcta":1,"explicacion":"Cada establecimiento puede definir y adoptar su propia escala de valoración en el SIEE, siempre que exprese su equivalencia con la escala nacional (superior, alto, básico, bajo), para facilitar la movilidad de los estudiantes entre colegios. No se exige una escala única de 1 a 5 ni la aprobación de cada nota por la Secretaría.","fuente":"Decreto 1290 de 2009, art. 5"},
-{"id":"normativa-23","tema":"normativa","subtema":"Decreto 1290 de 2009","dificultad":2,"tipo":"situacional","enunciado":"En el consejo directivo se discute quién debe definir el Sistema Institucional de Evaluación de los Estudiantes (SIEE). Un docente propone la respuesta correcta, que es:","opciones":["La Secretaría de Educación, que lo impone igual a todos los colegios","El personero estudiantil, por ser quien representa a los estudiantes","El establecimiento educativo, con participación de la comunidad, adoptado por el consejo directivo e incorporado al PEI","El Ministerio de Educación, que lo aplica sin posibilidad de adaptación"],"correcta":2,"explicacion":"El SIEE lo define cada establecimiento educativo, con participación de la comunidad educativa; lo adopta el consejo directivo y se incorpora al PEI. Esto respeta la autonomía escolar de la Ley 115 dentro de los parámetros del decreto. Ni el Ministerio ni la Secretaría fijan un sistema único para todos.","fuente":"Decreto 1290 de 2009"},
-{"id":"normativa-24","tema":"normativa","subtema":"Decreto 1290 de 2009","dificultad":3,"tipo":"situacional","enunciado":"Al finalizar el año, un padre reclama porque su hijo no fue promovido y exige que lo pasen «por ser buen muchacho». ¿Cuál es la actuación más adecuada del docente?","opciones":["Promover al estudiante para evitar un conflicto con la familia","Explicarle que la promoción depende del criterio personal de cada docente","Indicarle que debe reclamar directamente ante el Ministerio de Educación","Aplicar los criterios de promoción del SIEE y orientar al padre sobre las instancias y el procedimiento institucional para presentar reclamaciones"],"correcta":3,"explicacion":"El Decreto 1290 exige que cada establecimiento defina en su SIEE los criterios de promoción y los procedimientos e instancias para atender reclamaciones. El docente debe actuar conforme a ese sistema, que garantiza igualdad y debido proceso, y no por criterios personales ni por presión. Promover sin cumplir los criterios sería arbitrario frente a los demás estudiantes.","fuente":"Decreto 1290 de 2009"},
-{"id":"normativa-25","tema":"normativa","subtema":"Ley 1952 de 2019","dificultad":2,"tipo":"conocimiento","enunciado":"La Ley 1952 de 2019 es:","opciones":["El Código General Disciplinario, que derogó la Ley 734 de 2002","El Estatuto de Profesionalización Docente que reemplazó al Decreto 1278","El Código de la Infancia y la Adolescencia de Colombia","El Código de Policía y Convivencia Ciudadana"],"correcta":0,"explicacion":"La Ley 1952 de 2019 expidió el Código General Disciplinario y derogó la Ley 734 de 2002 (el anterior Código Disciplinario Único). Los docentes oficiales, como servidores públicos, están sujetos a este régimen, que regula faltas, sanciones y el procedimiento. No tiene relación con el estatuto docente ni con el Código de Policía.","fuente":"Ley 1952 de 2019"},
-{"id":"normativa-26","tema":"normativa","subtema":"Ley 1952 de 2019","dificultad":3,"tipo":"situacional","enunciado":"A un docente de una institución oficial le notifican que se abrió una investigación disciplinaria en su contra por una queja. ¿Qué debe tener presente respecto a sus derechos?","opciones":["Que debe renunciar al cargo, pues la investigación ya lo declara responsable","Que puede ejercer su defensa: conocer el expediente, presentar descargos y pruebas y contar con abogado si lo desea","Que debe abstenerse de cualquier actuación porque la presunción de inocencia lo exime de participar","Que el rector puede archivar el caso si el docente se lo pide"],"correcta":1,"explicacion":"El debido proceso (art. 29 de la Constitución) y el régimen disciplinario garantizan al investigado la presunción de inocencia, conocer los cargos y las pruebas, ser oído, controvertir y aportar pruebas, y ser asistido por abogado. Abrir una investigación no implica culpabilidad. Tampoco el rector decide el archivo, pues lo define la autoridad disciplinaria competente.","fuente":"Ley 1952 de 2019; Constitución Política, art. 29"},
-{"id":"normativa-27","tema":"normativa","subtema":"Constitución Política","dificultad":3,"tipo":"conocimiento","enunciado":"El artículo 68 de la Constitución Política establece que la enseñanza estará a cargo de personas:","opciones":["Con título universitario en cualquier área del conocimiento","Con diez años de experiencia comprobada en aula","De reconocida idoneidad ética y pedagógica","Aprobadas por el consejo directivo de cada institución"],"correcta":2,"explicacion":"El artículo 68 exige que quienes tienen a su cargo la enseñanza sean personas de reconocida idoneidad ética y pedagógica, y añade que la ley garantiza la profesionalización y la dignificación de la actividad docente. Este mandato es la base del régimen de carrera y de los concursos por mérito. El mismo artículo reconoce el derecho de los padres a escoger el tipo de educación para sus hijos menores.","fuente":"Constitución Política de 1991, art. 68"},
-{"id":"normativa-28","tema":"normativa","subtema":"Ley 115 de 1994","dificultad":3,"tipo":"situacional","enunciado":"Un rector propone eliminar el área de educación artística del plan de estudios para dedicar más horas a matemáticas, invocando la autonomía escolar. ¿Qué respuesta es correcta según la Ley 115 de 1994?","opciones":["Es válido, porque la autonomía permite suprimir cualquier área si el consejo directivo lo aprueba","Es válido, siempre que los padres firmen una autorización individual","No es válido, porque el plan de estudios es idéntico en todo el país y no admite ajustes","No es válido suprimirla: la autonomía permite organizar las áreas fundamentales y adaptarlas, pero respetando los lineamientos del MEN"],"correcta":3,"explicacion":"El artículo 77 otorga autonomía para organizar las áreas fundamentales, introducir asignaturas optativas y adaptar áreas a las necesidades regionales, pero siempre dentro de los lineamientos curriculares del Ministerio. Las áreas obligatorias del artículo 23, entre ellas educación artística, no pueden suprimirse. Tampoco es cierto que el plan sea idéntico en todo el país: hay margen de adaptación.","fuente":"Ley 115 de 1994, arts. 23 y 77"}
+  {
+    "id": "normativa-01",
+    "tema": "normativa",
+    "subtema": "Constitución Política",
+    "dificultad": 1,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "Según el artículo 67 de la Constitución Política de 1991, la educación es:",
+    "opciones": [
+      "Un derecho de la persona y un servicio público que tiene una función social",
+      "Un servicio exclusivamente privado regulado por la libre oferta y demanda",
+      "Un deber que recae únicamente sobre las familias frente al Estado",
+      "Una facultad discrecional que cada entidad territorial decide si presta"
+    ],
+    "correcta": 0,
+    "retro": [
+      "Correcta: el art. 67 la define como derecho de la persona y servicio público con función social.",
+      "Confunde servicio público con servicio privado de mercado; el Estado regula y vigila la educación.",
+      "Desconoce la corresponsabilidad: Estado, sociedad y familia son responsables, no solo la familia.",
+      "Confunde la autonomía territorial con una facultad discrecional; prestar el servicio es una obligación del Estado."
+    ],
+    "explicacion": "El artículo 67 define la educación como derecho de la persona y servicio público con función social, con el que se busca acceso al conocimiento, la ciencia, la técnica y los demás bienes y valores de la cultura. Además, el Estado, la sociedad y la familia son responsables de ella. Decir que es solo un servicio privado o solo un deber de las familias desconoce esa corresponsabilidad.",
+    "fuente": "Constitución Política de 1991, art. 67"
+  },
+  {
+    "id": "normativa-02",
+    "tema": "normativa",
+    "subtema": "Constitución Política",
+    "dificultad": 1,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "De acuerdo con el artículo 67 de la Constitución, la educación será obligatoria:",
+    "opciones": [
+      "Entre los 3 y los 12 años, con dos años de preescolar",
+      "Entre los 5 y los 15 años, con mínimo un año de preescolar y nueve de educación básica",
+      "Entre los 6 y los 17 años, con los once grados completos",
+      "Entre los 4 y los 14 años, con tres años de preescolar"
+    ],
+    "correcta": 1,
+    "retro": [
+      "Reduce la edad y exagera el preescolar obligatorio; la Constitución exige como mínimo un año de preescolar.",
+      "Correcta: de 5 a 15 años, con un año de preescolar y nueve de básica.",
+      "Confunde la obligatoriedad con toda la educación formal; la media (grados 10 y 11) no es obligatoria constitucionalmente.",
+      "Cambia el rango de edad y exige tres años de preescolar, cuando el mínimo constitucional es uno."
+    ],
+    "explicacion": "La Constitución fija la obligatoriedad entre los cinco y los quince años de edad y exige como mínimo un año de preescolar y nueve de educación básica. La educación media (grados 10 y 11) no es obligatoria constitucionalmente, aunque sí hace parte del servicio educativo. Por eso la opción de once grados completos es incorrecta.",
+    "fuente": "Constitución Política de 1991, art. 67"
+  },
+  {
+    "id": "normativa-03",
+    "tema": "normativa",
+    "subtema": "Ley 115 de 1994",
+    "dificultad": 1,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "Según la Ley 115 de 1994, los niveles de la educación formal son:",
+    "opciones": [
+      "Primaria, secundaria y universitaria",
+      "Preescolar, primaria y técnica",
+      "Preescolar, básica y media",
+      "Básica, media y superior"
+    ],
+    "correcta": 2,
+    "retro": [
+      "Confunde los niveles con etapas del sistema; la universitaria es educación superior y la básica incluye primaria y secundaria.",
+      "Mezcla la primaria, que es parte de la básica, con la técnica, que es una modalidad de la media.",
+      "Correcta: preescolar, básica y media (art. 11).",
+      "Incluye la educación superior, que no es uno de los tres niveles de la educación formal de la Ley 115, y omite el preescolar."
+    ],
+    "explicacion": "La Ley General de Educación organiza la educación formal en tres niveles: preescolar (mínimo un grado obligatorio), básica (cinco grados de primaria y cuatro de secundaria) y media (grados 10 y 11). La educación superior se regula por otra ley (Ley 30 de 1992) y no es uno de esos tres niveles. Por eso la opción que incluye «superior» no es la correcta.",
+    "fuente": "Ley 115 de 1994, art. 11"
+  },
+  {
+    "id": "normativa-04",
+    "tema": "normativa",
+    "subtema": "Ley 115 de 1994",
+    "dificultad": 1,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "¿Cuál de las siguientes es un área obligatoria y fundamental de la educación básica según el artículo 23 de la Ley 115 de 1994?",
+    "opciones": [
+      "Psicología",
+      "Contabilidad",
+      "Derecho comercial",
+      "Tecnología e informática"
+    ],
+    "correcta": 3,
+    "retro": [
+      "Psicología puede ofrecerse como optativa, pero no es una de las nueve áreas del art. 23.",
+      "Contabilidad es propia de ciertas modalidades técnicas, no un área obligatoria y fundamental de la básica.",
+      "Derecho comercial no figura entre las áreas del art. 23.",
+      "Correcta: tecnología e informática es uno de los nueve grupos de áreas del art. 23."
+    ],
+    "explicacion": "El artículo 23 enumera nueve grupos de áreas obligatorias y fundamentales: ciencias naturales y educación ambiental; ciencias sociales, historia, geografía, constitución política y democracia; educación artística; educación ética y en valores humanos; educación física, recreación y deportes; educación religiosa; humanidades, lengua castellana e idiomas extranjeros; matemáticas; y tecnología e informática. Psicología, contabilidad o derecho comercial pueden ofrecerse como optativas o en la media técnica, pero no figuran en esa lista.",
+    "fuente": "Ley 115 de 1994, art. 23"
+  },
+  {
+    "id": "normativa-05",
+    "tema": "normativa",
+    "subtema": "Ley 115 de 1994",
+    "dificultad": 1,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "El Proyecto Educativo Institucional (PEI) es:",
+    "opciones": [
+      "El instrumento con el que cada establecimiento define sus principios y fines, recursos, estrategia pedagógica, reglamento y gestión",
+      "El plan anual de gastos que cada colegio presenta y aprueba la Secretaría de Educación, que sirve de base para asignar los recursos del Fondo de Servicios Educativos a cada sede y jornada",
+      "El reglamento del consejo estudiantil que elabora el personero cada año",
+      "El documento nacional que fija el calendario académico de todos los colegios, que cada colegio debe seguir sin posibilidad de adaptarlo a su comunidad educativa y a su contexto"
+    ],
+    "correcta": 0,
+    "retro": [
+      "Correcta: el art. 73 describe el PEI con esos elementos.",
+      "Confunde el PEI con un presupuesto; los gastos distintos a los de personal se manejan en el Fondo de Servicios Educativos.",
+      "Confunde el PEI con el reglamento de un órgano de participación estudiantil.",
+      "Lo confunde con un instrumento nacional; el PEI lo construye cada establecimiento por su autonomía."
+    ],
+    "explicacion": "El artículo 73 ordena que cada establecimiento elabore y ponga en práctica un PEI para lograr la formación integral del educando, y lo describe con esos elementos. Es construido por la comunidad educativa y no lo impone la Secretaría de Educación. Presupuestos y calendarios son instrumentos distintos.",
+    "fuente": "Ley 115 de 1994, art. 73"
+  },
+  {
+    "id": "normativa-06",
+    "tema": "normativa",
+    "subtema": "Ley 115 de 1994",
+    "dificultad": 2,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "Según el artículo 142 de la Ley 115 de 1994, el gobierno escolar de un establecimiento educativo estatal está conformado por:",
+    "opciones": [
+      "El rector, el personero y el consejo de padres",
+      "El rector, el consejo directivo y el consejo académico",
+      "El consejo directivo, el consejo estudiantil y el comité de convivencia",
+      "El rector, el coordinador y la asociación de exalumnos"
+    ],
+    "correcta": 1,
+    "retro": [
+      "Incluye al personero y al consejo de padres, que son instancias de participación y no parte del gobierno escolar.",
+      "Correcta: rector, consejo directivo y consejo académico (art. 142).",
+      "Mezcla el consejo estudiantil y el comité de convivencia, que no son órganos del gobierno escolar, y omite al rector.",
+      "El coordinador y la asociación de exalumnos no integran el gobierno escolar."
+    ],
+    "explicacion": "El gobierno escolar lo integran el rector, el consejo directivo y el consejo académico. El personero, el consejo estudiantil y el consejo de padres son instancias de participación, pero no hacen parte de esa tríada legal. Conviene no confundir participación de la comunidad con los órganos del gobierno escolar.",
+    "fuente": "Ley 115 de 1994, art. 142"
+  },
+  {
+    "id": "normativa-07",
+    "tema": "normativa",
+    "subtema": "Decreto 1278 de 2002",
+    "dificultad": 1,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "El Decreto 1278 de 2002 es:",
+    "opciones": [
+      "El régimen aplicable a los docentes que ingresaron antes de 2002 y mantiene el escalafón de catorce grados",
+      "La norma que reglamenta el Sistema General de Participaciones en educación",
+      "El Estatuto de Profesionalización Docente, aplicable a quienes ingresan al servicio educativo estatal por concurso",
+      "La norma que establece el calendario escolar y la jornada única"
+    ],
+    "correcta": 2,
+    "retro": [
+      "Confunde el 1278 con el 2277 de 1979, que tiene catorce grados y se mantiene para los docentes anteriores.",
+      "Confunde con la Ley 715 de 2001, que regula competencias y el Sistema General de Participaciones.",
+      "Correcta: es el Estatuto de Profesionalización Docente y se aplica a quienes ingresan por concurso.",
+      "El calendario escolar y la jornada única se regulan en otras normas, no en el estatuto docente."
+    ],
+    "explicacion": "El Decreto 1278 de 2002 es el Estatuto de Profesionalización Docente: regula el ingreso por concurso de méritos, el período de prueba, la evaluación, el escalafón y el retiro de los docentes y directivos docentes estatales que se vinculan desde su vigencia. El régimen anterior, con catorce grados, es el del Decreto 2277 de 1979, que se mantiene para quienes ya estaban vinculados.",
+    "fuente": "Decreto 1278 de 2002, arts. 1 y 2"
+  },
+  {
+    "id": "normativa-08",
+    "tema": "normativa",
+    "subtema": "Decreto 1278 de 2002",
+    "dificultad": 2,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "¿Cómo está estructurado el escalafón docente en el Decreto 1278 de 2002?",
+    "opciones": [
+      "Catorce grados numerados del 1 al 14",
+      "Cuatro grados (1 a 4) con tres niveles salariales (A, B y C), definidos por los años de experiencia en el aula",
+      "Dos grados (1 y 2) con niveles salariales de la A a la F",
+      "Tres grados (1, 2 y 3), cada uno con cuatro niveles salariales (A, B, C y D)"
+    ],
+    "correcta": 3,
+    "retro": [
+      "Confunde el 1278 con el 2277 de 1979, que sí tenía catorce grados.",
+      "Invierte la estructura: son tres grados con cuatro niveles, no cuatro grados con tres niveles.",
+      "Ni dos grados ni seis niveles: son tres grados y los niveles salariales van de A a D.",
+      "Correcta: tres grados y cuatro niveles (A, B, C y D), según el art. 20."
+    ],
+    "explicacion": "El escalafón del Decreto 1278 tiene tres grados, definidos por la formación académica (1: normalista superior; 2: licenciado o profesional con pedagogía o especialización en educación; 3: maestría o doctorado afín), y cada grado tiene cuatro niveles salariales (A, B, C y D). Quien supera el período de prueba entra en el nivel A del grado de su título. Los catorce grados corresponden al estatuto anterior (Decreto 2277 de 1979): es una confusión frecuente entre los dos regímenes.",
+    "fuente": "Decreto 1278 de 2002, arts. 20 y 21"
+  },
+  {
+    "id": "normativa-09",
+    "tema": "normativa",
+    "subtema": "Decreto 1278 de 2002",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "Carlos fue nombrado docente en período de prueba tras ganar el concurso y obtuvo una evaluación satisfactoria al finalizarlo. Un compañero le pregunta qué sigue en su vinculación. ¿Cuál es la respuesta correcta?",
+    "opciones": [
+      "Será inscrito en el escalafón docente según su título y queda con derechos de carrera",
+      "Debe presentarse de nuevo al concurso para confirmar su cargo",
+      "Pasa automáticamente al grado 3 del escalafón por haber superado la prueba",
+      "Se le nombra en provisionalidad por un año adicional antes de inscribirlo, mientras la secretaría verifica los requisitos de su hoja de vida"
+    ],
+    "correcta": 0,
+    "retro": [
+      "Correcta: se inscribe en el escalafón en el grado de su título y adquiere derechos de carrera.",
+      "Confunde la evaluación del período de prueba con el concurso: ya lo ganó y no debe repetirlo.",
+      "Cree que el grado 3 es automático; depende de que tenga maestría o doctorado y de los requisitos de ascenso.",
+      "Inventa una provisionalidad adicional; superar el período de prueba lleva directamente a la inscripción en el escalafón."
+    ],
+    "explicacion": "Quien supera de manera satisfactoria el período de prueba (60% o más) es inscrito en el escalafón docente, en el grado que corresponde a su título y en el nivel salarial A, y adquiere los derechos de la carrera. No debe repetir el concurso: ya lo ganó. Tampoco asciende automáticamente: el grado 3 exige maestría o doctorado afín y cumplir los requisitos de ascenso.",
+    "fuente": "Decreto 1278 de 2002, arts. 2, 12 y 20"
+  },
+  {
+    "id": "normativa-10",
+    "tema": "normativa",
+    "subtema": "Decreto 1278 de 2002",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "Marta es docente de grado 2, nivel salarial A. Quiere mejorar su remuneración sin cambiar de grado del escalafón. ¿Qué figura del Decreto 1278 de 2002 corresponde a lo que busca?",
+    "opciones": [
+      "El ascenso, que la llevaría al grado 3 del escalafón, con el consecuente aumento de su remuneración mensual",
+      "La reubicación salarial, que la moverá de nivel dentro del mismo grado",
+      "El traslado por permuta a otra institución educativa",
+      "La comisión de estudios con permanencia del cargo"
+    ],
+    "correcta": 1,
+    "retro": [
+      "Confunde ascenso (cambio de grado) con reubicación (cambio de nivel salarial dentro del grado).",
+      "Correcta: la reubicación mueve de nivel (por ejemplo de A a B) sin cambiar de grado.",
+      "La permuta es un traslado entre instituciones, no un mecanismo para mejorar la remuneración.",
+      "La comisión de estudios es una situación administrativa, no una forma de reubicación salarial."
+    ],
+    "explicacion": "El ascenso implica cambiar de grado (por ejemplo, de 2 a 3), mientras que la reubicación salarial es el paso de un nivel a otro dentro del mismo grado (por ejemplo, de A a B). Ambos se tramitan por la evaluación de competencias, que desde el Decreto 953 de 2025 es diagnóstico formativa y exige 3 años de servicio efectivo y mínimo 60% en las dos últimas evaluaciones anuales de desempeño. Marta busca lo segundo, porque no quiere cambiar de grado.",
+    "fuente": "Decreto 1278 de 2002, arts. 20, 21 y 36; Decreto 1075 de 2015, arts. 2.4.1.4.1.1 y ss. (Decreto 953 de 2025)"
+  },
+  {
+    "id": "normativa-11",
+    "tema": "normativa",
+    "subtema": "Decreto 1278 de 2002",
+    "dificultad": 3,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "Laura, docente de grado 2 del Decreto 1278, acaba de obtener su título de maestría y le pide al rector que la inscriba directamente en el grado 3. ¿Cuál es la orientación más acertada?",
+    "opciones": [
+      "Aceptar la solicitud, porque el título de maestría otorga automáticamente el grado 3, sin necesidad de más trámites ni evaluaciones ante la secretaría",
+      "Esperar al próximo concurso docente para que el título sea valorado en el ingreso",
+      "Informarle que el ascenso exige cumplir los requisitos vigentes y participar en la evaluación diagnóstico formativa cuando se convoque",
+      "Indicarle que el grado 3 solo se obtiene por traslado a una institución rural"
+    ],
+    "correcta": 2,
+    "retro": [
+      "Cree que el título basta; el decreto exige además requisitos de servicio, desempeño y evaluación.",
+      "Cree que el título se valora solo en el concurso; ella ya está en carrera y puede ascender sin concursar de nuevo.",
+      "Correcta: el ascenso no es automático y exige requisitos y participar en la evaluación cuando se convoque.",
+      "Inventa que el grado 3 depende de un traslado a zona rural; depende del título y de los requisitos de ascenso."
+    ],
+    "explicacion": "El grado 3 corresponde a quien tiene maestría o doctorado afín (art. 21), así que Laura cumple el título, pero el ascenso no es automático. Tras el Decreto 953 de 2025 debe estar inscrita en el escalafón con derechos de carrera, tener 3 años de servicio efectivo desde su primera posesión en período de prueba, haber obtenido mínimo 60% en las dos últimas evaluaciones anuales y participar en la evaluación de competencias, de carácter diagnóstico formativa, que el MEN convoca con su cronograma. Por eso el rector no puede inscribirla directamente; y esperar otro concurso no tiene sentido, pues ella ya está en carrera.",
+    "fuente": "Decreto 1278 de 2002, arts. 20, 21 y 35; Decreto 1075 de 2015, arts. 2.4.1.4.1.1 y ss. (Decreto 953 de 2025)"
+  },
+  {
+    "id": "normativa-12",
+    "tema": "normativa",
+    "subtema": "Ley 715 de 2001",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "Al terminar el año escolar, un docente de una institución oficial pregunta quién realizará su evaluación anual de desempeño. ¿Quién tiene esa responsabilidad?",
+    "opciones": [
+      "El personero estudiantil con base en encuestas a los estudiantes",
+      "El consejo de padres, por ser la comunidad que recibe el servicio",
+      "El Ministerio de Educación, directamente para todos los docentes del país, mediante visitas de supervisión a cada aula durante el año",
+      "El rector o director de la institución, como superior jerárquico, con base en evidencias"
+    ],
+    "correcta": 3,
+    "retro": [
+      "El personero representa a los estudiantes, pero no evalúa a los docentes.",
+      "El consejo de padres es una instancia de participación; no evalúa formalmente a los docentes.",
+      "El Ministerio fija las reglas e instrumentos, pero la evaluación de cada docente la hace el rector.",
+      "Correcta: el rector hace la evaluación anual de desempeño (Ley 715, art. 10 num. 10)."
+    ],
+    "explicacion": "Entre las funciones del rector, la Ley 715 (art. 10 num. 10) fija realizar la evaluación anual de desempeño de los docentes, directivos docentes y administrativos a su cargo; el Decreto 1278 (art. 32) la ubica al terminar cada año escolar, para quienes hayan servido más de tres meses, y a los rectores los evalúa su superior jerárquico. La comunidad puede aportar información mediante los instrumentos, pero no evalúa formalmente. El Ministerio establece las reglas, no aplica cada evaluación.",
+    "fuente": "Ley 715 de 2001, art. 10 num. 10; Decreto 1278 de 2002, art. 32"
+  },
+  {
+    "id": "normativa-13",
+    "tema": "normativa",
+    "subtema": "Ley 715 de 2001",
+    "dificultad": 3,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "Según la Ley 715 de 2001, en un municipio que no está certificado en educación, la administración del servicio educativo corresponde a:",
+    "opciones": [
+      "El departamento, a través de su secretaría de educación",
+      "El propio municipio, por delegación de los rectores",
+      "El Ministerio de Educación Nacional, directamente",
+      "La Superintendencia de Educación, como autoridad territorial"
+    ],
+    "correcta": 0,
+    "retro": [
+      "Correcta: en los municipios no certificados el departamento presta el servicio.",
+      "Los rectores dirigen el establecimiento, pero no administran el servicio educativo del municipio.",
+      "La Nación formula políticas, pero no administra directamente el servicio en cada municipio.",
+      "Confunde inspección y vigilancia con administración del servicio, que corresponde a la entidad territorial."
+    ],
+    "explicacion": "La Ley 715 distribuye competencias: la Nación formula políticas y regula; los departamentos administran el servicio en los municipios no certificados; y los distritos y municipios certificados (entre ellos los de más de 100.000 habitantes) lo administran por sí mismos. Por eso la administración de un municipio no certificado la ejerce el departamento.",
+    "fuente": "Ley 715 de 2001, arts. 6 y 20"
+  },
+  {
+    "id": "normativa-14",
+    "tema": "normativa",
+    "subtema": "Ley 715 de 2001",
+    "dificultad": 2,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "Según la Ley 715 de 2001, una institución educativa debe prestar como mínimo:",
+    "opciones": [
+      "Solo la educación media académica o técnica",
+      "Un año de preescolar, los nueve grados de básica y la media",
+      "Únicamente los cinco grados de educación primaria",
+      "La educación básica secundaria y la media, sin preescolar"
+    ],
+    "correcta": 1,
+    "retro": [
+      "La media sola no es el mínimo que define una institución educativa.",
+      "Correcta: preescolar, básica completa y media, según el art. 9.",
+      "Solo la primaria corresponde a un centro educativo o sede, que debe asociarse para completar el ciclo de básica.",
+      "Omite el preescolar y la primaria, que también hacen parte del mínimo del art. 9."
+    ],
+    "explicacion": "La ley define la institución educativa como el conjunto de personas y bienes que presta como mínimo un año de preescolar, los nueve grados de básica y la media. Los establecimientos que no ofrecen todos esos grados se llaman centros educativos y deben asociarse con otros para completar el ciclo de básica. Ofrecer solo primaria, por ejemplo, corresponde a un centro educativo o sede.",
+    "fuente": "Ley 715 de 2001, art. 9"
+  },
+  {
+    "id": "normativa-15",
+    "tema": "normativa",
+    "subtema": "Ley 715 de 2001",
+    "dificultad": 2,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "¿Cuál de las siguientes es una función del rector establecida en el artículo 10 de la Ley 715 de 2001?",
+    "opciones": [
+      "Nombrar y retirar a los docentes de la planta de la entidad territorial, cuando lo considere necesario para el servicio",
+      "Fijar el presupuesto anual del departamento para el sector educativo",
+      "Dirigir la preparación del PEI y presidir los consejos directivo y académico",
+      "Expedir las normas generales de la carrera docente"
+    ],
+    "correcta": 2,
+    "retro": [
+      "Nombrar y retirar docentes es competencia de la entidad territorial, no del rector.",
+      "El presupuesto departamental no es función del rector; él administra el Fondo de Servicios Educativos.",
+      "Correcta: dirigir el PEI y presidir los consejos directivo y académico son funciones del rector (art. 10).",
+      "Las normas generales de la carrera no las expide el rector; él evalúa al personal y reporta novedades."
+    ],
+    "explicacion": "Entre las funciones del rector están dirigir la preparación del PEI (10.1), presidir el Consejo Directivo y el Consejo Académico (10.2), dirigir los equipos docentes (10.5) y controlar el cumplimiento de las funciones del personal reportando las novedades (10.6). La planta y los nombramientos dependen de la entidad territorial; el rector no nombra ni retira docentes ni expide normas de carrera.",
+    "fuente": "Ley 715 de 2001, art. 10 num. 1, 2, 5 y 6"
+  },
+  {
+    "id": "normativa-16",
+    "tema": "normativa",
+    "subtema": "Decreto 1075 de 2015",
+    "dificultad": 1,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "El Decreto 1075 de 2015 es:",
+    "opciones": [
+      "Un decreto que reglamenta solo el Estatuto Docente 1278",
+      "La norma que crea el sistema de evaluación de los estudiantes",
+      "El decreto que adopta el Plan Decenal de Educación",
+      "El Decreto Único Reglamentario del Sector Educación, que compila la normatividad reglamentaria del sector"
+    ],
+    "correcta": 3,
+    "retro": [
+      "Compila todo el sector educativo, no solo el estatuto docente 1278.",
+      "La evaluación de estudiantes está en el Decreto 1290 de 2009, compilado en el 1075; el 1075 no la crea.",
+      "No adopta el Plan Decenal; es un decreto compilatorio, no de planeación.",
+      "Correcta: es el Decreto Único Reglamentario del Sector Educación."
+    ],
+    "explicacion": "El Decreto 1075 de 2015, expedido el 26 de mayo de 2015, reúne en un solo texto los decretos reglamentarios del sector educativo, organizados en tres libros. No crea derechos nuevos: ordena lo que ya existía, como el Decreto 1290 (evaluación de estudiantes), el 1965 (convivencia) o el 1421 (inclusión). Por eso, al buscar la reglamentación de una ley educativa, conviene consultar este decreto.",
+    "fuente": "Decreto 1075 de 2015 (Decreto Único Reglamentario del Sector Educación)"
+  },
+  {
+    "id": "normativa-17",
+    "tema": "normativa",
+    "subtema": "Decreto 1075 de 2015",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "Un docente nuevo quiere conocer la reglamentación vigente sobre gobierno escolar y recuerda que antes estaba en el Decreto 1860 de 1994. El coordinador le explica correctamente que hoy debe consultarla en:",
+    "opciones": [
+      "El Decreto 1075 de 2015, que compiló los decretos reglamentarios del sector, incluida esa materia",
+      "El Decreto 1278 de 2002, que regula el gobierno escolar, junto con el escalafón y la evaluación de los docentes",
+      "La Ley 1620 de 2013, que reemplazó toda la Ley 115",
+      "El Decreto 1290 de 2009, que organiza los órganos colegiados"
+    ],
+    "correcta": 0,
+    "retro": [
+      "Correcta: el 1075 compiló el Decreto 1860 de 1994, incluido el gobierno escolar.",
+      "El 1278 es el estatuto de profesionalización docente, no regula el gobierno escolar.",
+      "La Ley 1620 regula la convivencia escolar y no sustituyó la Ley 115.",
+      "El 1290 regula la evaluación y promoción de estudiantes, no los órganos colegiados."
+    ],
+    "explicacion": "El Decreto 1075 de 2015 compiló los decretos reglamentarios del sector educación, y entre ellos la reglamentación de la Ley 115 sobre gobierno escolar. El Decreto 1278 trata del estatuto docente y el 1290 de la evaluación de estudiantes. La Ley 1620 no sustituyó la Ley 115, sino que regula la convivencia escolar.",
+    "fuente": "Decreto 1075 de 2015, Libro 2, Parte 3, Título 3, Capítulo 1 (compila el Decreto 1860 de 1994)"
+  },
+  {
+    "id": "normativa-18",
+    "tema": "normativa",
+    "subtema": "Ley 1098 de 2006",
+    "dificultad": 1,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "Según el Código de la Infancia y la Adolescencia (Ley 1098 de 2006), se entiende por adolescente a la persona:",
+    "opciones": [
+      "Entre los 10 y los 14 años",
+      "Entre los 12 y los 18 años",
+      "Entre los 14 y los 21 años",
+      "Entre los 15 y los 18 años"
+    ],
+    "correcta": 1,
+    "retro": [
+      "El rango de 10 a 14 años no coincide con el Código: adolescente es de 12 a 18.",
+      "Correcta: adolescente es la persona entre 12 y 18 años (art. 3).",
+      "Mezcla la edad con otros regímenes; la mayoría de edad en Colombia llega a los 18 años.",
+      "Omite a los de 12 a 14 años, que también son adolescentes."
+    ],
+    "explicacion": "El Código define niño o niña como la persona entre 0 y 12 años, y adolescente como la persona entre 12 y 18 años. Esta distinción importa en la escuela porque la protección integral aplica a ambos grupos. La mayoría de edad civil en Colombia llega a los 18 años.",
+    "fuente": "Ley 1098 de 2006, art. 3"
+  },
+  {
+    "id": "normativa-19",
+    "tema": "normativa",
+    "subtema": "Ley 1098 de 2006",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "El consejo directivo debe decidir entre una medida que simplifica la logística de la institución y otra que protege mejor los derechos de un grupo de estudiantes. Según la Ley 1098 de 2006, ¿qué criterio debe orientar la decisión?",
+    "opciones": [
+      "Elegir la medida de menor costo administrativo para la institución, porque los recursos del colegio son limitados",
+      "Decidir por mayoría simple de los miembros del consejo sin otro criterio",
+      "El interés superior del niño y la prevalencia de sus derechos sobre los demás",
+      "Preferir lo que decida la mayoría de los padres de familia sin más análisis"
+    ],
+    "correcta": 2,
+    "retro": [
+      "Prioriza la conveniencia administrativa sobre los derechos, contra la prevalencia de los derechos de los niños.",
+      "Una votación no puede desplazar el interés superior del niño.",
+      "Correcta: interés superior y prevalencia de los derechos de los niños (arts. 8 y 9).",
+      "La opinión mayoritaria de los padres no prima sobre los derechos de los niños."
+    ],
+    "explicacion": "La Ley 1098 establece el interés superior de los niños, niñas y adolescentes y la prevalencia de sus derechos, en concordancia con el artículo 44 de la Constitución. Esto obliga a que las decisiones de la institución que los afectan se evalúen primero desde la protección de sus derechos. La conveniencia administrativa o el voto mayoritario no pueden desplazarlo.",
+    "fuente": "Ley 1098 de 2006, arts. 8 y 9"
+  },
+  {
+    "id": "normativa-20",
+    "tema": "normativa",
+    "subtema": "Ley 1098 de 2006",
+    "dificultad": 3,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "Una estudiante de 13 años le cuenta en privado a su docente que un familiar le toca el cuerpo. ¿Cuál es la actuación más adecuada del docente?",
+    "opciones": [
+      "Interrogarla varias veces para confirmar los detalles antes de informar a alguien, para no hacer una denuncia sin pruebas suficientes",
+      "Citar al presunto agresor para pedirle explicaciones y luego decidir qué hacer",
+      "Esperar a que sus padres decidan por sí mismos si denuncian o no",
+      "Escucharla con calma, no investigar por su cuenta y reportar de inmediato a las autoridades activando la ruta"
+    ],
+    "correcta": 3,
+    "retro": [
+      "Interrogarla varias veces la revictimiza y la indagación corresponde a las autoridades.",
+      "Confrontar al presunto agresor es investigar por cuenta propia y puede poner en riesgo a la estudiante.",
+      "Delegar la decisión en la familia es inadecuado cuando el agresor es un familiar; el deber de reportar es de la institución.",
+      "Correcta: escuchar, no investigar y reportar de inmediato activando la ruta."
+    ],
+    "explicacion": "Las instituciones educativas tienen la obligación de poner en conocimiento de las autoridades competentes (por ejemplo ICBF, Policía de Infancia y Adolescencia o Fiscalía) las situaciones que afecten los derechos de los niños. El docente no investiga ni confronta al agresor: eso corresponde a las autoridades, y hacerlo podría revictimizar o poner en riesgo a la estudiante. Esperar la decisión de la familia es inadecuado cuando esta puede estar implicada.",
+    "fuente": "Ley 1098 de 2006, art. 44; Decreto 1965 de 2013, art. 44"
+  },
+  {
+    "id": "normativa-21",
+    "tema": "normativa",
+    "subtema": "Decreto 1290 de 2009",
+    "dificultad": 1,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "La escala de valoración nacional para los desempeños de los estudiantes del Decreto 1290 de 2009 comprende los niveles:",
+    "opciones": [
+      "Superior, alto, básico y bajo",
+      "Excelente, bueno, aceptable e insuficiente",
+      "Sobresaliente, aprobado y reprobado",
+      "Alto, medio, bajo y nulo"
+    ],
+    "correcta": 0,
+    "retro": [
+      "Correcta: la escala nacional es superior, alto, básico y bajo (art. 5).",
+      "Son categorías de otros sistemas; la escala nacional no las usa.",
+      "Sobresaliente, aprobado y reprobado no es la escala nacional.",
+      "Inventa los niveles medio y nulo; los oficiales son superior, alto, básico y bajo."
+    ],
+    "explicacion": "El Decreto 1290 establece la escala nacional con cuatro niveles: desempeño superior, alto, básico y bajo. El desempeño bajo corresponde a no superar los desempeños necesarios en relación con las áreas obligatorias y fundamentales. Las demás denominaciones son comunes en otros sistemas, pero no son la escala oficial.",
+    "fuente": "Decreto 1290 de 2009, art. 5"
+  },
+  {
+    "id": "normativa-22",
+    "tema": "normativa",
+    "subtema": "Decreto 1290 de 2009",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "Un colegio quiere usar una escala numérica de 1 a 10 para valorar a sus estudiantes. Una madre pregunta si eso contradice el Decreto 1290 de 2009. ¿Qué responde correctamente el docente?",
+    "opciones": [
+      "Que no es válido, porque solo puede usarse la escala de superior, alto, básico y bajo",
+      "Que es válido si la institución expresa la equivalencia con la escala nacional",
+      "Que es válido solo si la Secretaría de Educación aprueba cada nota individual",
+      "Que no es válido, porque la ley exige una escala de 1 a 5 en todo el país"
+    ],
+    "correcta": 1,
+    "retro": [
+      "Cree que solo puede usarse la escala nacional; cada institución define la suya con su equivalencia.",
+      "Correcta: la escala institucional es válida si expresa la equivalencia con la nacional (art. 4).",
+      "La Secretaría no aprueba cada nota; el SIEE lo adopta el consejo directivo.",
+      "No existe una escala numérica única nacional; la de cinco niveles era del Decreto 230 de 2002, derogado."
+    ],
+    "explicacion": "Cada establecimiento puede definir y adoptar su propia escala de valoración en el SIEE, siempre que exprese su equivalencia con la escala nacional (superior, alto, básico, bajo), para facilitar la movilidad de los estudiantes entre colegios. No se exige una escala única de 1 a 5 ni la aprobación de cada nota por la Secretaría.",
+    "fuente": "Decreto 1290 de 2009, arts. 4 y 5"
+  },
+  {
+    "id": "normativa-23",
+    "tema": "normativa",
+    "subtema": "Decreto 1290 de 2009",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "En el consejo directivo se discute quién debe definir el Sistema Institucional de Evaluación de los Estudiantes (SIEE). Un docente propone la respuesta correcta, que es:",
+    "opciones": [
+      "La Secretaría de Educación, que lo impone igual a todos los colegios, para garantizar que la movilidad de estudiantes entre colegios sea uniforme",
+      "El personero estudiantil, por ser quien representa a los estudiantes",
+      "El establecimiento educativo, con participación de la comunidad, adoptado por el consejo directivo e incorporado al PEI",
+      "El Ministerio de Educación, que lo aplica sin posibilidad de adaptación"
+    ],
+    "correcta": 2,
+    "retro": [
+      "La Secretaría no impone un SIEE único; cada establecimiento lo define.",
+      "El personero representa a los estudiantes pero no define el SIEE.",
+      "Correcta: lo define el establecimiento con participación, lo aprueba el consejo directivo y se incorpora al PEI.",
+      "El Ministerio fija el marco, pero cada establecimiento adapta su SIEE."
+    ],
+    "explicacion": "El SIEE hace parte del PEI y lo define cada establecimiento: se define, se socializa, se aprueba en sesión del consejo directivo (con acta), se incorpora al PEI y se divulga a la comunidad (art. 8). Tiene 11 elementos mínimos (art. 4), entre ellos los criterios de evaluación y promoción y las instancias de reclamación. Esto respeta la autonomía escolar de la Ley 115 dentro del marco del decreto: ni el Ministerio ni la Secretaría fijan un sistema único.",
+    "fuente": "Decreto 1290 de 2009, arts. 4 y 8"
+  },
+  {
+    "id": "normativa-24",
+    "tema": "normativa",
+    "subtema": "Decreto 1290 de 2009",
+    "dificultad": 3,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "Al finalizar el año, un padre reclama porque su hijo no fue promovido y exige que lo pasen «por ser buen muchacho». ¿Cuál es la actuación más adecuada del docente?",
+    "opciones": [
+      "Promover al estudiante para evitar un conflicto con la familia, dado que el vínculo con los padres es parte del clima escolar y de la permanencia",
+      "Explicarle que la promoción depende del criterio personal de cada docente",
+      "Indicarle que debe reclamar directamente ante el Ministerio de Educación",
+      "Aplicar los criterios de promoción del SIEE y orientar al padre sobre las instancias para presentar reclamaciones"
+    ],
+    "correcta": 3,
+    "retro": [
+      "Promover sin cumplir los criterios es arbitrario frente a los demás estudiantes.",
+      "Los criterios de promoción son los del SIEE, no el criterio personal de cada docente.",
+      "Las reclamaciones se resuelven en instancias institucionales (consejo directivo), no ante el Ministerio.",
+      "Correcta: aplicar los criterios del SIEE y orientar sobre las instancias de reclamación."
+    ],
+    "explicacion": "Cada establecimiento define en su SIEE los criterios de promoción (art. 6) y las instancias y mecanismos de reclamación (art. 4); el consejo directivo es la instancia que decide las reclamaciones de padres o estudiantes sobre evaluación o promoción (art. 11 num. 7). El docente debe actuar conforme a ese sistema, que garantiza igualdad y debido proceso, y no por criterios personales ni por presión. Promover sin cumplir los criterios sería arbitrario frente a los demás estudiantes.",
+    "fuente": "Decreto 1290 de 2009, arts. 4, 6 y 11 num. 7"
+  },
+  {
+    "id": "normativa-25",
+    "tema": "normativa",
+    "subtema": "Ley 1952 de 2019",
+    "dificultad": 2,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "La Ley 1952 de 2019 es:",
+    "opciones": [
+      "El Código General Disciplinario, que derogó la Ley 734 de 2002",
+      "El Estatuto de Profesionalización Docente que reemplazó al Decreto 1278",
+      "El Código de la Infancia y la Adolescencia de Colombia",
+      "El Código de Policía y Convivencia Ciudadana"
+    ],
+    "correcta": 0,
+    "retro": [
+      "Correcta: es el Código General Disciplinario y derogó la Ley 734 de 2002.",
+      "El estatuto docente es el Decreto 1278 de 2002, que sigue vigente.",
+      "El Código de la Infancia y la Adolescencia es la Ley 1098 de 2006.",
+      "El Código de Policía y Convivencia es la Ley 1801 de 2016."
+    ],
+    "explicacion": "La Ley 1952 de 2019 expidió el Código General Disciplinario y reemplazó la Ley 734 de 2002 (Código Disciplinario Único); rige de manera general desde el 29 de marzo de 2022, tras la Ley 2094 de 2021. Los docentes oficiales son servidores públicos y están sujetos a este régimen, que regula deberes, faltas, sanciones y procedimiento; la culpa leve ya no es sancionable. Los artículos del Decreto 1278 sobre deberes y prohibiciones fueron declarados inexequibles, por eso el régimen aplicable es este código.",
+    "fuente": "Ley 1952 de 2019, arts. 25 y 29"
+  },
+  {
+    "id": "normativa-26",
+    "tema": "normativa",
+    "subtema": "Ley 1952 de 2019",
+    "dificultad": 3,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "A un docente de una institución oficial le notifican que se abrió una investigación disciplinaria en su contra por una queja. ¿Qué debe tener presente respecto a sus derechos?",
+    "opciones": [
+      "Que debe renunciar al cargo, pues la investigación ya lo declara responsable",
+      "Que puede ejercer su defensa: conocer el expediente, presentar descargos y pruebas y contar con abogado si lo desea",
+      "Que debe abstenerse de cualquier actuación porque la presunción de inocencia lo exime de participar, y esperar a que la autoridad pruebe cada hecho",
+      "Que el rector puede archivar el caso si el docente se lo pide"
+    ],
+    "correcta": 1,
+    "retro": [
+      "Renunciar no es necesario; abrir una investigación no implica responsabilidad.",
+      "Correcta: puede ejercer su defensa, conocer el expediente, aportar pruebas y contar con abogado.",
+      "La presunción de inocencia no lo exime de participar: se ejerce defendiéndose.",
+      "El rector no archiva el caso por solicitud del investigado."
+    ],
+    "explicacion": "El debido proceso (art. 29 de la Constitución) y el régimen disciplinario garantizan al investigado la presunción de inocencia, conocer los cargos y las pruebas, ser oído, controvertir y aportar pruebas, y ser asistido por abogado. Abrir una investigación no implica culpabilidad. Tampoco el rector decide el archivo, pues lo define la autoridad disciplinaria competente.",
+    "fuente": "Constitución Política, art. 29; Ley 1952 de 2019"
+  },
+  {
+    "id": "normativa-27",
+    "tema": "normativa",
+    "subtema": "Constitución Política",
+    "dificultad": 3,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "El artículo 68 de la Constitución Política establece que la enseñanza estará a cargo de personas:",
+    "opciones": [
+      "Con título universitario en cualquier área del conocimiento",
+      "Con diez años de experiencia comprobada en aula",
+      "De reconocida idoneidad ética y pedagógica",
+      "Aprobadas por el consejo directivo de cada institución"
+    ],
+    "correcta": 2,
+    "retro": [
+      "El art. 68 exige idoneidad ética y pedagógica, no solo un título en cualquier área.",
+      "No exige un número fijo de años de experiencia.",
+      "Correcta: personas de reconocida idoneidad ética y pedagógica (art. 68).",
+      "No depende de la aprobación del consejo directivo; el ingreso es por concurso de méritos."
+    ],
+    "explicacion": "El artículo 68 exige que quienes tienen a su cargo la enseñanza sean personas de reconocida idoneidad ética y pedagógica, y añade que la ley garantiza la profesionalización y la dignificación de la actividad docente. Este mandato es la base del régimen de carrera y de los concursos por mérito. El mismo artículo reconoce el derecho de los padres a escoger el tipo de educación para sus hijos menores.",
+    "fuente": "Constitución Política de 1991, art. 68"
+  },
+  {
+    "id": "normativa-28",
+    "tema": "normativa",
+    "subtema": "Ley 115 de 1994",
+    "dificultad": 3,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "Un rector propone eliminar el área de educación artística del plan de estudios para dedicar más horas a matemáticas, invocando la autonomía escolar. ¿Qué respuesta es correcta según la Ley 115 de 1994?",
+    "opciones": [
+      "Es válido, porque la autonomía permite suprimir cualquier área si el consejo directivo lo aprueba, y puede dejarlo documentado en el acta del consejo, sin consultar a la secretaría",
+      "Es válido, siempre que los padres firmen una autorización individual",
+      "No es válido, porque el plan de estudios es idéntico en todo el país y no admite ajustes",
+      "No es válido suprimirla: la autonomía permite organizar las áreas fundamentales y adaptarlas, pero respetando los lineamientos del MEN"
+    ],
+    "correcta": 3,
+    "retro": [
+      "La autonomía no permite suprimir las áreas obligatorias del art. 23.",
+      "Una autorización de padres no habilita suprimir un área obligatoria.",
+      "Exagera: sí hay margen de adaptación (art. 77), pero no para suprimir áreas.",
+      "Correcta: la autonomía organiza y adapta las áreas, dentro de los lineamientos del MEN."
+    ],
+    "explicacion": "El artículo 77 otorga autonomía para organizar las áreas fundamentales, introducir asignaturas optativas y adaptar áreas a las necesidades regionales, pero siempre dentro de los lineamientos curriculares del Ministerio. Las áreas obligatorias del artículo 23, entre ellas educación artística, no pueden suprimirse. Tampoco es cierto que el plan sea idéntico en todo el país: hay margen de adaptación.",
+    "fuente": "Ley 115 de 1994, arts. 23 y 77"
+  },
+  {
+    "id": "normativa-29",
+    "tema": "normativa",
+    "subtema": "Decreto 1278 de 2002",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "Sofía ganó el concurso y fue nombrada en período de prueba en marzo. Una compañera le dice que su período durará un año calendario completo. ¿Qué debe aclararle correctamente?",
+    "opciones": [
+      "Dura un año calendario completo, contado desde la fecha de su posesión, y solo al vencerse se hace la evaluación",
+      "Dura hasta culminar el año escolar en que fue nombrada, si ejerció el cargo al menos cuatro meses",
+      "Dura seis meses exactos, al cabo de los cuales se evalúa su desempeño y se define si continúa en el cargo",
+      "Dura tres años, tiempo al final del cual se evalúa si puede inscribirse en el escalafón docente"
+    ],
+    "correcta": 1,
+    "retro": [
+      "Confunde el período de prueba con una duración fija de un año; el art. 12 lo liga al año escolar, no al calendario.",
+      "Correcta: hasta culminar el año escolar, con al menos cuatro meses de ejercicio (art. 12).",
+      "Inventa una duración fija de seis meses; la ley exige al menos cuatro meses de ejercicio y llega hasta el fin del año escolar.",
+      "Confunde el período de prueba con los tres años de servicio que se exigen para ascender o reubicarse."
+    ],
+    "explicacion": "El art. 12 del Decreto 1278 nombra a la persona en período de prueba «hasta culminar el correspondiente año escolar» en que fue nombrada, siempre que haya desempeñado el cargo por lo menos cuatro meses; por eso su duración varía según la fecha de nombramiento y no es un año fijo. Al terminar el año académico se hace la evaluación de desempeño laboral y de competencias (satisfactoria: 60% o más). Si es satisfactoria, adquiere derechos de carrera y se inscribe en el escalafón; si no, es separada del servicio y puede presentarse a un nuevo concurso.",
+    "fuente": "Decreto 1278 de 2002, arts. 12 y 31"
+  },
+  {
+    "id": "normativa-30",
+    "tema": "normativa",
+    "subtema": "Decreto 1278 de 2002",
+    "dificultad": 3,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "Un docente en carrera obtuvo 55% en su evaluación anual de desempeño y teme que lo retiren del servicio. ¿Qué debe responderle un compañero que conoce el Decreto 1278 de 2002?",
+    "opciones": [
+      "Que sí: una sola evaluación inferior a 60% implica el retiro inmediato y la pérdida del escalafón, como en cualquier etapa del servicio",
+      "Que sí, pero solo si el rector y el consejo directivo recomiendan por escrito su exclusión del escalafón",
+      "Que no necesariamente: el retiro exige calificación inferior a 60% durante dos años consecutivos",
+      "Que no, porque una calificación solo es no satisfactoria cuando es inferior al 40% en cualquiera de las áreas de gestión"
+    ],
+    "correcta": 2,
+    "retro": [
+      "Aplica a la carrera la regla del período de prueba, donde una sola evaluación inferior a 60% sí implica retiro.",
+      "Inventa un trámite de recomendación del rector; el retiro opera por la regla legal de dos años consecutivos.",
+      "Correcta: se exigen dos años consecutivos con calificación inferior a 60% (art. 36 num. 1).",
+      "Inventa un umbral de 40%; la escala fija como no satisfactoria la calificación de 1 a 59."
+    ],
+    "explicacion": "En la evaluación anual de desempeño la escala es: sobresaliente 90-100, satisfactorio 60-89 y no satisfactorio 1-59 (Decreto 1075 de 2015, art. 2.4.1.5.2.6), por lo que 55% es no satisfactorio. Sin embargo, el art. 36 del Decreto 1278 exige dos años consecutivos con calificación inferior a 60% para la exclusión del escalafón y el retiro. La regla es más estricta solo en el período de prueba, donde una sola evaluación inferior a 60% implica el retiro. Además, las evaluaciones de desempeño admiten reposición y apelación.",
+    "fuente": "Decreto 1278 de 2002, art. 36 num. 1; Decreto 1075 de 2015, art. 2.4.1.5.2.6"
+  },
+  {
+    "id": "normativa-31",
+    "tema": "normativa",
+    "subtema": "Decreto 1278 de 2002",
+    "dificultad": 3,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "Después del Decreto 953 de 2025, ¿cuál afirmación sobre la evaluación de competencias para ascenso de grado o reubicación de nivel salarial es correcta?",
+    "opciones": [
+      "Tiene carácter diagnóstico formativa y exige 3 años de servicio efectivo y mínimo 60% en las dos últimas evaluaciones anuales",
+      "Es obligatoria cada año para todos los docentes inscritos, y quien no la presente es excluido del escalafón por no participar",
+      "Solo exige el título de posgrado correspondiente y no tiene en cuenta el resultado de las evaluaciones anuales de desempeño del docente",
+      "Se aplica únicamente a los docentes del Decreto 2277 de 1979, que son quienes pueden ascender por competencias y por tiempo de servicio"
+    ],
+    "correcta": 0,
+    "retro": [
+      "Correcta: es diagnóstico formativa y exige 3 años de servicio efectivo y 60% en las dos últimas evaluaciones anuales.",
+      "Confunde con una obligación general; es para quien pretende ascender o reubicarse, no un deber anual.",
+      "Omite requisitos: se exige también 3 años de servicio efectivo y mínimo 60% en las dos últimas evaluaciones anuales.",
+      "Confunde estatutos: la evaluación de competencias es del 1278; el 2277 de 1979 tiene sus propias reglas de ascenso."
+    ],
+    "explicacion": "El Decreto 953 de 2025, compilado en el Decreto 1075 (arts. 2.4.1.4.1.1 y ss.), reemplazó el capítulo de evaluación de competencias para ascenso y reubicación del 1278: ahora es de carácter diagnóstico formativa. Para participar se debe estar inscrito en el escalafón con derechos de carrera, tener 3 años de servicio efectivo desde la primera posesión en período de prueba y haber obtenido mínimo 60% en las dos últimas evaluaciones anuales. El MEN fija las reglas, los instrumentos y el cronograma. Sigue siendo para quien pretende ascender o reubicarse, no un deber general.",
+    "fuente": "Decreto 1278 de 2002, art. 35; Decreto 1075 de 2015, arts. 2.4.1.4.1.1 y ss. (Decreto 953 de 2025)"
+  },
+  {
+    "id": "normativa-32",
+    "tema": "normativa",
+    "subtema": "Decreto 1278 de 2002",
+    "dificultad": 1,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "Según el artículo 6 del Decreto 1278 de 2002, los cargos de directivos docentes estatales son:",
+    "opciones": [
+      "Rector y vicerrector, que son los únicos cargos directivos reconocidos para los establecimientos estatales",
+      "Rector, coordinador y docente orientador, este último con funciones de dirección del servicio de orientación",
+      "Rector, director de núcleo y supervisor educativo, según el tamaño y la ubicación del establecimiento",
+      "Director rural de preescolar y básica primaria, rector y coordinador"
+    ],
+    "correcta": 3,
+    "retro": [
+      "Omite al director rural y al coordinador, que también son directivos docentes.",
+      "El docente orientador es un cargo docente, no un directivo docente.",
+      "Director de núcleo y supervisor no figuran en el art. 6; confunde con otras estructuras administrativas.",
+      "Correcta: director rural, rector y coordinador (art. 6)."
+    ],
+    "explicacion": "El art. 6 señala tres cargos de directivos docentes estatales: director rural de preescolar y básica primaria, rector y coordinador. El coordinador auxilia al rector en funciones de disciplina de los estudiantes o en funciones académicas o curriculares no lectivas. Por eso es un error pensar que «directivo docente» equivale solo a rector. Los educadores son los docentes y los directivos docentes (art. 4).",
+    "fuente": "Decreto 1278 de 2002, arts. 4 y 6"
+  }
 ]

@@ -68,8 +68,8 @@
       "Es correcta: el texto constitucional exige mínimo un año de preescolar y nueve de básica.",
       "Confunde la educación básica con la media y aumenta el preescolar obligatorio."
     ],
-    "explicacion": "El artículo 67 dispone que la educación será obligatoria entre los cinco y los quince años y comprenderá como mínimo un año de preescolar y nueve de educación básica. Los otros periodos no corresponden al texto constitucional.",
-    "fuente": "Constitución Política de Colombia, art. 67"
+    "explicacion": "El artículo 67 dispone que la educación será obligatoria entre los cinco y los quince años y comprenderá como mínimo un año de preescolar y nueve de educación básica (cinco de primaria y cuatro de secundaria). La media (grados 10 y 11) no es obligatoria constitucionalmente. Los otros periodos no corresponden al texto constitucional.",
+    "fuente": "Constitución Política de Colombia, art. 67 (inc. 3); Ley 115 de 1994, art. 11"
   },
   {
     "id": "primaria-04",
@@ -105,7 +105,7 @@
     "enunciado": "De acuerdo con la normativa colombiana sobre preescolar (Decreto 2247 de 1997), la evaluación en este nivel:",
     "opciones": [
       "Es cualitativa y de carácter descriptivo, y no se reprueban grados ni actividades",
-      "Es numérica y permite repetir el grado de transición",
+      "Es numérica y permite repetir el grado de transición, según el desempeño del niño en las pruebas escritas de cada periodo",
       "Se hace con exámenes escritos al final de cada periodo",
       "Solo se aplica en el grado transición y es opcional"
     ],
@@ -224,7 +224,7 @@
     "contexto": null,
     "enunciado": "El Programa Todos a Aprender (PTA) del MEN se caracteriza por:",
     "opciones": [
-      "Entregar pruebas externas para evaluar a los docentes de primaria",
+      "Entregar pruebas externas para evaluar a los docentes de primaria, con el fin de decidir su ubicación en el escalafón y sus ascensos",
       "Formación situada y acompañamiento de tutores en el aula para mejorar lenguaje y matemáticas",
       "Reemplazar el currículo institucional por guías únicas nacionales",
       "Ofrecer cursos virtuales sin visitas a los establecimientos"
@@ -284,8 +284,8 @@
       "Reduce la evaluación a una nota, sin retroalimentación para mejorar.",
       "Es correcta: la evaluación formativa ocurre durante el proceso y sirve para mejorar."
     ],
-    "explicacion": "Su propósito es mejorar el aprendizaje mientras ocurre, usando evidencias para dar retroalimentación y replantear la práctica. La evaluación que solo mide al final y califica es sumativa.",
-    "fuente": "Decreto 1075 de 2015 y SIEE institucional"
+    "explicacion": "Entre los propósitos de la evaluación institucional, el art. 3 del Decreto 1290 incluye proporcionar información para consolidar o reorientar los procesos educativos e implementar estrategias de apoyo para las debilidades. Por eso la evaluación formativa recoge información durante el proceso, retroalimenta al estudiante y permite ajustar la enseñanza. La evaluación que solo mide al final y califica es sumativa.",
+    "fuente": "Decreto 1290 de 2009, art. 3 (compilado en el Decreto 1075 de 2015, art. 2.3.3.3.3.3)"
   },
   {
     "id": "primaria-13",
@@ -320,8 +320,8 @@
     "contexto": null,
     "enunciado": "En un grado transición, la docente nota que varios niños de cinco años se aburren con las planas de letras. ¿Cuál es la mejor acción pedagógica?",
     "opciones": [
-      "Aumentar el tiempo de planas para que se acostumbren pronto",
-      "Proponer experiencias con juego y literatura, como rimas, cuentos y escritura de sus nombres con sentido",
+      "Aumentar el tiempo de planas para que se acostumbren pronto, pues la repetición garantiza que lleguen leyendo a primero",
+      "Proponer juego y literatura: rimas, cuentos y escritura de sus nombres con sentido",
       "Suspender todo acercamiento a lo escrito hasta primero",
       "Pedir a las familias que enseñen las letras en casa"
     ],
@@ -344,9 +344,9 @@
     "contexto": null,
     "enunciado": "Una niña de transición dibuja líneas onduladas y afirma que escribió \"mamá\". Según los niveles de Ferreiro y Teberosky, la mejor respuesta de la docente es:",
     "opciones": [
-      "Corregirla de inmediato y obligarla a copiar la palabra veinte veces",
+      "Corregirla de inmediato y obligarla a copiar la palabra veinte veces, para que fije la forma correcta desde el principio y evitar vicios de escritura",
       "Decirle que eso no es escribir hasta que aprenda las letras",
-      "Reconocer su hipótesis, leer con ella lo que escribió y ofrecerle modelos de escritura con sentido, como su nombre",
+      "Reconocer su hipótesis, leer con ella lo que escribió y ofrecerle modelos con sentido, como su nombre",
       "Evitar que escriba hasta que identifique todas las vocales"
     ],
     "correcta": 2,
@@ -368,10 +368,10 @@
     "contexto": null,
     "enunciado": "Un niño escribe \"AO\" para \"gato\", poniendo una letra por cada sílaba. ¿Cuál es la mejor intervención docente?",
     "opciones": [
-      "Borrar lo escrito y dictarle la palabra letra por letra",
+      "Borrar lo escrito y dictarle la palabra letra por letra, para que aprenda de inmediato la forma convencional y no consolide el error",
       "Ignorar el error porque corregirá solo con la edad",
       "Pasarlo a un grupo de refuerzo para que repita las sílabas",
-      "Generar conflicto cognitivo comparando su escritura con otras palabras y favoreciendo que analice los sonidos de la palabra"
+      "Generar conflicto cognitivo comparando su escritura con otras palabras y analizando los sonidos"
     ],
     "correcta": 3,
     "retro": [
@@ -392,10 +392,10 @@
     "contexto": null,
     "enunciado": "Al iniciar el año en transición, un niño llora y se aferra a su madre cada mañana. ¿Cuál es la mejor acción de la docente?",
     "opciones": [
-      "Acompañar la adaptación con calidez, acordar con la familia despedidas breves y ofrecerle actividades que le interesen",
+      "Acompañar con calidez, acordar con la familia despedidas breves y ofrecerle actividades de su interés",
       "Pedirle a la madre que se vaya sin despedirse",
       "Dejarlo llorando hasta que se acostumbre sin intervenir",
-      "Remitirlo de inmediato al psicólogo por trastorno de ansiedad"
+      "Remitirlo de inmediato al psicólogo por trastorno de ansiedad, para descartar un cuadro clínico antes de que afecte al resto del grupo"
     ],
     "correcta": 0,
     "retro": [
@@ -440,9 +440,9 @@
     "contexto": null,
     "enunciado": "En primero, varios estudiantes no entienden el valor posicional al leer números de dos cifras. ¿Qué acción es la más adecuada?",
     "opciones": [
-      "Repetir el algoritmo escrito hasta que lo memoricen",
+      "Repetir el algoritmo escrito hasta que lo memoricen, pues la práctica constante es lo que consolida el valor de cada cifra",
       "Prohibir el uso de material para que se acostumbren a lo abstracto",
-      "Usar material concreto, como bloques de base diez, para agrupar y desagrupar antes de pasar a la notación",
+      "Usar bloques de base diez para agrupar y desagrupar antes de pasar a la notación",
       "Pasar a números de tres cifras para que lo deduzcan"
     ],
     "correcta": 2,
@@ -465,7 +465,7 @@
     "enunciado": "Un niño de primero recita los números hasta 20, pero al contar objetos desordenados se equivoca. ¿Qué actividad es la más pertinente?",
     "opciones": [
       "Hacerle repetir la serie numérica en voz alta varias veces",
-      "Darle una ficha con sumas para que practique en casa",
+      "Darle una ficha con sumas para que practique en casa, ya que las operaciones le ayudarán a entender el sentido de los números",
       "Explicarle que debe contar más despacio sin otra actividad",
       "Contar colecciones de objetos manipulables promoviendo la correspondencia uno a uno, separando los que ya contó"
     ],
@@ -488,9 +488,9 @@
     "contexto": null,
     "enunciado": "Un docente de primero enseña la suma solo con tarjetas para memorizar resultados. Siguiendo a Kamii, ¿qué cambio es más coherente?",
     "opciones": [
-      "Proponer juegos de cartas o dados y situaciones problema donde los niños inventen estrategias y las discutan",
+      "Proponer juegos de cartas o dados donde los niños inventen estrategias y las discutan",
       "Aumentar el número de tarjetas y el tiempo de práctica",
-      "Enseñar primero la regla y luego aplicarla en ejercicios",
+      "Enseñar primero la regla y luego aplicarla en ejercicios, para que los niños cuenten con un procedimiento seguro antes de resolver problemas",
       "Reducir la suma a problemas escritos de textos largos"
     ],
     "correcta": 0,
@@ -512,8 +512,8 @@
     "contexto": null,
     "enunciado": "En primero, varios niños confunden los sonidos /p/ y /b/ al escribir. ¿Cuál es la mejor acción?",
     "opciones": [
-      "Hacerlos copiar las dos letras en renglones completos",
-      "Realizar juegos orales de rimas, aislamiento del sonido inicial y comparación de palabras junto con la escritura",
+      "Hacerlos copiar las dos letras en renglones completos, hasta que distingan visualmente la forma de cada una al escribir",
+      "Realizar juegos orales de rimas y aislamiento del sonido inicial, junto con la escritura",
       "Esperar a segundo grado cuando madure su oído",
       "Prohibir que escriban hasta que pronuncien bien"
     ],
@@ -536,9 +536,9 @@
     "contexto": null,
     "enunciado": "Una docente rural atiende de primero a quinto en una sola aula. ¿Qué estrategia es la más adecuada?",
     "opciones": [
-      "Dar la misma clase magistral a todos y exigir lo mismo",
+      "Dar la misma clase magistral a todos y exigir lo mismo, de modo que nadie reciba un trato diferente por su grado o ritmo",
       "Atender un grado por día mientras los otros esperan",
-      "Usar guías de aprendizaje, trabajo cooperativo y tutoría entre pares, con proyectos que integren grados",
+      "Usar guías de aprendizaje, trabajo cooperativo y tutoría entre pares",
       "Dejar que los mayores trabajen solos sin retroalimentación"
     ],
     "correcta": 2,
@@ -560,10 +560,10 @@
     "contexto": null,
     "enunciado": "A una sede llega un tutor del Programa Todos a Aprender y una docente se muestra reacia porque siente que será evaluada. ¿Cuál es la mejor actitud?",
     "opciones": [
-      "Aceptar las visitas pero no modificar nada de su práctica",
+      "Aceptar las visitas pero no modificar nada de su práctica, para evitar que el tutor la califique como una docente inestable",
       "Pedirle al tutor que dicte las clases por ella",
       "Rechazar las visitas porque el currículo es autónomo",
-      "Aprovechar el acompañamiento para planear juntos, observar la práctica y reflexionar sobre cómo mejorar los aprendizajes"
+      "Aprovechar el acompañamiento para planear juntos y reflexionar sobre la práctica"
     ],
     "correcta": 3,
     "retro": [
@@ -584,8 +584,8 @@
     "contexto": null,
     "enunciado": "Un docente de tercero con poco tiempo quiere integrar áreas. ¿Cuál propuesta es más coherente?",
     "opciones": [
-      "Un proyecto de aula como la huerta escolar que articule ciencias, medición en matemáticas y registros en lenguaje",
-      "Dictar cada área por separado con diferentes cuadernos",
+      "Un proyecto de aula, como la huerta escolar, que articule ciencias, matemáticas y lenguaje",
+      "Dictar cada área por separado con diferentes cuadernos, para proteger la intensidad horaria que fija el plan de estudios de cada área",
       "Unir las áreas en una sola evaluación final",
       "Eliminar matemáticas para dedicar más tiempo a ciencias"
     ],
@@ -608,8 +608,8 @@
     "contexto": null,
     "enunciado": "En segundo, algunos estudiantes terminan rápido las tareas y otros necesitan más tiempo. ¿Qué acción atiende mejor los ritmos de aprendizaje?",
     "opciones": [
-      "Exigir a todos el mismo tiempo y el mismo producto",
-      "Diseñar actividades con distintos niveles de complejidad y tiempos flexibles para el mismo objetivo",
+      "Exigir a todos el mismo tiempo y el mismo producto, porque la igualdad de trato garantiza que ningún estudiante quede en desventaja",
+      "Ofrecer actividades con distintos niveles y tiempos flexibles para el mismo objetivo",
       "Dejar sin tareas a quienes terminan rápido",
       "Separar de forma permanente a los más lentos"
     ],
@@ -621,7 +621,7 @@
       "Segrega de forma permanente, lo que vulnera la inclusión."
     ],
     "explicacion": "Atender ritmos implica flexibilizar tiempos y niveles de apoyo manteniendo el objetivo común. Igualar o segregar vulnera la equidad.",
-    "fuente": "Decreto 1421 de 2017 (DUA)"
+    "fuente": "Decreto 1421 de 2017, art. 2.3.3.5.2.1.4 (DUA y currículo flexible; Decreto 1075 de 2015)"
   },
   {
     "id": "primaria-27",
@@ -634,8 +634,8 @@
     "opciones": [
       "Pedir que asista solo a medio tiempo en un aula aparte",
       "Aplicar la misma evaluación y bajar la nota final",
-      "Construir con la familia y el equipo institucional un PIAR y planear la clase con principios del DUA",
-      "Esperar un diagnóstico clínico antes de ajustar la enseñanza"
+      "Construir con la familia y el equipo un PIAR y planear la clase con principios del DUA",
+      "Esperar un diagnóstico clínico antes de ajustar la enseñanza, para que los ajustes tengan sustento médico y no generen reclamos de la familia"
     ],
     "correcta": 2,
     "retro": [
@@ -644,8 +644,8 @@
       "Es la más adecuada: son las herramientas que establece el decreto.",
       "Condiciona los ajustes a un diagnóstico clínico, cuando se parte de la observación pedagógica."
     ],
-    "explicacion": "El decreto establece el DUA y el Plan Individual de Ajustes Razonables como herramientas para garantizar la participación y aprendizaje. Excluir o esperar un diagnóstico para ajustar contradice el enfoque.",
-    "fuente": "Decreto 1421 de 2017"
+    "explicacion": "El Decreto 1421 promueve el DUA y el PIAR como herramientas para garantizar la participación y el aprendizaje. El PIAR se construye con docentes de aula, docente de apoyo, familia y estudiante, en el primer trimestre del año escolar, a partir de la valoración pedagógica. La discapacidad no puede ser causal de negación del cupo ni exige un diagnóstico clínico previo para ajustar la enseñanza: se parte de la observación pedagógica y de las barreras que enfrenta el estudiante.",
+    "fuente": "Decreto 1421 de 2017, arts. 2.3.3.5.2.3.3 y 2.3.3.5.2.3.5 (Decreto 1075 de 2015)"
   },
   {
     "id": "primaria-28",
@@ -656,7 +656,7 @@
     "contexto": null,
     "enunciado": "Varios estudiantes de tercero obtienen resultados bajos en una prueba de matemáticas. ¿Cuál es la acción más coherente con la evaluación formativa?",
     "opciones": [
-      "Repetir la misma prueba hasta que mejoren los resultados",
+      "Repetir la misma prueba hasta que mejoren los resultados, pues la práctica repetida consolida los contenidos que no se comprendieron",
       "Registrar la nota y continuar con el siguiente tema",
       "Citar a los acudientes para informar que reprobaron",
       "Analizar los errores, retroalimentar a los estudiantes y ajustar las estrategias de enseñanza"
@@ -669,7 +669,7 @@
       "Es la más coherente: usa los errores como insumo para mejorar."
     ],
     "explicacion": "La evaluación formativa usa los errores como información para mejorar, con retroalimentación y cambios en la enseñanza. Repetir la prueba o solo registrar no promueve el aprendizaje.",
-    "fuente": "Decreto 1075 de 2015 y SIEE institucional"
+    "fuente": "Decreto 1290 de 2009, art. 3 (compilado en el Decreto 1075 de 2015, art. 2.3.3.3.3.3)"
   },
   {
     "id": "primaria-29",
@@ -680,8 +680,8 @@
     "contexto": null,
     "enunciado": "Dos niños de segundo discuten con frecuencia en el recreo. ¿Cuál es la mejor intervención?",
     "opciones": [
-      "Acompañarlos en un diálogo mediado para reconocer emociones y acordar soluciones, trabajando competencias ciudadanas",
-      "Sancionarlos sin recreo cada vez que ocurra",
+      "Acompañar un diálogo mediado para reconocer emociones y acordar soluciones",
+      "Sancionarlos sin recreo cada vez que ocurra, para que asocien la discusión con una consecuencia inmediata y clara",
       "Separar a los niños y no permitir que se hablen",
       "Ignorar las discusiones por ser cosas de niños"
     ],
@@ -693,7 +693,7 @@
       "Omite el rol docente en la formación socioemocional y la convivencia."
     ],
     "explicacion": "El desarrollo socioemocional y las competencias ciudadanas se fortalecen con mediación y reflexión sobre las emociones. La sanción por sí sola no enseña a resolver conflictos.",
-    "fuente": "Estándares de Competencias Ciudadanas (MEN, 2004) y Ley 1620 de 2013"
+    "fuente": "Estándares de Competencias Ciudadanas (MEN, 2004); Ley 1620 de 2013; Decreto 1965 de 2013, art. 42"
   },
   {
     "id": "primaria-30",
@@ -704,8 +704,8 @@
     "contexto": null,
     "enunciado": "Una familia exige que su hijo salga de transición leyendo con planas diarias. ¿Cuál es la mejor respuesta de la docente?",
     "opciones": [
-      "Ceder y enviar planas diarias como tarea",
-      "Dialogar sobre el enfoque del nivel y mostrar evidencias de cómo el juego y la literatura apoyan la lectoescritura",
+      "Ceder y enviar planas diarias como tarea, para mantener una buena relación con la familia y evitar quejas ante la rectoría",
+      "Dialogar sobre el enfoque del nivel y mostrar cómo el juego y la literatura apoyan la lectoescritura",
       "Responder que la familia no debe intervenir",
       "Prometer que leerá a fin de año sin explicar cómo"
     ],
@@ -728,7 +728,7 @@
     "contexto": null,
     "enunciado": "Con un método sintético estricto, los niños de primero decodifican bien pero no comprenden lo que leen. ¿Qué acción es más adecuada?",
     "opciones": [
-      "Aumentar los ejercicios de decodificación de sílabas",
+      "Aumentar los ejercicios de decodificación de sílabas, hasta que la fluidez lectora permita que la comprensión llegue sola",
       "Esperar a tercero para trabajar comprensión",
       "Complementar con lectura de textos con sentido, lectura en voz alta y conversación sobre lo leído",
       "Eliminar la enseñanza de letras y sonidos"
@@ -754,8 +754,8 @@
     "opciones": [
       "Obligarlo a participar en el juego de todo el grupo",
       "Dejarlo siempre aparte para no incomodarlo",
-      "Informar a la familia que tiene problemas de socialización",
-      "Observarlo y ofrecerle juegos en parejas o pequeños grupos de forma gradual, sin forzarlo ni etiquetarlo"
+      "Informar a la familia que tiene problemas de socialización, para que consulten cuanto antes con un profesional y descarten un trastorno",
+      "Observarlo y ofrecerle juegos en parejas o pequeños grupos de forma gradual, sin forzarlo"
     ],
     "correcta": 3,
     "retro": [
@@ -766,5 +766,101 @@
     ],
     "explicacion": "El juego es actividad rectora y la participación se construye gradualmente respetando los tiempos del niño. Forzarlo o etiquetarlo sin observar no favorece su desarrollo.",
     "fuente": "Bases Curriculares (MEN, 2017)"
+  },
+  {
+    "id": "primaria-33",
+    "tema": "primaria",
+    "subtema": "Ley 115, enseñanza obligatoria",
+    "dificultad": 3,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "Según el artículo 14 de la Ley 115 de 1994, de los siguientes temas de enseñanza obligatoria, ¿cuál exige una asignatura específica y no solo su incorporación al currículo?",
+    "opciones": [
+      "La educación sexual, impartida de acuerdo con las necesidades psicológicas de los educandos según su edad",
+      "La protección del ambiente, la ecología y la preservación de los recursos naturales en cada establecimiento",
+      "La educación vial, que debe enseñarse como una cátedra independiente desde el grado transición hasta el once",
+      "El estudio, comprensión y práctica de la Constitución y la instrucción cívica"
+    ],
+    "correcta": 3,
+    "retro": [
+      "Confunde enseñanza obligatoria con asignatura obligatoria: la educación sexual se incorpora al currículo, sin asignatura específica.",
+      "La protección del ambiente es de enseñanza obligatoria, pero se desarrolla en todo el plan de estudios, sin asignatura propia.",
+      "La educación vial es obligatoria, pero el parágrafo no la exige como cátedra independiente.",
+      "Es correcta: junto con el aprovechamiento del tiempo libre y la educación física, es de los literales que exigen asignatura específica."
+    ],
+    "explicacion": "El art. 14 enumera temas de enseñanza obligatoria en preescolar, básica y media: Constitución e instrucción cívica; aprovechamiento del tiempo libre, educación física, recreación y deporte formativo; protección del ambiente; educación para la justicia, la paz y la democracia; educación sexual según la edad; y educación vial. Su parágrafo 1 aclara que, salvo los literales a) y b) (Constitución e instrucción cívica; tiempo libre y educación física), no exige asignatura específica: el tema se incorpora al currículo y se desarrolla en todo el plan de estudios. Por eso, en primaria, la educación sexual o la vial se trabajan de forma transversal.",
+    "fuente": "Ley 115 de 1994, art. 14 y parágrafo 1"
+  },
+  {
+    "id": "primaria-34",
+    "tema": "primaria",
+    "subtema": "Promoción anticipada",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "Al comenzar el año, la madre de Tomás, estudiante de tercero con desempeño superior en todas las áreas, pide que lo promuevan a cuarto. ¿Qué procedimiento debe explicarle la docente según el Decreto 1290 de 2009?",
+    "opciones": [
+      "Que se pide en el primer período, con consentimiento de los padres: el consejo académico recomienda y el consejo directivo decide",
+      "Que la decide la docente de aula al finalizar el año, si el estudiante mantiene su desempeño superior en los cuatro períodos y el rector la avala",
+      "Que no existe esa posibilidad: todos los estudiantes deben cursar el año completo, y la secretaría de educación solo autoriza excepciones por traslado",
+      "Que la autoriza el Ministerio de Educación mediante solicitud escrita, cuando el desempeño del estudiante supera los estándares del grado"
+    ],
+    "correcta": 0,
+    "retro": [
+      "Es correcta: la promoción anticipada se solicita en el primer período, con consentimiento de los padres, y la decide el consejo directivo.",
+      "Confunde la promoción anticipada con la promoción ordinaria de fin de año; la decisión no es de la docente sola.",
+      "Desconoce que el art. 7 prevé la promoción anticipada para estudiantes con rendimiento superior.",
+      "Atribuye al Ministerio una decisión que corresponde al establecimiento, a través del consejo directivo."
+    ],
+    "explicacion": "El art. 7 del Decreto 1290 de 2009 regula la promoción anticipada de estudiantes con rendimiento superior: se pide durante el primer período del año escolar, con consentimiento de los padres; el consejo académico recomienda al consejo directivo, que decide; la decisión se consigna en el acta del consejo directivo y, si es positiva, en el registro escolar. No la decide un docente solo ni el Ministerio, y no se limita a casos de traslado.",
+    "fuente": "Decreto 1290 de 2009, art. 7 (compilado en el Decreto 1075 de 2015, art. 2.3.3.3.3.7)"
+  },
+  {
+    "id": "primaria-35",
+    "tema": "primaria",
+    "subtema": "Educación inclusiva",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "Una madre llega a matricular a su hija de seis años, que tiene una discapacidad, pero no tiene certificado médico. La secretaria del colegio le dice que debe volver cuando tenga el diagnóstico. ¿Qué corresponde según el Decreto 1421 de 2017?",
+    "opciones": [
+      "La secretaria tiene razón: sin diagnóstico médico el colegio no puede definir el cupo ni los apoyos, y la familia debe gestionarlo primero con su EPS",
+      "Matricularla y registrarla en el SIMAT; la secretaría gestiona el diagnóstico en máximo tres meses y el colegio inicia la valoración y el PIAR",
+      "Matricularla solo de manera condicional, mientras presenta la certificación, y asignarla a un aula aparte hasta que se confirme su discapacidad",
+      "Remitirla a una institución de educación especial, que cuenta con los profesionales que el colegio regular no tiene para atender su discapacidad"
+    ],
+    "correcta": 1,
+    "retro": [
+      "Exige un diagnóstico previo, cuando la discapacidad no puede ser causal de negación del cupo.",
+      "Es correcta: se matricula, se registra en el SIMAT y la secretaría gestiona el diagnóstico en un plazo no mayor a tres meses.",
+      "Condiciona la matrícula y segrega a la niña, contra el enfoque de educación inclusiva y el derecho al cupo.",
+      "Desvía a la niña a otra institución, cuando el colegio regular debe matricularla y hacer los ajustes razonables."
+    ],
+    "explicacion": "Según el art. 2.3.3.5.2.3.3, la discapacidad no puede ser causal de negación del cupo. Si el estudiante no tiene diagnóstico o certificación, se procede con la matrícula y se registra en el SIMAT; la secretaría de educación, con el sector salud, establece el diagnóstico en un plazo no mayor a tres meses. Tras la matrícula se inicia la acogida, la valoración pedagógica y el PIAR. Además, los ajustes razonables no dependen de un diagnóstico médico: se basan en las barreras que enfrenta el estudiante.",
+    "fuente": "Decreto 1421 de 2017, art. 2.3.3.5.2.3.3 (Decreto 1075 de 2015)"
+  },
+  {
+    "id": "primaria-36",
+    "tema": "primaria",
+    "subtema": "PIAR",
+    "dificultad": 2,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "Según el Decreto 1421 de 2017, ¿cuándo debe elaborarse el PIAR de un estudiante con discapacidad?",
+    "opciones": [
+      "Durante el primer semestre del año escolar, y se renueva solo si el estudiante cambia de grado o de sede educativa",
+      "Al finalizar el año escolar, como un informe de los resultados, para que sirva de insumo al boletín del año siguiente",
+      "Durante el primer trimestre del año escolar y se actualiza cada año; si ingresa tarde, máximo treinta días",
+      "Solo cuando exista un diagnóstico médico, y se elabora una única vez, pues vale para toda la trayectoria educativa del estudiante"
+    ],
+    "correcta": 2,
+    "retro": [
+      "Confunde el trimestre con el semestre y omite la actualización anual.",
+      "Confunde el PIAR con el informe anual de proceso pedagógico o de competencias, que sí se elabora al final del año.",
+      "Es correcta: primer trimestre, actualización anual y máximo 30 días si el ingreso es extemporáneo.",
+      "El PIAR no exige diagnóstico médico para iniciarse y se actualiza cada año."
+    ],
+    "explicacion": "El PIAR (art. 2.3.3.5.2.3.5) se elabora durante el primer trimestre del año escolar y se actualiza anualmente; si el estudiante ingresa de manera extemporánea, hay máximo 30 días para elaborarlo y firmar el acta de acuerdo. Lo lideran los docentes de aula con el docente de apoyo, la familia y el estudiante, y hace parte de la historia escolar, que es confidencial. Incluye valoración pedagógica, objetivos y metas, y ajustes curriculares, didácticos, evaluativos y metodológicos. El informe anual se anexa al final del año, pero no sustituye al PIAR.",
+    "fuente": "Decreto 1421 de 2017, arts. 2.3.3.5.2.3.5 y 2.3.3.5.2.3.7 (Decreto 1075 de 2015)"
   }
 ]
