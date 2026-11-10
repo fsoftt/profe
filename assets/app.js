@@ -275,7 +275,7 @@ function importFile(e) {
   rd.onload = function () {
     try {
       var o = JSON.parse(rd.result);
-      if (!o || typeof o !== 'object' || typeof o.q !== 'object') throw 0;
+      if (!o || typeof o !== 'object' || !o.q || typeof o.q !== 'object' || Array.isArray(o.q)) throw 0;
       P = normalize(o); save(); updateChip(); toast('Progreso importado'); route();
     } catch (err) { toast('Archivo no válido'); }
   };

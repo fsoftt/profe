@@ -41,7 +41,7 @@ section{padding:28px 0;position:relative}
 
 header.top{position:sticky;top:0;z-index:50;backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);background:color-mix(in srgb,var(--bg) 72%,transparent);border-bottom:1px solid var(--card-b)}
 .bar{display:flex;align-items:center;justify-content:space-between;gap:8px;min-height:60px}
-.brand{display:flex;align-items:center;gap:8px;font-family:"Baloo 2",sans-serif;font-weight:800;font-size:1.4rem;color:var(--text);text-decoration:none}
+.brand{display:flex;align-items:center;gap:8px;font-family:"Baloo 2",sans-serif;font-weight:800;font-size:1.4rem;color:var(--text);text-decoration:none;min-height:44px}
 .tools{display:flex;gap:8px;align-items:center}
 .chip-btn{background:var(--card);border:1px solid var(--card-b);color:var(--text);border-radius:999px;padding:6px 12px;font-weight:700;font-size:.85rem;cursor:pointer;min-height:36px;display:inline-flex;align-items:center;gap:6px}
 button.chip-btn:hover{border-color:var(--accent)}
