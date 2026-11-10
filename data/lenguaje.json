@@ -176,18 +176,18 @@
     "contexto": "Mi hermano guardó el sobre en el cajón, mirando a todos lados. Yo, escondida tras la puerta, vi cómo le temblaban las manos.",
     "enunciado": "El narrador del fragmento es",
     "opciones": [
-      "un narrador omnisciente en tercera persona, que conoce los pensamientos de todos",
-      "un narrador testigo en primera persona, que cuenta lo que observa sin ser el protagonista",
-      "un narrador protagonista, que relata sus propias acciones centrales",
-      "un narrador objetivo que solo describe hechos externos y no se implica"
+      "un narrador omnisciente en tercera persona, que conoce los pensamientos de todos los personajes",
+      "un narrador testigo en primera persona, que observa y cuenta sin ser el protagonista",
+      "un narrador protagonista en primera persona, que relata sus propias acciones centrales de la historia",
+      "un narrador objetivo en tercera persona, que solo describe hechos externos sin implicarse"
     ],
     "correcta": 1,
     "explicacion": "El narrador testigo participa en la historia como observador, pero no es su protagonista. Distinguirlo del protagonista y del omnisciente es base para el análisis narrativo.",
     "retro": [
-      "Incorrecto: no hay tercera persona ni acceso a pensamientos ajenos.",
-      "Correcto: usa la primera persona y relata lo que presencia como observadora.",
-      "Incorrecto: la acción central la protagoniza el hermano, no quien narra.",
-      "Incorrecto: la voz se implica con un «yo» y valora lo que ve."
+      "Incorrecto: el omnisciente conoce los pensamientos de todos, pero aquí solo se cuenta lo que la narradora ve desde su escondite y se usa la primera persona.",
+      "Correcto: usa la primera persona, observa la escena desde fuera y no es quien la protagoniza.",
+      "Incorrecto: la narradora usa la primera persona, pero no realiza las acciones centrales; el protagonista es su hermano.",
+      "Incorrecto: el narrador objetivo no se muestra como personaje; aquí la narradora dice «yo» y participa como observadora."
     ],
     "fuente": "Genette, Figuras III (1972)"
   },
@@ -278,7 +278,7 @@
       "«Azul…» (1888), de Rubén Darío"
     ],
     "correcta": 3,
-    "explicacion": "«Azul…» (1888) de Rubén Darío, poeta nicaragüense, se toma habitualmente como punto de partida del Modernismo. Algunos críticos destacan antes a José Martí y a otros precursores.",
+    "explicacion": "«Azul…» (1888), de Rubén Darío, poeta nicaragüense, se toma habitualmente como punto de partida del Modernismo hispanoamericano. Algunos críticos destacan antes a precursores como José Martí («Ismaelillo», 1882); las otras obras son posteriores y pertenecen a las vanguardias.",
     "retro": [
       "Incorrecto: es el primer libro de Borges, posterior al Modernismo y ligado al ultraísmo.",
       "Incorrecto: es un libro de Neruda de los años treinta, de tono posvanguardista.",
@@ -416,18 +416,18 @@
     "contexto": "Tras leer «Un señor muy viejo con unas alas enormes», de García Márquez, una docente de grado 9 nota que sus estudiantes solo responden preguntas como «¿Quién encontró al anciano en el patio?».",
     "enunciado": "¿Qué acción es más adecuada para avanzar en los niveles de lectura?",
     "opciones": [
-      "Insistir en preguntas literales hasta que todos respondan con exactitud antes de pasar a otro nivel",
-      "Sustituir el cuento por un resumen para que memoricen la trama",
-      "Plantear preguntas inferenciales y críticas, como qué sugiere la reacción del pueblo ante el ángel y qué opinan, pidiendo justificar con el texto",
-      "Pedir que copien la definición de realismo mágico del manual"
+      "Insistir en preguntas literales hasta que todos respondan con exactitud antes de pasar a otro nivel de lectura",
+      "Sustituir el cuento por un resumen del argumento para que los estudiantes memoricen la trama completa",
+      "Plantear preguntas inferenciales y críticas sobre la reacción del pueblo, justificadas con el texto",
+      "Pedir que copien del manual la definición de realismo mágico y la aprendan para la evaluación"
     ],
     "correcta": 2,
     "explicacion": "La lectura se trabaja en niveles literal, inferencial y crítico-intertextual, y no son pasos que se agoten uno a uno. Preguntas que piden justificar con el texto desarrollan la interpretación.",
     "retro": [
-      "Error: supone que los niveles de lectura son una escalera rígida, y se estanca en lo literal.",
-      "Error: reduce la lectura a retener datos y elimina la interpretación.",
-      "Correcto: lleva a inferir y a valorar apoyándose en el texto.",
-      "Error: confunde conocer un término con comprender e interpretar el texto."
+      "Incorrecto: los niveles no se agotan uno a uno; quedarse en lo literal hasta la exactitud total retrasa la inferencia y la crítica.",
+      "Incorrecto: un resumen reemplaza la lectura del texto y refuerza la memorización, no la comprensión.",
+      "Correcto: las preguntas inferenciales y críticas con justificación textual hacen avanzar la lectura.",
+      "Incorrecto: copiar una definición del manual no es leer ni interpretar el cuento."
     ],
     "fuente": "MEN, Lineamientos Curriculares de Lengua Castellana (1998); MEN, Estándares Básicos de Competencias en Lenguaje (2006)"
   },
@@ -440,18 +440,18 @@
     "contexto": "Un estudiante entrega un texto con ideas desordenadas, escrito en una sola sesión y sin revisión.",
     "enunciado": "¿Cuál es la mejor acción didáctica?",
     "opciones": [
-      "Calificarlo solo por ortografía y entregar la nota final",
-      "Pedirle que copie un texto modelo para que lo imite",
-      "Dictarle una lista de conectores para que la memorice",
-      "Devolverlo con comentarios sobre criterios acordados y guiar la planificación, la revisión y la reescritura"
+      "Calificarlo solo por ortografía y entregar la nota final sin comentarios sobre las ideas ni la organización",
+      "Pedirle que copie un texto modelo del docente para que lo imite en su siguiente entrega sin revisarlo",
+      "Dictarle una lista de conectores para que la memorice y la aplique, sin reescribir el texto",
+      "Devolverlo con comentarios según criterios acordados y guiar planificación, revisión y reescritura"
     ],
     "correcta": 3,
     "explicacion": "La escritura es un proceso recursivo de planificación, textualización y revisión. La retroalimentación con criterios claros y la reescritura permiten mejorar el texto.",
     "retro": [
-      "Error: reduce la escritura a la corrección ortográfica y no ayuda a mejorar el texto.",
-      "Error: copiar no desarrolla la capacidad de planear ni de organizar ideas propias.",
-      "Error: los conectores aislados no resuelven la falta de planificación ni de revisión.",
-      "Correcto: trata la escritura como proceso con planificación, textualización y revisión."
+      "Incorrecto: la ortografía es solo un criterio; dejar de lado ideas, organización y revisión no ayuda a mejorar el texto.",
+      "Incorrecto: copiar un modelo no enseña a planificar ni a revisar el propio texto.",
+      "Incorrecto: memorizar conectores no resuelve el desorden de ideas; hay que usarlos al reescribir.",
+      "Correcto: la retroalimentación con criterios y la guía en las fases de escritura permiten mejorar el texto."
     ],
     "fuente": "MEN, Estándares Básicos de Competencias en Lenguaje (2006)"
   },
@@ -464,18 +464,18 @@
     "contexto": "Una estudiante muy tímida casi nunca habla en clase.",
     "enunciado": "¿Cuál es la mejor acción del docente?",
     "opciones": [
-      "Exigir una exposición individual ante todo el curso con nota, para vencer la timidez",
-      "Proponer situaciones graduales de oralidad (parejas, grupos pequeños y luego exposición) con propósito y audiencia reales",
-      "Eximirla de toda actividad oral porque no es evaluable",
-      "Hacerla leer en voz alta textos ajenos sin preparación previa"
+      "Exigir una exposición individual con nota ante todo el curso, para que venza la timidez enfrentándola directamente",
+      "Proponer situaciones graduales de oralidad (parejas, grupos y luego exposición) con propósito y audiencia reales",
+      "Eximirla de toda actividad oral mientras se sienta cómoda, porque la oralidad no es evaluable en su caso",
+      "Hacerla leer en voz alta textos ajenos sin preparación previa, para que gane soltura con la práctica"
     ],
     "correcta": 1,
     "explicacion": "La oralidad se desarrolla con situaciones comunicativas reales y graduales: conversar, argumentar, exponer. El docente debe ofrecer apoyo y retroalimentación antes de la exposición.",
     "retro": [
-      "Error: la exposición improvisada con nota puede aumentar la ansiedad y no enseña a hablar.",
-      "Correcto: construye confianza y desarrolla la oralidad con tareas significativas.",
-      "Error: la oralidad es parte de las competencias comunicativas y debe trabajarse.",
-      "Error: leer sin preparación es lectura en voz alta, no desarrolla la expresión oral."
+      "Incorrecto: una exposición calificada ante todos, sin apoyo previo, puede aumentar la ansiedad y no desarrolla la oralidad.",
+      "Correcto: la gradualidad y las situaciones comunicativas reales permiten desarrollar la oralidad con apoyo.",
+      "Incorrecto: eximirla mantiene la dificultad; la oralidad es un proceso que se puede acompañar y evaluar.",
+      "Incorrecto: leer textos ajenos sin preparación no es una situación comunicativa real y expone a la estudiante."
     ],
     "fuente": "MEN, Estándares Básicos de Competencias en Lenguaje (2006)"
   },
@@ -488,18 +488,18 @@
     "contexto": "Un docente dedica semanas al análisis sintáctico de oraciones sueltas tomadas de un manual y evalúa con listas de términos.",
     "enunciado": "Según el enfoque semántico-comunicativo, ¿qué cambio es más coherente?",
     "opciones": [
-      "Eliminar toda reflexión sobre la lengua y centrarse en leer",
+      "Eliminar toda reflexión sobre la lengua y dedicar las clases solo a leer, para que la gramática se aprenda sola",
       "Trabajar la gramática al servicio de la comprensión y la producción de textos reales con propósito comunicativo",
-      "Aumentar los ejercicios de análisis sintáctico aislado",
-      "Evaluar con dictados para asegurar la ortografía"
+      "Aumentar los ejercicios de análisis sintáctico aislado para que dominen la estructura de la oración antes de escribir",
+      "Evaluar con dictados frecuentes para asegurar la ortografía, que se considera la base de toda competencia comunicativa"
     ],
     "correcta": 1,
     "explicacion": "El enfoque semántico-comunicativo concibe la lengua como construcción de significado y comunicación. La gramática se aprende cuando ayuda a entender y a producir textos.",
     "retro": [
-      "Error: el enfoque no elimina la gramática, la reubica en función del sentido.",
-      "Correcto: la reflexión sobre la lengua se integra a situaciones de uso.",
-      "Error: más análisis aislado repite el problema de descontextualizar la lengua.",
-      "Error: el dictado mide una destreza ortográfica y no el uso comunicativo."
+      "Incorrecto: el enfoque no elimina la reflexión sobre la lengua; la pone al servicio de la comprensión y la producción.",
+      "Correcto: la gramática se aprende cuando ayuda a entender y a producir textos con propósito comunicativo.",
+      "Incorrecto: más análisis sintáctico de oraciones sueltas profundiza el enfoque que se busca superar.",
+      "Incorrecto: el dictado evalúa ortografía en forma aislada y no la producción ni la comprensión de textos."
     ],
     "fuente": "MEN, Lineamientos Curriculares de Lengua Castellana (1998)"
   },
@@ -536,18 +536,18 @@
     "contexto": "En los textos de varios estudiantes aparece con frecuencia «hubieron muchas dificultades».",
     "enunciado": "¿Qué acción didáctica es más pertinente?",
     "opciones": [
-      "Marcar cada error en rojo sin explicar la causa",
-      "Ignorarlo, porque el mensaje se entiende",
-      "Seleccionar los errores recurrentes de sus propios textos y trabajarlos en la revisión con la regla y la reescritura",
-      "Pedirles copiar cien veces la forma correcta"
+      "Marcar cada error en rojo en todos los textos, sin explicar la causa, para que los identifiquen por sí mismos",
+      "Ignorarlo en las clases de lenguaje, porque el mensaje se entiende y la norma es secundaria frente al sentido",
+      "Seleccionar los errores recurrentes en sus propios textos y trabajarlos al revisar, con la regla y la reescritura",
+      "Pedirles copiar cien veces la forma correcta, para fijarla en la memoria por repetición hasta que no la olviden"
     ],
     "correcta": 2,
     "explicacion": "La reflexión normativa es más eficaz cuando se aborda en la fase de revisión de textos propios. El error de pluralizar «haber» impersonal es de los más frecuentes.",
     "retro": [
-      "Error: la marca sin explicación no ayuda a comprender la regla.",
-      "Error: la norma también forma parte de un texto bien escrito.",
-      "Correcto: parte de textos reales, explica la norma y la aplica al reescribir.",
-      "Error: la repetición mecánica no lleva a comprender cuándo se aplica la regla."
+      "Incorrecto: señalar sin explicar la causa no permite comprender la regla ni corregir el error.",
+      "Incorrecto: aunque el mensaje se entienda, la norma hace parte de la competencia comunicativa y se puede trabajar en la revisión.",
+      "Correcto: la reflexión normativa es más eficaz con errores recurrentes de textos propios, en la fase de revisión.",
+      "Incorrecto: copiar una forma por repetición mecánica no lleva a comprender la regla ni a aplicarla al escribir."
     ],
     "fuente": "RAE-ASALE, Ortografía de la lengua española (2010); MEN, Estándares Básicos de Competencias en Lenguaje (2006)"
   },
@@ -560,18 +560,18 @@
     "contexto": "Una docente planea una secuencia en la que los estudiantes analizan un anuncio publicitario, una caricatura y un noticiero de televisión.",
     "enunciado": "Para trabajar el factor «Medios de comunicación y otros sistemas simbólicos», ¿qué actividad es más coherente?",
     "opciones": [
-      "Copiar las definiciones de publicidad y propaganda del manual",
-      "Prohibir el uso de celulares durante la secuencia",
-      "Identificar la intención, el público y los recursos de cada medio y producir un mensaje propio en uno de esos lenguajes",
-      "Limitar el análisis a la ortografía de los textos"
+      "Copiar en el cuaderno las definiciones de publicidad y propaganda del manual y compararlas entre sí",
+      "Prohibir el uso de celulares durante la secuencia, para que se concentren solo en los textos impresos",
+      "Identificar intención, público y recursos de cada medio y producir un mensaje propio en uno de ellos",
+      "Limitar el análisis a la ortografía y la redacción de los textos que acompañan cada anuncio o noticia"
     ],
     "correcta": 2,
     "explicacion": "Este factor busca que los estudiantes interpreten y produzcan mensajes en medios e imágenes con sentido crítico. Los cinco factores de los Estándares incluyen también producción textual, comprensión e interpretación, literatura y ética de la comunicación.",
     "retro": [
-      "Error: memorizar definiciones no desarrolla el análisis de los mensajes.",
-      "Error: no se relaciona con el factor y evita el trabajo con medios.",
-      "Correcto: combina análisis crítico y producción con distintos sistemas simbólicos.",
-      "Error: la ortografía no abarca la imagen, el sonido ni la intención del mensaje."
+      "Incorrecto: copiar definiciones no implica interpretar ni producir mensajes en los medios.",
+      "Incorrecto: prohibir los celulares no desarrolla el análisis crítico de medios y deja fuera los lenguajes de la secuencia.",
+      "Correcto: analizar intención, público y recursos y producir un mensaje propio trabaja el factor de medios y sistemas simbólicos.",
+      "Incorrecto: la ortografía no agota el análisis de imagen, sonido y mensaje propio de cada medio."
     ],
     "fuente": "MEN, Estándares Básicos de Competencias en Lenguaje (2006)"
   },
@@ -584,20 +584,20 @@
     "contexto": "En una institución, los libros de la biblioteca permanecen guardados bajo llave para evitar pérdidas.",
     "enunciado": "Acorde con el Plan Nacional de Lectura y Escritura, ¿cuál es la mejor acción?",
     "opciones": [
-      "Mantener los libros guardados para evitar pérdidas",
-      "Imponer listas obligatorias de lectura con examen de datos",
-      "Integrar la biblioteca a los proyectos de aula y de lectura, con préstamo, lectura libre y mediación del docente",
-      "Limitar la lectura al libro de texto de cada área"
+      "Mantener los libros guardados bajo llave para evitar pérdidas, y prestarlos solo en actividades especiales",
+      "Imponer listas obligatorias de lectura y evaluarlas con exámenes de datos sobre autores y argumentos",
+      "Integrar la biblioteca a los proyectos de aula, con préstamo, lectura libre y mediación del docente",
+      "Limitar la lectura al libro de texto de cada área, que es el material aprobado por la institución"
     ],
     "correcta": 2,
-    "explicacion": "El Plan Nacional de Lectura y Escritura del MEN busca fortalecer las competencias comunicativas y el acceso a los materiales de lectura y escritura. La biblioteca escolar debe estar al servicio del currículo.",
+    "explicacion": "El Plan Nacional de Lectura y Escritura «Leer es mi cuento», del MEN (desde 2011, hoy ampliado como Plan Nacional de Lectura, Escritura y Oralidad, PNLEO), busca fortalecer las competencias comunicativas y el acceso a materiales de lectura y escritura. La biblioteca escolar debe estar al servicio del currículo.",
     "retro": [
-      "Error: el riesgo de pérdida no justifica impedir que los libros se lean.",
-      "Error: la obligación sin mediación suele desmotivar la lectura.",
-      "Correcto: favorece el acceso y la mediación lectora.",
-      "Error: restringir las fuentes empobrece la experiencia lectora."
+      "Incorrecto: guardar los libros restringe el acceso, que es justamente lo que el Plan busca ampliar.",
+      "Incorrecto: las listas obligatorias con examen de datos no forman lectores ni amplían el acceso a la lectura.",
+      "Correcto: el Plan busca que la biblioteca y los materiales estén al servicio del currículo y de la lectura libre mediada.",
+      "Incorrecto: limitar la lectura al libro de texto reduce el acceso a materiales diversos de lectura y escritura."
     ],
-    "fuente": "MEN, Plan Nacional de Lectura y Escritura «Leer es mi cuento»"
+    "fuente": "MEN, Plan Nacional de Lectura y Escritura «Leer es mi cuento» (2011); MEN y MinCultura, Plan Nacional de Lectura, Escritura y Oralidad (PNLEO)"
   },
   {
     "id": "lenguaje-26",
@@ -632,18 +632,18 @@
     "contexto": "En el grupo de WhatsApp del curso circula una cadena con información falsa sobre un compañero.",
     "enunciado": "¿Cuál es la acción didáctica más adecuada?",
     "opciones": [
-      "Prohibir el uso de WhatsApp en la institución",
-      "Sancionar sin diálogo a quien reenvió el mensaje",
-      "Analizar con ellos la fuente, la intención, las pruebas y las consecuencias de difundirla, y proponer pautas de comunicación responsable",
-      "Ignorarlo porque no pertenece al área de lenguaje"
+      "Prohibir el uso de WhatsApp en toda la institución, para evitar que vuelvan a circular cadenas con información falsa",
+      "Sancionar sin diálogo al estudiante que reenvió el mensaje, para que el castigo sirva de ejemplo y no se repita",
+      "Analizar con ellos la fuente, la intención y las consecuencias de difundirla, y acordar pautas de comunicación responsable",
+      "Ignorarlo, porque el chat es un espacio privado del grupo y no corresponde al área de lenguaje"
     ],
     "correcta": 2,
     "explicacion": "El factor de ética de la comunicación busca que los estudiantes reflexionen sobre el efecto de sus mensajes y respeten al otro. Analizar casos reales permite aplicarlo.",
     "retro": [
-      "Error: la prohibición no desarrolla habilidades para evaluar información.",
-      "Error: la sanción sin reflexión no enseña ética de la comunicación.",
-      "Correcto: forma criterio y responsabilidad en el uso de los medios.",
-      "Error: la ética de la comunicación es un factor del área."
+      "Incorrecto: prohibir la herramienta no desarrolla criterio sobre la información ni la responsabilidad al comunicar.",
+      "Incorrecto: sancionar sin diálogo no lleva a reflexionar sobre el efecto de los mensajes en el otro.",
+      "Correcto: analizar casos reales con fuente, intención y consecuencias trabaja la ética de la comunicación.",
+      "Incorrecto: la ética de la comunicación es un factor del área, y los mensajes digitales hacen parte de ella."
     ],
     "fuente": "MEN, Estándares Básicos de Competencias en Lenguaje (2006)"
   },
@@ -656,18 +656,18 @@
     "contexto": "Una docente evaluará ensayos argumentativos de grado 10.",
     "enunciado": "¿Qué estrategia es más coherente con concebir la escritura como proceso?",
     "opciones": [
-      "Una única nota al texto final, comparado con el modelo del docente",
-      "Una rúbrica conocida desde el inicio, con criterios (tesis, argumentos, cohesión, normativa) y retroalimentación sobre versiones sucesivas",
-      "Contar palabras y errores ortográficos",
-      "Una autoevaluación libre sin criterios"
+      "Una única nota al texto final, comparada con un modelo elaborado por el docente como patrón de calidad",
+      "Una rúbrica conocida desde el inicio, con criterios (tesis, argumentos, cohesión, normativa) y retroalimentación por versiones",
+      "Contar palabras y errores ortográficos, y asignar la nota según un puntaje fijo definido por el docente",
+      "Una autoevaluación libre sin criterios, para que cada estudiante valore su texto según su propia percepción"
     ],
     "correcta": 1,
     "explicacion": "La evaluación formativa de la escritura requiere criterios compartidos y varias versiones con retroalimentación. Así los estudiantes reconocen qué mejorar.",
     "retro": [
-      "Error: valora solo el producto y compara con un modelo, sin acompañar el proceso.",
-      "Correcto: evalúa de forma formativa con criterios claros.",
-      "Error: mide aspectos superficiales y no la calidad argumentativa.",
-      "Error: sin criterios, la autoevaluación no orienta la mejora."
+      "Incorrecto: una sola nota al producto final no atiende el proceso ni orienta la mejora entre versiones.",
+      "Correcto: criterios conocidos y retroalimentación sobre versiones sucesivas son coherentes con la escritura como proceso.",
+      "Incorrecto: contar palabras y errores mide aspectos superficiales y no valora la argumentación ni la cohesión.",
+      "Incorrecto: sin criterios compartidos, la autoevaluación no orienta qué mejorar."
     ],
     "fuente": "MEN, Estándares Básicos de Competencias en Lenguaje (2006)"
   },
@@ -680,18 +680,18 @@
     "contexto": "En un mismo curso hay estudiantes con niveles de lectura muy distintos.",
     "enunciado": "¿Qué decisión didáctica es más adecuada?",
     "opciones": [
-      "Asignar el mismo texto complejo a todos y calificar igual",
-      "Separar durante todo el año a quienes leen menos con textos infantiles",
-      "Eximir de lectura a quienes tienen bajo nivel",
-      "Diversificar apoyos y tareas, con textos de distinta complejidad sobre un mismo tema y mediación, manteniendo las mismas metas"
+      "Asignar el mismo texto complejo a todos y calificar con la misma escala, para garantizar igualdad de exigencia",
+      "Separar durante todo el año a quienes leen menos y darles textos infantiles, para que no se sientan expuestos",
+      "Eximir de lectura a quienes tienen bajo nivel, para evitar frustración, y evaluarlos con otras actividades",
+      "Diversificar apoyos y textos de distinta complejidad sobre un mismo tema, con mediación y las mismas metas"
     ],
     "correcta": 3,
     "explicacion": "Atender la diversidad implica ofrecer apoyos diferenciados con metas comunes. Leer sobre un mismo tema con textos distintos permite participar en la conversación del grupo.",
     "retro": [
-      "Error: ignora las diferencias y genera frustración.",
-      "Error: reduce las expectativas y los excluye del trabajo con el grupo.",
-      "Error: negarles la lectura amplía la brecha.",
-      "Correcto: reconoce las diferencias sin renunciar a metas comunes."
+      "Incorrecto: dar el mismo texto y la misma escala ignora las diferencias y deja sin apoyo a quienes lo necesitan.",
+      "Incorrecto: separar y rebajar las exigencias de forma permanente baja las expectativas y excluye de la conversación del grupo.",
+      "Incorrecto: eximir de lectura impide que los estudiantes avancen en su nivel; necesitan más apoyo, no menos lectura.",
+      "Correcto: apoyos diferenciados con metas comunes permiten que todos participen en la conversación sobre el tema."
     ],
     "fuente": "MEN, Estándares Básicos de Competencias en Lenguaje (2006)"
   },
@@ -718,5 +718,77 @@
       "Error: la lista de autores no enseña a distinguir los géneros."
     ],
     "fuente": "MEN, Estándares Básicos de Competencias en Lenguaje (2006)"
+  },
+  {
+    "id": "lenguaje-31",
+    "tema": "lenguaje",
+    "subtema": "Ortografía: por qué / porque",
+    "dificultad": 1,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "¿Qué opción completa correctamente el diálogo «¿___ no viniste a clase?» — «___ estaba enfermo»?",
+    "opciones": [
+      "Porque / Por qué",
+      "Porqué / Por qué",
+      "Por qué / Porque",
+      "Por que / Porqué"
+    ],
+    "correcta": 2,
+    "retro": [
+      "Incorrecto: la pregunta directa exige «por qué» (con tilde y en dos palabras), y la respuesta causal, «porque».",
+      "Incorrecto: «porqué» es un sustantivo que significa «motivo»; no sirve para iniciar la pregunta ni para responder.",
+      "Correcto: «por qué» introduce la pregunta y «porque» es la conjunción causal de la respuesta.",
+      "Incorrecto: «por que» no corresponde a una pregunta directa y «porqué» es sustantivo («el porqué de la situación»)."
+    ],
+    "explicacion": "«Por qué» (dos palabras, con «qué» tónico y tilde) se usa en preguntas; «porque» es conjunción causal en la respuesta; «porqué» es un sustantivo que significa «motivo».",
+    "fuente": "RAE-ASALE, Ortografía de la lengua española (2010); RAE, Diccionario panhispánico de dudas, s. v. porque"
+  },
+  {
+    "id": "lenguaje-32",
+    "tema": "lenguaje",
+    "subtema": "Gramática: dequeísmo",
+    "dificultad": 2,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "¿En cuál de las siguientes oraciones hay dequeísmo?",
+    "opciones": [
+      "Me avisó que llegaría tarde a la reunión.",
+      "Pienso que es una muy buena idea.",
+      "Estoy seguro de que aprobaré el examen.",
+      "Creo de que llegaremos a tiempo."
+    ],
+    "correcta": 3,
+    "retro": [
+      "Está bien: «avisar» no exige la preposición «de» ante «que».",
+      "Está bien: «pensar» se construye con «que», sin preposición.",
+      "Está bien: «estar seguro» rige la preposición «de», así que «de que» es correcto.",
+      "Correcto: «creer» no rige «de»; anteponerla ante «que» es dequeísmo."
+    ],
+    "explicacion": "El dequeísmo es el uso indebido de «de» ante «que» cuando el verbo no rige esa preposición («creo que», no «creo de que»). En «estar seguro de que», la preposición es exigida por la expresión.",
+    "fuente": "RAE, Diccionario panhispánico de dudas, s. v. dequeísmo; RAE-ASALE, Nueva gramática de la lengua española (2009)"
+  },
+  {
+    "id": "lenguaje-33",
+    "tema": "lenguaje",
+    "subtema": "Comprensión lectora: estrategias",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": "Una docente de grado 7 observa que sus estudiantes leen en voz alta con buena fluidez, pero no logran explicar ni recordar lo que leyeron.",
+    "enunciado": "¿Qué estrategia es más pertinente?",
+    "opciones": [
+      "Enseñar estrategias antes, durante y después de leer: predecir, parafrasear, resumir",
+      "Aumentar la velocidad de lectura con cronómetro para que automaticen aún más la decodificación",
+      "Pedir lectura en voz alta diaria de párrafos más extensos, para consolidar la fluidez que ya tienen",
+      "Asignar guías de vocabulario con definiciones del diccionario para memorizar antes de cada lectura"
+    ],
+    "correcta": 0,
+    "retro": [
+      "Correcto: el problema es de comprensión, y las estrategias antes, durante y después de leer la desarrollan.",
+      "Incorrecto: la fluidez ya existe; leer más rápido no mejora la comprensión.",
+      "Incorrecto: más lectura oral refuerza la fluidez, que no es la dificultad.",
+      "Incorrecto: memorizar definiciones aisladas no enseña a construir el sentido global del texto."
+    ],
+    "explicacion": "La comprensión se desarrolla enseñando estrategias de lectura (predecir, inferir, parafrasear, resumir) y no solo con fluidez o vocabulario aislado. Los Estándares sitúan esta tarea en el factor de comprensión e interpretación textual.",
+    "fuente": "MEN, Estándares Básicos de Competencias en Lenguaje (2006), factor Comprensión e interpretación textual"
   }
 ]
