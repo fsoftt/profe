@@ -6,22 +6,22 @@
     "dificultad": 1,
     "tipo": "conocimiento",
     "contexto": null,
-    "enunciado": "Según el artículo 10 de la Ley 715 de 2001, ¿cuál es una función del rector de una institución educativa?",
+    "enunciado": "Según el artículo 10 de la Ley 715 de 2001, ¿cuál es una función del rector de una institución educativa oficial?",
     "opciones": [
-      "Administrar el personal docente y administrativo asignado a la institución",
-      "Nombrar en propiedad a los docentes que se necesitan en la planta",
-      "Aprobar el presupuesto anual del Fondo de Servicios Educativos",
-      "Expedir el manual de funciones y competencias de los docentes"
+      "Dirigir la preparación del PEI con la participación de los distintos actores de la comunidad educativa",
+      "Nombrar en propiedad a los docentes que se necesiten en la planta, una vez superado el concurso de méritos",
+      "Fijar los criterios de asignación de cupos y adoptar el reglamento del establecimiento por decisión propia",
+      "Expedir el manual de funciones, requisitos y competencias que rige a los docentes de su institución"
     ],
     "correcta": 0,
     "retro": [
-      "Correcto: administrar el personal asignado es función expresa del rector.",
-      "Error: el nombramiento corresponde a la entidad territorial certificada, no al rector.",
-      "Error: el presupuesto del Fondo lo aprueba el consejo directivo; el rector lo ejecuta.",
-      "Error: el manual de funciones y competencias lo adopta el Ministerio de Educación, no el rector."
+      "Correcto: dirigir la preparación del PEI es la función 10.1 del artículo 10.",
+      "Error: el nombramiento en período de prueba lo hace la entidad territorial certificada tras la audiencia de escogencia de vacante; el rector no nombra.",
+      "Error: fijar criterios de cupos y adoptar el reglamento son funciones del consejo directivo (Ley 115, art. 144).",
+      "Error: el manual de funciones, requisitos y competencias lo adopta el Ministerio de Educación (Resolución 3842 de 2022), no cada rector."
     ],
-    "explicacion": "El artículo 10 de la Ley 715 asigna al rector funciones como dirigir el PEI, administrar el personal asignado, evaluar anualmente el desempeño de su personal y administrar el Fondo de Servicios Educativos. Nombrar, aprobar presupuestos y expedir manuales corresponde a otras instancias.",
-    "fuente": "Ley 715 de 2001, art. 10"
+    "explicacion": "El artículo 10 asigna al rector, entre otras, dirigir la preparación del PEI (10.1), presidir el consejo directivo y el académico (10.2), evaluar anualmente a su personal (10.10), rendir informe al consejo directivo al menos cada seis meses (10.15) y administrar el Fondo de Servicios Educativos (10.16). Nombrar, adoptar el reglamento y expedir manuales corresponde a otras instancias.",
+    "fuente": "Ley 715 de 2001, art. 10 (num. 10.1); Ley 115 de 1994, art. 144"
   },
   {
     "id": "directivos-02",
@@ -32,20 +32,20 @@
     "contexto": null,
     "enunciado": "¿Quién preside el consejo directivo y el consejo académico de un establecimiento educativo oficial?",
     "opciones": [
-      "El coordinador académico",
-      "El rector",
-      "El presidente del consejo de padres",
-      "El secretario de educación"
+      "El coordinador académico, por ser quien dirige los procesos pedagógicos de la institución",
+      "El presidente del consejo de padres, en representación de toda la comunidad educativa",
+      "El secretario de educación de la entidad territorial, como autoridad del sector educativo",
+      "El rector, que convoca y preside ambos órganos del gobierno escolar del establecimiento"
     ],
-    "correcta": 1,
+    "correcta": 3,
     "retro": [
-      "Error: el coordinador puede integrar el consejo académico, pero no lo preside.",
-      "Correcto: la presidencia de ambos órganos corresponde al rector.",
-      "Error: el presidente del consejo de padres es solo uno de los integrantes de otros órganos.",
-      "Error: la secretaría de educación supervisa, pero no preside los órganos del gobierno escolar."
+      "Error: el coordinador, como directivo docente, puede integrar el consejo académico, pero no lo preside ni integra el directivo.",
+      "Error: los padres solo eligen dos representantes ante el consejo directivo; el presidente del consejo de padres no preside ningún órgano del gobierno escolar.",
+      "Error: la secretaría ejerce inspección y vigilancia, pero no hace parte del gobierno escolar del establecimiento.",
+      "Correcto: el rector convoca y preside el consejo directivo (art. 143) y el consejo académico (art. 145)."
     ],
-    "explicacion": "El gobierno escolar está integrado por el rector, el consejo directivo y el consejo académico. El rector preside los dos consejos y ejecuta sus decisiones.",
-    "fuente": "Ley 115 de 1994 (gobierno escolar) y Decreto 1075 de 2015"
+    "explicacion": "Según el artículo 142, el gobierno escolar de los establecimientos estatales tiene tres órganos: el rector, el consejo directivo y el consejo académico. El rector convoca y preside los dos consejos (arts. 143 y 145; Ley 715, art. 10.2).",
+    "fuente": "Ley 115 de 1994, arts. 142, 143 y 145; Ley 715 de 2001, art. 10 (num. 10.2)"
   },
   {
     "id": "directivos-03",
@@ -54,22 +54,22 @@
     "dificultad": 2,
     "tipo": "conocimiento",
     "contexto": null,
-    "enunciado": "¿Cómo está conformado el consejo directivo de un establecimiento educativo?",
+    "enunciado": "¿Cómo está conformado el consejo directivo de un establecimiento educativo oficial?",
     "opciones": [
-      "Rector, coordinador, tres docentes, un padre de familia y un estudiante de último grado",
-      "Rector, un docente por área, el personero y dos representantes de los padres de familia",
-      "Rector, dos docentes, dos padres, un estudiante, un exalumno y un representante del sector productivo",
-      "Rector, dos docentes, el personero, el presidente del consejo de padres y un delegado de la alcaldía"
+      "Rector, dos docentes, dos padres de familia, un estudiante de último grado, un exalumno y un representante del sector productivo",
+      "Rector, coordinador, tres docentes, un padre de familia y un estudiante de último grado, de modo que predomine el personal del colegio",
+      "Rector, un docente por cada área, el personero estudiantil y dos representantes de los padres de familia del establecimiento",
+      "Rector, dos docentes, el personero, el presidente del consejo de padres y un delegado de la alcaldía o de la secretaría de educación"
     ],
-    "correcta": 2,
+    "correcta": 0,
     "retro": [
-      "Error: el consejo directivo no incluye al coordinador ni tres docentes; son dos docentes y dos padres.",
-      "Error: un docente por área integra el consejo académico, no el directivo.",
-      "Correcto: esta es la conformación del consejo directivo según la norma.",
-      "Error: el personero y el delegado de la alcaldía no son integrantes del consejo directivo."
+      "Correcto: son ocho integrantes, según el artículo 143 de la Ley 115.",
+      "Error: el coordinador no integra el consejo directivo; los docentes son dos, los padres son dos y faltan el exalumno y el sector productivo.",
+      "Error: un docente por área o grado integra el consejo académico (art. 145), no el directivo; y el personero no tiene asiento en el directivo.",
+      "Error: el personero, el presidente del consejo de padres y el delegado de la alcaldía no figuran en el artículo 143."
     ],
-    "explicacion": "El consejo directivo reúne al rector, dos representantes de los docentes, dos de los padres de familia, un estudiante del último grado, un exalumno y un representante del sector productivo. El consejo académico, en cambio, reúne al rector, directivos docentes y un docente por área.",
-    "fuente": "Decreto 1075 de 2015 (compila el Decreto 1860 de 1994)"
+    "explicacion": "El artículo 143 integra el consejo directivo con ocho miembros: el rector, que lo convoca y preside; dos representantes de los docentes; dos de los padres de familia; uno de los estudiantes que cursen el último grado; uno de los exalumnos y uno de los sectores productivos. El consejo académico, en cambio, reúne al rector, los directivos docentes y un docente por cada área o grado (art. 145).",
+    "fuente": "Ley 115 de 1994, arts. 143 y 145"
   },
   {
     "id": "directivos-04",
@@ -80,20 +80,20 @@
     "contexto": null,
     "enunciado": "La Guía 34 del Ministerio de Educación organiza la gestión de los establecimientos en cuatro áreas. ¿Cuáles son?",
     "opciones": [
-      "Directiva, pedagógica, financiera y de convivencia",
-      "Estratégica, curricular, operativa y social",
-      "Directiva, académica, de talento humano y de evaluación",
-      "Directiva, académica, administrativa y financiera, y de la comunidad"
+      "Directiva, pedagógica, financiera y de convivencia, que agrupan los procesos de aula y de clima escolar",
+      "Estratégica, curricular, operativa y social, según el esquema de planeación general del Ministerio",
+      "Directiva, académica, de talento humano y de evaluación, que separa el talento humano como área propia",
+      "Directiva, académica, administrativa y financiera, y de la comunidad, con procesos propios en cada una"
     ],
     "correcta": 3,
     "retro": [
-      "Error: la Guía no habla de gestión \"pedagógica\" ni \"de convivencia\" como áreas independientes.",
-      "Error: esos nombres no corresponden a las áreas de la Guía.",
-      "Error: el talento humano es un proceso de la gestión administrativa y financiera, no un área.",
+      "Error: no hay un área \"pedagógica\" ni una de \"convivencia\"; la gestión de aula es proceso de la académica y la convivencia lo es de la comunidad.",
+      "Error: esos nombres no corresponden a las áreas de la Guía 34.",
+      "Error: el talento humano es un proceso de la gestión administrativa y financiera, no un área independiente, y la evaluación no es un área.",
       "Correcto: son las cuatro áreas de gestión de la Guía 34."
     ],
-    "explicacion": "La Guía 34 propone la autoevaluación y el mejoramiento de cuatro áreas: gestión directiva, gestión académica, gestión administrativa y financiera, y gestión de la comunidad.",
-    "fuente": "Guía 34 MEN, Guía para el mejoramiento institucional"
+    "explicacion": "La Guía 34 propone autoevaluar y mejorar cuatro áreas: gestión directiva, gestión académica, gestión administrativa y financiera, y gestión de la comunidad. Cada proceso se valora en una escala de cuatro niveles: existencia, pertinencia, apropiación y mejoramiento continuo.",
+    "fuente": "Guía 34 MEN, Guía para el mejoramiento institucional (2008)"
   },
   {
     "id": "directivos-05",
@@ -104,20 +104,20 @@
     "contexto": null,
     "enunciado": "En la ruta de mejoramiento de la Guía 34, ¿con qué paso comienza el ciclo?",
     "opciones": [
-      "La autoevaluación institucional, que identifica fortalezas y oportunidades de mejora",
-      "La elaboración del plan de mejoramiento con metas y responsables",
-      "La definición de las sanciones para quienes incumplen los compromisos",
-      "La ejecución de acciones correctivas decididas por el rector"
+      "La elaboración del plan de mejoramiento, porque define de entrada las metas y los responsables de las acciones",
+      "La autoevaluación institucional, que identifica las fortalezas y las oportunidades de mejora del establecimiento",
+      "El seguimiento permanente, que permite verificar desde el comienzo qué acciones se están cumpliendo",
+      "La ejecución de las acciones correctivas que decida el rector con su equipo directivo, sin diagnóstico previo"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "retro": [
+      "Error: el plan se elabora después y se fundamenta en los resultados de la autoevaluación.",
       "Correcto: sin autoevaluación no hay diagnóstico en el cual basar el plan.",
-      "Error: el plan de mejoramiento se elabora después, a partir de los resultados de la autoevaluación.",
-      "Error: el ciclo no se centra en sanciones, sino en el diagnóstico y las acciones de mejora.",
+      "Error: el seguimiento es la tercera etapa; sin plan no hay acciones que verificar.",
       "Error: las acciones deben salir de un diagnóstico participativo, no de decisiones aisladas del rector."
     ],
-    "explicacion": "El ciclo de mejoramiento tiene tres pasos: autoevaluación, elaboración del plan de mejoramiento, y seguimiento y evaluación. La autoevaluación da la base para priorizar acciones.",
-    "fuente": "Guía 34 MEN, Guía para el mejoramiento institucional"
+    "explicacion": "La Guía 34 se organiza en tres etapas: autoevaluación institucional, elaboración de planes de mejoramiento y seguimiento permanente. La autoevaluación da la base para priorizar las acciones.",
+    "fuente": "Guía 34 MEN, Guía para el mejoramiento institucional (2008)"
   },
   {
     "id": "directivos-06",
@@ -126,22 +126,22 @@
     "dificultad": 1,
     "tipo": "conocimiento",
     "contexto": null,
-    "enunciado": "En un establecimiento educativo oficial, ¿quién es el ordenador del gasto del Fondo de Servicios Educativos?",
+    "enunciado": "Según el artículo 10 de la Ley 715 de 2001, ¿a quién corresponde administrar el Fondo de Servicios Educativos de una institución educativa oficial?",
     "opciones": [
-      "El consejo directivo en pleno",
-      "El rector",
-      "El pagador de la entidad territorial",
-      "El presidente del consejo de padres"
+      "Al consejo directivo en pleno, porque es el máximo órgano de decisión del gobierno escolar",
+      "Al pagador de la entidad territorial, que gira los recursos y lleva las cuentas del establecimiento",
+      "Al presidente del consejo de padres, porque los recursos del Fondo benefician directamente a las familias",
+      "Al rector, quien responde por su manejo y rinde informe al consejo directivo cada seis meses"
     ],
-    "correcta": 1,
+    "correcta": 3,
     "retro": [
-      "Error: el consejo directivo aprueba el presupuesto, pero no ordena el gasto.",
-      "Correcto: el rector ordena el gasto y responde por el manejo del Fondo.",
-      "Error: el pagador de la entidad territorial no administra el Fondo del establecimiento.",
-      "Error: el consejo de padres no tiene función en la ordenación del gasto."
+      "Error: la ley asigna la administración del Fondo al rector, no al consejo directivo.",
+      "Error: la entidad territorial transfiere recursos, pero no administra el Fondo del establecimiento.",
+      "Error: el consejo de padres no tiene función de administración del Fondo.",
+      "Correcto: administrar el Fondo es función del rector (art. 10, num. 10.16)."
     ],
-    "explicacion": "La norma del Fondo de Servicios Educativos asigna al rector la ordenación del gasto, mientras el consejo directivo aprueba el presupuesto y hace seguimiento a su ejecución.",
-    "fuente": "Decreto 4791 de 2008 (compilado en el Decreto 1075 de 2015) y Ley 715 de 2001"
+    "explicacion": "Los Fondos de Servicios Educativos manejan los recursos para gastos distintos a los de personal (art. 11). La administración del Fondo es función del rector (art. 10, num. 10.16).",
+    "fuente": "Ley 715 de 2001, arts. 10 (num. 10.16) y 11"
   },
   {
     "id": "directivos-07",
@@ -152,20 +152,20 @@
     "contexto": null,
     "enunciado": "Según la Ley 1620 de 2013, ¿quién preside el comité escolar de convivencia?",
     "opciones": [
-      "El docente orientador",
-      "El personero estudiantil",
-      "El rector del establecimiento",
-      "El presidente del consejo de padres"
+      "El docente con función de orientación, por ser quien mejor conoce los casos de convivencia y de apoyo psicosocial",
+      "El personero estudiantil, porque representa a los estudiantes y vela por sus derechos y deberes",
+      "El rector, quien representa al establecimiento ante las autoridades y la comunidad escolar y preside el comité",
+      "El presidente del consejo de padres de familia, porque encabeza a la comunidad educativa en el comité"
     ],
     "correcta": 2,
     "retro": [
-      "Error: el orientador es integrante del comité, pero no lo preside.",
+      "Error: el orientador es uno de los siete integrantes, pero no lo preside.",
       "Error: el personero es integrante, pero no preside.",
-      "Correcto: el rector preside el comité escolar de convivencia.",
+      "Correcto: el rector preside el comité (Ley 1620, art. 12).",
       "Error: el presidente del consejo de padres es integrante, no presidente."
     ],
-    "explicacion": "El comité escolar de convivencia está presidido por el rector e integrado, entre otros, por el personero, el docente orientador, el coordinador, y los presidentes de los consejos de padres y de estudiantes.",
-    "fuente": "Ley 1620 de 2013 y Decreto 1965 de 2013"
+    "explicacion": "El comité tiene siete integrantes (art. 12): el rector, que lo preside; el personero estudiantil; el docente con función de orientación; el coordinador cuando exista ese cargo; el presidente del consejo de padres; el presidente del consejo de estudiantes; y un docente que lidere procesos o estrategias de convivencia escolar. Sesiona como mínimo cada dos meses (Decreto 1965, art. 23).",
+    "fuente": "Ley 1620 de 2013, art. 12; Decreto 1965 de 2013, arts. 22 y 23"
   },
   {
     "id": "directivos-08",
@@ -176,20 +176,20 @@
     "contexto": null,
     "enunciado": "En la Guía 34, ¿cuál de los siguientes procesos pertenece a la gestión de la comunidad?",
     "opciones": [
-      "Gestión de aula",
-      "Apoyo financiero y contable",
-      "Direccionamiento estratégico",
-      "Prevención de riesgos"
+      "Gestión de aula, que organiza las prácticas pedagógicas del docente con sus estudiantes",
+      "Apoyo financiero y contable, que registra los ingresos y los gastos del establecimiento",
+      "Prevención de riesgos, que protege a la comunidad educativa frente a amenazas del entorno",
+      "Direccionamiento estratégico, que define el horizonte institucional y la misión del colegio"
     ],
-    "correcta": 3,
+    "correcta": 2,
     "retro": [
       "Error: la gestión de aula pertenece a la gestión académica.",
       "Error: el apoyo financiero y contable pertenece a la gestión administrativa y financiera.",
-      "Error: el direccionamiento estratégico pertenece a la gestión directiva.",
-      "Correcto: la prevención de riesgos es un proceso de la gestión de la comunidad."
+      "Correcto: la prevención de riesgos es un proceso de la gestión de la comunidad.",
+      "Error: el direccionamiento estratégico pertenece a la gestión directiva."
     ],
     "explicacion": "La gestión de la comunidad abarca inclusión, proyección a la comunidad, participación y convivencia, y prevención de riesgos. Conocer a qué área pertenece cada proceso permite ubicar bien los hallazgos de la autoevaluación.",
-    "fuente": "Guía 34 MEN, Guía para el mejoramiento institucional"
+    "fuente": "Guía 34 MEN, Guía para el mejoramiento institucional (2008), cuadro 3"
   },
   {
     "id": "directivos-09",
@@ -198,22 +198,22 @@
     "dificultad": 2,
     "tipo": "conocimiento",
     "contexto": null,
-    "enunciado": "¿A quién corresponde evaluar anualmente el desempeño de los docentes y coordinadores que laboran en un establecimiento educativo?",
+    "enunciado": "¿Quién realiza la evaluación anual de desempeño de los docentes y coordinadores que laboran en un establecimiento educativo oficial?",
     "opciones": [
-      "Al rector del establecimiento",
-      "Al consejo directivo",
-      "Al consejo académico",
-      "Al personero estudiantil"
+      "El consejo directivo, como órgano que representa a toda la comunidad educativa del establecimiento",
+      "El rector del establecimiento, que evalúa a los educadores a su cargo al terminar cada año escolar",
+      "El consejo académico, porque conoce de cerca el trabajo pedagógico de cada docente del colegio",
+      "El personero estudiantil, porque recoge las quejas y opiniones de los estudiantes sobre sus profesores"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "retro": [
-      "Correcto: el rector evalúa al personal docente y directivo a su cargo.",
-      "Error: el consejo directivo no evalúa individualmente el desempeño de los docentes.",
-      "Error: el consejo académico orienta lo pedagógico, no califica a los docentes.",
-      "Error: el personero defiende los derechos de los estudiantes; no evalúa docentes."
+      "Error: el consejo directivo participa en la evaluación anual (Ley 115, art. 144) aportando información, pero no la realiza.",
+      "Correcto: el rector evalúa al personal docente y directivo docente a su cargo.",
+      "Error: el consejo académico orienta lo pedagógico, no califica el desempeño de los docentes.",
+      "Error: el personero promueve los derechos de los estudiantes; no evalúa docentes."
     ],
-    "explicacion": "La Ley 715 de 2001 señala que el rector realiza la evaluación anual del desempeño de los docentes, directivos docentes y administrativos a su cargo, con la metodología de la Guía 31.",
-    "fuente": "Ley 715 de 2001, art. 10; Guía 31 MEN"
+    "explicacion": "La Ley 715 (art. 10, num. 10.10) asigna al rector la evaluación anual de desempeño de los docentes, directivos docentes y administrativos a su cargo. El Decreto 1278 (art. 32) la ubica al terminar cada año escolar, para quien haya servido más de tres meses; a los rectores los evalúa su superior jerárquico. Pondera 70 % competencias funcionales y 30 % comportamentales (Decreto 1075, art. 2.4.1.5.2.1).",
+    "fuente": "Ley 715 de 2001, art. 10 (num. 10.10); Decreto 1278 de 2002, art. 32; Decreto 1075 de 2015, arts. 2.4.1.5.1.5 y 2.4.1.5.2.1"
   },
   {
     "id": "directivos-10",
@@ -224,20 +224,20 @@
     "contexto": null,
     "enunciado": "¿Para qué sirve la Guía 31 del Ministerio de Educación?",
     "opciones": [
-      "Para orientar la autoevaluación y el plan de mejoramiento institucional",
-      "Para orientar la evaluación anual de desempeño de docentes y directivos docentes",
-      "Para definir los estándares básicos de competencias por área",
-      "Para establecer los grados del escalafón y sus requisitos de ascenso"
+      "Para orientar la autoevaluación institucional y la construcción del plan de mejoramiento de cada colegio",
+      "Para orientar la evaluación anual de desempeño laboral de docentes y directivos docentes del sector oficial estatal",
+      "Para definir los estándares básicos de competencias de cada área en los grados de básica y media",
+      "Para establecer los grados del escalafón, los niveles salariales y los requisitos de ascenso de los docentes"
     ],
     "correcta": 1,
     "retro": [
       "Error: la autoevaluación institucional la orienta la Guía 34.",
       "Correcto: es la guía metodológica de la evaluación anual de desempeño.",
       "Error: los estándares básicos de competencias son otro documento del Ministerio.",
-      "Error: el escalafón se regula en el estatuto docente, no en la Guía 31."
+      "Error: el escalafón (3 grados y 4 niveles) se regula en el Decreto 1278, arts. 19 a 22, no en la Guía 31."
     ],
-    "explicacion": "La Guía 31 (2008) es la guía metodológica de evaluación anual de desempeño laboral de docentes y directivos docentes. Incluye las competencias comportamentales que valora el concurso en la prueba psicotécnica.",
-    "fuente": "Guía 31 MEN (2008)"
+    "explicacion": "La Guía 31 (2008) es la guía metodológica de la evaluación anual de desempeño. Sus competencias comportamentales (liderazgo, comunicación y relaciones interpersonales, trabajo en equipo, negociación y mediación, compromiso social e institucional, iniciativa y orientación al logro) son las que valora la prueba psicotécnica del concurso.",
+    "fuente": "Guía 31 MEN (2008); Decreto 1075 de 2015, art. 2.4.1.5.2.1"
   },
   {
     "id": "directivos-11",
@@ -248,20 +248,20 @@
     "contexto": null,
     "enunciado": "¿Cuál es una función del consejo académico?",
     "opciones": [
-      "Adoptar el manual de convivencia de la institución",
-      "Aprobar el presupuesto anual del Fondo de Servicios Educativos",
-      "Estudiar el currículo y propiciar su continuo mejoramiento",
-      "Autorizar los contratos de mayor cuantía del establecimiento"
+      "Estudiar el currículo y el plan de estudios, y participar en su ajuste y en la evaluación institucional",
+      "Adoptar el manual de convivencia y el reglamento del establecimiento, con participación de la comunidad",
+      "Servir de última instancia para decidir las reclamaciones de estudiantes y padres sobre evaluación y promoción",
+      "Fijar los criterios de asignación de cupos y establecer los estímulos y sanciones para los estudiantes"
     ],
-    "correcta": 2,
+    "correcta": 0,
     "retro": [
-      "Error: adoptar el manual de convivencia corresponde al consejo directivo.",
-      "Error: el presupuesto del Fondo lo aprueba el consejo directivo.",
-      "Correcto: la revisión del currículo es función central del consejo académico.",
-      "Error: la autorización de contratos corresponde al consejo directivo y al rector, según la norma."
+      "Correcto: el estudio y ajuste del currículo es función central del consejo académico (art. 145).",
+      "Error: adoptar el reglamento o manual de convivencia es función del consejo directivo (art. 144).",
+      "Error: esa instancia es el consejo directivo (Decreto 1290, art. 11, num. 7).",
+      "Error: son funciones del consejo directivo (art. 144)."
     ],
-    "explicacion": "El consejo académico es la instancia consultiva del consejo directivo para la orientación pedagógica: estudia el currículo, organiza el plan de estudios y orienta la evaluación. Lo administrativo y lo financiero corresponde al consejo directivo y al rector.",
-    "fuente": "Ley 115 de 1994 y Decreto 1075 de 2015"
+    "explicacion": "El consejo académico, convocado y presidido por el rector, lo integran los directivos docentes y un docente por cada área o grado. Participa en el estudio, modificación y ajuste del currículo, el plan de estudios y la evaluación anual e institucional (art. 145). Las decisiones de gobierno, como el reglamento, los cupos o las reclamaciones, son del consejo directivo.",
+    "fuente": "Ley 115 de 1994, arts. 144 y 145; Decreto 1290 de 2009, art. 11"
   },
   {
     "id": "directivos-12",
@@ -270,22 +270,22 @@
     "dificultad": 2,
     "tipo": "conocimiento",
     "contexto": null,
-    "enunciado": "¿Ante quién debe el rector rendir periódicamente informes sobre la gestión y ejecución de los recursos del establecimiento?",
+    "enunciado": "Según el artículo 10 de la Ley 715 de 2001, ¿con qué periodicidad mínima debe el rector rendir informe al consejo directivo?",
     "opciones": [
-      "Solo ante el consejo de padres de familia",
-      "Únicamente ante el personero estudiantil",
-      "Solo ante los docentes del consejo académico",
-      "Ante el consejo directivo y la comunidad educativa"
+      "Una vez al año, al cierre del año lectivo, junto con la evaluación institucional",
+      "Cada periodo académico definido en el SIEE, al entregar las notas a las familias",
+      "Cada seis meses como mínimo, sin necesidad de que el consejo directivo se lo solicite",
+      "Únicamente cuando el consejo directivo o la secretaría de educación se lo soliciten por escrito"
     ],
-    "correcta": 3,
+    "correcta": 2,
     "retro": [
-      "Error: el consejo de padres es parte de la comunidad, pero no el único destinatario del informe.",
-      "Error: el personero no es el destinatario de los informes de gestión del rector.",
-      "Error: el consejo académico trata asuntos pedagógicos, no es la única instancia de rendición de cuentas.",
-      "Correcto: el rector rinde cuentas al consejo directivo y a la comunidad educativa."
+      "Error: la norma exige un informe al menos cada seis meses, no solo anual.",
+      "Error: la periodicidad no depende de los periodos del SIEE; la ley fija un mínimo de seis meses.",
+      "Correcto: el rector rinde informe al consejo directivo al menos cada seis meses (num. 10.15).",
+      "Error: el informe es un deber periódico del rector, no depende de que se lo pidan."
     ],
-    "explicacion": "El rector responde por la calidad del servicio y por el manejo del Fondo. Por eso presenta informes de gestión y de ejecución al consejo directivo y rinde cuentas a la comunidad educativa.",
-    "fuente": "Ley 715 de 2001, art. 10; Decreto 1075 de 2015"
+    "explicacion": "El rector responde por la calidad del servicio (num. 10.14) y debe rendir un informe al consejo directivo al menos cada seis meses (num. 10.15). Es un deber periódico de transparencia, no solo anual ni a petición.",
+    "fuente": "Ley 715 de 2001, art. 10 (nums. 10.14 y 10.15)"
   },
   {
     "id": "directivos-13",
@@ -296,20 +296,20 @@
     "contexto": "Rector de una institución oficial. Los docentes de educación física piden comprar balones y colchonetas, pero el presupuesto aprobado del Fondo de Servicios Educativos no tiene un rubro para ese gasto.",
     "enunciado": "¿Qué debe hacer el rector?",
     "opciones": [
-      "Proponer al consejo directivo una modificación del presupuesto y ejecutar la compra solo después de su aprobación",
-      "Pagar los equipos con el rubro de papelería y corregir el registro en el cierre del año",
-      "Pedir a los padres de familia una cuota para comprar los equipos y evitar el trámite",
-      "Aplazar la compra para el presupuesto del año siguiente sin informar a los docentes"
+      "Pagar los equipos con el rubro de papelería, que sí tiene saldo, y corregir el registro al cierre del año",
+      "Pedir a los padres una cuota voluntaria para comprar los equipos y evitar así el trámite presupuestal",
+      "Proponer al consejo directivo la modificación del presupuesto y comprar solo cuando esté aprobada",
+      "Aplazar la compra al presupuesto del año siguiente sin informar a los docentes de la decisión"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "retro": [
-      "Correcto: respeta el presupuesto aprobado y sigue el procedimiento de modificación.",
       "Error: usar un rubro para otro fin sin aprobación incumple el presupuesto aprobado.",
-      "Error: cobrar cuotas a los padres para evitar el trámite contradice el manejo regulado de los recursos.",
-      "Error: aplazar sin comunicar evade la necesidad y no atiende la solicitud docente."
+      "Error: pedir aportes a las familias para eludir el procedimiento desconoce el manejo regulado de los recursos del Fondo.",
+      "Correcto: respeta el presupuesto aprobado y sigue el procedimiento de modificación.",
+      "Error: aplazar sin comunicar evade la necesidad y no atiende la solicitud de los docentes."
     ],
-    "explicacion": "El rector es ordenador del gasto, pero solo puede ejecutar lo que el presupuesto aprobado por el consejo directivo permite. Si surge una necesidad nueva, se tramitan adiciones o traslados presupuestales ante ese consejo.",
-    "fuente": "Decreto 4791 de 2008 (compilado en el Decreto 1075 de 2015)"
+    "explicacion": "El rector administra el Fondo (Ley 715, art. 10, num. 10.16), pero solo puede ejecutar lo que el presupuesto aprobado permite. Las necesidades nuevas se tramitan como modificaciones presupuestales ante el consejo directivo.",
+    "fuente": "Ley 715 de 2001, arts. 10 (num. 10.16) y 11; Decreto 1075 de 2015 (compila el Decreto 4791 de 2008, Fondos de Servicios Educativos)"
   },
   {
     "id": "directivos-14",
@@ -320,20 +320,20 @@
     "contexto": "Rector de una institución. Un docente llega tarde de forma reiterada a la primera hora de clase y los estudiantes pierden tiempo de aprendizaje.",
     "enunciado": "¿Cuál es la mejor actuación del rector?",
     "opciones": [
-      "Descontarle del salario cada retraso sin hablar con él, como medida inmediata",
-      "Dialogar con el docente, dejar constancia escrita de los compromisos y hacer seguimiento antes de acudir a otras medidas",
-      "Hacer pública la lista de retardos en la cartelera para generar presión del grupo",
-      "No intervenir mientras los resultados académicos del grupo no cambien"
+      "Descontarle del salario cada retraso sin hablar con él, como medida inmediata y ejemplarizante ante los demás docentes",
+      "Publicar en la cartelera la lista de retardos de cada docente para que la presión del grupo corrija la conducta",
+      "No intervenir mientras los resultados académicos del grupo no muestren una caída visible en las evaluaciones",
+      "Dialogar con el docente, dejar compromisos por escrito y hacer seguimiento antes de acudir a otras medidas"
     ],
-    "correcta": 1,
+    "correcta": 3,
     "retro": [
-      "Error: no puede descontar salario por decisión propia y sin debido proceso.",
-      "Correcto: combina diálogo, evidencia y seguimiento, respetando el debido proceso.",
+      "Error: actúa sin escucharlo y sin debido proceso; las novedades se reportan y las sanciones siguen un procedimiento.",
       "Error: exponer públicamente al docente irrespeta su dignidad y no corrige la conducta.",
-      "Error: esperar a que se afecten los resultados es evadir una función del rector."
+      "Error: esperar a que se afecten los resultados es evadir una función del rector.",
+      "Correcto: combina diálogo, evidencia y seguimiento, respetando el debido proceso."
     ],
-    "explicacion": "El rector debe velar por el cumplimiento de las funciones docentes y la prestación oportuna del servicio. Lo hace primero con el diálogo y las evidencias; las medidas disciplinarias siguen un procedimiento y no son inmediatas.",
-    "fuente": "Ley 715 de 2001, art. 10; Guía 31 MEN"
+    "explicacion": "El rector controla el cumplimiento de las funciones del personal y reporta las novedades (Ley 715, art. 10, num. 10.6) y puede imponer sanciones conforme a las normas (num. 10.11), siempre con debido proceso (Ley 1952 de 2019). Lo primero es el diálogo y las evidencias; las medidas disciplinarias no son inmediatas.",
+    "fuente": "Ley 715 de 2001, art. 10 (nums. 10.6 y 10.11); Ley 1952 de 2019"
   },
   {
     "id": "directivos-15",
@@ -344,20 +344,20 @@
     "contexto": "Coordinador de una institución. Una madre reclama porque su hija perdió matemáticas y asegura que el docente calificó mal una evaluación.",
     "enunciado": "¿Qué debe hacer el coordinador?",
     "opciones": [
-      "Ordenar al docente que cambie la nota para evitar que el reclamo escale",
-      "Decirle a la madre que las notas son definitivas y que no hay instancia de reclamo",
-      "Escuchar a la madre y al docente, revisar las evidencias de evaluación según el sistema institucional (SIEE) y responder dentro de los procedimientos",
-      "Enviar el caso directamente a la secretaría de educación sin hablar con las partes"
+      "Ordenar al docente que modifique la nota de inmediato para que el reclamo no escale a otras instancias",
+      "Informar a la madre que las notas son definitivas y que el sistema de evaluación no contempla reclamaciones",
+      "Remitir el caso directamente a la secretaría de educación sin hablar antes con la madre ni con el docente",
+      "Escuchar a la madre y al docente, revisar las evidencias según el SIEE y responder por el conducto regular"
     ],
-    "correcta": 2,
+    "correcta": 3,
     "retro": [
-      "Error: ordenar un cambio de nota sin revisar evidencias vulnera la autonomía y el debido proceso.",
-      "Error: el SIEE contempla instancias de reclamación; negarlas es una actitud rígida.",
-      "Correcto: escucha, revisa evidencias y aplica el procedimiento del SIEE.",
-      "Error: saltarse las instancias internas y no dialogar con las partes evade la responsabilidad del coordinador."
+      "Error: ordenar un cambio de nota sin revisar evidencias vulnera la autonomía del docente y el debido proceso.",
+      "Error: el SIEE debe definir las instancias y mecanismos de reclamación (Decreto 1290, art. 4); negarlos es rigidez.",
+      "Error: saltarse las instancias internas evade la responsabilidad; las reclamaciones llegan hasta el consejo directivo (art. 11, num. 7).",
+      "Correcto: escucha, revisa evidencias y aplica el procedimiento del SIEE."
     ],
-    "explicacion": "Los reclamos sobre evaluación se tramitan siguiendo el conducto regular que fija el sistema institucional de evaluación de los estudiantes: docente, coordinador, comisión de evaluación y consejo académico, con evidencias.",
-    "fuente": "Decreto 1075 de 2015 (evaluación de estudiantes); Guía 34 MEN"
+    "explicacion": "El SIEE hace parte del PEI e incluye las instancias y mecanismos de reclamación (Decreto 1290, art. 4). Se escucha a las partes, se revisan evidencias y se sigue el conducto regular; el consejo directivo es la instancia para decidir reclamaciones de estudiantes y padres sobre evaluación o promoción (art. 11, num. 7).",
+    "fuente": "Decreto 1290 de 2009, arts. 4 y 11 (compilado en el Decreto 1075 de 2015, 2.3.3.3.3.x)"
   },
   {
     "id": "directivos-16",
@@ -368,20 +368,20 @@
     "contexto": "Coordinador de convivencia. Dos estudiantes de séptimo discutieron en el patio por un balón. No hubo golpes ni daños y ambos siguen molestos.",
     "enunciado": "¿Cuál es la mejor acción?",
     "opciones": [
-      "Suspenderlos tres días de inmediato para dar ejemplo al resto del grupo",
-      "Pedirles que se den la mano y no registrar nada para no hacer un problema mayor",
-      "Citar de inmediato a la Policía de Infancia y Adolescencia para que intervenga",
-      "Reunirlos, mediar para que expresen lo ocurrido, acordar compromisos y registrar el caso con seguimiento"
+      "Reunirlos, mediar pedagógicamente, acordar compromisos y registrar el caso con seguimiento",
+      "Suspenderlos tres días de inmediato para dar ejemplo al resto del grupo y prevenir nuevos conflictos",
+      "Pedirles que se den la mano y no registrar nada, para no convertir un conflicto menor en un problema mayor",
+      "Citar a la Policía de Infancia y Adolescencia para que intervenga, por precaución ante una posible agresión"
     ],
-    "correcta": 3,
+    "correcta": 0,
     "retro": [
-      "Error: una sanción tan severa es desproporcionada para una situación sin daño y sin proceso.",
-      "Error: no registrar ni hacer seguimiento deja sin atender el conflicto de fondo.",
-      "Error: acudir a la Policía es desproporcionado; no hay un delito ni una situación tipo III.",
-      "Correcto: es una situación tipo I que se resuelve con mediación pedagógica y seguimiento."
+      "Correcto: es una situación tipo I que se resuelve con mediación pedagógica y seguimiento.",
+      "Error: es una sanción desproporcionada para una situación tipo I y sin proceso.",
+      "Error: no dejar constancia ni hacer seguimiento deja sin atender el conflicto de fondo.",
+      "Error: no hay delito ni daño al cuerpo o la salud; no es una situación tipo III."
     ],
-    "explicacion": "Los conflictos manejados inadecuadamente y sin daño al cuerpo o a la salud son situaciones tipo I. Se atienden con mediación pedagógica y se registran para el seguimiento, según el manual de convivencia.",
-    "fuente": "Ley 1620 de 2013; Decreto 1965 de 2013"
+    "explicacion": "Según el artículo 40 del Decreto 1965, las situaciones tipo I son los conflictos manejados inadecuadamente y las situaciones esporádicas que inciden negativamente en el clima escolar y que en ningún caso generan daños al cuerpo o a la salud. El artículo 42 ordena reunir de inmediato a las partes, mediar pedagógicamente, fijar una solución imparcial, equitativa y justa con constancia, y hacer seguimiento.",
+    "fuente": "Decreto 1965 de 2013, arts. 40 y 42 (compilado en el Decreto 1075 de 2015, 2.3.5.4.2.6 y 2.3.5.4.2.8)"
   },
   {
     "id": "directivos-17",
@@ -392,20 +392,20 @@
     "contexto": "Rector de una institución. Una estudiante de décimo cuenta a la orientadora que un docente la ha tocado de forma indebida varias veces. La orientadora informa al rector de inmediato.",
     "enunciado": "¿Qué debe hacer el rector?",
     "opciones": [
-      "Activar el protocolo de atención, informar de inmediato a las autoridades competentes y a la familia, y garantizar la protección de la estudiante",
-      "Citar primero al docente para escuchar su versión y decidir después si se reporta",
-      "Esperar a la reunión mensual del comité de convivencia para decidir el procedimiento",
-      "Pedir a la estudiante que repita su relato ante el consejo directivo para verificar los hechos"
+      "Activar el protocolo tipo III: informar de inmediato a la Policía y a la familia, y proteger a la estudiante",
+      "Citar primero al docente para escuchar su versión y decidir después, con base en ella, si se reporta",
+      "Esperar a la próxima sesión ordinaria del comité de convivencia para decidir el procedimiento con todos sus miembros",
+      "Pedir a la estudiante que repita su relato ante el consejo directivo para verificar los hechos antes de reportar"
     ],
     "correcta": 0,
     "retro": [
-      "Correcto: se trata de una situación tipo III y el rector debe reportar de inmediato y proteger a la estudiante.",
-      "Error: confrontar primero al docente retrasa el reporte obligatorio y puede poner en riesgo a la estudiante.",
-      "Error: esperar la reunión ordinaria demora una actuación que debe ser inmediata.",
-      "Error: repetir el relato ante varias personas revictimiza a la estudiante; no corresponde verificar los hechos al colegio."
+      "Correcto: es una situación tipo III; el presidente del comité reporta de inmediato a la Policía Nacional.",
+      "Error: confrontar al docente antes de reportar retrasa el aviso inmediato y puede poner en riesgo a la estudiante.",
+      "Error: el reporte debe ser inmediato y por el medio más expedito; el comité se cita después, no antes.",
+      "Error: repetir el relato revictimiza; verificar los hechos corresponde a las autoridades, no al colegio."
     ],
-    "explicacion": "Las situaciones que pueden constituir presuntos delitos contra la libertad, integridad y formación sexual son tipo III. El presidente del comité de convivencia (el rector) debe informar de inmediato a la Policía Nacional y a los padres, y activar la ruta de protección.",
-    "fuente": "Ley 1620 de 2013; Decreto 1965 de 2013 (compilado en el Decreto 1075 de 2015)"
+    "explicacion": "Los presuntos delitos contra la libertad, integridad y formación sexual son situaciones tipo III (Decreto 1965, art. 40). El artículo 44 ordena atención inmediata en salud, informar de inmediato a los padres o acudientes, y que el presidente del comité (el rector) informe de inmediato, por el medio más expedito, a la Policía Nacional. Luego se cita al comité con reserva, se adoptan medidas de protección, se reporta al Sistema de Información Unificado y se hace seguimiento.",
+    "fuente": "Decreto 1965 de 2013, arts. 40 y 44 (compilado en el Decreto 1075 de 2015, 2.3.5.4.2.6 y 2.3.5.4.2.10); Ley 1098 de 2006, art. 44"
   },
   {
     "id": "directivos-18",
@@ -416,20 +416,20 @@
     "contexto": "Rector de una institución. En una reunión con familias, varios padres preguntan en qué se gastaron los recursos del Fondo de Servicios Educativos el año pasado.",
     "enunciado": "¿Cuál es la mejor respuesta del rector?",
     "opciones": [
-      "Decir que esa información es solo de la secretaría de educación y no le corresponde divulgarla",
-      "Presentar el informe de ejecución aprobado por el consejo directivo, con sus soportes, y responder las preguntas de las familias",
-      "Entregar el informe únicamente a las madres líderes que conforman el consejo de padres",
-      "Responder verbalmente de forma general para evitar discusiones sobre cifras"
+      "Responder que esa información es solo de la secretaría de educación y que a él no le corresponde divulgarla ni explicarla a las familias",
+      "Entregar el informe únicamente a los padres líderes que conforman el consejo de padres, que son sus representantes",
+      "Dar una respuesta verbal y general sobre los gastos, para evitar discusiones innecesarias sobre las cifras",
+      "Presentar el informe de ejecución con sus soportes, ya conocido por el consejo directivo, y responder las preguntas"
     ],
-    "correcta": 1,
+    "correcta": 3,
     "retro": [
-      "Error: el rector responde por el manejo del Fondo y debe informar a su comunidad.",
-      "Correcto: la rendición de cuentas se hace con información clara y soportada.",
+      "Error: el rector administra el Fondo y debe informar a su comunidad.",
       "Error: informar solo a unos pocos excluye al resto de la comunidad educativa.",
-      "Error: una respuesta vaga evade la transparencia que exige la rendición de cuentas."
+      "Error: una respuesta vaga evade la transparencia que exige la rendición de cuentas.",
+      "Correcto: la rendición de cuentas se hace con información clara y soportada."
     ],
-    "explicacion": "Rendir cuentas implica informar con claridad cómo se usaron los recursos y qué resultados se obtuvieron. El rector presenta la ejecución del Fondo al consejo directivo y a la comunidad educativa.",
-    "fuente": "Ley 715 de 2001, art. 10; Decreto 1075 de 2015"
+    "explicacion": "El rector administra el Fondo (Ley 715, art. 10, num. 10.16), responde por la calidad del servicio (10.14) y rinde informe al consejo directivo al menos cada seis meses (10.15). Informar con claridad y con soportes es la forma de rendir cuentas ante la comunidad.",
+    "fuente": "Ley 715 de 2001, art. 10 (nums. 10.14 a 10.16)"
   },
   {
     "id": "directivos-19",
@@ -440,20 +440,20 @@
     "contexto": "Rector de una institución con 600 estudiantes. La autoevaluación institucional del año arrojó la gestión académica como la de menor valoración: los resultados de las pruebas Saber y el seguimiento a los estudiantes en riesgo de reprobación son los puntos más débiles.",
     "enunciado": "¿Qué debe hacer el rector con esos resultados?",
     "opciones": [
-      "Dejar el tema para el siguiente año, cuando se hagan otras evaluaciones",
-      "Sancionar a los docentes de las áreas con peores resultados para motivarlos",
-      "Liderar con el consejo académico un plan de mejoramiento con metas, responsables, cronograma y seguimiento periódico",
-      "Copiar el plan de mejoramiento de otra institución para ahorrar tiempo"
+      "Dejar el tema para el siguiente año, cuando se hagan otras evaluaciones que confirmen los resultados",
+      "Liderar con el consejo académico un plan de mejoramiento con metas, responsables, cronograma y seguimiento",
+      "Sancionar a los docentes de las áreas con peores resultados para motivarlos a mejorar el próximo año y asumir mayor compromiso con los resultados",
+      "Copiar el plan de mejoramiento de otra institución con mejores resultados para ahorrar tiempo de diseño"
     ],
-    "correcta": 2,
+    "correcta": 1,
     "retro": [
-      "Error: aplazar deja sin atender las debilidades identificadas.",
-      "Error: sancionar no mejora la gestión académica y rompe la construcción colectiva.",
+      "Error: aplazar deja sin atender las debilidades ya identificadas.",
       "Correcto: convierte el diagnóstico en un plan concreto y participativo.",
+      "Error: sancionar no mejora la gestión académica y rompe la construcción colectiva.",
       "Error: copiar un plan ajeno no responde al contexto ni a las causas propias."
     ],
-    "explicacion": "Después de la autoevaluación se elabora el plan de mejoramiento: se priorizan oportunidades, se fijan metas e indicadores, se asignan responsables y se hace seguimiento. Debe construirse con la comunidad educativa.",
-    "fuente": "Guía 34 MEN, Guía para el mejoramiento institucional"
+    "explicacion": "Después de la autoevaluación se elabora el plan de mejoramiento: se priorizan oportunidades, se fijan metas, se asignan responsables y se hace seguimiento (tercera etapa de la Guía 34). Debe construirse con la comunidad educativa, y el consejo académico participa en el ajuste del currículo y la evaluación institucional (Ley 115, art. 145).",
+    "fuente": "Guía 34 MEN, Guía para el mejoramiento institucional (2008); Ley 115 de 1994, art. 145"
   },
   {
     "id": "directivos-20",
@@ -464,20 +464,20 @@
     "contexto": "Director rural de una sede con un solo docente multigrado. El docente se incapacita por una semana y los estudiantes quedan sin clase.",
     "enunciado": "¿Qué debe hacer el director rural?",
     "opciones": [
-      "Suspender las clases hasta que el docente regrese y recuperar el tiempo después",
-      "Pedir a los padres que busquen y paguen a una persona que reemplace al docente",
-      "Enviar a los estudiantes a casa y registrar la ausencia sin informar a nadie",
-      "Informar de inmediato a la secretaría de educación para gestionar el reemplazo y organizar actividades pedagógicas temporales con la comunidad"
+      "Suspender las clases hasta que el docente regrese y recuperar el tiempo perdido después, durante el año",
+      "Pedir a los padres que busquen y paguen a una persona de la vereda que reemplace al docente mientras dura la incapacidad",
+      "Informar de inmediato a la secretaría para gestionar el reemplazo y organizar actividades pedagógicas temporales",
+      "Enviar a los estudiantes a casa y registrar la ausencia en el control de asistencia sin avisar a nadie más"
     ],
-    "correcta": 3,
+    "correcta": 2,
     "retro": [
       "Error: suspender el servicio vulnera el derecho a la educación de los estudiantes.",
       "Error: trasladar a las familias la contratación evade una responsabilidad de la entidad territorial.",
-      "Error: no informar impide que se provea el reemplazo y deja a los estudiantes sin servicio.",
-      "Correcto: gestiona el reemplazo ante quien corresponde y protege el derecho a aprender mientras tanto."
+      "Correcto: gestiona el reemplazo ante quien corresponde y protege el derecho a aprender mientras tanto.",
+      "Error: no informar impide que se provea el reemplazo y deja a los estudiantes sin servicio."
     ],
-    "explicacion": "La provisión de reemplazos es responsabilidad de la entidad territorial, y el directivo debe gestionarla con oportunidad. Mientras tanto, procura la continuidad del servicio con acciones pedagógicas.",
-    "fuente": "Ley 715 de 2001, art. 10 (funciones del rector y director rural)"
+    "explicacion": "Quien dirige el establecimiento controla el cumplimiento de funciones y reporta las novedades (Ley 715, art. 10, nums. 10.6 y 10.7). Proveer el servicio y los reemplazos es competencia de la entidad territorial (arts. 6 y 7); mientras tanto, el directivo procura la continuidad con acciones pedagógicas.",
+    "fuente": "Ley 715 de 2001, arts. 6, 7 y 10 (nums. 10.6 y 10.7)"
   },
   {
     "id": "directivos-21",
@@ -488,20 +488,20 @@
     "contexto": "Director rural de una escuela veredal. En época de cosecha, muchos estudiantes faltan a clase porque ayudan a sus familias, y los docentes proponen suspender las clases en esas semanas.",
     "enunciado": "¿Cuál es la mejor decisión del director rural?",
     "opciones": [
-      "Analizar el caso con la comunidad y el consejo directivo para acordar estrategias pedagógicas flexibles sin reducir el tiempo escolar establecido",
-      "Suspender las clases en esas semanas, porque la comunidad lo prefiere",
-      "Reportar la inasistencia a la secretaría de educación sin proponer ninguna acción",
-      "Ignorar el problema, porque la cosecha es una situación externa a la escuela"
+      "Suspender las clases en esas semanas, porque la comunidad lo prefiere y la cosecha es parte de su cultura",
+      "Acordar con la comunidad y el consejo directivo estrategias pedagógicas flexibles y contextualizadas sin reducir el tiempo escolar",
+      "Reportar la inasistencia a la secretaría de educación como un problema ajeno a la escuela, sin proponer acciones",
+      "Ignorar el problema, porque la cosecha es una situación externa a la escuela y no depende de la institución"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "retro": [
-      "Correcto: responde al contexto rural con diálogo y sin incumplir la norma.",
       "Error: suspender clases por decisión propia incumple el calendario y la intensidad horaria.",
+      "Correcto: responde al contexto rural con diálogo y sin incumplir la norma.",
       "Error: reportar sin proponer acciones evade el liderazgo pedagógico.",
       "Error: ignorar la situación desconoce el derecho a la educación y el contexto."
     ],
-    "explicacion": "El directivo rural articula la escuela con su comunidad. Puede flexibilizar estrategias (guías, tutorías, horarios de apoyo) con el consejo directivo, pero no reducir el tiempo escolar fijado por la norma.",
-    "fuente": "Decreto 1075 de 2015; Guía 34 MEN (gestión de la comunidad)"
+    "explicacion": "La autonomía escolar permite adaptar áreas a necesidades regionales, adoptar métodos de enseñanza y organizar actividades formativas dentro de los lineamientos del MEN (Ley 115, art. 77). El directivo rural articula la escuela con su comunidad y puede flexibilizar estrategias (guías, tutorías, horarios de apoyo), pero no reducir el tiempo escolar fijado por la norma.",
+    "fuente": "Ley 115 de 1994, art. 77; Guía 34 MEN (gestión de la comunidad)"
   },
   {
     "id": "directivos-22",
@@ -512,20 +512,20 @@
     "contexto": "Coordinador académico. Los docentes de un grado califican con criterios muy distintos y las familias se quejan de falta de uniformidad.",
     "enunciado": "¿Cuál es la mejor acción del coordinador?",
     "opciones": [
-      "Imponer por circular una escala única y exigir cambiar las notas ya registradas",
-      "Convocar a los docentes para revisar y acordar criterios comunes de evaluación según el SIEE, con seguimiento posterior",
-      "Responder a los padres que cada docente es autónomo y no se puede unificar",
-      "Informar al rector de los docentes con calificaciones distintas sin hablar con ellos"
+      "Imponer por circular una escala única y exigir que se cambien las notas que ya están registradas en el grado",
+      "Convocar a los docentes para acordar criterios comunes de evaluación según el SIEE y hacer seguimiento posterior",
+      "Responder a los padres que cada docente es autónomo en sus criterios y que no es posible unificarlos",
+      "Informar al rector cuáles docentes califican distinto, sin hablar antes con ellos ni acompañarlos"
     ],
     "correcta": 1,
     "retro": [
       "Error: imponer y cambiar notas ya registradas desconoce el proceso y la participación.",
       "Correcto: usa el liderazgo pedagógico para construir criterios comunes.",
-      "Error: el SIEE exige coherencia; negar la necesidad de unificar es una actitud evasiva.",
+      "Error: el SIEE exige coherencia en los criterios; negar la necesidad de unificar es una actitud evasiva.",
       "Error: reportar sin dialogar con los docentes omite su función de acompañamiento."
     ],
-    "explicacion": "La evaluación debe aplicarse con los criterios del sistema institucional (SIEE). El coordinador académico acompaña y facilita acuerdos entre docentes mediante el diálogo, sin saltarse los procedimientos.",
-    "fuente": "Decreto 1075 de 2015 (evaluación de estudiantes); Guía 34 MEN (gestión académica)"
+    "explicacion": "El SIEE hace parte del PEI y define criterios de evaluación y promoción, la escala institucional y las acciones para garantizar que los docentes cumplan los procesos evaluativos (Decreto 1290, art. 4). El coordinador académico facilita acuerdos entre docentes mediante el diálogo, sin saltarse los procedimientos.",
+    "fuente": "Decreto 1290 de 2009, art. 4 (compilado en el Decreto 1075 de 2015, 2.3.3.3.3.x); Guía 34 MEN (gestión académica)"
   },
   {
     "id": "directivos-23",
@@ -536,20 +536,20 @@
     "contexto": "Rector de una institución. Dos docentes de la misma área tienen un conflicto que ya es evidente para los estudiantes y afecta el trabajo del área.",
     "enunciado": "¿Qué debe hacer el rector?",
     "opciones": [
-      "Amonestar públicamente a ambos en la reunión general para que no se repita",
-      "Trasladar a uno de ellos a otra sede sin escuchar a las partes",
-      "Reunir a ambos docentes, mediar para identificar el origen del conflicto y acordar compromisos con seguimiento",
-      "Esperar a que se resuelva solo, porque es un asunto personal entre colegas"
+      "Amonestarlos públicamente a ambos en la reunión general, para que el ejemplo evite que el conflicto se repita",
+      "Trasladar a uno de ellos a otra sede sin escuchar a las partes, para separar a los docentes en conflicto",
+      "Esperar a que se resuelva solo, porque es un asunto personal entre colegas que no compete a la dirección",
+      "Reunir a ambos docentes, mediar para identificar el origen del conflicto y acordar compromisos con seguimiento"
     ],
-    "correcta": 2,
+    "correcta": 3,
     "retro": [
       "Error: la amonestación pública daña el clima y no soluciona el conflicto.",
       "Error: trasladar sin escuchar es una decisión arbitraria que evita el conflicto en vez de resolverlo.",
-      "Correcto: media con las partes para llegar a acuerdos.",
-      "Error: ignorarlo deja que el conflicto siga afectando el clima institucional."
+      "Error: ignorarlo deja que el conflicto siga afectando el clima institucional.",
+      "Correcto: media con las partes para llegar a acuerdos."
     ],
-    "explicacion": "El rector responde por el clima institucional y por promover la convivencia. Ante un conflicto laboral actúa como mediador: escucha, identifica intereses y concreta acuerdos con seguimiento.",
-    "fuente": "Guía 34 MEN (clima escolar); Ley 715 de 2001, art. 10"
+    "explicacion": "El rector dirige los equipos docentes y establece los canales y mecanismos de comunicación (Ley 715, art. 10, num. 10.5). Ante un conflicto laboral actúa como mediador: escucha, identifica intereses y concreta acuerdos con seguimiento.",
+    "fuente": "Ley 715 de 2001, art. 10 (num. 10.5); Guía 34 MEN (clima escolar)"
   },
   {
     "id": "directivos-24",
@@ -560,20 +560,20 @@
     "contexto": "Rector de una institución. Debe realizar la evaluación anual de desempeño de un docente con quien tuvo un conflicto personal el año anterior.",
     "enunciado": "¿Cuál es la mejor actuación del rector?",
     "opciones": [
-      "Calificar con la nota más baja para dejar claro quién tiene la autoridad",
-      "Calificar con la nota más alta para evitar un nuevo conflicto con el docente",
-      "Delegar la calificación en el coordinador para no tomar parte en el asunto",
-      "Evaluar con base en los compromisos concertados y las evidencias del año, y dar retroalimentación al docente"
+      "Evaluar con base en las evidencias del año y los criterios de la escala oficial, y retroalimentar al docente",
+      "Calificar con la nota más baja posible para dejar claro quién tiene la autoridad en la institución y evitar futuros desafíos",
+      "Calificar con la nota más alta para evitar un nuevo conflicto con el docente y cuidar el clima laboral",
+      "Delegar la calificación en el coordinador para no tomar parte en un asunto en el que se siente involucrado"
     ],
-    "correcta": 3,
+    "correcta": 0,
     "retro": [
+      "Correcto: la evaluación se sustenta en evidencias y criterios, no en percepciones.",
       "Error: calificar bajo por el conflicto personal es subjetivo e injusto.",
       "Error: calificar alto por evitar conflicto desvirtúa el sentido de la evaluación.",
-      "Error: la evaluación es función del rector; delegarla evade su responsabilidad.",
-      "Correcto: la evaluación se sustenta en compromisos y evidencias, no en percepciones."
+      "Error: la evaluación es función del rector (Ley 715, art. 10, num. 10.10); delegarla evade su responsabilidad."
     ],
-    "explicacion": "La evaluación anual se basa en los compromisos concertados al inicio del período y en las evidencias recogidas durante el año. El evaluador debe ser objetivo y dar retroalimentación al evaluado.",
-    "fuente": "Guía 31 MEN; Ley 715 de 2001, art. 10"
+    "explicacion": "La evaluación se rige por principios como objetividad, confiabilidad, transparencia y pertinencia (Decreto 1278, art. 29). Pondera 70 % competencias funcionales y 30 % comportamentales, con la escala Sobresaliente 90-100, Satisfactorio 60-89 y No satisfactorio 1-59 (Decreto 1075, arts. 2.4.1.5.2.1 y 2.4.1.5.2.6). El evaluador debe ser objetivo y dar retroalimentación al evaluado.",
+    "fuente": "Ley 715 de 2001, art. 10 (num. 10.10); Decreto 1278 de 2002, arts. 29 y 32; Decreto 1075 de 2015, arts. 2.4.1.5.2.1 y 2.4.1.5.2.6"
   },
   {
     "id": "directivos-25",
@@ -584,20 +584,20 @@
     "contexto": "Rector de una institución. Los padres de familia proponen cambiar un artículo del manual de convivencia sobre el uso del celular en clase.",
     "enunciado": "¿Qué debe hacer el rector?",
     "opciones": [
-      "Llevar la propuesta al consejo directivo, que adopta las modificaciones tras una discusión con participación de la comunidad",
-      "Modificar el manual por resolución rectoral para resolver rápido la petición",
-      "Rechazar la propuesta porque el manual no se puede modificar nunca",
-      "Aplicar la nueva regla de manera informal sin cambiar el manual escrito"
+      "Llevar la propuesta al consejo directivo, que adopta los cambios tras una discusión con la comunidad educativa",
+      "Modificar el manual por resolución rectoral para resolver rápido la petición de los padres de familia y evitar discusiones largas",
+      "Rechazar la propuesta porque el manual, una vez adoptado, no puede modificarse en ninguna circunstancia",
+      "Aplicar la nueva regla de manera informal en el aula sin cambiar el manual escrito, mientras se decide"
     ],
     "correcta": 0,
     "retro": [
       "Correcto: el consejo directivo adopta el manual con participación de la comunidad.",
       "Error: el rector no puede modificar por sí solo un manual que adopta el consejo directivo.",
-      "Error: el manual puede revisarse y actualizarse siguiendo el procedimiento.",
+      "Error: el manual debe revisarse y ajustarse cada año en un proceso participativo.",
       "Error: aplicar reglas que no están en el manual vulnera el debido proceso."
     ],
-    "explicacion": "Al consejo directivo le corresponde adoptar el manual de convivencia. Las modificaciones deben construirse con participación de la comunidad educativa, y no por decisión unilateral del rector.",
-    "fuente": "Ley 115 de 1994 y Decreto 1075 de 2015 (funciones del consejo directivo)"
+    "explicacion": "Al consejo directivo le corresponde adoptar el reglamento o manual de convivencia (Ley 115, arts. 87 y 144). La Ley 1620 (art. 17) ordena revisar y ajustar cada año el PEI, el manual de convivencia y el SIEE en un proceso participativo, y el manual debe incluir la ruta de atención integral y los protocolos (art. 21).",
+    "fuente": "Ley 115 de 1994, arts. 87 y 144; Ley 1620 de 2013, arts. 17 y 21"
   },
   {
     "id": "directivos-26",
@@ -608,20 +608,20 @@
     "contexto": "Coordinador de convivencia. Una estudiante de octavo cuenta que sus compañeros la insultan y publican burlas sobre ella en redes sociales desde hace semanas.",
     "enunciado": "¿Qué debe hacer el coordinador?",
     "opciones": [
-      "Pedirle a la estudiante que ignore los mensajes y no responda a sus compañeros",
+      "Pedirle a la estudiante que ignore los mensajes y no responda a sus compañeros, para que pierdan interés",
+      "Sancionar de inmediato a los agresores sin escucharlos, para que la respuesta sea rápida, ejemplar y desaliente a otros estudiantes",
       "Informar al rector, activar la ruta de atención con medidas de protección, citar a los acudientes y hacer seguimiento",
-      "Sancionar a los agresores sin escucharlos para que la medida sea inmediata",
-      "Considerar que es un juego entre compañeros y esperar que se les pase"
+      "Considerar que se trata de un juego entre compañeros y esperar a que se les pase con el tiempo"
     ],
-    "correcta": 1,
+    "correcta": 2,
     "retro": [
       "Error: pedirle que ignore el acoso desatiende la protección que le corresponde.",
-      "Correcto: activa la ruta de atención integral con protección y seguimiento.",
       "Error: sancionar sin escuchar vulnera el debido proceso de los implicados.",
+      "Correcto: activa la ruta de atención integral con protección y seguimiento.",
       "Error: minimizar el acoso lo normaliza y permite que continúe."
     ],
-    "explicacion": "El acoso y el ciberacoso repetidos son situaciones tipo II. Se atienden con medidas inmediatas de protección, información a los padres, activación del comité y seguimiento, respetando el debido proceso.",
-    "fuente": "Ley 1620 de 2013; Decreto 1965 de 2013"
+    "explicacion": "El acoso y el ciberacoso repetidos que no constituyen delito son situaciones tipo II (Decreto 1965, art. 40). El artículo 43 exige atender en salud si hay daño, adoptar medidas de protección, informar de inmediato a los padres de todos los involucrados, determinar acciones restaurativas y consecuencias, informar al comité, levantar acta y reportar al Sistema de Información Unificado.",
+    "fuente": "Decreto 1965 de 2013, arts. 39, 40 y 43 (compilado en el Decreto 1075 de 2015, 2.3.5.4.2.6 y 2.3.5.4.2.9)"
   },
   {
     "id": "directivos-27",
@@ -632,20 +632,20 @@
     "contexto": "Rector de una institución. Una empresa del barrio ofrece donar equipos de cómputo y pide que el colegio use sus programas sin cambiar nada en el currículo.",
     "enunciado": "¿Cuál es la mejor decisión del rector?",
     "opciones": [
-      "Aceptar los equipos sin dejar registro para evitar trámites con la secretaría",
-      "Rechazar la donación sin revisarla, por desconfianza hacia las empresas",
-      "Presentar la oferta al consejo directivo, aceptar la donación con registro formal en el Fondo y el inventario, y conservar la autonomía pedagógica",
-      "Aceptar los equipos y adoptar los programas de la empresa sin consultar a los docentes"
+      "Aceptar los equipos sin dejar registro, para evitar trámites con la secretaría y agilizar la entrega de los equipos al colegio",
+      "Rechazar la donación sin revisarla, por desconfianza hacia el sector privado y sus intereses comerciales",
+      "Aceptar los equipos y adoptar los programas de la empresa en el currículo sin consultar a los docentes",
+      "Presentar la oferta al consejo directivo, registrar la donación en el Fondo y el inventario, y mantener el currículo propio"
     ],
-    "correcta": 2,
+    "correcta": 3,
     "retro": [
       "Error: una donación sin registro es una irregularidad en el manejo de los recursos.",
       "Error: rechazar sin analizar desperdicia una oportunidad de apoyar a la comunidad.",
-      "Correcto: gestiona la alianza con transparencia y sin ceder la autonomía.",
-      "Error: decidir los programas sin consultar vulnera la autonomía del consejo académico."
+      "Error: decidir los programas sin consultar vulnera la autonomía del PEI y del consejo académico.",
+      "Correcto: gestiona la alianza con transparencia y sin ceder la autonomía."
     ],
-    "explicacion": "Las donaciones son ingresos del Fondo y deben registrarse. El rector gestiona alianzas con el entorno, pero el PEI y el currículo los definen la comunidad educativa y el consejo académico.",
-    "fuente": "Decreto 4791 de 2008 (compilado en el Decreto 1075 de 2015); Guía 34 MEN (relaciones con el entorno)"
+    "explicacion": "Las donaciones son ingresos del Fondo de Servicios Educativos y deben registrarse. El rector gestiona alianzas con el entorno, pero el PEI y el currículo los define la comunidad educativa (Ley 115, art. 73), con participación del consejo académico (art. 145).",
+    "fuente": "Ley 115 de 1994, arts. 73 y 145; Decreto 1075 de 2015 (compila el Decreto 4791 de 2008, Fondos de Servicios Educativos); Guía 34 MEN (relaciones con el entorno)"
   },
   {
     "id": "directivos-28",
@@ -656,20 +656,20 @@
     "contexto": "Rector de una institución. Llega un estudiante con discapacidad intelectual leve y su familia pide que sea matriculado en grado sexto.",
     "enunciado": "¿Qué debe hacer el rector?",
     "opciones": [
-      "Orientar a la familia hacia otra institución que tenga más experiencia en discapacidad",
-      "Matricularlo pero sin hacer ajustes, para que se adapte al ritmo del grupo",
-      "Pedir un certificado médico de aptitud como requisito previo a la matrícula",
-      "Garantizar la matrícula y liderar con los docentes y la familia la elaboración de un plan individual de ajustes razonables (PIAR)"
+      "Orientar a la familia hacia otra institución con más experiencia en discapacidad, para que reciba mejores apoyos",
+      "Matricularlo sin hacer ajustes, para que se adapte al ritmo del grupo y no se sienta diferente a los demás",
+      "Pedir un diagnóstico o certificado médico como requisito previo a la matrícula, para saber qué apoyos necesita",
+      "Garantizar la matrícula, iniciar la acogida y la valoración pedagógica, y liderar con docentes y familia el PIAR"
     ],
     "correcta": 3,
     "retro": [
-      "Error: remitirlo a otra institución es una forma de discriminación.",
-      "Error: matricularlo sin ajustes incumple la obligación de garantizar apoyos.",
-      "Error: exigir un certificado de aptitud es un requisito no permitido.",
+      "Error: la discapacidad no puede ser causal de negación del cupo; remitirlo a otra institución es discriminación.",
+      "Error: ningún establecimiento puede negarse a hacer los ajustes razonables.",
+      "Error: sin diagnóstico se matricula igual y se registra en el SIMAT; la secretaría lo establece con el sector salud en máximo tres meses.",
       "Correcto: respeta el derecho a la educación inclusiva y planifica los ajustes con la familia."
     ],
-    "explicacion": "El Decreto 1421 de 2017 obliga a los establecimientos a garantizar la educación inclusiva, y el PIAR se construye con docentes, familia y apoyos. Ninguna institución puede negar el cupo por la discapacidad.",
-    "fuente": "Decreto 1421 de 2017 (compilado en el Decreto 1075 de 2015)"
+    "explicacion": "El PIAR (Plan Individual de Ajustes Razonables) se elabora durante el primer trimestre del año escolar y se actualiza cada año; si el estudiante ingresa de forma extemporánea, hay un máximo de 30 días. Lo lideran los docentes de aula con el docente de apoyo, la familia y el estudiante (art. 2.3.3.5.2.3.5). La discapacidad no puede ser causal de negación del cupo (art. 2.3.3.5.2.3.3) ni se puede rechazar la matrícula ni negar ajustes razonables (art. 2.3.3.5.2.3.10).",
+    "fuente": "Decreto 1421 de 2017 (compilado en el Decreto 1075 de 2015, arts. 2.3.3.5.2.3.3, 2.3.3.5.2.3.5 y 2.3.3.5.2.3.10)"
   },
   {
     "id": "directivos-29",
@@ -677,13 +677,13 @@
     "subtema": "Liderazgo pedagógico",
     "dificultad": 2,
     "tipo": "situacional",
-    "contexto": "Coordinador académico. Los docentes de un área rechazan aplicar el nuevo plan de área que aprobó el consejo académico, porque dicen que aumenta su carga de trabajo.",
+    "contexto": "Coordinador académico. Los docentes de un área rechazan aplicar el nuevo plan de área que se ajustó en el consejo académico, porque dicen que aumenta su carga de trabajo.",
     "enunciado": "¿Qué debe hacer el coordinador?",
     "opciones": [
-      "Escuchar sus inquietudes, revisar con ellos el plan y acompañar su implementación con espacios de reflexión y seguimiento",
-      "Exigirles aplicarlo desde el lunes y advertirles de posibles sanciones",
-      "Aplazar el plan hasta que los docentes lo acepten por su cuenta",
-      "Dejar la implementación al jefe de área sin hacer seguimiento ni acompañamiento"
+      "Escuchar sus inquietudes, revisar el plan con ellos y acompañar la implementación con reflexión y seguimiento",
+      "Exigirles aplicarlo desde el lunes y advertirles que habrá sanciones disciplinarias si no lo hacen, pues la decisión ya se tomó en el consejo",
+      "Aplazar el plan hasta que los docentes lo acepten por su cuenta, para no generar más resistencia",
+      "Dejar la implementación al jefe de área sin hacer seguimiento ni acompañamiento posterior"
     ],
     "correcta": 0,
     "retro": [
@@ -692,8 +692,8 @@
       "Error: aplazar sin intervenir evita el conflicto y deja sin efecto la decisión del consejo académico.",
       "Error: delegar sin seguimiento evade la función de acompañamiento del coordinador."
     ],
-    "explicacion": "El liderazgo pedagógico del coordinador consiste en acompañar a los docentes, abrir espacios de reflexión y hacer seguimiento a la implementación de las decisiones académicas.",
-    "fuente": "Guía 34 MEN (gestión académica); Guía 31 MEN"
+    "explicacion": "El liderazgo pedagógico del coordinador consiste en acompañar a los docentes, abrir espacios de reflexión y hacer seguimiento a la implementación de las decisiones académicas, en un proceso en el que el consejo académico participa en el estudio y ajuste del currículo y el plan de estudios (Ley 115, art. 145).",
+    "fuente": "Guía 34 MEN (gestión académica: seguimiento académico); Ley 115 de 1994, art. 145"
   },
   {
     "id": "directivos-30",
@@ -704,20 +704,20 @@
     "contexto": "Rector de una institución. Un padre con influencia en el municipio le pide un cupo para su hijo en un grado sin cupos, saltándose el proceso de matrícula.",
     "enunciado": "¿Cuál es la mejor respuesta del rector?",
     "opciones": [
-      "Otorgarle el cupo para evitar problemas con una persona influyente",
-      "Atenderlo con respeto, explicarle los criterios y el proceso de asignación de cupos, y orientarlo dentro de los lineamientos",
-      "Negarle el cupo con rudeza y sin dejar que explique su situación",
-      "Decirle que lo resolverá la secretaría de educación sin darle información"
+      "Otorgarle el cupo para evitar problemas con una persona influyente en el municipio y cuidar la relación",
+      "Negarle el cupo con rudeza y sin dejar que explique su situación, para que no insista en sus peticiones",
+      "Atenderlo con respeto, explicarle los criterios y el proceso de asignación de cupos, y orientarlo dentro de ellos",
+      "Decirle que lo resolverá la secretaría de educación, sin darle información sobre los criterios del proceso"
     ],
-    "correcta": 1,
+    "correcta": 2,
     "retro": [
       "Error: dar el cupo por influencia vulnera la igualdad de los demás aspirantes.",
+      "Error: la rudeza es inadecuada y deteriora la relación con la comunidad; el servidor debe tratar con respeto.",
       "Correcto: mantiene el respeto y aplica el procedimiento sin ceder a presiones.",
-      "Error: la rudeza es inadecuada y deteriora la relación con la comunidad.",
       "Error: remitir sin informar es una evasión del deber de orientar."
     ],
-    "explicacion": "El directivo atiende con respeto a la comunidad, pero aplica los criterios y procesos de asignación de cupos de forma transversal, sin favoritismos.",
-    "fuente": "Guía 34 MEN (gestión de la comunidad); Decreto 1075 de 2015"
+    "explicacion": "El consejo directivo fija los criterios de asignación de cupos (Ley 115, art. 144) y el rector los aplica de forma transversal, sin favoritismos. El servidor público debe tratar con respeto, imparcialidad y rectitud a las personas (Ley 1952, art. 38).",
+    "fuente": "Ley 115 de 1994, art. 144; Ley 1952 de 2019, art. 38"
   },
   {
     "id": "directivos-31",
@@ -728,20 +728,20 @@
     "contexto": "Rector de una institución. Un proveedor que quiere venderle mobiliario le ofrece una comisión personal si lo elige para la compra del Fondo de Servicios Educativos.",
     "enunciado": "¿Qué debe hacer el rector?",
     "opciones": [
-      "Aceptar la comisión y contratar al proveedor, porque su precio es competitivo",
-      "Pedir que la comisión se entregue al Fondo y contratar al proveedor directamente",
-      "Rechazar la oferta, comparar varias cotizaciones y contratar según el procedimiento, dejando registro del proceso",
-      "Contratar al proveedor sin cotizaciones para evitar comparaciones sobre la comisión"
+      "Rechazar la oferta, comparar varias cotizaciones y contratar con criterios objetivos, dejando registro escrito del proceso",
+      "Aceptar la comisión y contratar al proveedor, porque su precio es competitivo y el colegio no pierde dinero",
+      "Pedir que la comisión se entregue al Fondo y contratar al proveedor directamente, para que el beneficio sea del colegio",
+      "Contratar al proveedor sin pedir cotizaciones, para evitar comparaciones que dejen en evidencia la comisión"
     ],
-    "correcta": 2,
+    "correcta": 0,
     "retro": [
-      "Error: aceptar una comisión personal configura un acto de corrupción.",
-      "Error: la contratación directa tras una oferta indebida no cumple el procedimiento de selección.",
       "Correcto: la contratación se hace con transparencia y sin beneficios personales.",
-      "Error: omitir cotizaciones ocultaría la irregularidad y violaría el procedimiento."
+      "Error: aceptar una comisión personal configura una conducta indebida y un acto de corrupción.",
+      "Error: condicionar la elección del proveedor a una comisión sigue siendo indebido aunque el beneficio se destine al colegio.",
+      "Error: omitir cotizaciones oculta la irregularidad y elimina la comparación objetiva."
     ],
-    "explicacion": "El rector, como ordenador del gasto, responde por la contratación del Fondo. Debe aplicar los procedimientos de selección con transparencia y rechazar cualquier beneficio personal.",
-    "fuente": "Decreto 4791 de 2008 (compilado en el Decreto 1075 de 2015); Ley 715 de 2001"
+    "explicacion": "El rector administra el Fondo (Ley 715, art. 10, num. 10.16) y, como servidor público, debe cumplir con diligencia y eficiencia el servicio y actuar con imparcialidad y rectitud (Ley 1952, art. 38); las prohibiciones del artículo 39 incluyen, por ejemplo, solicitar dádivas. Debe rechazar cualquier beneficio personal y contratar con transparencia.",
+    "fuente": "Ley 715 de 2001, art. 10 (num. 10.16); Ley 1952 de 2019, arts. 38 y 39"
   },
   {
     "id": "directivos-32",
@@ -752,19 +752,115 @@
     "contexto": "Rector de una institución con 600 estudiantes. La autoevaluación institucional del año arrojó la gestión académica como la de menor valoración: los resultados de las pruebas Saber y el seguimiento a los estudiantes en riesgo de reprobación son los puntos más débiles.",
     "enunciado": "Además, una encuesta de clima institucional muestra que docentes y estudiantes perciben tensión y falta de comunicación. ¿Qué debe hacer el rector?",
     "opciones": [
-      "Guardar los resultados para evitar que la comunidad se desmotive",
-      "Atribuir la tensión a pocos docentes y hablar solo con ellos para corregirlos",
-      "Esperar a que el clima mejore cuando se resuelvan los problemas académicos",
-      "Socializar los resultados con la comunidad y construir con ella acciones para mejorar la comunicación y el clima"
+      "Guardar los resultados de la encuesta para evitar que la comunidad se desmotive y se afecte el ambiente de trabajo del colegio",
+      "Socializar los resultados con la comunidad y construir con ella acciones para mejorar la comunicación y el clima",
+      "Atribuir la tensión a pocos docentes y hablar solo con ellos para corregirlos de manera individual",
+      "Esperar a que el clima mejore por sí solo cuando se resuelvan los problemas académicos del colegio"
     ],
-    "correcta": 3,
+    "correcta": 1,
     "retro": [
       "Error: ocultar resultados impide mejorar y rompe la transparencia.",
+      "Correcto: usa los resultados de forma participativa para mejorar.",
       "Error: señalar a pocos sin evidencias personaliza un problema colectivo.",
-      "Error: esperar pasivamente deja que el clima siga deteriorándose.",
-      "Correcto: usa los resultados de forma participativa para mejorar."
+      "Error: esperar pasivamente deja que el clima siga deteriorándose."
     ],
-    "explicacion": "El clima escolar es un proceso de la gestión directiva. Se mejora socializando los resultados y construyendo con la comunidad acciones concretas, con seguimiento.",
+    "explicacion": "El clima escolar es un proceso de la gestión directiva (Guía 34). Se mejora socializando los resultados y construyendo con la comunidad acciones concretas, con seguimiento.",
     "fuente": "Guía 34 MEN (gestión directiva: clima escolar)"
+  },
+  {
+    "id": "directivos-33",
+    "tema": "directivos",
+    "subtema": "Promoción anticipada",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": "Rector de una institución. En febrero, la madre de un estudiante de quinto, con desempeño superior en todas las áreas, pide que sea promovido al grado siguiente.",
+    "enunciado": "¿Cuál es el procedimiento correcto?",
+    "opciones": [
+      "El rector firma la promoción por resolución rectoral, sin pasar por los consejos, para responder con rapidez a la familia y evitar trámites",
+      "El consejo directivo recomienda y el consejo académico decide, siempre que la madre lo pida por escrito",
+      "En el primer período, el consejo académico recomienda, con consentimiento de los padres, y el consejo directivo decide con acta",
+      "La secretaría de educación autoriza la promoción tras valorar al estudiante, y el colegio solo la registra"
+    ],
+    "correcta": 2,
+    "retro": [
+      "Error: la decisión no es del rector solo; la toma el consejo directivo con la recomendación del consejo académico.",
+      "Error: invierte los roles; el consejo académico recomienda y el consejo directivo decide.",
+      "Correcto: sigue el procedimiento de la promoción anticipada del artículo 7.",
+      "Error: la norma no exige autorización de la secretaría; la decisión es institucional y se consigna en el acta del consejo directivo y el registro escolar."
+    ],
+    "explicacion": "Según el artículo 7 del Decreto 1290, durante el primer período del año escolar el consejo académico, con el consentimiento de los padres, recomienda al consejo directivo la promoción anticipada del estudiante con rendimiento superior. La decisión se consigna en el acta del consejo directivo y, si es positiva, en el registro escolar.",
+    "fuente": "Decreto 1290 de 2009, art. 7 (compilado en el Decreto 1075 de 2015, 2.3.3.3.3.7)"
+  },
+  {
+    "id": "directivos-34",
+    "tema": "directivos",
+    "subtema": "Participación de los padres: consejo de padres",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": "Rector de una institución. Empieza el año escolar y el consejo de padres aún no se ha conformado. Un coordinador sugiere exigirle registro ante la secretaría de educación y cobrar una cuota a sus integrantes.",
+    "enunciado": "¿Qué debe hacer el rector?",
+    "opciones": [
+      "Exigir el registro ante la secretaría de educación como requisito de existencia y cobrar una cuota para sus gastos",
+      "Convocar en el primer mes la elección por grados y aclarar que el consejo no requiere registro ni admite cuotas",
+      "Esperar a que los padres se organicen por su cuenta, sin convocar, porque es una organización autónoma de las familias",
+      "Conformarlo solo con los presidentes de la asociación de padres, sin elecciones por grados, para agilizar el proceso"
+    ],
+    "correcta": 1,
+    "retro": [
+      "Error: el consejo de padres no requiere registro ante ninguna autoridad y no se le pueden exigir cuotas.",
+      "Correcto: aplica los artículos 5 y 6 del Decreto 1286.",
+      "Error: el rector debe convocar la elección dentro del primer mes del año escolar.",
+      "Error: los integrantes se eligen en reunión por grados (de uno a tres padres por cada grado)."
+    ],
+    "explicacion": "El Decreto 1286 de 2005 establece que el consejo de padres es obligatorio, lo integran mínimo uno y máximo tres padres por cada grado, y el rector convoca la elección dentro del primer mes del año escolar (art. 5). No requiere registro ante ninguna autoridad, no se pueden exigir cuotas, se reúne mínimo tres veces al año y lo preside un padre elegido por ellos mismos (art. 6).",
+    "fuente": "Decreto 1286 de 2005, arts. 5 y 6 (compilado en el Decreto 1075 de 2015, 2.3.4.x)"
+  },
+  {
+    "id": "directivos-35",
+    "tema": "directivos",
+    "subtema": "Comité escolar de convivencia: sesiones",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": "Rector de una institución. Han pasado más de dos meses desde la última sesión del comité escolar de convivencia. El día fijado, el rector debe asistir a una reunión en la secretaría de educación y el coordinador propone sesionar sin él.",
+    "enunciado": "¿Qué debe hacer el rector?",
+    "opciones": [
+      "Autorizar la sesión sin él, porque el quórum lo define el reglamento del comité y los demás integrantes bastan",
+      "Reprogramar la sesión para una fecha en que pueda presidirla, porque el comité no puede sesionar sin su presidente",
+      "Esperar a la siguiente sesión ordinaria, porque el comité solo está obligado a reunirse una vez al semestre",
+      "Citar la sesión sin él y pedirle que apruebe el acta después, para no incumplir la periodicidad"
+    ],
+    "correcta": 1,
+    "retro": [
+      "Error: aunque el quórum lo define el reglamento, el comité no puede sesionar sin el presidente.",
+      "Correcto: el artículo 24 impide sesionar sin el presidente, y la sesión debe hacerse pronto.",
+      "Error: el comité debe sesionar como mínimo una vez cada dos meses.",
+      "Error: aprobar el acta después no suple la ausencia del presidente; la sesión sin él no es válida."
+    ],
+    "explicacion": "El Decreto 1965 (art. 23) fija que el comité sesiona como mínimo una vez cada dos meses, con sesiones extraordinarias convocadas por el presidente o a solicitud de cualquier integrante. El artículo 24 deja el quórum al reglamento, pero dispone que el comité no puede sesionar sin el presidente. Según la Ley 1620 (art. 12), preside el rector.",
+    "fuente": "Decreto 1965 de 2013, arts. 22 a 24; Ley 1620 de 2013, art. 12"
+  },
+  {
+    "id": "directivos-36",
+    "tema": "directivos",
+    "subtema": "Cátedra de la Paz",
+    "dificultad": 3,
+    "tipo": "situacional",
+    "contexto": "Rector de una institución. Debe incorporar la Cátedra de la Paz al plan de estudios del establecimiento.",
+    "enunciado": "¿Qué debe decidir?",
+    "opciones": [
+      "Adscribirla a educación artística y desarrollar una sola temática de las doce, la que elija el consejo académico para cada grado",
+      "Dejarla como proyecto optativo, fuera del plan de estudios, porque la ley no la declara de carácter obligatorio",
+      "Adscribirla a ciencias sociales, ciencias naturales o ética y valores, y desarrollar al menos dos de las doce temáticas",
+      "Adscribirla a educación religiosa y desarrollar las doce temáticas en todos los grados del establecimiento"
+    ],
+    "correcta": 2,
+    "retro": [
+      "Error: no puede adscribirse a educación artística y el mínimo es de dos temáticas, no una.",
+      "Error: la Cátedra de la Paz es obligatoria en los establecimientos oficiales y privados.",
+      "Correcto: aplica los artículos 3 y 4 del Decreto 1038.",
+      "Error: no se adscribe a educación religiosa; el mínimo son dos de las doce temáticas, no las doce."
+    ],
+    "explicacion": "La Ley 1732 de 2014 estableció la Cátedra de la Paz como asignatura obligatoria en preescolar, básica y media. El Decreto 1038 de 2015 exige adscribirla a una de tres áreas fundamentales (ciencias sociales; ciencias naturales y educación ambiental; o ética y valores humanos) y desarrollar al menos dos de las doce temáticas del artículo 4.",
+    "fuente": "Ley 1732 de 2014, arts. 1 y 2; Decreto 1038 de 2015, arts. 1, 3 y 4 (compilado en el Decreto 1075 de 2015, 2.3.3.4.5.x)"
   }
 ]
