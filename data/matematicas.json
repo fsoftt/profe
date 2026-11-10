@@ -346,7 +346,7 @@
     "opciones": [
       "y = −x/2 + 3",
       "y = −2x + 9",
-      "y = x/2 − 1",
+      "y = (1/2)x − 1",
       "y = 2x − 7"
     ],
     "correcta": 0,
@@ -404,7 +404,7 @@
       "Correcto: memorizar no figura entre los procesos generales; el quinto es formular, comparar y ejercitar procedimientos.",
       "Error: razonar sí es un proceso general."
     ],
-    "explicacion": "Los cinco procesos son formular y resolver problemas; modelar procesos y fenómenos de la realidad; comunicar; razonar; y formular, comparar y ejercitar procedimientos. La memorización mecánica no es un proceso general, y ejercitar procedimientos implica comprenderlos y compararlos.",
+    "explicacion": "Los cinco procesos generales son: formular y resolver problemas; modelar procesos y fenómenos de la realidad; comunicar; razonar; y formular, comparar y ejercitar procedimientos y algoritmos. La memorización mecánica no es un proceso general: ejercitar procedimientos implica comprenderlos, compararlos y validarlos.",
     "fuente": "Lineamientos Curriculares de Matemáticas (MEN, 1998)"
   },
   {
@@ -465,9 +465,9 @@
     "enunciado": "En clase de octavo, un estudiante escribe (a + b)² = a² + b². ¿Cuál es la mejor acción didáctica del docente?",
     "opciones": [
       "Pedirle que pruebe con valores concretos (a = 2, b = 3) y que represente el cuadrado de lado a + b con áreas para descubrir el término 2ab.",
-      "Corregir en el tablero y pedirle que memorice la fórmula del binomio al cuadrado.",
-      "Proponer veinte ejercicios iguales para que la práctica repetida corrija el error.",
-      "Indicar que es un descuido y continuar con el tema para no perder tiempo de clase."
+      "Corregir en el tablero, mostrar el desarrollo paso a paso y pedirle que memorice la fórmula del binomio al cuadrado para el próximo examen.",
+      "Proponer veinte ejercicios de productos notables para que la práctica repetida le permita corregir el error por sí solo con el tiempo.",
+      "Indicarle que es un descuido de escritura y continuar con el tema para no perder tiempo de clase, ya que en el examen lo corregirá."
     ],
     "correcta": 0,
     "retro": [
@@ -488,10 +488,10 @@
     "contexto": null,
     "enunciado": "Un estudiante de sexto afirma que 1/3 es mayor que 1/2 «porque 3 es mayor que 2». ¿Qué acción es más adecuada?",
     "opciones": [
-      "Darle la regla «a mayor denominador, menor fracción» sin más explicación.",
-      "Pedirle que convierta a decimales con calculadora y pasar al siguiente ejercicio.",
-      "Esperar a que descubra el error en la evaluación.",
-      "Usar tiras o círculos de fracciones y la recta numérica para comparar ambas fracciones y discutir qué representa el denominador."
+      "Darle la regla «a mayor denominador, menor fracción» para que la aplique en los ejercicios siguientes, sin más explicación.",
+      "Pedirle que convierta ambas fracciones a decimales con la calculadora, compare los resultados y pase al siguiente ejercicio.",
+      "Esperar a que descubra el error por sí mismo en la evaluación, para que la equivocación le sirva de aprendizaje.",
+      "Usar tiras o círculos de fracciones y la recta numérica para comparar ambas y discutir qué representa el denominador."
     ],
     "correcta": 3,
     "retro": [
@@ -512,10 +512,10 @@
     "contexto": null,
     "enunciado": "Un docente de octavo quiere que sus estudiantes comprendan el teorema de Pitágoras. ¿Cuál estrategia favorece mejor la comprensión y el razonamiento?",
     "opciones": [
-      "Presentar la fórmula a² + b² = c² y proponer ejercicios de sustitución.",
-      "Usar GeoGebra para que construyan triángulos rectángulos, midan las áreas de los cuadrados sobre los lados, formulen conjeturas y luego formalizar y demostrar.",
-      "Mostrar la demostración formal y evaluar con un taller de ejercicios.",
-      "Pedir que busquen la fórmula en internet y la apliquen en problemas."
+      "Presentar la fórmula a² + b² = c² en el tablero, resolver un ejemplo y proponer ejercicios de sustitución con diferentes triángulos.",
+      "Usar GeoGebra para que construyan triángulos rectángulos, midan las áreas de los cuadrados sobre los lados, formulen conjeturas y luego formalicen.",
+      "Mostrar la demostración formal paso a paso, explicar cada argumento y evaluar con un taller de ejercicios de aplicación en la siguiente clase.",
+      "Pedir que busquen la fórmula en internet, la copien en el cuaderno y la apliquen en problemas de triángulos rectángulos del libro."
     ],
     "correcta": 1,
     "retro": [
@@ -536,10 +536,10 @@
     "contexto": null,
     "enunciado": "Los estudiantes de noveno resuelven bien ejercicios rutinarios, pero no logran abordar problemas nuevos. ¿Qué decisión es más coherente con los Lineamientos Curriculares?",
     "opciones": [
-      "Aumentar los ejercicios rutinarios hasta que automaticen todos los procedimientos.",
+      "Aumentar los ejercicios rutinarios, con más guías de práctica, hasta que automaticen todos los procedimientos y los resuelvan con rapidez.",
       "Plantear situaciones problema abiertas y enseñar heurísticas (comprender, planear, ejecutar, revisar), con espacios para discutir estrategias.",
-      "Enseñar primero todos los algoritmos y dejar los problemas para el final del año.",
-      "Entregar la solución modelo de cada problema para que la copien y estudien."
+      "Enseñar primero todos los algoritmos del año con ejercicios graduados y dejar los problemas de aplicación para el final del periodo.",
+      "Entregar la solución modelo de cada problema para que la copien y la estudien, de modo que reconozcan el patrón en problemas similares."
     ],
     "correcta": 1,
     "retro": [
@@ -561,9 +561,9 @@
     "enunciado": "Al calcular −3² un estudiante responde 9. ¿Qué acción es la más adecuada?",
     "opciones": [
       "Hacerle comparar (−3)² y −3² con una tabla y con la calculadora, y discutir el papel de los paréntesis y la jerarquía de operaciones.",
-      "Indicarle que su respuesta es correcta porque el cuadrado de un negativo siempre es positivo.",
-      "Prohibir la calculadora en clase para que haga todo mentalmente.",
-      "Pedirle que escriba siempre todo entre paréntesis y no estudiar más el tema."
+      "Indicarle que su respuesta es correcta porque el cuadrado de un número negativo siempre es positivo, sin importar los paréntesis.",
+      "Prohibir la calculadora en clase para que haga todo mentalmente y así desarrolle el cálculo sin depender de la máquina.",
+      "Pedirle que escriba siempre todo entre paréntesis y que no estudie más el tema, para evitar este tipo de errores en adelante."
     ],
     "correcta": 0,
     "retro": [
@@ -584,10 +584,10 @@
     "contexto": null,
     "enunciado": "Después de ver cinco caras seguidas al lanzar una moneda justa, varios estudiantes de décimo creen que «ahora es más probable que salga sello». ¿Qué acción es más adecuada?",
     "opciones": [
-      "Explicar que tienen razón, pues a la larga los resultados deben compensarse.",
-      "Hacer que simulen muchos lanzamientos (con monedas o software), registren frecuencias y analicen la independencia de los lanzamientos.",
-      "Omitir el tema, porque la probabilidad es muy abstracta para esa edad.",
-      "Dar la definición clásica de probabilidad y pedir que la memoricen."
+      "Explicar que tienen razón, pues a la larga los resultados deben compensarse y después de cinco caras es más probable un sello.",
+      "Hacer que simulen muchos lanzamientos (con monedas o software), registren frecuencias y analicen la independencia de los ensayos.",
+      "Omitir el tema por ahora, porque la probabilidad es muy abstracta para estudiantes de esa edad y puede confundirlos todavía más.",
+      "Dar la definición clásica de probabilidad (casos favorables sobre casos posibles) y pedir que la memoricen para aplicarla."
     ],
     "correcta": 1,
     "retro": [
@@ -608,10 +608,10 @@
     "contexto": null,
     "enunciado": "Una estudiante de octavo pregunta por qué no se puede dividir entre cero. ¿Cuál respuesta es más rigurosa y adecuada para el nivel?",
     "opciones": [
-      "Porque el resultado es infinito, así que no se puede escribir.",
-      "Si 6 ÷ 0 = x, entonces 0 · x = 6, y ningún número lo cumple; y 0 ÷ 0 sería indeterminado porque cualquier número cumpliría 0 · x = 0.",
-      "Porque es una regla que los matemáticos decidieron por convención, sin una razón de fondo.",
-      "Porque la calculadora muestra error, lo que demuestra que no existe."
+      "Porque el resultado sería infinito, y como el infinito no es un número, entonces no se puede escribir ni operar con él.",
+      "Si 6 ÷ 0 = x, entonces 0 · x = 6, y ningún número lo cumple; 0 ÷ 0 sería indeterminado porque cualquier número cumple 0 · x = 0.",
+      "Porque es una regla que los matemáticos decidieron por convención, sin una razón de fondo, para evitar contradicciones al operar.",
+      "Porque la calculadora muestra error al intentarlo, lo que demuestra que esa operación no existe en las matemáticas."
     ],
     "correcta": 1,
     "retro": [
@@ -632,10 +632,10 @@
     "contexto": null,
     "enunciado": "Una estudiante resuelve correctamente un problema de proporcionalidad, pero al explicar su procedimiento se nota que usó una relación aditiva incorrecta que coincidió con la respuesta. ¿Qué debe hacer el docente?",
     "opciones": [
-      "Dar la respuesta por correcta, pues el resultado final es lo que se evalúa.",
-      "Calificarla como incorrecta sin más comentarios.",
-      "Pedirle que justifique y que pruebe su método con otros valores para que ella misma detecte la falla, reconociendo lo logrado.",
-      "Mostrar el procedimiento correcto a todo el grupo sin referirse a su trabajo."
+      "Dar la respuesta por correcta, pues el resultado final es lo que se evalúa, y felicitarla por haber llegado a él.",
+      "Calificarla como incorrecta sin más comentarios, porque el procedimiento utilizado no corresponde al método esperado.",
+      "Pedirle que justifique su método y lo pruebe con otros valores para que detecte la falla, reconociendo lo logrado.",
+      "Mostrar el procedimiento correcto a todo el grupo sin referirse a su trabajo, para no exponer su error ante los compañeros."
     ],
     "correcta": 2,
     "retro": [
@@ -656,10 +656,10 @@
     "contexto": null,
     "enunciado": "Al trabajar cuadriláteros, estudiantes de séptimo sostienen que «un cuadrado no es un rectángulo» porque «se ven diferentes». ¿Qué estrategia ayuda a avanzar al siguiente nivel de razonamiento geométrico (van Hiele)?",
     "opciones": [
-      "Dar la definición «el cuadrado es un rectángulo» y pedir que la memoricen.",
-      "Pasar a demostraciones formales de congruencia de triángulos.",
-      "Mostrar más dibujos prototípicos de cada figura para que las reconozcan por su apariencia.",
-      "Actividades en las que, con GeoGebra o papel, identifiquen propiedades (lados, ángulos, diagonales) y clasifiquen figuras según ellas, deformando los dibujos para ver qué se conserva."
+      "Dar la definición «el cuadrado es un rectángulo» y pedir que la memoricen, para luego aplicarla en ejercicios de clasificación.",
+      "Pasar directamente a demostraciones formales de congruencia de triángulos, ya que así verán la necesidad de definiciones precisas.",
+      "Mostrar más dibujos prototípicos de cada figura, en distintas posiciones, para que las reconozcan por su apariencia global.",
+      "Actividades con GeoGebra o papel para identificar propiedades (lados, ángulos, diagonales), clasificar con ellas y deformar los dibujos para ver qué se conserva."
     ],
     "correcta": 3,
     "retro": [
@@ -680,10 +680,10 @@
     "contexto": null,
     "enunciado": "Un grupo de sexto afirma que la figura de mayor perímetro siempre tiene mayor área. ¿Qué acción promueve mejor el pensamiento métrico?",
     "opciones": [
-      "Hacerles construir con geoplano o papel cuadriculado figuras de igual área y distinto perímetro (y viceversa) y compararlas.",
-      "Entregar las fórmulas de área y perímetro de cada figura para que las apliquen.",
-      "Decirles que están equivocados y mostrar un ejemplo resuelto en el tablero.",
-      "Evitar tratar ambas magnitudes en la misma clase para no confundirlas."
+      "Hacerles construir en geoplano o papel cuadriculado figuras de igual área y distinto perímetro (y viceversa) y compararlas.",
+      "Entregar las fórmulas de área y perímetro de cada figura para que las apliquen en una guía de ejercicios con medidas dadas.",
+      "Decirles que están equivocados y mostrar un ejemplo resuelto en el tablero para que lo copien en el cuaderno.",
+      "Evitar tratar ambas magnitudes en la misma clase para no confundirlas, y separarlas en periodos distintos del año."
     ],
     "correcta": 0,
     "retro": [
@@ -704,10 +704,10 @@
     "contexto": "Salarios mensuales (millones de pesos) de 7 empleados de una pequeña empresa: 1,2; 1,2; 1,3; 1,4; 1,5; 1,6; 9,0.",
     "enunciado": "En una clase de estadística de décimo, los estudiantes calculan la media (≈ 2,46 millones) y afirman que «ese es el salario típico». ¿Qué acción es más adecuada?",
     "opciones": [
-      "Aceptar la conclusión porque la media es la medida más usada y precisa.",
+      "Aceptar la conclusión porque la media es la medida de tendencia central más usada y la que incluye todos los datos.",
       "Pedirles que calculen también la mediana (1,4) y analicen cómo el valor 9,0 afecta cada medida, para decidir cuál representa mejor el salario típico.",
-      "Eliminar el dato 9,0 sin discusión, por considerarlo un error de digitación.",
-      "Pedir que usen solo la moda, porque es la única que no se afecta."
+      "Eliminar el dato 9,0 sin discusión, por considerarlo un error de digitación, y recalcular la media con los demás datos.",
+      "Pedir que usen solo la moda, porque es la única medida que no se afecta por valores extremos, sin calcular las demás."
     ],
     "correcta": 1,
     "retro": [
@@ -718,5 +718,77 @@
     ],
     "explicacion": "La suma es 17,2, así que la media es 17,2 ÷ 7 ≈ 2,46. La mediana (dato central) es 1,4. Un valor extremo mueve la media pero no la mediana, y comprenderlo es parte del pensamiento aleatorio.",
     "fuente": "Estándares Básicos de Competencias en Matemáticas (MEN, 2006)"
+  },
+  {
+    "id": "matematicas-31",
+    "tema": "matematicas",
+    "subtema": "Álgebra: sistemas de ecuaciones",
+    "dificultad": 2,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "La solución del sistema 2x + y = 11 y x − y = 1 es:",
+    "opciones": [
+      "x = 3, y = 5",
+      "x = 5, y = 1",
+      "x = 4, y = 3",
+      "x = 6, y = −1"
+    ],
+    "correcta": 2,
+    "retro": [
+      "Error: satisface 2x + y = 11 (6 + 5), pero no x − y = 1, pues 3 − 5 = −2.",
+      "Error: satisface 2x + y = 11 (10 + 1), pero 5 − 1 = 4, no 1.",
+      "Correcto: 2 · 4 + 3 = 11 y 4 − 3 = 1; ambas ecuaciones se cumplen.",
+      "Error: satisface 2x + y = 11 (12 − 1), pero 6 − (−1) = 7, no 1."
+    ],
+    "explicacion": "Sumando las dos ecuaciones se elimina y: 3x = 12, así que x = 4. De x − y = 1 se obtiene y = 3. Comprobación: 2 · 4 + 3 = 11 y 4 − 3 = 1.",
+    "fuente": "Conocimiento disciplinar de matemáticas"
+  },
+  {
+    "id": "matematicas-32",
+    "tema": "matematicas",
+    "subtema": "Errores típicos: suma de fracciones",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "En una evaluación de séptimo, varios estudiantes escriben 2/3 + 1/4 = 3/7. ¿Qué acción didáctica es más adecuada?",
+    "opciones": [
+      "Repetir en el tablero el algoritmo de suma de fracciones y pedirles que lo copien tres veces en el cuaderno para fijarlo en la memoria.",
+      "Prohibir que sumen fracciones hasta que dominen los múltiplos y divisores, y dedicar varias semanas a ese repaso sin practicar fracciones.",
+      "Indicar que el error es solo de cálculo y aplazar el tema, ya que en grados superiores la calculadora se encargará de las fracciones.",
+      "Pedirles que estimen el resultado (¿3/7 es mayor o menor que 2/3?) y que representen las fracciones con barras para ver por qué se necesita un denominador común."
+    ],
+    "correcta": 3,
+    "retro": [
+      "Insuficiente: copiar el algoritmo sin comprender por qué funciona no corrige la idea de sumar numeradores y denominadores.",
+      "Inadecuado: aplazar la práctica de fracciones retrasa el aprendizaje; los múltiplos se pueden trabajar dentro del mismo contexto.",
+      "Inadecuado: es un error conceptual (tratar la fracción como dos números independientes), no solo de cálculo.",
+      "Correcto: la estimación (3/7 es menor que 2/3, lo cual es absurdo) y la representación gráfica generan conflicto cognitivo y dan sentido al denominador común."
+    ],
+    "explicacion": "Sumar numeradores y denominadores trata la fracción como dos naturales separados. Como 2/3 ≈ 0,67 y 3/7 ≈ 0,43, la suma resultaría menor que uno de los sumandos, lo que evidencia el error. Representar con barras que 2/3 = 8/12 y 1/4 = 3/12 lleva a 11/12 y favorece el pensamiento numérico.",
+    "fuente": "Estándares Básicos de Competencias en Matemáticas (MEN, 2006)"
+  },
+  {
+    "id": "matematicas-33",
+    "tema": "matematicas",
+    "subtema": "Combinatoria",
+    "dificultad": 3,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "¿De cuántas formas se pueden ordenar en fila 5 estudiantes si Ana y Luis deben quedar siempre juntos?",
+    "opciones": [
+      "48",
+      "120",
+      "24",
+      "96"
+    ],
+    "correcta": 0,
+    "retro": [
+      "Correcto: se trata a Ana y Luis como un bloque: 4! = 24 ordenamientos, multiplicados por 2 formas de ordenar el bloque, 48.",
+      "Error: 120 = 5! cuenta todos los ordenamientos, sin la condición de que estén juntos.",
+      "Error: 24 = 4! no multiplica por las 2 formas de ordenar a Ana y Luis dentro del bloque.",
+      "Error: 96 no resulta de ningún conteo válido; sobrecuenta los ordenamientos."
+    ],
+    "explicacion": "Se considera a Ana y Luis como un solo bloque. Con el bloque y los otros 3 estudiantes hay 4 elementos, que se ordenan de 4! = 24 formas. Dentro del bloque, Ana y Luis pueden ordenarse de 2 formas. Total: 24 · 2 = 48.",
+    "fuente": "Conocimiento disciplinar de matemáticas"
   }
 ]
