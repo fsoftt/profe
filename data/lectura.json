@@ -14,6 +14,12 @@
    "Las pruebas memorísticas son el mejor instrumento para medir el aprendizaje de los estudiantes."
   ],
   "correcta": 2,
+  "retro": [
+   "Generalización: el texto no dice que la tarea no produzca ningún aprendizaje; solo cuestiona la evidencia y propone rediseñarla.",
+   "Información que el texto no dice: no se culpa a los docentes ni a su planeación.",
+   "Correcta: resume la propuesta final, «más que eliminarla, conviene rediseñarla», con pocas actividades, propósito claro y menos desigualdad.",
+   "Lectura invertida: el texto critica que los estudios usen pruebas memorísticas; no las defiende como mejor medida."
+  ],
   "explicacion": "La idea central se identifica en la propuesta final del autor: «más que eliminarla, conviene rediseñarla». El texto no pide suprimir la tarea (descarta la opción que lo dice), ni culpa a los docentes, ni defiende las pruebas memorísticas.",
   "fuente": "Texto original"
  },
@@ -32,6 +38,12 @@
    "resumir los argumentos que se expondrán en el resto del texto."
   ],
   "correcta": 0,
+  "retro": [
+   "Correcta: «Sin embargo» contrasta y cuestiona la calidad de la evidencia (mide memoria, no comprensión).",
+   "Generalización: el autor no afirma que la tarea no genere disciplina, solo que la evidencia es débil.",
+   "Error de función: el enunciado contradice a los defensores, no los confirma con un ejemplo.",
+   "Error de función: no resume lo que sigue; plantea una objeción puntual."
+  ],
   "explicacion": "El conector «Sin embargo» marca contraste: el autor expone el argumento de los defensores y luego cuestiona la calidad de sus pruebas (miden memoria, no comprensión). No afirma que la tarea sea inútil, solo que la evidencia es débil.",
   "fuente": "Texto original"
  },
@@ -44,12 +56,18 @@
   "contexto": "La tarea en casa\nCada tarde, millones de estudiantes colombianos regresan a casa con cuadernos llenos de ejercicios por terminar. Los defensores de la tarea afirman que refuerza la disciplina y consolida lo aprendido. Sin embargo, los estudios que se citan para respaldar esa idea miden, casi siempre, el desempeño en pruebas memorísticas, no la comprensión profunda. Además, una tarea extensa penaliza a quienes no cuentan con un espacio tranquilo, conexión a internet o adultos disponibles para ayudar. Por eso, más que eliminarla, conviene rediseñarla: pocas actividades, con propósito claro y que el estudiante pueda resolver solo. La tarea debería ser una invitación a pensar, no una carga que amplíe las desigualdades.",
   "enunciado": "Del texto se puede inferir que, para el autor, una tarea extensa:",
   "opciones": [
-   "es útil únicamente para estudiantes con computador y conexión a internet.",
-   "solo perjudica a los estudiantes que carecen de interés por estudiar.",
+   "es útil únicamente para estudiantes con computador y conexión a internet, porque solo ellos pueden completarla.",
+   "solo perjudica a los estudiantes que carecen de interés por estudiar, pues los demás la resuelven sin dificultad.",
    "debe asignarse con mayor frecuencia a quienes tienen peor desempeño.",
    "tiene un efecto desigual según las condiciones del hogar de cada estudiante."
   ],
   "correcta": 3,
+  "retro": [
+   "Información que el texto no dice: no sostiene que la tarea sea útil solo para quienes tienen computador; dice que perjudica a quienes no lo tienen.",
+   "Información que el texto no dice: el perjuicio se atribuye a las condiciones del hogar, no a la falta de interés.",
+   "Contradice el texto: el autor propone pocas actividades, no más tarea para quienes rinden menos.",
+   "Correcta: «penaliza» a quienes carecen de espacio, internet o ayuda; se infiere un efecto desigual según el hogar."
+  ],
   "explicacion": "El autor señala que la tarea extensa «penaliza» a quienes no tienen espacio, internet o ayuda en casa. De ahí se infiere que sus efectos dependen del contexto familiar. Las otras opciones atribuyen al texto ideas que no menciona.",
   "fuente": "Texto original"
  },
@@ -62,12 +80,18 @@
   "contexto": "La evaluación formativa es el conjunto de acciones mediante las cuales el docente recoge información durante el proceso de enseñanza para ajustar su práctica y apoyar al estudiante. A diferencia de la evaluación sumativa, que certifica lo aprendido al final de un periodo, la formativa ocurre mientras se aprende y no necesariamente genera una calificación. Ejemplos frecuentes son las preguntas de verificación al inicio de la clase, las rúbricas compartidas con los estudiantes y la retroalimentación escrita sobre borradores. Su eficacia depende de que la información recogida se use: si el docente observa las dificultades pero no modifica la enseñanza, la evaluación se queda en simple diagnóstico.",
   "enunciado": "En el texto, la expresión «se queda en simple diagnóstico» significa que la evaluación:",
   "opciones": [
-   "solo puede aplicarse al inicio del proceso de enseñanza.",
+   "solo puede aplicarse al inicio del proceso de enseñanza, cuando todavía no se conocen los saberes previos.",
    "se limita a identificar dificultades sin que el docente actúe en consecuencia.",
    "produce una calificación que certifica lo aprendido por el estudiante.",
-   "es innecesaria cuando el estudiante no presenta dificultades."
+   "es innecesaria cuando el estudiante no presenta dificultades, porque entonces no habría nada que diagnosticar."
   ],
   "correcta": 1,
+  "retro": [
+   "Lectura literal parcial: «diagnóstico» no alude al momento de aplicación, sino a que la información no se usa.",
+   "Correcta: la evaluación se limita a detectar dificultades sin que el docente cambie su enseñanza.",
+   "Confunde con evaluación sumativa: la calificación que certifica lo aprendido no es lo que describe la expresión.",
+   "Información que el texto no dice: el texto habla de dificultades que sí existen y no se atienden."
+  ],
   "explicacion": "La oración dice que la eficacia depende de que la información «se use». Si el docente observa las dificultades y no cambia su enseñanza, la evaluación solo describe el problema (diagnostica) pero no lo resuelve.",
   "fuente": "Texto original"
  },
@@ -86,6 +110,12 @@
    "dar un ejemplo de evaluación formativa."
   ],
   "correcta": 2,
+  "retro": [
+   "Error de función: «A diferencia de» no indica causa, indica contraste.",
+   "Error de función: no concluye; inicia una comparación.",
+   "Correcta: «A diferencia de» es un conector de contraste entre evaluación formativa y sumativa.",
+   "Error de función: los ejemplos aparecen más adelante, no en esta expresión."
+  ],
   "explicacion": "«A diferencia de» es un conector de contraste. El texto compara cuándo ocurre cada evaluación (durante el aprendizaje frente al final del periodo) y si genera o no calificación.",
   "fuente": "Texto original"
  },
@@ -99,11 +129,17 @@
   "enunciado": "Según el texto, ¿cuál de las siguientes situaciones es un ejemplo de evaluación formativa eficaz?",
   "opciones": [
    "Un docente lee borradores, comenta los errores y permite reescribirlos antes de la nota final.",
-   "Un docente aplica un examen final y registra la nota para certificar el periodo.",
-   "Un docente observa que muchos estudiantes no comprenden, pero mantiene su plan de clase.",
-   "Un docente entrega la rúbrica a los estudiantes cuando ya terminó de calificar sus trabajos."
+   "Un docente aplica un examen final y registra la nota para certificar el periodo, con lo que cierra el proceso.",
+   "Un docente observa que muchos estudiantes no comprenden, pero mantiene su plan de clase para cumplir el cronograma.",
+   "Un docente entrega la rúbrica a los estudiantes cuando ya terminó de calificar sus trabajos, para justificar las notas."
   ],
   "correcta": 0,
+  "retro": [
+   "Correcta: ocurre durante el proceso, usa la información (comentarios) y permite mejorar antes de la nota.",
+   "Es evaluación sumativa: certifica al final del periodo, no es formativa.",
+   "El texto dice que si el docente no modifica su enseñanza solo hay diagnóstico, no evaluación formativa eficaz.",
+   "Una rúbrica sirve si se conoce antes de la tarea; entregarla al terminar de calificar no orienta el aprendizaje."
+  ],
   "explicacion": "La evaluación formativa se da durante el proceso y la información se usa para mejorar. Leer borradores, retroalimentar y permitir reescribir cumple ambas condiciones. El examen final es sumativo; las otras dos opciones no usan la información o la entregan tarde.",
   "fuente": "Texto original"
  },
@@ -116,12 +152,18 @@
   "contexto": "Mapa\nLlegó la maestra con el alba,\ntrayendo en el bolso un mapa sin países,\ny dijo: «Dibujen ustedes\nel lugar donde quieren vivir».\nLos niños, que solo conocían la calle,\ntrazaron ríos con el lápiz,\nmontañas con la tiza,\ny en el centro, una escuela sin puertas.",
   "enunciado": "En el poema, la expresión «un mapa sin países» sugiere:",
   "opciones": [
-   "que los niños desconocen la geografía de su país.",
+   "que los niños desconocen la geografía de su país, pues solo conocían la calle donde viven.",
    "que el territorio por dibujar está abierto a la imaginación de los niños.",
-   "que la maestra no sabe dónde queda la escuela.",
-   "que el mapa está incompleto por falta de materiales."
+   "que la maestra no sabe dónde queda la escuela y por eso trae un mapa vacío en su bolso.",
+   "que el mapa está incompleto por falta de materiales, ya que los niños deben dibujarlo con lápiz y tiza."
   ],
   "correcta": 1,
+  "retro": [
+   "Lectura literal: «sin países» no significa desconocimiento de geografía; es una imagen poética.",
+   "Correcta: un mapa sin fronteras trazadas es un espacio abierto a la imaginación, como indica la invitación a dibujar.",
+   "Información que el texto no dice: nada sugiere que la maestra esté perdida.",
+   "Lectura literal: el mapa no está incompleto por falta de materiales; está vacío a propósito."
+  ],
   "explicacion": "Un mapa sin países no tiene fronteras ya trazadas. Poéticamente representa un espacio libre que los niños pueden crear, como confirma la invitación de la maestra: «Dibujen ustedes el lugar donde quieren vivir».",
   "fuente": "Texto original"
  },
@@ -140,6 +182,12 @@
    "abierta y accesible para todos."
   ],
   "correcta": 3,
+  "retro": [
+   "Interpretación contraria al tono: «sin puertas» no sugiere inseguridad sino ausencia de exclusión.",
+   "Información que el texto no dice: no se menciona abandono ni recursos del Estado.",
+   "Lectura literal: el poema no limita la escuela al aula; la imagen sugiere lo contrario.",
+   "Correcta: una escuela sin puertas no excluye a nadie y simboliza acceso abierto."
+  ],
   "explicacion": "Una escuela sin puertas no excluye a nadie: simboliza acceso abierto. Los niños la dibujan en el centro, es decir, como lo más importante de su lugar ideal. No tiene sentido negativo porque el tono del poema es esperanzado.",
   "fuente": "Texto original"
  },
@@ -158,6 +206,12 @@
    "indiferente y descriptivo, sin intención del hablante."
   ],
   "correcta": 0,
+  "retro": [
+   "Correcta: el alba, la invitación a soñar y la escuela en el centro expresan esperanza y admiración.",
+   "Información que el texto no dice: no hay ironía ni crítica al sistema educativo.",
+   "Información que el texto no dice: los niños no aparecen como pobres ni hay melancolía.",
+   "Error de lectura: el hablante sí tiene intención; el poema valora la creatividad."
+  ],
   "explicacion": "La maestra llega «con el alba» y propone soñar; los niños trazan ríos y montañas. Todo el poema transmite confianza en el poder creativo de la educación. No hay ironía ni queja explícita.",
   "fuente": "Texto original"
  },
@@ -176,6 +230,12 @@
    "Menos de la quinta parte de los estudiantes."
   ],
   "correcta": 2,
+  "retro": [
+   "Confunde datos: el 62 % es uso del celular, no tenencia de computador.",
+   "Lectura imprecisa: ningún dato se acerca al 50 %.",
+   "Correcta: el 34 % es cerca de un tercio, como dice el título.",
+   "Confunde datos: la quinta parte (18 %) corresponde a quienes no tienen conexión permanente."
+  ],
   "explicacion": "El dato 2 indica 34 %, que es aproximadamente un tercio y coincide con el título principal. El 62 % corresponde al uso del celular y el 18 % a quienes no tienen conexión permanente.",
   "fuente": "Texto original"
  },
@@ -188,12 +248,18 @@
   "contexto": "INFOGRAFÍA: Recursos digitales en la Institución Educativa Los Almendros (2025)\nTítulo principal: «Uno de cada tres estudiantes tiene computador en casa».\nDato 1: el 62 % de los estudiantes usa el celular para hacer sus tareas.\nDato 2: el 34 % dispone de computador en casa.\nDato 3: el 18 % no tiene conexión permanente a internet.\nNota al pie: encuesta aplicada a 450 estudiantes de grados 6.° a 11.°\nRecuadro destacado: «La brecha digital limita el acceso a las tareas en línea».",
   "enunciado": "¿Cuál de las siguientes afirmaciones NO puede sustentarse con la información de la infografía?",
   "opciones": [
-   "Más de la mitad de los estudiantes usa el celular para hacer tareas.",
+   "Más de la mitad de los estudiantes usa el celular para hacer tareas, según el dato 1 de la infografía.",
    "Los estudiantes sin computador tienen un rendimiento académico más bajo.",
-   "Una parte de los estudiantes no cuenta con internet permanente.",
-   "La encuesta cubrió estudiantes de varios grados de la institución."
+   "Una parte de los estudiantes no cuenta con internet permanente, según el dato 3 de la infografía.",
+   "La encuesta cubrió estudiantes de varios grados de la institución, de 6.° a 11.°, según la nota al pie."
   ],
   "correcta": 1,
+  "retro": [
+   "Sí se sustenta: el 62 % usa el celular, más de la mitad; no es la respuesta.",
+   "Correcta: la infografía no ofrece datos de rendimiento; sería una relación causal no demostrada.",
+   "Sí se sustenta: el dato 3 habla del 18 % sin conexión permanente.",
+   "Sí se sustenta: la nota al pie indica grados 6.° a 11.°."
+  ],
   "explicacion": "La infografía no presenta datos de rendimiento académico, así que esa afirmación no tiene sustento en ella (sería una relación causal no demostrada). Las demás se verifican con los datos 1, 3 y la nota al pie.",
   "fuente": "Texto original"
  },
@@ -206,12 +272,18 @@
   "contexto": "INFOGRAFÍA: Recursos digitales en la Institución Educativa Los Almendros (2025)\nTítulo principal: «Uno de cada tres estudiantes tiene computador en casa».\nDato 1: el 62 % de los estudiantes usa el celular para hacer sus tareas.\nDato 2: el 34 % dispone de computador en casa.\nDato 3: el 18 % no tiene conexión permanente a internet.\nNota al pie: encuesta aplicada a 450 estudiantes de grados 6.° a 11.°\nRecuadro destacado: «La brecha digital limita el acceso a las tareas en línea».",
   "enunciado": "La intención principal de la infografía es:",
   "opciones": [
-   "promover la compra de computadores para los estudiantes.",
-   "comparar a la institución con otros colegios del país.",
-   "mostrar que el celular es mejor herramienta que el computador.",
+   "promover la compra de computadores para los estudiantes, ya que solo un tercio dispone de uno.",
+   "comparar a la institución con otros colegios del país para mostrar su posición relativa.",
+   "mostrar que el celular es mejor herramienta que el computador, pues lo usa la mayoría de estudiantes.",
    "alertar sobre la brecha digital y respaldarla con datos de la institución."
   ],
   "correcta": 3,
+  "retro": [
+   "Información que el texto no dice: no recomienda comprar computadores.",
+   "Información que el texto no dice: solo hay datos de una institución, sin comparación.",
+   "Generalización: el 62 % usa celular, pero no se afirma que sea mejor que el computador.",
+   "Correcta: el recuadro señala la brecha digital y los datos la respaldan."
+  ],
   "explicacion": "El recuadro final habla de «brecha digital» y los datos muestran desigualdades de acceso. Es un texto informativo con propósito de llamar la atención sobre el problema; no compara con otros colegios ni recomienda compras.",
   "fuente": "Texto original"
  },
@@ -225,11 +297,17 @@
   "enunciado": "¿Cuál es la tesis (conclusión) que defiende el autor del texto?",
   "opciones": [
    "La jornada única no mejora por sí sola el aprendizaje si no se garantizan buenas condiciones.",
-   "La jornada única debe suspenderse inmediatamente en todos los colegios.",
-   "El rector actúa de mala fe al promover la jornada única.",
-   "Más horas en el colegio siempre perjudican el aprendizaje de los estudiantes."
+   "La jornada única debe suspenderse inmediatamente en todos los colegios mientras no exista infraestructura adecuada.",
+   "El rector actúa de mala fe al promover la jornada única, pues oculta las condiciones reales de los colegios.",
+   "Más horas en el colegio siempre perjudican el aprendizaje de los estudiantes, porque los dejan cansados."
   ],
   "correcta": 0,
+  "retro": [
+   "Correcta: sin buenas condiciones y planeación, más horas no mejoran el aprendizaje.",
+   "Generalización excesiva: el autor pide revisar el uso del tiempo, no suspender la medida.",
+   "Información que el texto no dice: no acusa al rector de mala fe.",
+   "Generalización: dice que más horas no mejoran por sí solas, no que siempre perjudiquen."
+  ],
   "explicacion": "El autor no rechaza la medida, pide revisar «qué se hará con ese tiempo adicional» y muestra que sin infraestructura ni planeación no hay mejora. Las otras opciones exageran su postura o le atribuyen acusaciones que no hace.",
   "fuente": "Texto original"
  },
@@ -248,6 +326,12 @@
    "pendiente resbaladiza, pues predice consecuencias extremas."
   ],
   "correcta": 2,
+  "retro": [
+   "Confunde falacias: el ataque personal es de otro enunciado del texto, no de esta frase.",
+   "No hay falsa causa: el rector no atribuye un efecto a una coincidencia.",
+   "Correcta: afirma algo como cierto porque «todo el mundo sabe» (ad populum).",
+   "No predice consecuencias extremas encadenadas, que es lo propio de la pendiente resbaladiza."
+  ],
   "explicacion": "Justificar una afirmación diciendo que «todo el mundo sabe» es apelar a la opinión mayoritaria (ad populum) en lugar de ofrecer evidencia. La creencia general no demuestra que algo sea verdadero.",
   "fuente": "Texto original"
  },
@@ -266,6 +350,12 @@
    "cambiar de tema para introducir un nuevo argumento."
   ],
   "correcta": 1,
+  "retro": [
+   "Error de función: no aporta un dato; rebate una acusación.",
+   "Correcta: anticipa y rebate la acusación de oponerse a la educación.",
+   "Error de función: no resume las razones, que vienen después.",
+   "Error de función: no cambia de tema; defiende su postura."
+  ],
   "explicacion": "El autor se adelanta a una objeción (que criticar la medida es oponerse a la educación) y la desmiente para legitimar su postura. Es una refutación anticipada, no un dato ni una conclusión.",
   "fuente": "Texto original"
  },
@@ -278,12 +368,18 @@
   "contexto": "Durante décadas, el juego se consideró una pausa entre las actividades «serias» del aula. Hoy, la investigación en desarrollo infantil lo presenta como un motor del aprendizaje: al jugar, los niños ensayan reglas, negocian roles, resuelven conflictos y ponen a prueba su imaginación. No se trata de que el docente abandone la planeación, sino de diseñar experiencias en las que el juego tenga una intención pedagógica y el niño conserve la iniciativa. Cuando el adulto controla cada paso, la actividad deja de ser juego y se convierte en ejercicio dirigido, con lo cual se pierde buena parte de sus beneficios.",
   "enunciado": "¿Qué idea expresa mejor el contenido del texto?",
   "opciones": [
-   "El juego debe reemplazar la planeación del docente en la primera infancia.",
-   "El juego es solo una pausa que no aporta al desarrollo de los niños.",
-   "El docente debe dirigir cada paso de las actividades lúdicas.",
+   "El juego debe reemplazar la planeación del docente en la primera infancia, pues los niños aprenden solos jugando.",
+   "El juego es solo una pausa que no aporta al desarrollo de los niños, aunque les permite descansar de lo serio.",
+   "El docente debe dirigir cada paso de las actividades lúdicas para asegurar que el aprendizaje se logre.",
    "El juego aporta al aprendizaje cuando tiene intención pedagógica y el niño conserva la iniciativa."
   ],
   "correcta": 3,
+  "retro": [
+   "Lectura exagerada: el texto dice que no se abandona la planeación.",
+   "Contradice el texto: antes era pausa, hoy es motor del aprendizaje.",
+   "Contradice el texto: si el adulto controla cada paso deja de ser juego.",
+   "Correcta: aporta cuando tiene intención pedagógica y el niño conserva la iniciativa."
+  ],
   "explicacion": "El texto cambia la visión del juego como pausa y lo presenta como motor del aprendizaje, con la condición de que el niño mantenga la iniciativa. Rechaza expresamente abandonar la planeación y dirigir cada paso.",
   "fuente": "Texto original"
  },
@@ -302,6 +398,12 @@
    "indicar que la palabra pertenece a otro idioma."
   ],
   "correcta": 0,
+  "retro": [
+   "Correcta: las comillas marcan distancia frente a la idea tradicional.",
+   "Lectura literal: no hay cita textual de un docente.",
+   "Interpretación contraria: no se defiende la solemnidad del aprendizaje.",
+   "Confunde con extranjerismo: la palabra es española."
+  ],
   "explicacion": "Las comillas pueden marcar distancia irónica. Aquí el autor sugiere que considerar «serias» solo las actividades no lúdicas es una visión superada, que luego contrasta con las investigaciones actuales.",
   "fuente": "Texto original"
  },
@@ -314,12 +416,18 @@
   "contexto": "Durante décadas, el juego se consideró una pausa entre las actividades «serias» del aula. Hoy, la investigación en desarrollo infantil lo presenta como un motor del aprendizaje: al jugar, los niños ensayan reglas, negocian roles, resuelven conflictos y ponen a prueba su imaginación. No se trata de que el docente abandone la planeación, sino de diseñar experiencias en las que el juego tenga una intención pedagógica y el niño conserve la iniciativa. Cuando el adulto controla cada paso, la actividad deja de ser juego y se convierte en ejercicio dirigido, con lo cual se pierde buena parte de sus beneficios.",
   "enunciado": "Si un docente indica a los niños qué hacer en cada momento de una actividad lúdica, según el texto, esa actividad:",
   "opciones": [
-   "fortalece la negociación de roles y la resolución de conflictos.",
-   "demuestra que existe una intención pedagógica clara.",
+   "fortalece la negociación de roles y la resolución de conflictos, porque el adulto aporta las reglas.",
+   "demuestra que existe una intención pedagógica clara y, por eso, conserva todos sus beneficios.",
    "se convierte en un ejercicio dirigido y pierde parte de sus beneficios.",
-   "mantiene todos los beneficios propios del juego libre."
+   "mantiene todos los beneficios propios del juego libre, siempre que el docente planee bien la actividad."
   ],
   "correcta": 2,
+  "retro": [
+   "Contradice el texto: controlar cada paso hace perder esos beneficios.",
+   "Error de inferencia: la intención no basta si se elimina la iniciativa del niño.",
+   "Correcta: se convierte en ejercicio dirigido y pierde parte de sus beneficios.",
+   "Contradice el texto: no mantiene todos los beneficios."
+  ],
   "explicacion": "El texto afirma que cuando «el adulto controla cada paso» la actividad deja de ser juego. Por eso se pierde buena parte de sus beneficios. La intención pedagógica no basta si se elimina la iniciativa del niño.",
   "fuente": "Texto original"
  },
@@ -338,6 +446,12 @@
    "mesurado, pues rechaza tanto el temor como la idolatría."
   ],
   "correcta": 3,
+  "retro": [
+   "Contradice el texto: el autor no teme que la IA reemplace al maestro.",
+   "Contradice el texto: no la considera superior, pide usarla con criterio.",
+   "Generalización: no la llama inútil; acepta usarla.",
+   "Correcta: rechaza tanto el temor como la idolatría."
+  ],
   "explicacion": "La frase «Lo sensato no es temer ni idolatrar» resume una postura equilibrada: reconoce que las herramientas sirven, pero no sustituyen lo humano. Las otras opciones asignan extremos que el texto descarta.",
   "fuente": "Texto original"
  },
@@ -350,12 +464,18 @@
   "contexto": "Cada vez que aparece una tecnología nueva, alguien anuncia la muerte del maestro. Ocurrió con la radio, con la televisión y ahora con la inteligencia artificial. Sin embargo, el maestro sigue ahí, porque enseñar no consiste solo en transmitir datos, tarea que cualquier buscador cumple con rapidez, sino en acompañar, motivar y reconocer en cada estudiante una historia particular. Que una máquina redacte un resumen no significa que comprenda la angustia de un adolescente ante un examen. Lo sensato no es temer ni idolatrar: es aprender a usar estas herramientas con criterio, para dedicar más tiempo a lo que ninguna pantalla puede hacer.",
   "enunciado": "La mención de la radio y la televisión al inicio del texto se usa para:",
   "opciones": [
-   "demostrar que la inteligencia artificial es igual a estas tecnologías.",
+   "demostrar que la inteligencia artificial es igual a estas tecnologías y tendrá el mismo efecto en el aula.",
    "mostrar con antecedentes que los anuncios de reemplazo del maestro no se han cumplido.",
-   "criticar a los maestros que se resisten a los cambios tecnológicos.",
-   "explicar el origen histórico de los medios de comunicación."
+   "criticar a los maestros que se resisten a los cambios tecnológicos y no aprovechan las nuevas herramientas.",
+   "explicar el origen histórico de los medios de comunicación y su llegada a las escuelas del país."
   ],
   "correcta": 1,
+  "retro": [
+   "Contradice el texto: no iguala las tecnologías, usa un antecedente.",
+   "Correcta: son ejemplos históricos donde el anuncio de reemplazo no se cumplió.",
+   "Información que el texto no dice: no critica a los maestros.",
+   "Lectura literal: no hace historia de los medios de comunicación."
+  ],
   "explicacion": "Es un argumento por analogía histórica: ante otras tecnologías se predijo lo mismo y no ocurrió. El autor lo usa para sugerir que la predicción actual también es exagerada, sin afirmar que todas las tecnologías sean iguales.",
   "fuente": "Texto original"
  },
@@ -374,6 +494,12 @@
    "siguiendo estrictamente las instrucciones del fabricante."
   ],
   "correcta": 0,
+  "retro": [
+   "Correcta: criterio es juicio y discernimiento para valorar cuándo sirven.",
+   "Información que el texto no dice: no habla de rapidez.",
+   "Generalización: no pide evitar depender, sino usarlas con juicio.",
+   "Información que el texto no dice: no menciona instrucciones del fabricante."
+  ],
   "explicacion": "«Criterio» es la capacidad de juzgar y decidir con razones. El autor pide un uso reflexivo, ni de rechazo total ni de aceptación ciega, tal como lo expresa en la oración anterior.",
   "fuente": "Texto original"
  },
@@ -386,12 +512,18 @@
   "contexto": "Don Aurelio llevaba treinta años encendiendo la estufa de leña antes de que llegaran los niños a la escuela rural. Nadie se lo había pedido nunca; simplemente, una mañana de lluvia vio a una niña llegar temblando y, desde entonces, el aula olía a humo y a pan tostado antes de las siete. Cuando el municipio instaló calefactores eléctricos, don Aurelio no dijo nada. Pero a la mañana siguiente, igual, estaba allí, soplando las brasas, como quien cuida una promesa que no necesita testigos.",
   "enunciado": "La comparación final, «como quien cuida una promesa que no necesita testigos», sugiere que el gesto de don Aurelio es:",
   "opciones": [
-   "una obligación impuesta por el municipio.",
-   "un hábito sin ningún significado para él.",
+   "una obligación impuesta por el municipio desde que instaló los calefactores eléctricos.",
+   "un hábito sin ningún significado para él, que repite por costumbre desde hace treinta años.",
    "un compromiso íntimo que mantiene aunque ya no sea necesario.",
-   "una forma de exigir reconocimiento a la comunidad."
+   "una forma de exigir reconocimiento a la comunidad por el trabajo que realiza cada mañana."
   ],
   "correcta": 2,
+  "retro": [
+   "Información que el texto no dice: nadie se lo pidió.",
+   "Error de interpretación: la comparación sugiere un significado profundo, no un hábito vacío.",
+   "Correcta: es un compromiso íntimo que mantiene aunque ya no sea necesario.",
+   "Contradice el texto: «no necesita testigos» indica que no busca reconocimiento."
+  ],
   "explicacion": "Una promesa sin testigos se cumple por convicción personal. Don Aurelio sigue encendiendo la estufa aunque haya calefactores: lo mueve un compromiso afectivo, no una utilidad ni un reconocimiento.",
   "fuente": "Texto original"
  },
@@ -410,6 +542,12 @@
    "Ver a una niña llegar temblando de frío una mañana lluviosa."
   ],
   "correcta": 3,
+  "retro": [
+   "Contradice el texto: nadie se lo pidió.",
+   "Error cronológico: los calefactores llegaron después de treinta años.",
+   "Información que el texto no dice: el pan tostado es consecuencia, no origen.",
+   "Correcta: vio a una niña llegar temblando una mañana de lluvia."
+  ],
   "explicacion": "El texto lo dice de forma explícita: «una mañana de lluvia vio a una niña llegar temblando». Nadie se lo pidió, y los calefactores llegaron después de treinta años.",
   "fuente": "Texto original"
  },
@@ -428,6 +566,12 @@
    "solemnidad y disciplina."
   ],
   "correcta": 1,
+  "retro": [
+   "Error de connotación: humo de leña y pan tostado no evocan descuido.",
+   "Correcta: evocan hogar, calidez y cuidado.",
+   "Error de connotación: no hay peligro en la escena.",
+   "Error de connotación: la imagen es cercana, no solemne."
+  ],
   "explicacion": "Los olores del humo de leña y el pan tostado evocan hogar y acogida. Esa sensación se relaciona con la intención del personaje de proteger del frío a los niños.",
   "fuente": "Texto original"
  },
@@ -441,11 +585,17 @@
   "enunciado": "¿Cuál es la conclusión que el autor extrae de las razones expuestas?",
   "opciones": [
    "Las campañas que solo motivan a los estudiantes ignoran las causas estructurales de la deserción.",
-   "La deserción rural se debe a la falta de interés de los jóvenes.",
-   "Las becas son la única solución para evitar la deserción escolar rural.",
-   "Las familias rurales no valoran la educación de sus hijos."
+   "La deserción rural se debe a la falta de interés de los jóvenes, que no valoran la oportunidad de estudiar.",
+   "Las becas son la única solución para evitar la deserción escolar rural, pues compensan el ingreso perdido.",
+   "Las familias rurales no valoran la educación de sus hijos y prefieren que trabajen en las cosechas."
   ],
   "correcta": 0,
+  "retro": [
+   "Correcta: «Por tanto» introduce esta conclusión.",
+   "Contradice el texto: la primera oración niega que sea solo desinterés.",
+   "Generalización: las becas son una de varias medidas.",
+   "Información que el texto no dice: no cuestiona los valores de las familias."
+  ],
   "explicacion": "El conector «Por tanto» introduce la conclusión: las campañas motivacionales no atienden las causas estructurales. La primera oración niega que la causa sea el desinterés, y las becas son solo una de varias medidas propuestas.",
   "fuente": "Texto original"
  },
@@ -458,12 +608,18 @@
   "contexto": "La deserción escolar rural no se explica solo por la falta de interés de los jóvenes. En muchas veredas, el colegio más cercano queda a dos horas a pie, el transporte escolar funciona de manera irregular y, durante las cosechas, las familias necesitan la mano de obra de los hijos. Por tanto, las campañas que solo motivan a los estudiantes a «quedarse en el aula» ignoran las causas estructurales del problema. Una política efectiva debería combinar rutas escolares confiables, calendarios flexibles en época de cosecha y becas que compensen el ingreso que la familia deja de percibir.",
   "enunciado": "¿Cuál de los siguientes datos debilitaría más el argumento del autor?",
   "opciones": [
-   "Que en algunas veredas el colegio quede a menos de una hora a pie.",
-   "Que muchas familias rurales deseen que sus hijos terminen el bachillerato.",
-   "Que las campañas de motivación se realicen en varios municipios del país.",
+   "Que en algunas veredas el colegio quede a menos de una hora a pie, aunque la mayoría estén más lejos.",
+   "Que muchas familias rurales deseen que sus hijos terminen el bachillerato, aunque no puedan costearlo.",
+   "Que las campañas de motivación se realicen en varios municipios del país y tengan buena acogida.",
    "Que en veredas con transporte confiable y calendario flexible la deserción siga igual de alta."
   ],
   "correcta": 3,
+  "retro": [
+   "No debilita: un caso aislado de colegio cercano no contradice la explicación general.",
+   "No debilita: el deseo de las familias es compatible con causas estructurales.",
+   "No debilita: que haya campañas no relaciona causa y resultado.",
+   "Correcta: si corregidas las condiciones estructurales la deserción no baja, la explicación pierde fuerza."
+  ],
   "explicacion": "El autor sostiene que corregir condiciones estructurales reduce la deserción. Si al corregirlas la deserción no baja, su explicación pierde fuerza. Las demás opciones no relacionan la causa estructural con el resultado.",
   "fuente": "Texto original"
  },
@@ -482,6 +638,12 @@
    "que se presentan de manera ocasional en épocas de cosecha."
   ],
   "correcta": 1,
+  "retro": [
+   "Lectura literal: estructural no se refiere a edificios.",
+   "Correcta: condiciones permanentes del entorno y del sistema, no de la voluntad individual.",
+   "Contradice el texto: depender de la motivación es causa individual.",
+   "Error de significado: estructural no es ocasional."
+  ],
   "explicacion": "Las causas estructurales son condiciones sostenidas (distancia, transporte, pobreza) que escapan al control del estudiante. Se contraponen a las causas individuales, como la falta de interés.",
   "fuente": "Texto original"
  },
@@ -494,13 +656,115 @@
   "contexto": "La deserción escolar rural no se explica solo por la falta de interés de los jóvenes. En muchas veredas, el colegio más cercano queda a dos horas a pie, el transporte escolar funciona de manera irregular y, durante las cosechas, las familias necesitan la mano de obra de los hijos. Por tanto, las campañas que solo motivan a los estudiantes a «quedarse en el aula» ignoran las causas estructurales del problema. Una política efectiva debería combinar rutas escolares confiables, calendarios flexibles en época de cosecha y becas que compensen el ingreso que la familia deja de percibir.",
   "enunciado": "¿Con qué propósito el autor menciona la distancia al colegio, el transporte y las cosechas?",
   "opciones": [
-   "Criticar el trabajo agrícola que realizan las familias de las veredas.",
-   "Describir la geografía de las zonas rurales del país.",
+   "Criticar el trabajo agrícola que realizan las familias de las veredas, que priorizan la cosecha sobre la escuela.",
+   "Describir la geografía de las zonas rurales del país, donde las distancias son largas y los caminos difíciles.",
    "Aportar razones concretas que muestren que la deserción tiene causas externas al estudiante.",
-   "Demostrar que las campañas de motivación son costosas."
+   "Demostrar que las campañas de motivación son costosas y que ese dinero debería invertirse en otras cosas."
   ],
   "correcta": 2,
+  "retro": [
+   "Información que el texto no dice: no critica el trabajo agrícola.",
+   "Función equivocada: no describe geografía, argumenta.",
+   "Correcta: son razones concretas de causas externas al estudiante.",
+   "Información que el texto no dice: no habla de costos."
+  ],
   "explicacion": "Esos datos son las premisas con las que se sustenta que la deserción no se explica solo por falta de interés. Cumplen una función argumentativa, no descriptiva ni crítica hacia las familias.",
+  "fuente": "Texto original"
+ },
+ {
+  "id": "lectura-29",
+  "tema": "lectura",
+  "subtema": "Idea principal",
+  "dificultad": 1,
+  "tipo": "conocimiento",
+  "contexto": "El error en el aula\nDurante mucho tiempo, el error fue visto en la escuela como una falla que había que castigar con una nota baja. Hoy, muchos docentes lo consideran una fuente de información: lo que el estudiante responde mal revela cómo está pensando. Un docente que se limita a marcar con rojo la respuesta incorrecta pierde esa información; en cambio, quien pregunta «¿cómo llegaste a este resultado?» puede descubrir una idea previa equivocada y corregirla desde su origen. Eso no significa que todos los errores sean igualmente valiosos ni que deba renunciarse a la exigencia: significa que la corrección sirve más cuando explica el camino que cuando solo señala el destino.",
+  "enunciado": "¿Cuál es la idea central del texto?",
+  "opciones": [
+   "El error sirve para enseñar mejor cuando se indaga cómo piensa el estudiante.",
+   "El error debe castigarse con una nota baja para que no se repita.",
+   "El docente debe renunciar a la exigencia para no desanimar a los estudiantes.",
+   "Todos los errores del estudiante tienen el mismo valor para el docente."
+  ],
+  "correcta": 0,
+  "retro": [
+   "Correcta: el error informa cómo piensa el estudiante, y aprovecharlo exige indagar su razonamiento.",
+   "Lectura literal de la primera oración: eso era la visión antigua, que el texto contrasta con la actual.",
+   "Generalización: el texto dice que no hay que renunciar a la exigencia.",
+   "Información que el texto no dice: aclara que no todos los errores son igualmente valiosos."
+  ],
+  "explicacion": "El texto cambia la visión del error como falla por la de fuente de información y plantea que la corrección es más útil cuando explica el camino. Aclara que no se renuncia a la exigencia ni todos los errores valen igual.",
+  "fuente": "Texto original"
+ },
+ {
+  "id": "lectura-30",
+  "tema": "lectura",
+  "subtema": "Relación entre partes",
+  "dificultad": 2,
+  "tipo": "conocimiento",
+  "contexto": "El error en el aula\nDurante mucho tiempo, el error fue visto en la escuela como una falla que había que castigar con una nota baja. Hoy, muchos docentes lo consideran una fuente de información: lo que el estudiante responde mal revela cómo está pensando. Un docente que se limita a marcar con rojo la respuesta incorrecta pierde esa información; en cambio, quien pregunta «¿cómo llegaste a este resultado?» puede descubrir una idea previa equivocada y corregirla desde su origen. Eso no significa que todos los errores sean igualmente valiosos ni que deba renunciarse a la exigencia: significa que la corrección sirve más cuando explica el camino que cuando solo señala el destino.",
+  "enunciado": "En el texto, la pregunta «¿cómo llegaste a este resultado?» cumple la función de:",
+  "opciones": [
+   "calificar la respuesta del estudiante con una nota justa.",
+   "ejemplificar una práctica que permite descubrir ideas previas equivocadas.",
+   "evitar que el docente corrija los errores del estudiante.",
+   "definir qué es un error desde el punto de vista didáctico."
+  ],
+  "correcta": 1,
+  "retro": [
+   "Error de función: la pregunta no pretende calificar ni castigar.",
+   "Correcta: es un ejemplo de práctica que permite descubrir ideas previas equivocadas y corregirlas desde su origen.",
+   "Información que el texto no dice: no se habla de evitar corregir.",
+   "Error de función: no es una definición del error; es un ejemplo de acción docente."
+  ],
+  "explicacion": "El autor contrasta el marcar con rojo con preguntar por el proceso. La pregunta es un ejemplo de práctica que permite descubrir una idea previa equivocada y corregirla desde su origen.",
+  "fuente": "Texto original"
+ },
+ {
+  "id": "lectura-31",
+  "tema": "lectura",
+  "subtema": "Inferencia",
+  "dificultad": 3,
+  "tipo": "conocimiento",
+  "contexto": "El error en el aula\nDurante mucho tiempo, el error fue visto en la escuela como una falla que había que castigar con una nota baja. Hoy, muchos docentes lo consideran una fuente de información: lo que el estudiante responde mal revela cómo está pensando. Un docente que se limita a marcar con rojo la respuesta incorrecta pierde esa información; en cambio, quien pregunta «¿cómo llegaste a este resultado?» puede descubrir una idea previa equivocada y corregirla desde su origen. Eso no significa que todos los errores sean igualmente valiosos ni que deba renunciarse a la exigencia: significa que la corrección sirve más cuando explica el camino que cuando solo señala el destino.",
+  "enunciado": "¿Con cuál de las siguientes afirmaciones estaría más de acuerdo el autor?",
+  "opciones": [
+   "Marcar con rojo la respuesta incorrecta es la mejor forma de corregir.",
+   "Las notas deben eliminarse porque el error no debe evaluarse.",
+   "Corregir explicando el proceso es más útil que solo indicar que una respuesta está mal.",
+   "Todos los errores aportan la misma información sobre el aprendizaje."
+  ],
+  "correcta": 2,
+  "retro": [
+   "Contradice el texto: el autor critica la corrección que solo marca la respuesta.",
+   "Información que el texto no dice: no propone eliminar las notas.",
+   "Correcta: según el autor, corregir sirve más cuando explica el camino que cuando solo señala el resultado.",
+   "Generalización: dice que no todos los errores son igualmente valiosos."
+  ],
+  "explicacion": "El autor afirma que la corrección sirve más cuando explica el camino que cuando solo señala el destino. Las demás opciones contradicen el texto o le atribuyen ideas que no expresa.",
+  "fuente": "Texto original"
+ },
+ {
+  "id": "lectura-32",
+  "tema": "lectura",
+  "subtema": "Significado en contexto",
+  "dificultad": 2,
+  "tipo": "conocimiento",
+  "contexto": "El error en el aula\nDurante mucho tiempo, el error fue visto en la escuela como una falla que había que castigar con una nota baja. Hoy, muchos docentes lo consideran una fuente de información: lo que el estudiante responde mal revela cómo está pensando. Un docente que se limita a marcar con rojo la respuesta incorrecta pierde esa información; en cambio, quien pregunta «¿cómo llegaste a este resultado?» puede descubrir una idea previa equivocada y corregirla desde su origen. Eso no significa que todos los errores sean igualmente valiosos ni que deba renunciarse a la exigencia: significa que la corrección sirve más cuando explica el camino que cuando solo señala el destino.",
+  "enunciado": "En el texto, «solo señala el destino» se refiere a una corrección que:",
+  "opciones": [
+   "indica a qué lugar debe llegar el estudiante al final del año.",
+   "se hace únicamente al terminar el año escolar.",
+   "explica con detalle el camino que siguió el estudiante.",
+   "indica únicamente el resultado final sin examinar el razonamiento del estudiante."
+  ],
+  "correcta": 3,
+  "retro": [
+   "Lectura literal: no habla de un lugar de llegada físico.",
+   "Error de interpretación: «destino» no es el fin del año escolar.",
+   "Interpretación contraria: sería corregir explicando el camino.",
+   "Correcta: «señalar el destino» es indicar solo el resultado final sin examinar el proceso de razonamiento."
+  ],
+  "explicacion": "La metáfora opone camino (el proceso de razonamiento) y destino (el resultado). Solo señalar el destino es marcar si el resultado es correcto sin revisar cómo se llegó a él.",
   "fuente": "Texto original"
  }
 ]

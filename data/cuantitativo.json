@@ -14,6 +14,12 @@
    "520"
   ],
   "correcta": 2,
+  "retro": [
+   "Confunde el 35 % con 350: toma 35 × 10 sin calcular el porcentaje de 800.",
+   "Calcula 800 × 0,035 en lugar de 800 × 0,35: corre mal la coma decimal al convertir el porcentaje.",
+   "Correcta: 800 × 0,35 = 280.",
+   "Calcula el 65 % (los que no están en primaria) en lugar del 35 %."
+  ],
   "explicacion": "Se calcula el 35 % de 800: 800 × 35 / 100 = 800 × 0,35 = 280. Los 520 estudiantes restantes (65 %) no están en primaria; 350 resulta de confundir el porcentaje con la cantidad.",
   "fuente": "Ejercicio original"
  },
@@ -32,6 +38,12 @@
    "$46.000"
   ],
   "correcta": 0,
+  "retro": [
+   "Correcta: 40.000 − 6.000 = 34.000, o 40.000 × 0,85.",
+   "Resta 15.000 al precio, como si el 15 % fueran 15 mil pesos y no el 15 % de 40.000.",
+   "Da el valor del descuento (6.000) y no el precio que se paga.",
+   "Suma el descuento al precio (40.000 + 6.000) en vez de restarlo."
+  ],
   "explicacion": "El descuento es 40.000 × 0,15 = $6.000. El precio final es 40.000 − 6.000 = $34.000. Equivale a pagar el 85 % del precio: 40.000 × 0,85 = 34.000. Los $6.000 son solo el descuento; $25.000 resulta de restar 15.000 por error.",
   "fuente": "Ejercicio original"
  },
@@ -45,11 +57,17 @@
   "enunciado": "Un colegio tenía 500 estudiantes en 2024. En 2025 aumentó un 20 % y en 2026 disminuyó un 20 % respecto a 2025. ¿Cuántos estudiantes tiene en 2026?",
   "opciones": [
    "500",
-   "520",
+   "600",
    "400",
    "480"
   ],
   "correcta": 3,
+  "retro": [
+   "Suma +20 % y −20 % como si se anularan; el 20 % de bajada se aplica sobre una base mayor.",
+   "Se queda en el valor de 2025 (500 × 1,2) y olvida aplicar la disminución de 2026.",
+   "Aplica solo la disminución del 20 % al valor de 2024 (500 × 0,8) e ignora el aumento previo.",
+   "Correcta: 500 × 1,2 = 600 y 600 × 0,8 = 480."
+  ],
   "explicacion": "En 2025: 500 × 1,20 = 600. En 2026: 600 × 0,80 = 480. Los porcentajes no se compensan porque el 20 % de la disminución se aplica sobre una base mayor (600) que la del aumento (500).",
   "fuente": "Ejercicio original"
  },
@@ -64,10 +82,16 @@
   "opciones": [
    "$36.000",
    "$32.000",
-   "$24.000",
+   "$96.000",
    "$28.000"
   ],
   "correcta": 1,
+  "retro": [
+   "Multiplica 12.000 por 3 en vez de hallar el precio unitario (12.000 / 3).",
+   "Correcta: 12.000 / 3 = 4.000 y 4.000 × 8 = 32.000.",
+   "Multiplica 12.000 por 8 sin dividir entre 3 cuadernos (96.000), con lo que invierte la proporción.",
+   "Cuenta 7 cuadernos en vez de 8 (7 × 4.000)."
+  ],
   "explicacion": "Cada cuaderno cuesta 12.000 / 3 = $4.000. Entonces 8 cuadernos cuestan 8 × 4.000 = $32.000. Es una proporción directa: a más cuadernos, mayor costo.",
   "fuente": "Ejercicio original"
  },
@@ -81,11 +105,17 @@
   "enunciado": "Un docente corrige 12 talleres en 40 minutos. Al mismo ritmo, ¿cuántos minutos tardará en corregir 30 talleres?",
   "opciones": [
    "58 minutos",
-   "160 minutos",
+   "16 minutos",
    "100 minutos",
    "80 minutos"
   ],
   "correcta": 2,
+  "retro": [
+   "Razona de forma aditiva: suma los 18 talleres extra a los 40 minutos (40 + 18).",
+   "Invierte la regla de tres: 12 × 40 / 30 = 16, como si más talleres tomaran menos tiempo.",
+   "Correcta: 30 × 40 / 12 = 100 minutos.",
+   "Redondea 30/12 a 2 y duplica los 40 minutos."
+  ],
   "explicacion": "Regla de tres directa: 12 talleres ---- 40 min; 30 talleres ---- x. Entonces x = 30 × 40 / 12 = 1.200 / 12 = 100 minutos. Cada taller toma 40/12 ≈ 3,33 minutos, y 30 × 3,33 = 100.",
   "fuente": "Ejercicio original"
  },
@@ -104,6 +134,12 @@
    "9 horas"
   ],
   "correcta": 0,
+  "retro": [
+   "Correcta: 4 × 6 = 24 horas-docente y 24 / 3 = 8 horas.",
+   "Aplica proporción directa (6 × 3 / 4): menos docentes tardarían menos, lo cual es un error.",
+   "Razona de forma aditiva: un docente menos, una hora más (6 + 1).",
+   "Suma 3 horas al tiempo original (6 + 3) sin usar la proporción inversa."
+  ],
   "explicacion": "Es una proporción inversa: menos docentes, más tiempo. El trabajo total es 4 × 6 = 24 horas-docente. Con 3 docentes: 24 / 3 = 8 horas. Quien responde 4,5 aplicó una proporción directa (6 × 3 / 4).",
   "fuente": "Ejercicio original"
  },
@@ -118,10 +154,16 @@
   "opciones": [
    "4,0",
    "3,8",
-   "3,5",
+   "3,75",
    "19,0"
   ],
   "correcta": 1,
+  "retro": [
+   "Toma la mediana (4,0) en vez del promedio.",
+   "Correcta: 19,0 / 5 = 3,8.",
+   "Promedia solo la nota mínima y la máxima: (2,5 + 5,0) / 2 = 3,75.",
+   "Da la suma de las notas y olvida dividir entre 5."
+  ],
   "explicacion": "Se suman las notas: 3,0 + 4,0 + 4,5 + 2,5 + 5,0 = 19,0. Se divide entre 5 estudiantes: 19 / 5 = 3,8. El 4,0 es la mediana y el 19,0 es solo la suma.",
   "fuente": "Ejercicio original"
  },
@@ -140,6 +182,12 @@
    "La moda es 5 y la mediana es 7."
   ],
   "correcta": 3,
+  "retro": [
+   "Toma como mediana el valor que más se repite, confundiéndola con la moda.",
+   "Toma el mayor valor (9) como moda; el 9 se repite solo 2 veces y el 5 se repite 3.",
+   "Toma el quinto dato ordenado (8) en vez del cuarto, que es el central de siete.",
+   "Correcta: moda 5 (aparece 3 veces) y mediana 7 (cuarto dato ordenado)."
+  ],
   "explicacion": "Ordenados: 5, 5, 5, 7, 8, 9, 9. La moda es el dato más frecuente: 5 (aparece 3 veces). La mediana es el valor central, el cuarto de siete datos: 7. El 9 se repite solo 2 veces.",
   "fuente": "Ejercicio original"
  },
@@ -154,10 +202,16 @@
   "opciones": [
    "3,7",
    "3,9",
-   "3,8",
+   "4,44",
    "4,2"
   ],
   "correcta": 0,
+  "retro": [
+   "Correcta: (5 × 3,6 + 4,2) / 6 = 22,2 / 6 = 3,7.",
+   "Promedia solo 3,6 y 4,2 y trata el 3,6 como una sola nota.",
+   "Divide la suma de las seis notas entre 5 en vez de entre 6 (22,2 / 5 = 4,44).",
+   "Toma la última nota como nuevo promedio."
+  ],
   "explicacion": "La suma de las cinco notas es 5 × 3,6 = 18,0. Con la sexta: 18,0 + 4,2 = 22,2. Nuevo promedio: 22,2 / 6 = 3,7. Promediar solo 3,6 y 4,2 (3,9) es un error: se ignora que el 3,6 representa cinco notas.",
   "fuente": "Ejercicio original"
  },
@@ -176,6 +230,12 @@
    "37,8 años"
   ],
   "correcta": 2,
+  "retro": [
+   "Toma el tercer dato, sin promediar los dos centrales de una cantidad par.",
+   "Toma el cuarto dato en vez de promediar el tercero y el cuarto.",
+   "Correcta: (35 + 40) / 2 = 37,5.",
+   "Calcula el promedio aritmético (227 / 6) en lugar de la mediana."
+  ],
   "explicacion": "Con una cantidad par de datos ordenados, la mediana es el promedio de los dos centrales: (35 + 40) / 2 = 37,5. El promedio aritmético es 227 / 6 ≈ 37,8, que es otra medida distinta.",
   "fuente": "Ejercicio original"
  },
@@ -194,6 +254,12 @@
    "9.°"
   ],
   "correcta": 1,
+  "retro": [
+   "Elige el grado con más asistentes en número (40), no en porcentaje.",
+   "Correcta: 27/30 = 90 %, el mayor porcentaje.",
+   "Calcula 34/40 = 85 % pero no lo compara bien con el 90 % del 8.°.",
+   "Con 16/20 = 80 % tiene el menor porcentaje, igual que el 6.°."
+  ],
   "explicacion": "Se calcula asistieron / matriculados: 6.° = 40/50 = 80 %; 7.° = 34/40 = 85 %; 8.° = 27/30 = 90 %; 9.° = 16/20 = 80 %. El mayor es 8.° con 90 %. El 6.° tiene más asistentes en número, pero no en porcentaje.",
   "fuente": "Ejercicio original"
  },
@@ -208,10 +274,16 @@
   "opciones": [
    "117",
    "140",
-   "21",
+   "19",
    "23"
   ],
   "correcta": 3,
+  "retro": [
+   "Suma los asistentes (117) en vez de los que faltaron.",
+   "Suma los matriculados (140) en vez de los que faltaron.",
+   "Omite al 9.° (10 + 6 + 3 = 19) al sumar los que faltaron.",
+   "Correcta: 10 + 6 + 3 + 4 = 23."
+  ],
   "explicacion": "Faltaron: 6.° = 50 − 40 = 10; 7.° = 40 − 34 = 6; 8.° = 30 − 27 = 3; 9.° = 20 − 16 = 4. Total: 10 + 6 + 3 + 4 = 23. El 117 es el total de asistentes y el 140, el de matriculados (117 + 23 = 140).",
   "fuente": "Ejercicio original"
  },
@@ -226,10 +298,16 @@
   "opciones": [
    "$150.000",
    "$750.000",
-   "$180.000",
-   "$120.000"
+   "$187.500",
+   "$125.000"
   ],
   "correcta": 0,
+  "retro": [
+   "Correcta: 750 / 5 = 150 mil.",
+   "Da el total semanal (750) y olvida dividir entre 5.",
+   "Divide el total entre 4 días (750 / 4 = 187,5) y se equivoca en la cantidad de días.",
+   "Divide el total entre 6 (750 / 6 = 125) y cuenta un día de más."
+  ],
   "explicacion": "Total de la semana: 120 + 150 + 90 + 180 + 210 = 750 (miles). Promedio diario: 750 / 5 = 150 mil, es decir, $150.000. Los $750.000 son el total semanal.",
   "fuente": "Ejercicio original"
  },
@@ -248,6 +326,12 @@
    "200 %"
   ],
   "correcta": 2,
+  "retro": [
+   "Calcula el porcentaje sobre el valor final (90 / 180) en lugar del inicial.",
+   "Confunde el aumento de 90 mil con 90 %.",
+   "Correcta: (180 − 90) / 90 = 100 %.",
+   "Expresa la razón 180 / 90 = 2 como 200 %, que es el valor final respecto al inicial, no el aumento."
+  ],
   "explicacion": "El aumento fue 180 − 90 = 90 mil. El porcentaje se calcula sobre el valor inicial (miércoles): 90 / 90 = 1 = 100 %. El 50 % resulta de dividir por el valor final (90 / 180).",
   "fuente": "Ejercicio original"
  },
@@ -266,6 +350,12 @@
    "3/5"
   ],
   "correcta": 1,
+  "retro": [
+   "Compara azules con no azules (3 a 7) en lugar de con el total (10).",
+   "Correcta: 3 azules de 10 fichas = 3/10.",
+   "Divide entre las 3 clases de color en vez de entre el total de fichas.",
+   "Compara azules con rojas (3 de 5) en vez de con el total."
+  ],
   "explicacion": "Hay 5 + 3 + 2 = 10 fichas en total y 3 son azules. Probabilidad = casos favorables / casos posibles = 3/10. El 3/7 compara azules con no azules, que no es una probabilidad.",
   "fuente": "Ejercicio original"
  },
@@ -284,6 +374,12 @@
    "2/3"
   ],
   "correcta": 3,
+  "retro": [
+   "Suma 3/6 + 2/6 y cuenta dos veces el 6, que es par y múltiplo de 3.",
+   "Cuenta solo los pares (3/6).",
+   "Cuenta solo el 6, que cumple ambas condiciones (1/6).",
+   "Correcta: {2, 3, 4, 6} son 4 de 6 resultados = 2/3."
+  ],
   "explicacion": "Pares: {2, 4, 6}. Múltiplos de 3: {3, 6}. La unión es {2, 3, 4, 6}, con 4 resultados favorables de 6: 4/6 = 2/3. Si se sumaran 3/6 + 2/6 = 5/6 se contaría dos veces el 6.",
   "fuente": "Ejercicio original"
  },
@@ -302,6 +398,12 @@
    "1/3"
   ],
   "correcta": 0,
+  "retro": [
+   "Correcta: (4/10) × (3/9) = 2/15.",
+   "Calcula con reposición: (4/10) × (4/10) = 4/25.",
+   "Calcula solo la primera extracción (4/10 = 2/5).",
+   "Calcula solo la segunda (3/9 = 1/3) y olvida multiplicar por la primera."
+  ],
   "explicacion": "Primera niña: 4/10. Como no hay reposición, quedan 3 niñas entre 9 estudiantes: 3/9. Probabilidad: (4/10) × (3/9) = 12/90 = 2/15. El 4/25 (16/100) corresponde al caso con reposición.",
   "fuente": "Ejercicio original"
  },
@@ -317,9 +419,15 @@
    "43",
    "40",
    "39",
-   "37"
+   "35"
   ],
   "correcta": 2,
+  "retro": [
+   "Usa 3 + 4n en vez de 3 + 4(n − 1): cuenta un paso de más.",
+   "Calcula 4 × 10 y olvida ajustar con el primer término.",
+   "Correcta: 4 × 10 − 1 = 39.",
+   "Da el noveno término (35) en vez del décimo."
+  ],
   "explicacion": "El término general es an = 3 + 4(n − 1) = 4n − 1. Para n = 10: 4 × 10 − 1 = 39. Comprobación: los términos son 3, 7, 11, 15, 19, 23, 27, 31, 35, 39.",
   "fuente": "Ejercicio original"
  },
@@ -333,11 +441,17 @@
   "enunciado": "Un directivo envía un mensaje a 2 docentes. En cada ronda, cada docente que lo recibe lo envía a 3 nuevos docentes. La cantidad de docentes que reciben el mensaje en cada ronda es 2, 6, 18, 54… ¿Cuántos lo reciben en la quinta ronda?",
   "opciones": [
    "108",
-   "216",
-   "135",
+   "486",
+   "57",
    "162"
   ],
   "correcta": 3,
+  "retro": [
+   "Multiplica por 2 en vez de por 3 el cuarto término (54 × 2).",
+   "Calcula 2 × 3^5, que es la sexta ronda y no la quinta.",
+   "Suma 3 en vez de multiplicar por 3 (54 + 3).",
+   "Correcta: 2, 6, 18, 54 y 54 × 3 = 162."
+  ],
   "explicacion": "Es una sucesión geométrica de razón 3: se multiplica por 3 en cada paso. Rondas: 2, 6, 18, 54 y 54 × 3 = 162. Sumar o multiplicar por otro número da resultados distintos.",
   "fuente": "Ejercicio original"
  },
@@ -356,6 +470,12 @@
    "36"
   ],
   "correcta": 1,
+  "retro": [
+   "Repite la diferencia +5 en lugar de aumentarla a +6.",
+   "Correcta: 15 + 6 = 21.",
+   "Salta a +7 en lugar de +6 al continuar las diferencias.",
+   "Aplica el patrón de cuadrados (6²), que no coincide con 1, 3, 6, 10, 15."
+  ],
   "explicacion": "Las diferencias entre términos consecutivos son +2, +3, +4, +5, así que la siguiente es +6: 15 + 6 = 21. El 20 supone repetir +5, y el 36 (6²) aplica un patrón de cuadrados que aquí no corresponde.",
   "fuente": "Ejercicio original"
  },
@@ -374,6 +494,12 @@
    "Algunos licenciados no son docentes de la institución."
   ],
   "correcta": 0,
+  "retro": [
+   "Correcta: silogismo válido, si todos los docentes son licenciados y María es docente, es licenciada.",
+   "Invierte la primera premisa (conversión ilegítima): no todo licenciado es docente de la institución.",
+   "Contradice la primera premisa.",
+   "No se sigue de las premisas: nada habla de licenciados que no sean docentes."
+  ],
   "explicacion": "Si todos los docentes son licenciados y María es docente, entonces es licenciada (silogismo válido). La opción que invierte la primera premisa es un error de conversión: no todo licenciado es docente de la institución.",
   "fuente": "Ejercicio original"
  },
@@ -392,6 +518,12 @@
    "No se puede concluir nada sobre las tareas de Carlos."
   ],
   "correcta": 2,
+  "retro": [
+   "Confunde «no entregó todas» con «no entregó ninguna».",
+   "Contradice la premisa: quien entrega todas aprueba, y Carlos no aprobó.",
+   "Correcta: modus tollens, si no aprobó, no entregó todas las tareas.",
+   "No ve que la negación del consecuente permite concluir algo sobre el antecedente."
+  ],
   "explicacion": "Es una negación del consecuente (modus tollens): si P implica Q y no ocurre Q, entonces no ocurre P. Como Carlos no aprobó, no entregó todas las tareas (pudo haber entregado algunas). No se concluye que no entregó ninguna.",
   "fuente": "Ejercicio original"
  },
@@ -410,6 +542,12 @@
    "Nada seguro sobre la lluvia, pues el recreo pudo cancelarse por otra razón."
   ],
   "correcta": 3,
+  "retro": [
+   "Afirma el consecuente: asume que el recreo solo se cancela por lluvia.",
+   "Niega el antecedente sin base: el recreo cancelado no prueba que no llovió.",
+   "Generaliza una regla que las premisas no dan sobre actividades especiales.",
+   "Correcta: la lluvia basta para cancelar, pero hay otras causas posibles."
+  ],
   "explicacion": "Afirmar el consecuente («se canceló, luego llovió») es una falacia: la condición dice que la lluvia basta para cancelar, no que sea la única causa. Con certeza, no puede concluirse nada sobre la lluvia.",
   "fuente": "Ejercicio original"
  },
@@ -424,10 +562,16 @@
   "opciones": [
    "7",
    "12",
-   "6",
-   "24"
+   "64",
+   "81"
   ],
   "correcta": 1,
+  "retro": [
+   "Suma 3 + 4 en vez de multiplicar: cuenta prendas, no combinaciones.",
+   "Correcta: 3 × 4 = 12.",
+   "Eleva 4 a la 3 (4³) en vez de multiplicar 3 × 4.",
+   "Eleva 3 a la 4 (3⁴) en vez de multiplicar 3 × 4."
+  ],
   "explicacion": "Por el principio multiplicativo, cada una de las 3 camisetas se combina con las 4 pantalonetas: 3 × 4 = 12. Sumar (7) cuenta opciones por separado, no combinaciones.",
   "fuente": "Ejercicio original"
  },
@@ -446,6 +590,12 @@
    "36"
   ],
   "correcta": 0,
+  "retro": [
+   "Correcta: C(6, 2) = 6 × 5 / 2 = 15.",
+   "Cuenta el orden (6 × 5 = 30) y no divide entre 2.",
+   "Multiplica 6 × 2, que no cuenta parejas distintas.",
+   "Calcula 6 × 6, que permite repetir a la misma persona."
+  ],
   "explicacion": "Como el orden no importa, se usa la combinación: C(6, 2) = (6 × 5) / 2 = 15. El 30 resulta de contar el orden (por ejemplo, presidente y secretario), lo que duplicaría cada pareja.",
   "fuente": "Ejercicio original"
  },
@@ -459,11 +609,17 @@
   "enunciado": "El patio de una escuela mide 12 m de largo y 8 m de ancho. ¿Cuál es su área expresada en centímetros cuadrados?",
   "opciones": [
    "96.000 cm²",
-   "9.600.000 cm²",
+   "96.000.000 cm²",
    "9.600 cm²",
    "960.000 cm²"
   ],
   "correcta": 3,
+  "retro": [
+   "Multiplica 96 m² por 1.000 en lugar de 10.000.",
+   "Aplica el factor 100 tres veces (como si fuera volumen) y obtiene 96.000.000.",
+   "Multiplica por 100 (factor lineal) en vez de 10.000 para pasar de m² a cm².",
+   "Correcta: 96 m² × 10.000 = 960.000 cm²."
+  ],
   "explicacion": "El área es 12 × 8 = 96 m². Como 1 m = 100 cm, entonces 1 m² = 100 × 100 = 10.000 cm². Por tanto, 96 × 10.000 = 960.000 cm². Multiplicar por 100 en lugar de 10.000 es el error más común.",
   "fuente": "Ejercicio original"
  },
@@ -482,6 +638,12 @@
    "5,4 m/s"
   ],
   "correcta": 1,
+  "retro": [
+   "Multiplica por 3,6 en lugar de dividir.",
+   "Correcta: 54 × 1.000 / 3.600 = 15 m/s.",
+   "Divide entre 60 (como si fueran minutos): 54/60 = 0,9.",
+   "Divide entre 10 en lugar de entre 3,6."
+  ],
   "explicacion": "1 km = 1.000 m y 1 h = 3.600 s. Entonces 54 km/h = 54 × 1.000 / 3.600 = 54.000 / 3.600 = 15 m/s. Equivale a dividir entre 3,6; multiplicar por 3,6 da 194,4, que es un error de sentido.",
   "fuente": "Ejercicio original"
  },
@@ -500,7 +662,109 @@
    "20 %"
   ],
   "correcta": 2,
+  "retro": [
+   "Da el porcentaje ya ejecutado (75 %), no el no ejecutado.",
+   "Toma solo refrigerios (3.600.000 / 12.000.000 = 30 %).",
+   "Correcta: 3.000.000 / 12.000.000 = 25 %.",
+   "Toma solo material didáctico (2.400.000 / 12.000.000 = 20 %)."
+  ],
   "explicacion": "Lo ejecutado es 2.400.000 + 1.800.000 + 3.600.000 + 1.200.000 = $9.000.000. Quedan 12.000.000 − 9.000.000 = $3.000.000. Porcentaje no ejecutado: 3.000.000 / 12.000.000 = 0,25 = 25 %. El 75 % es lo ya ejecutado.",
+  "fuente": "Ejercicio original"
+ },
+ {
+  "id": "cuantitativo-29",
+  "tema": "cuantitativo",
+  "subtema": "Porcentajes",
+  "dificultad": 2,
+  "tipo": "conocimiento",
+  "contexto": null,
+  "enunciado": "Un maletín cuesta $80.000. La tienda aplica un descuento del 10 % y, sobre el precio ya rebajado, un segundo descuento del 10 %. ¿Cuánto se paga?",
+  "opciones": [
+   "$64.800",
+   "$64.000",
+   "$72.000",
+   "$16.000"
+  ],
+  "correcta": 0,
+  "retro": [
+   "Correcta: 80.000 × 0,9 = 72.000 y 72.000 × 0,9 = 64.800.",
+   "Suma los dos descuentos (20 %) y los aplica al precio original: 80.000 × 0,8 = 64.000.",
+   "Aplica un solo descuento del 10 % (72.000).",
+   "Da el valor del descuento total de 20 % (16.000) y no el precio a pagar."
+  ],
+  "explicacion": "Primer descuento: 80.000 × 0,9 = 72.000. Segundo, sobre el nuevo precio: 72.000 × 0,9 = 64.800. Los descuentos sucesivos no se suman (20 % daría 64.000) porque el segundo se aplica a una base menor.",
+  "fuente": "Ejercicio original"
+ },
+ {
+  "id": "cuantitativo-30",
+  "tema": "cuantitativo",
+  "subtema": "Proporciones y regla de tres",
+  "dificultad": 2,
+  "tipo": "conocimiento",
+  "contexto": null,
+  "enunciado": "Un bus escolar recorre 180 km en 3 horas. Si mantiene la misma velocidad, ¿cuántas horas tarda en recorrer 450 km?",
+  "opciones": [
+   "1,2 horas",
+   "7,5 horas",
+   "10,5 horas",
+   "150 horas"
+  ],
+  "correcta": 1,
+  "retro": [
+   "Invierte la proporción: 180 × 3 / 450 = 1,2.",
+   "Correcta: 180 / 3 = 60 km/h y 450 / 60 = 7,5 horas.",
+   "Suma el tiempo original al correcto (3 + 7,5).",
+   "Divide 450 entre 3 horas, mezclando kilómetros con horas (150)."
+  ],
+  "explicacion": "La velocidad es 180 / 3 = 60 km/h. El tiempo es 450 / 60 = 7,5 horas. Es proporción directa: a más distancia, más tiempo (450 × 3 / 180 = 7,5).",
+  "fuente": "Ejercicio original"
+ },
+ {
+  "id": "cuantitativo-31",
+  "tema": "cuantitativo",
+  "subtema": "Promedio, mediana y moda",
+  "dificultad": 3,
+  "tipo": "conocimiento",
+  "contexto": null,
+  "enunciado": "En una materia, la nota final pondera: talleres 30 %, examen 50 % y proyecto 20 %. Una estudiante obtuvo 4,0 en talleres, 3,0 en el examen y 5,0 en el proyecto. ¿Cuál es su nota final?",
+  "opciones": [
+   "4,0",
+   "2,7",
+   "3,7",
+   "370"
+  ],
+  "correcta": 2,
+  "retro": [
+   "Promedia simple (4,0 + 3,0 + 5,0) / 3 sin usar los pesos.",
+   "Olvida el proyecto: 0,3 × 4 + 0,5 × 3 = 2,7.",
+   "Correcta: 0,3 × 4,0 + 0,5 × 3,0 + 0,2 × 5,0 = 3,7.",
+   "No convierte los porcentajes a decimales (30 × 4 + 50 × 3 + 20 × 5 = 370)."
+  ],
+  "explicacion": "Promedio ponderado: 0,30 × 4,0 + 0,50 × 3,0 + 0,20 × 5,0 = 1,2 + 1,5 + 1,0 = 3,7. El promedio simple (4,0) ignora que el examen pesa más.",
+  "fuente": "Ejercicio original"
+ },
+ {
+  "id": "cuantitativo-32",
+  "tema": "cuantitativo",
+  "subtema": "Conversión de unidades",
+  "dificultad": 3,
+  "tipo": "conocimiento",
+  "contexto": null,
+  "enunciado": "Un salón rectangular mide 6 m de largo y 5 m de ancho. Se quiere enchapar el piso con baldosas cuadradas de 50 cm de lado. ¿Cuántas baldosas se necesitan, sin contar desperdicio?",
+  "opciones": [
+   "60",
+   "1.200",
+   "15",
+   "120"
+  ],
+  "correcta": 3,
+  "retro": [
+   "Divide el área (30 m²) entre el lado de la baldosa (0,5 m) y no entre su área.",
+   "Convierte 50 cm a 0,05 m en lugar de 0,5 m y obtiene 30 / 0,0025.",
+   "Multiplica el área por el lado (30 × 0,5) en vez de dividir entre el área de la baldosa.",
+   "Correcta: 30 m² / 0,25 m² = 120."
+  ],
+  "explicacion": "El área del salón es 6 × 5 = 30 m². Cada baldosa mide 0,5 × 0,5 = 0,25 m². Entonces 30 / 0,25 = 120 baldosas. Se divide entre el área de la baldosa, no entre su lado.",
   "fuente": "Ejercicio original"
  }
 ]

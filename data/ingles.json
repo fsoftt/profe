@@ -14,6 +14,12 @@
       "have finished"
     ],
     "correcta": 2,
+    "retro": [
+      "\"was finishing\" es pasado continuo: no expresa una condición pasada irreal; con \"wouldn't be working\" se necesita \"had finished\".",
+      "\"would finish\" no se usa en la cláusula \"if\" de un condicional.",
+      "Correcta: \"had finished\" (condición pasada irreal) + \"wouldn't be working\" (resultado presente).",
+      "\"have finished\" es presente perfecto, una condición real que no combina con \"wouldn't\"."
+    ],
     "explicacion": "Es un condicional mixto (tipo 3 + tipo 2): condición pasada irreal (\"had finished\") con resultado presente (\"wouldn't be working\"). Las demás formas no combinan con \"this week\" y \"wouldn't be\".",
     "fuente": "Gramática inglesa B2-C1"
   },
@@ -32,6 +38,12 @@
       "are repainted"
     ],
     "correcta": 0,
+    "retro": [
+      "Correcta: futuro perfecto pasivo, \"will have been repainted\".",
+      "\"will be repainting\" es voz activa y continua: las aulas no pintan, son pintadas.",
+      "\"had repainted\" es pasado perfecto activo y el momento de referencia es futuro (\"next Monday\").",
+      "\"are repainted\" es presente pasivo y no indica que la acción esté completada antes de un momento futuro."
+    ],
     "explicacion": "Se necesita futuro perfecto en voz pasiva: \"will have been + participio\", porque la acción se completa antes de un momento futuro y las aulas reciben la acción. \"will be repainting\" y \"had repainted\" son activas.",
     "fuente": "Gramática inglesa B2-C1"
   },
@@ -50,6 +62,12 @@
       "The coordinator told us she would send us the results as soon as she had them."
     ],
     "correcta": 3,
+    "retro": [
+      "\"said us\" es incorrecto, \"say\" no lleva objeto directo así, y no hace backshift (\"will\" debe pasar a \"would\").",
+      "\"told that\" omite el objeto: \"tell\" exige \"told us\".",
+      "\"would have sent\" y \"would have them\" forman un condicional perfecto que no corresponde al discurso indirecto.",
+      "Correcta: \"told us\" + backshift (\"would send\", \"had\")."
+    ],
     "explicacion": "En discurso indirecto con verbo en pasado hay \"backshift\": will pasa a would, have a had. \"Tell\" exige objeto (\"told us\"), mientras que \"say\" no lo admite directamente (\"said us\" es incorrecto).",
     "fuente": "Gramática inglesa B2-C1"
   },
@@ -68,6 +86,12 @@
       "would have gone"
     ],
     "correcta": 1,
+    "retro": [
+      "\"needn't have gone\" significa que no era necesario ir; no es deducción.",
+      "Correcta: \"must have gone\" expresa deducción casi segura sobre el pasado a partir de evidencia (luces apagadas, auto ausente).",
+      "\"shouldn't have gone\" expresa crítica sobre algo que sí pasó.",
+      "\"would have gone\" es hipotético; no expresa certeza sobre un hecho."
+    ],
     "explicacion": "\"Must have + participio\" expresa deducción casi segura sobre el pasado a partir de evidencia. \"Needn't have\" y \"shouldn't have\" expresan crítica o falta de necesidad, no deducción.",
     "fuente": "Gramática inglesa B2-C1"
   },
@@ -86,6 +110,12 @@
       "whom"
     ],
     "correcta": 1,
+    "retro": [
+      "\"who's\" es la contracción de \"who is\" o \"who has\", no es posesivo.",
+      "Correcta: \"whose\" es el relativo posesivo y acompaña a un sustantivo (\"whose classroom\").",
+      "\"which\" se refiere a cosas y no expresa posesión.",
+      "\"whom\" es relativo de objeto, no posesivo."
+    ],
     "explicacion": "\"Whose\" es el relativo posesivo y acompaña a un sustantivo (\"whose classroom\"). \"Who's\" es la contracción de \"who is\" o \"who has\", y \"which/whom\" no expresan posesión.",
     "fuente": "Gramática inglesa B2-C1"
   },
@@ -104,6 +134,12 @@
       "phase out"
     ],
     "correcta": 3,
+    "retro": [
+      "\"put off\" significa aplazar, no retirar de forma gradual.",
+      "\"take after\" significa parecerse a un familiar.",
+      "\"hold up\" significa retrasar o sostener, no retirar progresivamente.",
+      "Correcta: \"phase out\" es retirar de forma progresiva."
+    ],
     "explicacion": "\"Phase out\" significa retirar progresivamente. \"Put off\" es aplazar, \"take after\" es parecerse a un familiar y \"hold up\" es retrasar o sostener; ninguno encaja con el sentido de retirar gradualmente.",
     "fuente": "Gramática inglesa B2-C1"
   },
@@ -122,6 +158,12 @@
       "take / related"
     ],
     "correcta": 0,
+    "retro": [
+      "Correcta: \"capture attention\" y \"relevant to\" son las colocaciones naturales.",
+      "\"make attention\" no es colocación; se dice \"capture\" o \"get\" attention.",
+      "\"relative\" es falso amigo de \"relevante\"; significa relativo o pariente.",
+      "\"take attention\" no es natural y \"related\" no equivale a \"pertinente\"."
+    ],
     "explicacion": "La colocación correcta es \"capture (somebody's) attention\", y \"relevant to\" significa pertinente para. \"Relative\" es un falso amigo de \"relevante\"; \"make attention\" y \"take attention\" no son colocaciones naturales.",
     "fuente": "Vocabulario y colocaciones B2-C1"
   },
@@ -140,6 +182,12 @@
       "until Friday"
     ],
     "correcta": 2,
+    "retro": [
+      "\"aware\" es un adjetivo correcto en la oración.",
+      "\"had been postponed\" (pasado perfecto pasivo) es correcto para una acción anterior.",
+      "Correcta: error en \"were\": con \"neither ... nor\" concuerda con el sujeto más cercano (\"the teacher\"), debe ser \"was\".",
+      "\"until Friday\" es una preposición correcta con \"postponed\"."
+    ],
     "explicacion": "Con \"neither ... nor\" el verbo concuerda con el sujeto más cercano (regla de proximidad): \"the teacher\" es singular, por lo tanto debe ser \"was\". El resto de la oración es correcto.",
     "fuente": "Gramática inglesa B2-C1"
   },
@@ -152,12 +200,18 @@
     "contexto": "When Marta arrived at the small school in the mountains, she found twelve students of different ages sharing one room and one dictionary. Instead of waiting for new textbooks, which the municipality had promised but never delivered, she asked the children to collect stories from their grandparents and translate the key words into English. Within a month, the walls were covered with hand-drawn posters in two languages. Some colleagues doubted that this would improve the students' grammar. Marta admitted that it might not, at least not at first. However, she noticed that even the shyest children began to ask how to say things, and that was what she cared about most. By June, the pupils were presenting their family stories to visitors, using simple but confident English.",
     "enunciado": "What is the main idea of the text?",
     "opciones": [
-      "The municipality failed to deliver textbooks and was criticised by the teachers.",
-      "Mixed-age classes cannot be taught without a dictionary for every child.",
-      "Grammar improves fastest when children translate their grandparents' stories.",
+      "The municipality failed to deliver textbooks and was criticised by the teachers for ignoring the rural school's needs.",
+      "Mixed-age classes cannot be taught without a dictionary for every child, which is why the students struggled all year.",
+      "Grammar improves fastest when children translate their grandparents' stories into English and display them on posters.",
       "A teacher used the students' own family stories to get them to use English despite the lack of materials."
     ],
     "correcta": 3,
+    "retro": [
+      "Es un detalle del contexto, no la idea central del texto.",
+      "Generalización: el texto nunca dice que no se pueda enseñar sin diccionarios.",
+      "Información que el texto no dice: Marta admite que la gramática quizá no mejore al principio.",
+      "Correcta: Marta usó las historias familiares para que los niños usaran inglés pese a la falta de materiales."
+    ],
     "explicacion": "La idea principal es que Marta aprovechó recursos locales (las historias familiares) para motivar el uso del inglés. La falta de libros es solo un detalle del contexto, y el texto no afirma que la gramática mejore más rápido.",
     "fuente": "Texto original"
   },
@@ -170,12 +224,18 @@
     "contexto": "When Marta arrived at the small school in the mountains, she found twelve students of different ages sharing one room and one dictionary. Instead of waiting for new textbooks, which the municipality had promised but never delivered, she asked the children to collect stories from their grandparents and translate the key words into English. Within a month, the walls were covered with hand-drawn posters in two languages. Some colleagues doubted that this would improve the students' grammar. Marta admitted that it might not, at least not at first. However, she noticed that even the shyest children began to ask how to say things, and that was what she cared about most. By June, the pupils were presenting their family stories to visitors, using simple but confident English.",
     "enunciado": "What can be inferred about Marta's priorities?",
     "opciones": [
-      "She believed that grammar should never be taught.",
-      "She was mainly interested in impressing visitors.",
+      "She believed that grammar should never be taught because it discourages children from speaking in class.",
+      "She was mainly interested in impressing visitors with the students' progress at the end of the school year.",
       "She valued the students' willingness to communicate more than immediate grammatical accuracy.",
-      "She was waiting for the municipality's textbooks before starting any activity."
+      "She was waiting for the municipality's textbooks before starting any activity with the students at all."
     ],
     "correcta": 2,
+    "retro": [
+      "Exageración: dice que la gramática podría no mejorar \"at first\", no que no deba enseñarse.",
+      "Información que el texto no dice: los visitantes aparecen solo como audiencia final.",
+      "Correcta: a ella le importa que los niños pregunten cómo decir cosas, más que la exactitud gramatical inmediata.",
+      "Contradice el texto: Marta no esperó los libros, empezó con las historias."
+    ],
     "explicacion": "El texto dice que ella admite que la gramática quizá no mejore \"at first\", pero le importa que los niños \"ask how to say things\". Es una inferencia sobre sus prioridades; las otras opciones exageran o contradicen el texto.",
     "fuente": "Texto original"
   },
@@ -194,6 +254,12 @@
       "one dictionary"
     ],
     "correcta": 1,
+    "retro": [
+      "\"the municipality\" es sujeto de la cláusula, no lo que se prometió.",
+      "Correcta: \"which\" retoma \"new textbooks\", el sustantivo anterior.",
+      "\"twelve students\" está en otra parte de la oración y no se promete.",
+      "\"one dictionary\" aparece antes y no es el antecedente de \"which\"."
+    ],
     "explicacion": "El pronombre relativo \"which\" retoma el sustantivo inmediatamente anterior, \"new textbooks\" (los libros que se prometieron pero no se entregaron).",
     "fuente": "Texto original"
   },
@@ -207,11 +273,17 @@
     "enunciado": "What is the writer's main purpose?",
     "opciones": [
       "To weigh the strengths and limits of language-learning apps.",
-      "To persuade teachers to replace classes with apps.",
-      "To tell the personal experience of one student.",
-      "To criticise the methods used by the researchers."
+      "To persuade teachers to replace their classes with apps as soon as the school can afford them.",
+      "To tell the personal experience of one student who learned a lot of vocabulary with an app.",
+      "To criticise the methods used by the researchers in their small study at the secondary school."
     ],
     "correcta": 0,
+    "retro": [
+      "Correcta: presenta argumentos de ambos lados y un estudio, para concluir que las apps son un complemento.",
+      "El texto concluye lo contrario: las apps son un complemento, no un sustituto.",
+      "Información que el texto no dice: el estudio no es una experiencia personal.",
+      "El texto no critica los métodos del estudio, los usa como evidencia."
+    ],
     "explicacion": "El autor presenta argumentos de defensores y críticos y luego un estudio, para concluir que las apps son un complemento. Es un texto equilibrado, no persuasivo ni anecdótico.",
     "fuente": "Texto original"
   },
@@ -225,11 +297,17 @@
     "enunciado": "What can be concluded from the study described in the text?",
     "opciones": [
       "Greater vocabulary knowledge did not automatically lead to better speaking fluency.",
-      "Apps harm students' speaking skills.",
-      "The control group learned more words than the app users.",
-      "Students disliked practising with apps every day."
+      "Apps harm students' speaking skills because they replace real conversation with repetition and games.",
+      "The control group learned more words than the app users over the whole semester of the study.",
+      "Students disliked practising with apps every day and stopped using them after a few weeks."
     ],
     "correcta": 0,
+    "retro": [
+      "Correcta: más palabras reconocidas, pero no más fluidez que el grupo de control.",
+      "Información que el texto no dice: no afirma que las apps perjudiquen.",
+      "Contradice el texto: los estudiantes con apps reconocieron más palabras.",
+      "Información que el texto no dice: no habla de si les gustó practicar."
+    ],
     "explicacion": "Los estudiantes reconocían más palabras, pero \"no eran más fluidos\" que el grupo de control. No se dice que las apps perjudiquen ni que a los estudiantes les disgustaran.",
     "fuente": "Texto original"
   },
@@ -248,6 +326,12 @@
       "vocabulary and fluency"
     ],
     "correcta": 1,
+    "retro": [
+      "\"students and teachers\" no son las posturas descritas.",
+      "Correcta: \"both sides\" retoma \"Supporters\" y \"Critics\".",
+      "El estudio y el grupo de control no son dos posturas opuestas.",
+      "\"vocabulary and fluency\" son resultados del estudio, no \"sides\" del debate."
+    ],
     "explicacion": "\"Both sides\" retoma las dos posturas presentadas antes: \"Supporters\" y \"Critics\". El estudio parece apoyar ambas, porque mostró avance en vocabulario pero no en fluidez.",
     "fuente": "Texto original"
   },
@@ -266,6 +350,12 @@
       "To announce that a decision has already been made."
     ],
     "correcta": 2,
+    "retro": [
+      "No se queja: reconoce que el horario es ajustado.",
+      "No informa resultados: el club aún no existe.",
+      "Correcta: pide permiso y apoyo (\"If you agree\").",
+      "Contradice el texto: la decisión depende del Sr. Ortega."
+    ],
     "explicacion": "Ella escribe sobre el club \"we discussed\", ofrece supervisar y propone un plan \"if you agree\": solicita aprobación. No se queja ni informa resultados.",
     "fuente": "Texto original"
   },
@@ -278,12 +368,18 @@
     "contexto": "Dear Mr. Ortega,\n\nI am writing about the English club we discussed last week. I fully understand that the school schedule is tight, and I would not want to add to your workload. Still, several students have asked me whether they could meet on Thursday afternoons, when the library is free. I could supervise the sessions myself, and we would only need a few chairs and the old projector. If you agree, I will prepare a short plan and show it to you before the end of the month. I would be grateful for your thoughts.\n\nKind regards,\nLucía Ramírez",
     "enunciado": "How can Lucía's tone be described?",
     "opciones": [
-      "Demanding and impatient.",
-      "Informal and humorous.",
-      "Hesitant and apologetic about the idea itself.",
+      "Demanding and impatient, expecting an immediate answer from the principal about the club.",
+      "Informal and humorous, as if she were writing a message to a close friend or a classmate.",
+      "Hesitant and apologetic about the idea itself, as if she doubted that the club was a good proposal.",
       "Polite and tactful, anticipating possible objections."
     ],
     "correcta": 3,
+    "retro": [
+      "No exige ni se impacienta: pide opinión (\"I would be grateful\").",
+      "Es formal (\"Dear Mr. Ortega\"), sin humor.",
+      "No duda de la propuesta: la defiende con datos.",
+      "Correcta: cortés y prudente (\"I fully understand\") anticipa objeciones."
+    ],
     "explicacion": "Expresiones como \"I fully understand\" y \"I would not want to add to your workload\" muestran cortesía y anticipación de objeciones, sin dudar de la propuesta ni exigir.",
     "fuente": "Texto original"
   },
@@ -296,12 +392,18 @@
     "contexto": "Many adult learners feel embarrassed about their accent and avoid speaking until they sound \"perfect\". Yet research on English as a lingua franca shows that most conversations in English today take place between non-native speakers. In these exchanges, a listener rarely cares whether a speaker sounds like someone from London or Chicago; what matters is whether the message can be understood without effort. Certain features, such as stressing the right syllable, are far more important for understanding than the exact sound of every vowel. Teachers who insist on a native-like model may therefore be setting an unrealistic goal and, without realising it, making their students more anxious.",
     "enunciado": "What is the main idea of the text?",
     "opciones": [
-      "Adult learners can never improve their accent.",
+      "Adult learners can never improve their accent, however much they practise, once they are past a certain age.",
       "Being easily understood is a more realistic goal for learners than sounding like a native speaker.",
-      "Pronunciation should be removed from English lessons.",
-      "Native speakers cannot understand learners of English."
+      "Pronunciation should be removed from English lessons because it only makes students more anxious in class.",
+      "Native speakers cannot understand learners of English unless the learners copy a native accent exactly."
     ],
     "correcta": 1,
+    "retro": [
+      "Generalización: el texto no dice que no puedan mejorar su acento.",
+      "Correcta: defiende ser entendido sin esfuerzo como meta más realista que sonar nativo.",
+      "Exageración: dice que algunos rasgos pesan más, no que se elimine la pronunciación.",
+      "Información que el texto no dice: no afirma que los nativos no entiendan a los aprendices."
+    ],
     "explicacion": "El texto defiende la inteligibilidad (message \"understood without effort\") frente al acento nativo, y critica fijar un modelo irreal. No propone eliminar la pronunciación.",
     "fuente": "Texto original"
   },
@@ -315,11 +417,17 @@
     "enunciado": "Which statement would the author most likely agree with?",
     "opciones": [
       "Stressing the right syllable can matter more for communication than perfecting every vowel sound.",
-      "Most conversations in English take place between native speakers.",
-      "Accent reduction courses are essential for every adult learner.",
-      "The exact sound of each vowel never affects understanding."
+      "Most conversations in English take place between native speakers, so learners should imitate them closely.",
+      "Accent reduction courses are essential for every adult learner who wants to be understood by others.",
+      "The exact sound of each vowel never affects understanding, so vowels need no attention at all."
     ],
     "correcta": 0,
+    "retro": [
+      "Correcta: el texto dice que acentuar la sílaba correcta importa más que cada vocal.",
+      "Contradice el texto: dice que la mayoría ocurre entre hablantes no nativos.",
+      "Exageración: no dice que los cursos de reducción de acento sean esenciales.",
+      "Exageración: \"never\" no aparece; dice que importan menos, no que no importen."
+    ],
     "explicacion": "El texto dice que rasgos como el acento de palabra son \"far more important\" que cada vocal. La primera opción contradice el texto y la última exagera (\"never\").",
     "fuente": "Texto original"
   },
@@ -332,12 +440,18 @@
     "contexto": null,
     "enunciado": "In a grade 9 class, five students are around A1 and several others are around B1. The teacher is planning a lesson on describing daily routines. What is the best action?",
     "opciones": [
-      "Teach at the A1 level so that nobody feels left out and give the B1 students nothing extra.",
-      "Teach at the B1 level and let the A1 students catch up on their own.",
-      "Separate the class permanently by level and teach only the B1 group.",
+      "Teach at the A1 level so that nobody feels left out and give the B1 students nothing extra, since the objective is the same for all, which saves planning time.",
+      "Teach at the B1 level, which is the national goal, and let the A1 students catch up on their own with a dictionary, which saves planning time.",
+      "Separate the class permanently by level and teach only the B1 group, because the A1 students need a different course entirely, which saves planning time.",
       "Keep one common objective but offer tiered versions of the task (different levels of support and extension) and use mixed-level pairs."
     ],
     "correcta": 3,
+    "retro": [
+      "Deja sin reto a los estudiantes B1; no es diferenciación.",
+      "Deja a los A1 sin apoyo; no es inclusivo.",
+      "Separar de forma permanente deja a parte del grupo sin oportunidades.",
+      "Correcta: un objetivo común con tareas escalonadas y parejas mixtas."
+    ],
     "explicacion": "La diferenciación mantiene un objetivo común pero ajusta el apoyo y el reto (tiered tasks, scaffolding, parejas mixtas). Enseñar solo a un nivel o separar de forma permanente deja a parte del grupo sin oportunidades de aprendizaje.",
     "fuente": "Práctica pedagógica (diferenciación)"
   },
@@ -350,12 +464,18 @@
     "contexto": null,
     "enunciado": "Students are afraid of making mistakes and stay silent during speaking activities. Which action best lowers their affective filter?",
     "opciones": [
-      "Call on students one by one in front of the class and correct every error immediately.",
-      "Give extra grammar exercises until they feel ready to speak.",
+      "Call on students one by one in front of the class and correct every error immediately so that nobody repeats it.",
+      "Give extra grammar exercises until they feel ready to speak, so that they make fewer errors when they finally do.",
       "Start with low-stakes pair work and rehearsal time, and treat mistakes as a normal part of learning.",
-      "Reward only answers that contain no errors."
+      "Reward only answers that contain no errors, so that students learn to be careful before they speak aloud."
     ],
     "correcta": 2,
+    "retro": [
+      "Exposición pública y corrección inmediata elevan el \"affective filter\" (Krashen).",
+      "Más gramática no reduce la ansiedad ni propicia hablar.",
+      "Correcta: trabajo en parejas con ensayo y error normalizado baja el filtro afectivo.",
+      "Premiar solo respuestas sin errores aumenta el miedo a equivocarse."
+    ],
     "explicacion": "Según Krashen, la ansiedad eleva el \"affective filter\" y bloquea la adquisición. Trabajo en parejas, ensayo previo y una actitud positiva ante el error lo reducen; la exposición pública y la corrección inmediata lo aumentan.",
     "fuente": "Krashen (1982)"
   },
@@ -368,12 +488,18 @@
     "contexto": null,
     "enunciado": "In a rural school, a teacher has 42 students, one board, no internet and only a few photocopied pages. Which plan is most appropriate?",
     "opciones": [
-      "Postpone all speaking activities until more resources arrive.",
-      "Dictate a long text every lesson and have everyone copy it.",
-      "Use only whole-class choral repetition of grammar rules.",
+      "Postpone all speaking activities until more resources arrive, since large groups cannot practise speaking without technology or printed books.",
+      "Dictate a long text every lesson and have everyone copy it, so that all 42 students have the same material to study at home.",
+      "Use only whole-class choral repetition of grammar rules, which is the only technique that works with 42 students and one board.",
       "Use pair and group routines with songs, short dialogues and student-made materials from the local context, such as drawings and word cards."
     ],
     "correcta": 3,
+    "retro": [
+      "Aplazar la práctica oral desperdicia el tiempo disponible.",
+      "Dictar largos textos no desarrolla comunicación.",
+      "La repetición coral de reglas no genera uso comunicativo.",
+      "Correcta: rutinas en parejas y materiales creados con los estudiantes funcionan con pocos recursos."
+    ],
     "explicacion": "Con grupos grandes y pocos recursos funcionan las rutinas de trabajo en parejas o grupos y los materiales creados con los estudiantes. Esto maximiza el tiempo de práctica oral sin depender de tecnología.",
     "fuente": "Práctica pedagógica (contextos rurales)"
   },
@@ -386,12 +512,18 @@
     "contexto": null,
     "enunciado": "During a fluency activity a student says: \"Yesterday I go to the market with my mother.\" The teacher wants to keep the conversation going while giving feedback. Which reply is a recast?",
     "opciones": [
-      "\"You should say 'went', not 'go'. Repeat after me.\"",
+      "\"You should say 'went', not 'go'. Repeat after me, and then tell me the whole sentence again.\"",
       "\"Oh, you went to the market with your mother yesterday? What did you buy?\"",
-      "\"Yesterday I ...?\" (pausing and waiting for the student to correct)",
-      "\"Wrong! Use the past tense.\""
+      "\"Yesterday I ...?\" (pausing and waiting for the student to correct the verb by themselves)",
+      "\"Wrong! Use the past tense, because 'yesterday' always requires a past form.\""
     ],
     "correcta": 1,
+    "retro": [
+      "Es corrección explícita (\"You should say...\"), no recast.",
+      "Correcta: reformula la frase correctamente (\"you went\") y sigue la conversación.",
+      "Es una elicitación: se pide al estudiante que se autocorrija.",
+      "Es retroalimentación explícita negativa (\"Wrong!\"), no una reformulación."
+    ],
     "explicacion": "Un \"recast\" reformula correctamente el enunciado del estudiante sin interrumpir el sentido. La opción con pausa es \"elicitation\" (se pide al estudiante que se autocorrija) y las otras son corrección explícita.",
     "fuente": "Lyster y Ranta (1997)"
   },
@@ -410,6 +542,12 @@
       "output produced one level above the learner's level and corrected by the teacher"
     ],
     "correcta": 2,
+    "retro": [
+      "\"i + 1\" no es una hora extra de clase.",
+      "No es una regla gramatical por unidad.",
+      "Correcta: input comprensible un poco por encima del nivel actual.",
+      "No es producción corregida: Krashen habla de input, no de output."
+    ],
     "explicacion": "\"i\" es el nivel actual del aprendiz y \"+1\" el paso siguiente: input comprensible un poco más difícil. Para Krashen, la adquisición ocurre al comprender mensajes, no al corregir producción.",
     "fuente": "Krashen (1982)"
   },
@@ -423,11 +561,17 @@
     "enunciado": "A teacher wants to apply Task-Based Language Teaching. Which activity is a genuine task?",
     "opciones": [
       "Groups plan a one-day school trip within a budget and present their final plan to the class.",
-      "Students complete blanks with the correct past simple forms.",
-      "Students repeat the lines of a dialogue in chorus.",
-      "Students translate a paragraph into Spanish."
+      "Students complete blanks with the correct past simple forms in a worksheet of twenty sentences.",
+      "Students repeat the lines of a dialogue in chorus until they can say it without looking at the page.",
+      "Students translate a paragraph into Spanish and then compare their versions with a classmate."
     ],
     "correcta": 0,
+    "retro": [
+      "Correcta: tiene un resultado no lingüístico (un plan) y el significado es central.",
+      "Completar espacios se centra en la forma.",
+      "Repetir en coro se centra en la forma.",
+      "Traducir se centra en la forma y la traducción, no en una tarea comunicativa."
+    ],
     "explicacion": "En TBLT una tarea tiene un resultado no lingüístico (un plan, una decisión) y el significado es lo central. Los ejercicios de completar, repetir o traducir se centran en la forma.",
     "fuente": "Willis (1996), TBLT"
   },
@@ -440,12 +584,18 @@
     "contexto": null,
     "enunciado": "A teacher must grade short oral presentations fairly. Which is the best practice?",
     "opciones": [
-      "Give one global mark after the last presentation, based on general impression.",
-      "Count only grammar mistakes.",
+      "Give one global mark after the last presentation, based on the general impression the teacher has of each student's performance, so the marking is quick.",
+      "Count only grammar mistakes in each presentation, because accuracy is the only criterion that can be measured objectively, so the marking is quick.",
       "Use an analytic rubric (fluency, accuracy, vocabulary, pronunciation, delivery) with clear descriptors and share it before the task.",
-      "Grade only the students who volunteer."
+      "Grade only the students who volunteer to present, since the rest can be assessed in the next period."
     ],
     "correcta": 2,
+    "retro": [
+      "Una impresión global no es una evaluación transparente.",
+      "Evaluar solo gramática deja de lado fluidez, vocabulario y pronunciación.",
+      "Correcta: rúbrica analítica con descriptores claros, compartida antes.",
+      "Evaluar solo a voluntarios no es equitativo."
+    ],
     "explicacion": "Una rúbrica analítica con descriptores claros y conocida de antemano da transparencia, coherencia y retroalimentación formativa. Una impresión general o un solo criterio no refleja la competencia oral completa.",
     "fuente": "Evaluación del lenguaje (rúbricas)"
   },
@@ -458,12 +608,18 @@
     "contexto": null,
     "enunciado": "A teacher assigns an authentic article that is slightly too difficult for the group. Which approach best exemplifies scaffolding?",
     "opciones": [
-      "Hand out the article and a dictionary and wait.",
-      "Replace it with a text far below the students' level.",
-      "Translate the whole article into Spanish before reading.",
+      "Hand out the article and a dictionary and wait while the students work through the whole text on their own at home.",
+      "Replace it with a text far below the students' level so that nobody feels frustrated by unknown words.",
+      "Translate the whole article into Spanish before reading so that the students understand every sentence.",
       "Pre-teach key vocabulary, activate prior knowledge, use a graphic organiser and gradually withdraw the support."
     ],
     "correcta": 3,
+    "retro": [
+      "Dejar solos a los estudiantes con un texto difícil no es andamiaje.",
+      "Cambiarlo por un texto muy fácil elimina el reto.",
+      "Traducir todo el texto elimina el trabajo de lectura.",
+      "Correcta: andamiaje temporal (vocabulario, conocimientos previos, organizador) que se retira gradualmente."
+    ],
     "explicacion": "\"Scaffolding\" es un apoyo temporal que permite lograr lo que el estudiante aún no haría solo (zona de desarrollo próximo) y que se retira gradualmente. Dejarlos solos o simplificar en exceso no cumple ese fin.",
     "fuente": "Vygotsky; Bruner (andamiaje)"
   },
@@ -477,11 +633,17 @@
     "enunciado": "Students pronounce \"ship\" and \"sheep\" in the same way, which causes misunderstandings. What is the most effective activity?",
     "opciones": [
       "Minimal pair listening and production practice in meaningful contexts, focusing on the /ɪ/ and /iː/ contrast.",
-      "Explain the contrast only in writing, without any listening.",
-      "Ask students to read aloud until they fix it on their own.",
-      "Avoid those words in class."
+      "Explain the contrast only in writing, without any listening, using a table that compares the spelling of both words.",
+      "Ask students to read aloud long texts until they fix the problem on their own through repetition and time.",
+      "Avoid those words in class so that the students do not feel embarrassed by their pronunciation."
     ],
     "correcta": 0,
+    "retro": [
+      "Correcta: pares mínimos entrenan percepción y producción de /ɪ/ y /iː/.",
+      "Explicar solo por escrito no trabaja la percepción auditiva.",
+      "Leer en voz alta sin retroalimentación no corrige la pronunciación.",
+      "Evitar las palabras esconde el problema."
+    ],
     "explicacion": "Los pares mínimos (ship/sheep) entrenan la discriminación auditiva y la producción de /ɪ/ y /iː/. Explicar solo por escrito o evitar las palabras no desarrolla la percepción ni la producción.",
     "fuente": "Didáctica de la pronunciación"
   },
@@ -494,12 +656,18 @@
     "contexto": null,
     "enunciado": "Which sequence best integrates skills in a single lesson about recycling?",
     "opciones": [
-      "Four unrelated worksheets on different topics, one for each skill.",
+      "Four unrelated worksheets on different topics, one for each skill, completed in silence during the whole class period so that everyone can finish them.",
       "Students listen to a short report, discuss it in groups and then write an opinion paragraph using ideas from the discussion.",
-      "Students read aloud the same text three times.",
-      "A grammar drill followed by translation of isolated sentences."
+      "Students read aloud the same text three times and then answer comprehension questions about the first paragraph only, so that everyone can finish them.",
+      "A grammar drill followed by translation of isolated sentences and a vocabulary list to memorise at home for the next class, so that everyone can finish them."
     ],
     "correcta": 1,
+    "retro": [
+      "Hojas sin relación temática no integran destrezas.",
+      "Correcta: escuchar, hablar y escribir sobre un mismo tema.",
+      "Leer en voz alta tres veces es una sola destreza.",
+      "Un ejercicio de gramática y traducción aísla las destrezas."
+    ],
     "explicacion": "La integración de destrezas encadena listening, speaking y writing alrededor de un mismo tema y propósito, con lo cual cada actividad aporta insumos a la siguiente.",
     "fuente": "Didáctica de las cuatro destrezas"
   },
@@ -513,11 +681,17 @@
     "enunciado": "Students often write \"make homework\" and \"do a mistake\". From a Lexical Approach perspective, what should the teacher do?",
     "opciones": [
       "Teach and recycle common collocations as chunks in context (do homework, make a mistake).",
-      "Explain only that \"make\" and \"do\" are verbs.",
-      "Give a translated list of isolated words to memorise.",
-      "Forbid the use of Spanish in class."
+      "Explain only that 'make' and 'do' are verbs and that students must memorise which one goes with each noun.",
+      "Give a translated list of isolated words to memorise and test it at the end of every week.",
+      "Forbid the use of Spanish in class so that students stop translating from their mother tongue."
     ],
     "correcta": 0,
+    "retro": [
+      "Correcta: enseñar \"do homework\" y \"make a mistake\" como bloques (chunks).",
+      "Explicar que \"make\" y \"do\" son verbos no resuelve la colocación.",
+      "Una lista de palabras aisladas contradice el enfoque léxico.",
+      "Prohibir el español no enseña colocaciones."
+    ],
     "explicacion": "El Lexical Approach (Lewis) sostiene que el lenguaje se aprende en bloques o colocaciones, no en palabras sueltas. Enseñar \"do homework\" y \"make a mistake\" como chunks y reciclarlos corrige ese error.",
     "fuente": "Lewis (1993), Lexical Approach"
   },
@@ -536,6 +710,12 @@
       "Students will memorise forty irregular verbs."
     ],
     "correcta": 2,
+    "retro": [
+      "Describe contenido gramatical, no desempeño.",
+      "Describe una actividad del docente, no del estudiante.",
+      "Correcta: un objetivo can-do: describir una experiencia pasada y dar razones.",
+      "Memorizar verbos no es un desempeño comunicativo."
+    ],
     "explicacion": "Los descriptores \"can-do\" del MCER definen lo que el estudiante puede hacer con la lengua. Un buen objetivo se redacta en términos de desempeño comunicativo observable, no de contenido gramatical o actividad del docente.",
     "fuente": "MCER (Consejo de Europa)"
   },
@@ -554,6 +734,12 @@
       "The assessment covers only English grammar."
     ],
     "correcta": 1,
+    "retro": [
+      "Enseñar en español y añadir una lista no integra la lengua.",
+      "Correcta: doble foco, contenido y lengua, con andamiaje del lenguaje de la materia.",
+      "Solo gramática no integra el contenido.",
+      "Evaluar solo gramática descuida el contenido."
+    ],
     "explicacion": "CLIL (Content and Language Integrated Learning) tiene un doble foco: contenido y lengua, con andamiaje del lenguaje propio de la materia. Las otras opciones separan o descuidan uno de los dos focos.",
     "fuente": "Coyle, Hood y Marsh (2010)"
   },
@@ -572,6 +758,12 @@
       "Students attempt a task first, the teacher analyses their difficulties and teaches the language needed, then students do a similar task again."
     ],
     "correcta": 3,
+    "retro": [
+      "Describe PPP (Presentation-Practice-Production), no TTT.",
+      "Memorizar y traducir no es TTT.",
+      "Un periodo de silencio no corresponde a TTT.",
+      "Correcta: tarea, análisis y enseñanza, y nueva tarea."
+    ],
     "explicacion": "En TTT el estudiante empieza con una tarea, el docente detecta necesidades y enseña, y luego se repite la tarea. La primera alternativa descrita en las opciones incorrectas corresponde a PPP (Presentation-Practice-Production).",
     "fuente": "Didáctica del inglés (PPP/TTT)"
   },
@@ -590,6 +782,12 @@
       "Total Physical Response: students respond to commands with body movements."
     ],
     "correcta": 3,
+    "retro": [
+      "El método Audiolingual usa repetición y patrones, no traducción de literatura.",
+      "Grammar-Translation se basa en traducir y reglas, no en patrones orales.",
+      "TPR no se centra en ensayos largos escritos.",
+      "Correcta: TPR responde a órdenes con movimientos."
+    ],
     "explicacion": "TPR (Asher) vincula el lenguaje con acciones físicas. Grammar-Translation se basa en traducir textos y reglas; el método Audiolingual, en repeticiones y patrones para formar hábitos. Las opciones incorrectas intercambian esas características.",
     "fuente": "Richards y Rodgers (2014)"
   },
@@ -608,6 +806,12 @@
       "a law that bans teaching in Spanish in public schools"
     ],
     "correcta": 0,
+    "retro": [
+      "Correcta: modifica la Ley 115 de 1994 para incluir lenguas extranjeras.",
+      "No creó el examen Saber 11.",
+      "No es un decreto de escalafón salarial.",
+      "No prohíbe enseñar en español."
+    ],
     "explicacion": "La Ley 1651 de 2013 modifica artículos de la Ley 115 de 1994 (Ley General de Educación) para incluir el desarrollo de competencias en lengua extranjera entre los objetivos y fines de la educación. No crea el examen Saber 11 ni regula salarios.",
     "fuente": "Ley 1651 de 2013"
   },
@@ -626,7 +830,13 @@
       "C1"
     ],
     "correcta": 2,
-    "explicacion": "La Guía 22 (MEN, 2006), alineada con el MCER, propone A1 en grados 1 a 3, A2 en 4 a 7 y B1 en 8 a 11. La meta del Programa Nacional de Bilingüismo es B1 para los estudiantes al terminar el grado 11 y B2 para los docentes de inglés.",
+    "retro": [
+      "A2 corresponde a los grados 4 a 7, no al 11.",
+      "B2 es la meta para docentes de inglés, no para estudiantes al terminar el 11.",
+      "Correcta: B1 al terminar el grado 11 (B1.1 en 8 y 9, B1.2 en 10 y 11).",
+      "C1 no es meta de la Guía 22."
+    ],
+    "explicacion": "La Guía 22 (MEN, 2006), alineada con el MCER, propone A1 en grados 1 a 3, A2 en 4 a 7 (A2.1 y A2.2) y B1 en 8 a 11, dividido en B1.1 (grados 8 y 9) y B1.2 (grados 10 y 11). La meta del Programa Nacional de Bilingüismo es B1 para los estudiantes al terminar el grado 11 y B2 para los docentes de inglés.",
     "fuente": "Guía 22 MEN (2006)"
   },
   {
@@ -644,6 +854,12 @@
       "A2+"
     ],
     "correcta": 1,
+    "retro": [
+      "B2 no se reporta en la prueba de inglés de Saber 11.",
+      "Correcta: B+ es el nivel más alto reportado (A-, A1, A2, B1, B+).",
+      "C1 no se reporta.",
+      "A2+ no es un nivel reportado en Saber 11 (se reporta A2)."
+    ],
     "explicacion": "La prueba de inglés de Saber 11 reporta los niveles A-, A1, A2, B1 y B+. B+ indica un desempeño superior a B1; no se reportan B2 ni C1.",
     "fuente": "ICFES, Saber 11"
   },
@@ -662,6 +878,12 @@
       "a test that replaced Saber 11"
     ],
     "correcta": 1,
+    "retro": [
+      "Los DBA no son una serie de textos.",
+      "Correcta: describen lo que los estudiantes deben saber y poder hacer en grados 6 a 11, articulados con los Estándares.",
+      "No evalúan el desempeño docente.",
+      "No reemplazaron al Saber 11."
+    ],
     "explicacion": "Los DBA de Inglés (grados 6 a 11) describen aprendizajes esperados por grado y se articulan con los Estándares y el MCER. Se complementan con el Currículo Sugerido de Inglés (2016), una propuesta flexible para planear.",
     "fuente": "DBA Inglés MEN (2016)"
   },
@@ -680,6 +902,12 @@
       "Practise only Saber 11 multiple-choice items all year."
     ],
     "correcta": 2,
+    "retro": [
+      "Seguir el índice de un libro no atiende el nivel de los estudiantes.",
+      "Una lista de temas gramaticales no atiende competencias comunicativas.",
+      "Correcta: usa Estándares, DBA y Currículo Sugerido, adaptados al contexto y con meta B1.",
+      "Solo practicar pruebas no desarrolla competencias comunicativas."
+    ],
     "explicacion": "El MEN ofrece como referentes los Estándares (Guía 22), los DBA y el Currículo Sugerido, que el docente adapta a su contexto. Limitarse a un libro, a la gramática o a la práctica de pruebas no atiende las competencias comunicativas ni el nivel meta B1.",
     "fuente": "Currículo Sugerido de Inglés MEN (2016)"
   },
@@ -698,7 +926,13 @@
       "Diagnose the level, set progressive realistic goals with scaffolded support and keep B1 as the horizon while recognising progress."
     ],
     "correcta": 3,
-    "explicacion": "Una respuesta profesional parte de un diagnóstico, define metas graduales con andamiaje y mantiene la meta nacional (B1) como referencia. Reprobar, rebajar permanentemente las expectativas o bajar de grado no favorecen el aprendizaje.",
+    "retro": [
+      "Reprobar no ayuda al estudiante a avanzar.",
+      "Rebajar expectativas permanentemente no reconoce su potencial.",
+      "Bajarlo de grado no es apropiado.",
+      "Correcta: diagnosticar, metas graduales con andamiaje y B1 como horizonte."
+    ],
+    "explicacion": "Una respuesta profesional parte de un diagnóstico, define metas graduales con andamiaje y mantiene la meta nacional (B1 al terminar el grado 11; en grados 8 y 9 la Guía 22 espera B1.1) como referencia. Reprobar, rebajar permanentemente las expectativas o bajar de grado no favorecen el aprendizaje.",
     "fuente": "Guía 22 MEN (2006)"
   },
   {
@@ -716,7 +950,109 @@
       "B2"
     ],
     "correcta": 0,
-    "explicacion": "La Guía 22 establece A2 (nivel básico) para los grados 4 a 7. A1 corresponde a los grados 1 a 3 y B1 a los grados 8 a 11.",
+    "retro": [
+      "Correcta: A2 para los grados 4 a 7 (A2.1 en 4 y 5, A2.2 en 6 y 7).",
+      "A1 corresponde a los grados 1 a 3.",
+      "B1 corresponde a los grados 8 a 11.",
+      "B2 es la meta para docentes de inglés."
+    ],
+    "explicacion": "La Guía 22 establece A2 (nivel básico) para los grados 4 a 7: A2.1 en grados 4 y 5 y A2.2 en 6 y 7. A1 corresponde a los grados 1 a 3 y B1 a los grados 8 a 11 (B1.1 en 8 y 9; B1.2 en 10 y 11).",
     "fuente": "Guía 22 MEN (2006)"
+  },
+  {
+    "id": "ingles-41",
+    "tema": "ingles",
+    "subtema": "Inversion",
+    "dificultad": 3,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "Choose the correct option: \"Hardly _____ the lesson when the fire alarm went off.\"",
+    "opciones": [
+      "she had started",
+      "she started",
+      "had she started",
+      "has she started"
+    ],
+    "correcta": 2,
+    "retro": [
+      "\"she had started\" no invierte el sujeto; tras \"Hardly\" se necesita inversión.",
+      "\"she started\" tampoco invierte el sujeto; \"Hardly\" al inicio exige inversión.",
+      "Correcta: \"Hardly had she started ... when\" usa pasado perfecto con inversión.",
+      "\"has she started\" es presente perfecto y no encaja con \"went off\" en pasado."
+    ],
+    "explicacion": "Tras el adverbio negativo \"Hardly\" al inicio de la oración se invierte el sujeto y el verbo auxiliar: \"Hardly had she started ... when ...\". Se usa pasado perfecto para la acción que ocurre justo antes de otra en pasado.",
+    "fuente": "Gramática inglesa B2-C1"
+  },
+  {
+    "id": "ingles-42",
+    "tema": "ingles",
+    "subtema": "Cloze and collocations",
+    "dificultad": 2,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "Choose the best option: \"The students were reluctant to _____ part in the debate.\"",
+    "opciones": [
+      "take",
+      "make",
+      "do",
+      "give"
+    ],
+    "correcta": 0,
+    "retro": [
+      "Correcta: \"take part in\" es la expresión fija.",
+      "\"make part\" no es colocación.",
+      "\"do part\" no es colocación.",
+      "\"give part\" no es colocación; se dice \"take part\"."
+    ],
+    "explicacion": "La colocación fija es \"take part in\" (participar en). \"Make\", \"do\" y \"give\" no forman esa expresión.",
+    "fuente": "Vocabulario y colocaciones B2-C1"
+  },
+  {
+    "id": "ingles-43",
+    "tema": "ingles",
+    "subtema": "Reading: main idea",
+    "dificultad": 2,
+    "tipo": "conocimiento",
+    "contexto": "Peer feedback is often dismissed because learners \"don't know enough to correct each other\". However, a recent classroom study found that students who gave feedback to classmates, using a checklist prepared by the teacher, improved their own writing as much as those who received it. Giving feedback forced them to notice features of good writing they had previously overlooked. The authors warn that the checklist is essential: without guidance, comments tended to be vague, such as \"nice work\".",
+    "enunciado": "What does the study suggest?",
+    "opciones": [
+      "Peer feedback is useless unless the teacher corrects every comment afterwards in front of the whole class.",
+      "Only the learners who receive feedback improve their writing, while those who give it learn nothing new.",
+      "Teachers should avoid checklists because they make the students' comments vague and mechanical.",
+      "Guided feedback can improve the writing of the students who give it, too."
+    ],
+    "correcta": 3,
+    "retro": [
+      "Información que el texto no dice: no pide corrección posterior del docente.",
+      "Contradice el texto: los que dan feedback también mejoraron.",
+      "Contradice el texto: los comentarios son vagos sin la lista de verificación.",
+      "Correcta: quienes dan feedback guiado mejoran su escritura."
+    ],
+    "explicacion": "El estudio encontró que quienes dieron retroalimentación con una lista de verificación mejoraron su escritura tanto como quienes la recibieron. Sin guía, los comentarios eran vagos.",
+    "fuente": "Texto original"
+  },
+  {
+    "id": "ingles-44",
+    "tema": "ingles",
+    "subtema": "Teaching listening",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "Students can follow the general topic of a recording but miss specific details. The teacher wants to teach listening strategies. Which lesson sequence is best?",
+    "opciones": [
+      "Play the recording once and immediately ask ten detailed questions, then correct the answers aloud so students see their mistakes.",
+      "Predict from the title, listen for gist, listen again for details with a task, then reflect on strategies.",
+      "Read the transcript aloud first so that students already know every answer before listening.",
+      "Play the recording as many times as needed until all students have understood every word."
+    ],
+    "correcta": 1,
+    "retro": [
+      "Corregir diez preguntas detalladas tras una sola escucha no enseña estrategias.",
+      "Correcta: predecir, escuchar para lo general, luego para detalles y reflexionar.",
+      "Leer la transcripción antes elimina la tarea de escuchar.",
+      "Repetir hasta entender todo no enseña estrategias."
+    ],
+    "explicacion": "Una secuencia de pre-listening (predicción), escucha para la idea general, escucha para detalles con una tarea y reflexión sobre las estrategias enseña cómo escuchar, no solo comprueba la comprensión.",
+    "fuente": "Didáctica de la escucha (listening)"
   }
 ]
