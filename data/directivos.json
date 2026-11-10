@@ -140,8 +140,8 @@
       "Error: el consejo de padres no tiene función de administración del Fondo.",
       "Correcto: administrar el Fondo es función del rector (art. 10, num. 10.16)."
     ],
-    "explicacion": "Los Fondos de Servicios Educativos manejan los recursos para gastos distintos a los de personal (art. 11). La administración del Fondo es función del rector (art. 10, num. 10.16).",
-    "fuente": "Ley 715 de 2001, arts. 10 (num. 10.16) y 11"
+    "explicacion": "Los Fondos de Servicios Educativos manejan los recursos para gastos distintos a los de personal (art. 11). La administración del Fondo es función del rector (art. 10, num. 10.16). El Decreto 4791 de 2008, art. 3 (2.3.1.6.3.3), precisa que el rector o director rural administra el Fondo en coordinación con el consejo directivo.",
+    "fuente": "Ley 715 de 2001, arts. 10 (num. 10.16) y 11; Decreto 1075 de 2015, art. 2.3.1.6.3.3 (compila el Decreto 4791 de 2008, art. 3)"
   },
   {
     "id": "directivos-07",
@@ -308,8 +308,8 @@
       "Correcto: respeta el presupuesto aprobado y sigue el procedimiento de modificación.",
       "Error: aplazar sin comunicar evade la necesidad y no atiende la solicitud de los docentes."
     ],
-    "explicacion": "El rector administra el Fondo (Ley 715, art. 10, num. 10.16), pero solo puede ejecutar lo que el presupuesto aprobado permite. Las necesidades nuevas se tramitan como modificaciones presupuestales ante el consejo directivo.",
-    "fuente": "Ley 715 de 2001, arts. 10 (num. 10.16) y 11; Decreto 1075 de 2015 (compila el Decreto 4791 de 2008, Fondos de Servicios Educativos)"
+    "explicacion": "El rector administra el Fondo (Ley 715, art. 10, num. 10.16), pero solo puede ejecutar lo que el presupuesto aprobado permite. Las necesidades nuevas se tramitan como modificaciones presupuestales ante el consejo directivo. El consejo directivo aprueba el presupuesto y sus adiciones y traslados (Decreto 4791 de 2008, art. 5, nums. 1 y 3; compilado en 2.3.1.6.3.5); los traslados cuando un rubro no tiene apropiación suficiente requieren su autorización previa (art. 12, 2.3.1.6.3.12).",
+    "fuente": "Ley 715 de 2001, arts. 10 (num. 10.16) y 11; Decreto 1075 de 2015, arts. 2.3.1.6.3.5 (nums. 1 y 3) y 2.3.1.6.3.12 (compilan el Decreto 4791 de 2008, arts. 5 y 12)"
   },
   {
     "id": "directivos-14",
@@ -429,7 +429,7 @@
       "Correcto: la rendición de cuentas se hace con información clara y soportada."
     ],
     "explicacion": "El rector administra el Fondo (Ley 715, art. 10, num. 10.16), responde por la calidad del servicio (10.14) y rinde informe al consejo directivo al menos cada seis meses (10.15). Informar con claridad y con soportes es la forma de rendir cuentas ante la comunidad.",
-    "fuente": "Ley 715 de 2001, art. 10 (nums. 10.14 a 10.16)"
+    "fuente": "Ley 715 de 2001, art. 10 (nums. 10.14 a 10.16); Decreto 1075 de 2015, arts. 2.3.1.6.3.6 (num. 2) y 2.3.1.6.3.19 (nums. 1 y 4) (compilan el Decreto 4791 de 2008, arts. 6 y 19)"
   },
   {
     "id": "directivos-19",
@@ -644,8 +644,8 @@
       "Error: decidir los programas sin consultar vulnera la autonomía del PEI y del consejo académico.",
       "Correcto: gestiona la alianza con transparencia y sin ceder la autonomía."
     ],
-    "explicacion": "Las donaciones son ingresos del Fondo de Servicios Educativos y deben registrarse. El rector gestiona alianzas con el entorno, pero el PEI y el currículo los define la comunidad educativa (Ley 115, art. 73), con participación del consejo académico (art. 145).",
-    "fuente": "Ley 115 de 1994, arts. 73 y 145; Decreto 1075 de 2015 (compila el Decreto 4791 de 2008, Fondos de Servicios Educativos); Guía 34 MEN (relaciones con el entorno)"
+    "explicacion": "Las donaciones son ingresos del Fondo de Servicios Educativos y deben registrarse. El rector gestiona alianzas con el entorno, pero el PEI y el currículo los define la comunidad educativa (Ley 115, art. 73), con participación del consejo académico (art. 145). Las donaciones se cuentan entre los ingresos del Fondo (Ley 715, art. 14, inc. 2; Decreto 4791 de 2008, art. 19, num. 4, compilado en 2.3.1.6.3.19). Cuando un particular destina bienes o servicios a la comunidad educativa, se celebra un contrato con el rector, previa autorización del consejo directivo (Decreto 4791, art. 17, par., 2.3.1.6.3.17).",
+    "fuente": "Ley 115 de 1994, arts. 73 y 145; Ley 715 de 2001, art. 14 (inc. 2); Decreto 1075 de 2015, arts. 2.3.1.6.3.17 (par.) y 2.3.1.6.3.19 (num. 4) (compilan el Decreto 4791 de 2008, arts. 17 y 19); Guía 34 MEN (relaciones con el entorno)"
   },
   {
     "id": "directivos-28",
@@ -740,8 +740,8 @@
       "Error: condicionar la elección del proveedor a una comisión sigue siendo indebido aunque el beneficio se destine al colegio.",
       "Error: omitir cotizaciones oculta la irregularidad y elimina la comparación objetiva."
     ],
-    "explicacion": "El rector administra el Fondo (Ley 715, art. 10, num. 10.16) y, como servidor público, debe cumplir con diligencia y eficiencia el servicio y actuar con imparcialidad y rectitud (Ley 1952, art. 38); las prohibiciones del artículo 39 incluyen, por ejemplo, solicitar dádivas. Debe rechazar cualquier beneficio personal y contratar con transparencia.",
-    "fuente": "Ley 715 de 2001, art. 10 (num. 10.16); Ley 1952 de 2019, arts. 38 y 39"
+    "explicacion": "El rector administra el Fondo (Ley 715, art. 10, num. 10.16) y, como servidor público, debe cumplir con diligencia y eficiencia el servicio y actuar con imparcialidad y rectitud (Ley 1952, art. 38); las prohibiciones del artículo 39 incluyen, por ejemplo, solicitar dádivas. Debe rechazar cualquier beneficio personal y contratar con transparencia. El rector es el ordenador del gasto del Fondo (Decreto 4791 de 2008, art. 4, 2.3.1.6.3.4). Los contratos de más de 20 SMMLV siguen el estatuto de contratación pública; los de menor cuantía siguen el reglamento que expide el consejo directivo (art. 17, 2.3.1.6.3.17; art. 5, num. 6), con transparencia, economía, publicidad y responsabilidad.",
+    "fuente": "Ley 715 de 2001, arts. 10 (num. 10.16) y 13; Decreto 1075 de 2015, arts. 2.3.1.6.3.4, 2.3.1.6.3.5 (num. 6) y 2.3.1.6.3.17 (compilan el Decreto 4791 de 2008, arts. 4, 5 y 17); Ley 1952 de 2019, arts. 38 y 39"
   },
   {
     "id": "directivos-32",
