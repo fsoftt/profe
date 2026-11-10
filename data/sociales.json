@@ -1,0 +1,722 @@
+[
+  {
+    "id": "sociales-01",
+    "tema": "sociales",
+    "subtema": "Independencia",
+    "dificultad": 1,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "¿En qué fecha se libró la Batalla de Boyacá, que selló la independencia de la Nueva Granada?",
+    "opciones": [
+      "20 de julio de 1810",
+      "7 de agosto de 1819",
+      "11 de noviembre de 1811",
+      "17 de diciembre de 1819"
+    ],
+    "correcta": 1,
+    "explicacion": "La Batalla de Boyacá, el 7 de agosto de 1819, fue decisiva para la independencia de la Nueva Granada. Otras fechas importantes son 1810 (Grito de Independencia), 1811 (Cartagena) y 1819 (Angostura).",
+    "retro": [
+      "Incorrecto: es la fecha del Grito de Independencia en Santafé, no de la batalla.",
+      "Correcto: ese día las fuerzas de Bolívar y Santander vencieron al ejército realista de Barreiro.",
+      "Incorrecto: es la fecha de la declaración de independencia absoluta de Cartagena.",
+      "Incorrecto: es la fecha de la proclamación de la República de Colombia en el Congreso de Angostura."
+    ],
+    "fuente": "Historia de Colombia; Academia Colombiana de Historia"
+  },
+  {
+    "id": "sociales-02",
+    "tema": "sociales",
+    "subtema": "Constituciones del siglo XIX",
+    "dificultad": 2,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "La Constitución de 1863, aprobada en Rionegro (Antioquia), estableció",
+    "opciones": [
+      "la República de Colombia unitaria y centralista de la Regeneración",
+      "la Confederación Granadina, con un federalismo moderado",
+      "la Gran Colombia, con presidente vitalicio",
+      "los Estados Unidos de Colombia, con un federalismo radical y amplias libertades individuales"
+    ],
+    "correcta": 3,
+    "explicacion": "La Constitución de 1863 consagró un federalismo radical, con estados soberanos y amplias libertades. Rigió hasta 1886.",
+    "retro": [
+      "Incorrecto: ese modelo corresponde a la Constitución de 1886, que derogó la de Rionegro.",
+      "Incorrecto: la Confederación Granadina corresponde a la Constitución de 1858.",
+      "Incorrecto: la Gran Colombia fue creada en 1819 y no tuvo presidente vitalicio en su constitución de 1821.",
+      "Correcto: la Convención de Rionegro creó los Estados Unidos de Colombia."
+    ],
+    "fuente": "Historia de Colombia, siglo XIX"
+  },
+  {
+    "id": "sociales-03",
+    "tema": "sociales",
+    "subtema": "Constituciones del siglo XIX",
+    "dificultad": 2,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "La Constitución de 1886, inspirada en la Regeneración, organizó el Estado como",
+    "opciones": [
+      "una federación de nueve estados soberanos con amplias libertades",
+      "un Estado laico con separación estricta entre Iglesia y Estado",
+      "una república unitaria y centralista, con un ejecutivo fuerte y estrecha relación con la Iglesia católica",
+      "un régimen parlamentario con presidente simbólico"
+    ],
+    "correcta": 2,
+    "explicacion": "La Constitución de 1886 puso fin al federalismo radical y adoptó un Estado unitario y centralista. Rigió hasta la Constitución de 1991.",
+    "retro": [
+      "Incorrecto: esa descripción corresponde a la Constitución de 1863.",
+      "Incorrecto: la Constitución de 1886 reconoció a la religión católica como la de la nación.",
+      "Correcto: la Regeneración de Núñez y Caro centralizó el poder y se apoyó en la Iglesia.",
+      "Incorrecto: el presidente tenía amplios poderes y no existía parlamentarismo."
+    ],
+    "fuente": "Historia de Colombia; Constitución de 1886"
+  },
+  {
+    "id": "sociales-04",
+    "tema": "sociales",
+    "subtema": "La Violencia",
+    "dificultad": 1,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "¿El asesinato de quién, el 9 de abril de 1948, desató el «Bogotazo»?",
+    "opciones": [
+      "Jorge Eliécer Gaitán",
+      "Rafael Uribe Uribe",
+      "Laureano Gómez",
+      "Luis Carlos Galán"
+    ],
+    "correcta": 0,
+    "explicacion": "El asesinato de Gaitán provocó el Bogotazo y acentuó la violencia bipartidista, el periodo conocido como La Violencia.",
+    "retro": [
+      "Correcto: el líder liberal fue asesinado en Bogotá y estallaron disturbios en la capital.",
+      "Incorrecto: Uribe Uribe fue asesinado en 1914.",
+      "Incorrecto: Laureano Gómez fue presidente conservador y no fue asesinado en 1948.",
+      "Incorrecto: Galán fue asesinado en 1989."
+    ],
+    "fuente": "Historia de Colombia, siglo XX"
+  },
+  {
+    "id": "sociales-05",
+    "tema": "sociales",
+    "subtema": "Frente Nacional",
+    "dificultad": 3,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "El Frente Nacional (1958-1974) fue un acuerdo entre liberales y conservadores que dispuso",
+    "opciones": [
+      "el gobierno de una junta militar durante dieciséis años",
+      "la participación proporcional de todos los partidos según su votación",
+      "la elección del presidente por el Congreso",
+      "la alternancia de la presidencia y la paridad en las corporaciones públicas"
+    ],
+    "correcta": 3,
+    "explicacion": "El Frente Nacional se aprobó en el plebiscito de 1957. Terminó la violencia bipartidista, pero excluyó a otras fuerzas políticas.",
+    "retro": [
+      "Incorrecto: la junta militar gobernó solo entre 1957 y 1958.",
+      "Incorrecto: el pacto excluyó a otros partidos y repartió los cargos en partes iguales.",
+      "Incorrecto: el presidente siguió siendo elegido por voto popular.",
+      "Correcto: los dos partidos alternaron la presidencia y repartieron por igual los cargos."
+    ],
+    "fuente": "Historia de Colombia; plebiscito de 1957"
+  },
+  {
+    "id": "sociales-06",
+    "tema": "sociales",
+    "subtema": "Constitución de 1991",
+    "dificultad": 1,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "El artículo 1 de la Constitución de 1991 define a Colombia como",
+    "opciones": [
+      "un Estado federal, laico y presidencialista",
+      "un Estado social de derecho, organizado como república unitaria, descentralizada, democrática, participativa y pluralista",
+      "una república confesional y centralista, fundada en la religión católica",
+      "un Estado liberal mínimo centrado en garantizar la propiedad"
+    ],
+    "correcta": 1,
+    "explicacion": "La Constitución de 1991, elaborada por una Asamblea Nacional Constituyente, definió a Colombia como Estado social de derecho y amplió los mecanismos de participación y de protección de derechos.",
+    "retro": [
+      "Incorrecto: Colombia es una república unitaria, no federal.",
+      "Correcto: así lo define el artículo 1, fundado en la dignidad humana, el trabajo y la solidaridad.",
+      "Incorrecto: la Constitución de 1991 es laica y reconoce la libertad de cultos.",
+      "Incorrecto: el Estado social de derecho garantiza derechos sociales, no solo la propiedad."
+    ],
+    "fuente": "Constitución Política de Colombia (1991), art. 1"
+  },
+  {
+    "id": "sociales-07",
+    "tema": "sociales",
+    "subtema": "Acuerdo de Paz 2016",
+    "dificultad": 3,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "El Sistema Integral de Verdad, Justicia, Reparación y No Repetición, creado por el Acuerdo de Paz de 2016, incluye",
+    "opciones": [
+      "el Centro Nacional de Memoria Histórica, la Fiscalía y la Defensoría del Pueblo",
+      "la Corte Constitucional, el Consejo de Estado y la Procuraduría",
+      "el Tribunal Superior de Justicia y el Consejo Superior de la Judicatura",
+      "la Comisión para el Esclarecimiento de la Verdad, la JEP y la Unidad de Búsqueda de Personas dadas por Desaparecidas"
+    ],
+    "correcta": 3,
+    "explicacion": "El Acuerdo Final con las FARC-EP creó un sistema con tres entidades: la Comisión de la Verdad, la Jurisdicción Especial para la Paz y la Unidad de Búsqueda.",
+    "retro": [
+      "Incorrecto: son instituciones preexistentes; el Centro de Memoria se creó con la Ley 1448 de 2011.",
+      "Incorrecto: son altas cortes y un órgano de control del Estado, no parte del Sistema.",
+      "Incorrecto: son órganos de la rama judicial ordinaria, no del Sistema creado por el Acuerdo.",
+      "Correcto: son las tres entidades que conforman el Sistema Integral."
+    ],
+    "fuente": "Acuerdo Final (2016), punto 5; Acto Legislativo 01 de 2017"
+  },
+  {
+    "id": "sociales-08",
+    "tema": "sociales",
+    "subtema": "Geografía física",
+    "dificultad": 1,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "¿Cuál de las siguientes NO es una región natural de Colombia?",
+    "opciones": [
+      "Orinoquía",
+      "Chaqueña",
+      "Pacífica",
+      "Insular"
+    ],
+    "correcta": 1,
+    "explicacion": "Las regiones naturales son: Andina, Caribe, Pacífica, Orinoquía, Amazonía e Insular.",
+    "retro": [
+      "Incorrecto: la Orinoquía es una región natural de Colombia.",
+      "Correcto: la región chaqueña no pertenece a Colombia.",
+      "Incorrecto: la región Pacífica es una región natural de Colombia.",
+      "Incorrecto: la región Insular es una región natural de Colombia."
+    ],
+    "fuente": "Instituto Geográfico Agustín Codazzi"
+  },
+  {
+    "id": "sociales-09",
+    "tema": "sociales",
+    "subtema": "Geografía física",
+    "dificultad": 3,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "¿Dónde se ramifica la cordillera de los Andes en las cordilleras Occidental, Central y Oriental?",
+    "opciones": [
+      "En el Macizo colombiano o Nudo de Almaguer",
+      "En el Nudo de Paramillo",
+      "En la Sierra Nevada de Santa Marta",
+      "En el Nudo de Santurbán"
+    ],
+    "correcta": 0,
+    "explicacion": "El Macizo colombiano, en el sur del país, es una región de gran importancia hídrica, pues allí nacen los ríos Magdalena y Cauca.",
+    "retro": [
+      "Correcto: en el Macizo colombiano se divide en las tres cordilleras.",
+      "Incorrecto: el Nudo de Paramillo divide la cordillera Occidental en ramales más al norte.",
+      "Incorrecto: la Sierra Nevada es un sistema montañoso independiente de los Andes.",
+      "Incorrecto: el Nudo de Santurbán divide la cordillera Oriental, no da origen a las tres."
+    ],
+    "fuente": "Instituto Geográfico Agustín Codazzi"
+  },
+  {
+    "id": "sociales-10",
+    "tema": "sociales",
+    "subtema": "Hidrografía",
+    "dificultad": 1,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "El río Magdalena, principal arteria fluvial del país, desemboca en",
+    "opciones": [
+      "el mar Caribe, en Bocas de Ceniza, cerca de Barranquilla",
+      "el océano Pacífico, en Buenaventura",
+      "el río Orinoco",
+      "el golfo de Urabá"
+    ],
+    "correcta": 0,
+    "explicacion": "El río Magdalena nace en el Macizo colombiano y recorre el país de sur a norte entre las cordilleras Central y Oriental.",
+    "retro": [
+      "Correcto: desemboca en el mar Caribe, en Bocas de Ceniza, cerca de Barranquilla.",
+      "Incorrecto: el Magdalena pertenece a la vertiente del Caribe, no a la del Pacífico.",
+      "Incorrecto: el Orinoco recibe los ríos de la Orinoquía, no el Magdalena.",
+      "Incorrecto: al golfo de Urabá desemboca el Atrato."
+    ],
+    "fuente": "Instituto Geográfico Agustín Codazzi"
+  },
+  {
+    "id": "sociales-11",
+    "tema": "sociales",
+    "subtema": "División político-administrativa",
+    "dificultad": 2,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "En 1991 antiguas intendencias y comisarías se convirtieron en departamentos. ¿Cuál de estos departamentos tuvo ese origen?",
+    "opciones": [
+      "Vichada",
+      "Boyacá",
+      "Tolima",
+      "Nariño"
+    ],
+    "correcta": 0,
+    "explicacion": "Colombia se divide en 32 departamentos y Bogotá, Distrito Capital. La Constitución de 1991 elevó a departamentos antiguos territorios nacionales como Arauca, Casanare, Putumayo, Amazonas, Guainía, Guaviare, Vaupés y Vichada.",
+    "retro": [
+      "Correcto: el Vichada era comisaría y la Constitución de 1991 lo elevó a departamento.",
+      "Incorrecto: Boyacá es un departamento histórico.",
+      "Incorrecto: Tolima es un departamento histórico.",
+      "Incorrecto: Nariño es un departamento desde 1904."
+    ],
+    "fuente": "Constitución Política de Colombia (1991), art. 309"
+  },
+  {
+    "id": "sociales-12",
+    "tema": "sociales",
+    "subtema": "Historia universal",
+    "dificultad": 2,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "La Declaración de los Derechos del Hombre y del Ciudadano (1789) se proclamó en el contexto de",
+    "opciones": [
+      "la Revolución industrial británica",
+      "la Independencia de Estados Unidos",
+      "la Reforma protestante",
+      "la Revolución Francesa"
+    ],
+    "correcta": 3,
+    "explicacion": "Antonio Nariño tradujo y publicó la Declaración en Santafé en 1794, lo que le costó un proceso. El texto influyó en las ideas de independencia en América.",
+    "retro": [
+      "Incorrecto: la Revolución industrial fue un proceso económico y no produjo esa declaración.",
+      "Incorrecto: la independencia estadounidense se declaró en 1776.",
+      "Incorrecto: la Reforma protestante es del siglo XVI.",
+      "Correcto: la Asamblea Nacional francesa la aprobó en 1789."
+    ],
+    "fuente": "Historia universal; historia de Colombia"
+  },
+  {
+    "id": "sociales-13",
+    "tema": "sociales",
+    "subtema": "Historia universal",
+    "dificultad": 1,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "¿Qué hecho desencadenó la Primera Guerra Mundial en 1914?",
+    "opciones": [
+      "El asesinato del archiduque Francisco Fernando en Sarajevo",
+      "La invasión alemana de Polonia",
+      "El ataque a Pearl Harbor",
+      "La Revolución rusa"
+    ],
+    "correcta": 0,
+    "explicacion": "El asesinato del heredero del Imperio austrohúngaro, el 28 de junio de 1914, fue el detonante de una guerra que duró hasta 1918.",
+    "retro": [
+      "Correcto: este hecho activó las alianzas entre las potencias europeas.",
+      "Incorrecto: la invasión de Polonia, en 1939, inició la Segunda Guerra Mundial.",
+      "Incorrecto: Pearl Harbor ocurrió en 1941.",
+      "Incorrecto: la Revolución rusa fue en 1917, durante la guerra."
+    ],
+    "fuente": "Historia universal"
+  },
+  {
+    "id": "sociales-14",
+    "tema": "sociales",
+    "subtema": "Economía",
+    "dificultad": 1,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "Actividades como la extracción de carbón o la pesca pertenecen al sector",
+    "opciones": [
+      "primario",
+      "secundario",
+      "terciario",
+      "cuaternario"
+    ],
+    "correcta": 0,
+    "explicacion": "El sector primario incluye agricultura, ganadería, pesca y minería. Conocerlo ayuda a analizar la estructura económica del país.",
+    "retro": [
+      "Correcto: el sector primario obtiene recursos de la naturaleza.",
+      "Incorrecto: el secundario transforma materias primas en productos.",
+      "Incorrecto: el terciario agrupa comercio y servicios.",
+      "Incorrecto: el cuaternario agrupa servicios intelectuales y de conocimiento."
+    ],
+    "fuente": "Economía básica"
+  },
+  {
+    "id": "sociales-15",
+    "tema": "sociales",
+    "subtema": "Mecanismos de participación",
+    "dificultad": 2,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "Según la Ley 134 de 1994, el plebiscito es",
+    "opciones": [
+      "la votación sobre un proyecto de norma presentado por iniciativa popular",
+      "la consulta sobre un asunto de interés regional o local que convoca un alcalde o gobernador",
+      "el pronunciamiento del pueblo convocado por el Presidente para apoyar o rechazar una decisión del Ejecutivo",
+      "la reunión pública del concejo con los habitantes para discutir asuntos de la comunidad"
+    ],
+    "correcta": 2,
+    "explicacion": "El plebiscito lo convoca el Presidente. El referendo se refiere a normas, la consulta popular a asuntos de una entidad territorial y el cabildo abierto a reuniones de las corporaciones locales.",
+    "retro": [
+      "Incorrecto: describe el referendo, no el plebiscito.",
+      "Incorrecto: describe la consulta popular, no el plebiscito.",
+      "Correcto: así lo define el artículo 7 de la Ley 134.",
+      "Incorrecto: describe el cabildo abierto, no el plebiscito."
+    ],
+    "fuente": "Ley 134 de 1994, art. 7"
+  },
+  {
+    "id": "sociales-16",
+    "tema": "sociales",
+    "subtema": "Acción de tutela",
+    "dificultad": 2,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "Según el artículo 86 de la Constitución, ¿en cuánto tiempo debe resolverse una acción de tutela?",
+    "opciones": [
+      "En un plazo máximo de quince días",
+      "En un plazo máximo de diez días",
+      "En un plazo máximo de treinta días",
+      "En un plazo máximo de tres meses"
+    ],
+    "correcta": 1,
+    "explicacion": "La tutela protege derechos fundamentales de forma inmediata, mediante un procedimiento preferente y sumario. Cualquier persona puede presentarla sin abogado.",
+    "retro": [
+      "Incorrecto: quince días no es el plazo de la tutela.",
+      "Correcto: el artículo 86 establece que no pueden pasar más de diez días entre la solicitud y su resolución.",
+      "Incorrecto: treinta días es más del plazo constitucional.",
+      "Incorrecto: tres meses desconoce el carácter sumario y preferente de la tutela."
+    ],
+    "fuente": "Constitución Política de Colombia (1991), art. 86"
+  },
+  {
+    "id": "sociales-17",
+    "tema": "sociales",
+    "subtema": "Ley 1874 de 2017",
+    "dificultad": 3,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "La Ley 1874 de 2017 dispuso",
+    "opciones": [
+      "crear la Cátedra de la Paz en todas las instituciones",
+      "reemplazar el área de ciencias sociales por una asignatura de historia universal",
+      "volver optativa la historia en la educación media",
+      "restablecer la enseñanza obligatoria de la Historia de Colombia como disciplina integrada en los lineamientos de las ciencias sociales en básica y media"
+    ],
+    "correcta": 3,
+    "explicacion": "La ley integra la Historia de Colombia en los lineamientos curriculares de ciencias sociales de educación básica y media.",
+    "retro": [
+      "Incorrecto: la Cátedra de la Paz se creó con la Ley 1732 de 2014.",
+      "Incorrecto: la ley no elimina el área de ciencias sociales ni su integración.",
+      "Incorrecto: la ley hace obligatoria la enseñanza de la historia, no optativa.",
+      "Correcto: modifica la Ley 115 de 1994 para restablecer esa enseñanza."
+    ],
+    "fuente": "Ley 1874 de 2017"
+  },
+  {
+    "id": "sociales-18",
+    "tema": "sociales",
+    "subtema": "Fuentes primarias",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": "Un docente de grado 8 lleva a clase una carta escrita por un soldado durante las guerras de Independencia.",
+    "enunciado": "¿Cuál es la mejor manera de trabajar la fuente primaria?",
+    "opciones": [
+      "Leerla como verdad absoluta de lo ocurrido",
+      "Pedir que la copien en el cuaderno y la memoricen",
+      "Contextualizarla (autor, fecha y propósito), formular preguntas y contrastarla con otras fuentes",
+      "Usarla solo como ilustración sin analizarla"
+    ],
+    "correcta": 2,
+    "explicacion": "Las fuentes primarias permiten que los estudiantes se aproximen al conocimiento como científicos sociales. Interrogar la fuente y contrastarla es una acción central del pensamiento histórico.",
+    "retro": [
+      "Error: toda fuente tiene un autor y un propósito, y puede ser parcial.",
+      "Error: copiar y memorizar no desarrolla el análisis histórico.",
+      "Correcto: desarrolla el pensamiento crítico y la corroboración.",
+      "Error: la ilustración sin análisis desaprovecha la fuente."
+    ],
+    "fuente": "MEN, Estándares Básicos de Competencias en Ciencias Sociales (2004)"
+  },
+  {
+    "id": "sociales-19",
+    "tema": "sociales",
+    "subtema": "Preguntas problematizadoras",
+    "dificultad": 1,
+    "tipo": "situacional",
+    "contexto": "Una docente quiere iniciar una unidad sobre participación política.",
+    "enunciado": "¿Cuál es una pregunta problematizadora adecuada?",
+    "opciones": [
+      "¿En qué año votó por primera vez la mujer en Colombia?",
+      "Escriba la definición de democracia",
+      "Mencione tres mecanismos de participación",
+      "¿Cómo ha cambiado la participación de las mujeres en la vida política de Colombia y por qué?"
+    ],
+    "correcta": 3,
+    "explicacion": "Los Lineamientos proponen organizar el trabajo mediante preguntas problematizadoras, que movilizan la indagación y no se agotan en datos.",
+    "retro": [
+      "Error: pide un dato que se responde con una fecha.",
+      "Error: pide recordar una definición.",
+      "Error: pide enumerar, sin análisis.",
+      "Correcto: abre la indagación y exige explicar cambios y causas."
+    ],
+    "fuente": "MEN, Lineamientos Curriculares de Ciencias Sociales (2002)"
+  },
+  {
+    "id": "sociales-20",
+    "tema": "sociales",
+    "subtema": "Enseñanza de la historia",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": "El rector propone reducir las horas de ciencias sociales y tratar la historia de Colombia en una sola semana al año.",
+    "enunciado": "Según la Ley 1874 de 2017, ¿cuál es la respuesta más pertinente del docente?",
+    "opciones": [
+      "Aceptar la propuesta, porque la ley deja libertad total",
+      "Argumentar que la historia de Colombia debe enseñarse de forma integrada en las ciencias sociales y proponer una planeación por grados",
+      "Proponer eliminar la historia universal para ganar tiempo",
+      "Dejar la historia como tarea para la casa"
+    ],
+    "correcta": 1,
+    "explicacion": "La Ley 1874 de 2017 restableció la enseñanza obligatoria de la Historia de Colombia como disciplina integrada en las ciencias sociales.",
+    "retro": [
+      "Error: la ley hace obligatoria la enseñanza, no la deja a criterio.",
+      "Correcto: la ley obliga a integrar la enseñanza de la historia de Colombia.",
+      "Error: no se trata de sustituir contenidos, sino de integrar la historia de Colombia.",
+      "Error: delegarla en tareas incumple su carácter de enseñanza obligatoria."
+    ],
+    "fuente": "Ley 1874 de 2017"
+  },
+  {
+    "id": "sociales-21",
+    "tema": "sociales",
+    "subtema": "Cátedra de la Paz",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": "Un coordinador afirma que la Cátedra de la Paz solo debe darse en grado 11, en una charla anual.",
+    "enunciado": "¿Cuál es la mejor respuesta?",
+    "opciones": [
+      "Aceptar, porque basta con una charla anual",
+      "Proponer un proyecto articulado a las áreas y al PEI para todos los grados, sobre convivencia, resolución de conflictos y memoria",
+      "Limitarla a la clase de religión",
+      "Dictarla únicamente a quienes tengan problemas de convivencia"
+    ],
+    "correcta": 1,
+    "explicacion": "La Cátedra de la Paz se creó con la Ley 1732 de 2014 y se reglamentó con el Decreto 1038 de 2015. Es obligatoria en los establecimientos de preescolar, básica y media.",
+    "retro": [
+      "Error: una charla anual no cumple el carácter formativo de la cátedra.",
+      "Correcto: la Cátedra de la Paz es obligatoria en todos los establecimientos y se articula con el currículo.",
+      "Error: la cátedra no es exclusiva de un área.",
+      "Error: la formación para la paz es para toda la comunidad educativa."
+    ],
+    "fuente": "Ley 1732 de 2014; Decreto 1038 de 2015"
+  },
+  {
+    "id": "sociales-22",
+    "tema": "sociales",
+    "subtema": "Memoria histórica",
+    "dificultad": 3,
+    "tipo": "situacional",
+    "contexto": "Un docente trabaja el conflicto armado con estudiantes de una región afectada, algunos con familiares víctimas.",
+    "enunciado": "¿Cuál es la mejor acción?",
+    "opciones": [
+      "Usar fuentes y testimonios con protocolos de cuidado, participación voluntaria y respeto para evitar la revictimización",
+      "Pedir que cada estudiante cuente en público lo que vivió su familia",
+      "Evitar el tema para no incomodar",
+      "Presentar una sola versión como verdad oficial"
+    ],
+    "correcta": 0,
+    "explicacion": "La memoria histórica se trabaja con rigor, múltiples voces y cuidado emocional. El docente debe garantizar condiciones seguras para la participación.",
+    "retro": [
+      "Correcto: trabaja la memoria con rigor y cuidado.",
+      "Error: exponer a las víctimas sin su voluntad puede revictimizarlas.",
+      "Error: evitar el tema impide la comprensión y la reflexión sobre la paz.",
+      "Error: la memoria histórica reconoce la pluralidad de voces y fuentes."
+    ],
+    "fuente": "Ley 1448 de 2011; Cátedra de la Paz"
+  },
+  {
+    "id": "sociales-23",
+    "tema": "sociales",
+    "subtema": "Mecanismos de participación",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": "Estudiantes de grado 9 identifican un problema en su barrio y quieren plantearlo ante el concejo municipal.",
+    "enunciado": "¿Qué acción didáctica es más coherente?",
+    "opciones": [
+      "Decirles que los menores de edad no pueden participar",
+      "Enviarlos a protestar sin preparación",
+      "Explicarles el cabildo abierto, regulado por la Ley 134 de 1994, y simular su solicitud y su intervención",
+      "Pedir que memoricen la Ley 134"
+    ],
+    "correcta": 2,
+    "explicacion": "El cabildo abierto es la reunión pública del concejo, de las asambleas o de las juntas administradoras locales, en la que los habitantes discuten asuntos de interés de la comunidad.",
+    "retro": [
+      "Error: la participación y la formación ciudadana pueden empezar antes de la mayoría de edad.",
+      "Error: no hay formación en el uso de mecanismos institucionales.",
+      "Correcto: conecta el aprendizaje con un mecanismo real de participación.",
+      "Error: memorizar una ley no desarrolla competencias ciudadanas."
+    ],
+    "fuente": "Ley 134 de 1994, art. 9"
+  },
+  {
+    "id": "sociales-24",
+    "tema": "sociales",
+    "subtema": "Acción de tutela",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": "Una familia cuenta que una institución se niega a matricular a su hijo y no encuentra otra vía eficaz.",
+    "enunciado": "¿Qué orientación del docente es más adecuada?",
+    "opciones": [
+      "Decirles que no hay recurso posible",
+      "Aconsejar que presenten una revocatoria del mandato",
+      "Explicar que la tutela protege derechos fundamentales como la educación y mostrar cómo se presenta",
+      "Proponer un referendo"
+    ],
+    "correcta": 2,
+    "explicacion": "La acción de tutela protege los derechos fundamentales cuando no hay otro medio de defensa eficaz.",
+    "retro": [
+      "Error: la tutela existe para estos casos.",
+      "Error: la revocatoria es un mecanismo contra alcaldes y gobernadores.",
+      "Correcto: la tutela es el mecanismo para proteger un derecho fundamental vulnerado.",
+      "Error: el referendo trata sobre normas, no protege derechos individuales."
+    ],
+    "fuente": "Constitución Política de Colombia (1991), art. 86"
+  },
+  {
+    "id": "sociales-25",
+    "tema": "sociales",
+    "subtema": "Pensamiento histórico",
+    "dificultad": 3,
+    "tipo": "situacional",
+    "contexto": "Al estudiar la Conquista, un estudiante juzga con valores actuales a los personajes y concluye que «todos eran malvados».",
+    "enunciado": "¿Cuál es la mejor intervención?",
+    "opciones": [
+      "Aceptar su juicio como válido",
+      "Prohibir los juicios morales en la historia",
+      "Contextualizar la época y analizar distintas perspectivas, distinguiendo explicar de justificar",
+      "Pedir que memorice los nombres de los conquistadores"
+    ],
+    "correcta": 2,
+    "explicacion": "El pensamiento histórico requiere contextualizar y evitar el anacronismo sin renunciar a la reflexión ética. Explicar un hecho no equivale a justificarlo.",
+    "retro": [
+      "Error: acepta una mirada anacrónica.",
+      "Error: la reflexión ética es parte del pensamiento social; lo importante es hacerlo con rigor.",
+      "Correcto: enseña a contextualizar y a comparar perspectivas.",
+      "Error: la memorización no desarrolla el análisis."
+    ],
+    "fuente": "MEN, Estándares Básicos de Competencias en Ciencias Sociales (2004)"
+  },
+  {
+    "id": "sociales-26",
+    "tema": "sociales",
+    "subtema": "Geografía humana",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": "Los estudiantes de grado 6 memorizan los nombres de los ríos y las regiones, pero no explican por qué la población se concentra en la región Andina.",
+    "enunciado": "¿Cuál es la mejor estrategia?",
+    "opciones": [
+      "Aumentar la cantidad de nombres que memorizan",
+      "Relacionar mapas físicos con mapas de población y actividades económicas, y plantear preguntas sobre el uso del territorio",
+      "Entregar un resumen sobre la región Andina",
+      "Evaluar solo con mapas mudos"
+    ],
+    "correcta": 1,
+    "explicacion": "Los Estándares incluyen las relaciones espaciales y ambientales: se espera que los estudiantes analicen cómo se relacionan el territorio y la sociedad.",
+    "retro": [
+      "Error: la memorización de nombres no explica fenómenos.",
+      "Correcto: relaciona la geografía física con la humana.",
+      "Error: el resumen entrega la explicación hecha, sin que los estudiantes la construyan.",
+      "Error: el mapa mudo mide ubicación, no explicación."
+    ],
+    "fuente": "MEN, Estándares Básicos de Competencias en Ciencias Sociales (2004)"
+  },
+  {
+    "id": "sociales-27",
+    "tema": "sociales",
+    "subtema": "Independencia",
+    "dificultad": 3,
+    "tipo": "situacional",
+    "contexto": "Un texto escolar presenta la Independencia solo como obra de los próceres criollos.",
+    "enunciado": "¿Qué estrategia permite una comprensión más completa?",
+    "opciones": [
+      "Reforzar la versión del libro con más datos de los próceres",
+      "Eliminar el tema",
+      "Contrastar fuentes sobre el papel de indígenas, afrodescendientes, mujeres y sectores populares",
+      "Aprender las biografías de memoria"
+    ],
+    "correcta": 2,
+    "explicacion": "La multiperspectiva ayuda a superar relatos de héroes y a reconocer a los actores diversos del proceso de Independencia.",
+    "retro": [
+      "Error: refuerza una narración parcial.",
+      "Error: elimina un tema obligatorio.",
+      "Correcto: incorpora distintas perspectivas y fuentes.",
+      "Error: la biografía memorizada no corrige la visión parcial."
+    ],
+    "fuente": "MEN, Estándares Básicos de Competencias en Ciencias Sociales (2004)"
+  },
+  {
+    "id": "sociales-28",
+    "tema": "sociales",
+    "subtema": "Gobierno escolar",
+    "dificultad": 1,
+    "tipo": "situacional",
+    "contexto": "Una docente quiere enseñar participación electoral a sus estudiantes.",
+    "enunciado": "¿Qué actividad es más coherente?",
+    "opciones": [
+      "Dictar la definición de sufragio",
+      "Vincularlos a las elecciones reales del gobierno escolar y analizar propuestas y resultados",
+      "Evitar el tema para no politizar la clase",
+      "Hacerlos copiar el artículo de la Constitución"
+    ],
+    "correcta": 1,
+    "explicacion": "La Ley 115 de 1994 establece el gobierno escolar. Participar en él permite aprender haciendo.",
+    "retro": [
+      "Error: la definición no genera práctica de participación.",
+      "Correcto: aprenden participando en una experiencia real.",
+      "Error: la formación ciudadana es objetivo de las ciencias sociales.",
+      "Error: copiar no desarrolla competencias ciudadanas."
+    ],
+    "fuente": "Ley 115 de 1994; MEN, Estándares Básicos de Competencias en Ciencias Sociales (2004)"
+  },
+  {
+    "id": "sociales-29",
+    "tema": "sociales",
+    "subtema": "Debate y pluralismo",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": "En un debate sobre el Acuerdo de Paz, los estudiantes se polarizan y se descalifican.",
+    "enunciado": "¿Cuál es la mejor acción?",
+    "opciones": [
+      "Suspender el debate y no volver a tocar el tema",
+      "Imponer la opinión del docente",
+      "Dejar que continúe sin reglas",
+      "Establecer reglas, pedir argumentos con fuentes y que cada grupo exponga también la postura contraria"
+    ],
+    "correcta": 3,
+    "explicacion": "La formación ciudadana requiere debatir con respeto, usar evidencia y escuchar al otro.",
+    "retro": [
+      "Error: renunciar a la discusión elimina una oportunidad de formación.",
+      "Error: se pierde la pluralidad.",
+      "Error: sin reglas el diálogo se vuelve descalificación.",
+      "Correcto: promueve argumentación y respeto."
+    ],
+    "fuente": "MEN, Estándares Básicos de Competencias en Ciencias Sociales (2004)"
+  },
+  {
+    "id": "sociales-30",
+    "tema": "sociales",
+    "subtema": "Currículo",
+    "dificultad": 3,
+    "tipo": "situacional",
+    "contexto": "Una docente planea una unidad y parte de un listado de temas del libro de texto.",
+    "enunciado": "Según los Lineamientos de 2002, ¿cuál es el mejor punto de partida?",
+    "opciones": [
+      "Partir de ejes generadores y preguntas problematizadoras, y luego seleccionar los contenidos",
+      "Mantener el listado de temas, porque es lo establecido",
+      "Elegir los temas según su gusto personal",
+      "Abandonar la planeación y seguir el libro"
+    ],
+    "correcta": 0,
+    "explicacion": "Los Lineamientos organizan el área en ejes generadores y preguntas problematizadoras, y la planeación parte de ellos.",
+    "retro": [
+      "Correcto: así se organiza el currículo según los Lineamientos.",
+      "Error: el listado no es el punto de partida propuesto.",
+      "Error: la planeación debe responder a criterios del currículo y a los estudiantes.",
+      "Error: seguir el libro sin planear no atiende las necesidades del grupo."
+    ],
+    "fuente": "MEN, Lineamientos Curriculares de Ciencias Sociales (2002)"
+  }
+]

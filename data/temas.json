@@ -1,0 +1,122 @@
+[
+ {
+  "id": "normativa",
+  "titulo": "Marco normativo",
+  "icono": "⚖️",
+  "color": "#6C5CE7",
+  "descripcion": "Constitución, Ley 115, Decretos 1278 y 1075, estatuto docente y derechos y deberes del educador."
+ },
+ {
+  "id": "pedagogia",
+  "titulo": "Pedagogía y didáctica",
+  "icono": "🧠",
+  "color": "#00B8A9",
+  "descripcion": "Modelos pedagógicos, planeación, estrategias de enseñanza, DBA, mallas y aprendizaje significativo."
+ },
+ {
+  "id": "evaluacion",
+  "titulo": "Evaluación del aprendizaje",
+  "icono": "📝",
+  "color": "#F5C542",
+  "descripcion": "Evaluación formativa, SIEE, pruebas Saber, retroalimentación e instrumentos de evaluación."
+ },
+ {
+  "id": "convivencia",
+  "titulo": "Convivencia escolar y ciudadanía",
+  "icono": "🤝",
+  "color": "#E17055",
+  "descripcion": "Ley 1620, manual de convivencia, resolución de conflictos, competencias ciudadanas y clima escolar."
+ },
+ {
+  "id": "inclusion",
+  "titulo": "Inclusión y diversidad",
+  "icono": "🌈",
+  "color": "#C2185B",
+  "descripcion": "Decreto 1421, DUA, PIAR, enfoque diferencial, etnoeducación y atención a la diversidad."
+ },
+ {
+  "id": "gestion",
+  "titulo": "Gestión escolar y rol docente",
+  "icono": "🏫",
+  "color": "#3B82F6",
+  "descripcion": "PEI, gobierno escolar, planes de mejoramiento, trabajo con familias y ética profesional."
+ },
+ {
+  "id": "lectura",
+  "titulo": "Lectura crítica",
+  "icono": "📖",
+  "color": "#8b7cff",
+  "descripcion": "Comprensión de textos, inferencias, intención del autor y análisis de argumentos."
+ },
+ {
+  "id": "cuantitativo",
+  "titulo": "Razonamiento cuantitativo",
+  "icono": "🔢",
+  "color": "#2FB36B",
+  "descripcion": "Interpretación de tablas y gráficas, proporciones, porcentajes y resolución de problemas."
+ },
+ {
+  "id": "ingles",
+  "titulo": "Inglés (docentes de inglés)",
+  "icono": "🇬🇧",
+  "color": "#FF8A3D",
+  "descripcion": "Competencia en inglés B2-C1, didáctica de lenguas extranjeras y política de bilingüismo en Colombia.",
+  "grupo": "especifico"
+ },
+ {
+  "id": "primaria",
+  "titulo": "Preescolar y primaria",
+  "icono": "🧸",
+  "color": "#FF6FB5",
+  "descripcion": "Desarrollo infantil, enseñanza de la lectoescritura y las matemáticas iniciales, y gestión del aula en los primeros grados.",
+  "grupo": "especifico"
+ },
+ {
+  "id": "matematicas",
+  "titulo": "Matemáticas",
+  "icono": "📐",
+  "color": "#4FC3F7",
+  "descripcion": "Pensamiento numérico, variacional, geométrico y aleatorio, y didáctica de las matemáticas en básica y media.",
+  "grupo": "especifico"
+ },
+ {
+  "id": "lenguaje",
+  "titulo": "Lengua castellana",
+  "icono": "✍️",
+  "color": "#D4A373",
+  "descripcion": "Competencias comunicativas, literatura, lingüística del texto y didáctica de la lengua.",
+  "grupo": "especifico"
+ },
+ {
+  "id": "naturales",
+  "titulo": "Ciencias naturales",
+  "icono": "🔬",
+  "color": "#7CB342",
+  "descripcion": "Biología, química y física escolares, indagación científica y educación ambiental.",
+  "grupo": "especifico"
+ },
+ {
+  "id": "sociales",
+  "titulo": "Ciencias sociales",
+  "icono": "🗺️",
+  "color": "#D98E04",
+  "descripcion": "Historia, geografía, constitución y democracia, y didáctica de las ciencias sociales.",
+  "grupo": "especifico"
+ },
+ {
+  "id": "directivos",
+  "titulo": "Directivos docentes (rector y coordinador)",
+  "icono": "🧭",
+  "color": "#AB47BC",
+  "descripcion": "Liderazgo escolar, gestión directiva, académica y administrativa, convivencia y normatividad para rectores y coordinadores.",
+  "grupo": "especifico"
+ },
+ {
+  "id": "psicotecnica",
+  "titulo": "Prueba psicotécnica",
+  "icono": "🧩",
+  "color": "#26C6DA",
+  "descripcion": "Razonamiento, juicio situacional y competencias comportamentales evaluadas en la prueba psicotécnica.",
+  "grupo": "comun"
+ }
+]

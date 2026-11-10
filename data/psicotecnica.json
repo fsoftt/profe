@@ -1,0 +1,770 @@
+[
+  {
+    "id": "psicotecnica-01",
+    "tema": "psicotecnica",
+    "subtema": "Liderazgo",
+    "dificultad": 1,
+    "tipo": "situacional",
+    "contexto": "Docente de noveno grado. Después de una evaluación con bajos resultados en matemáticas, nota que el grupo está desmotivado y varios estudiantes dicen que \"no sirven para eso\".",
+    "enunciado": "¿Cuál es la mejor acción del docente?",
+    "opciones": [
+      "Reunir al grupo, analizar con los estudiantes las causas de los resultados y acordar metas de mejora con apoyos concretos",
+      "Asignar talleres adicionales obligatorios como castigo hasta que los resultados mejoren en la siguiente prueba",
+      "Esperar a que el coordinador académico diseñe un plan de refuerzo para todo el grado y lo comunique",
+      "Pedir a los padres de familia que presionen a sus hijos en casa para que estudien más"
+    ],
+    "correcta": 0,
+    "retro": [
+      "Correcto: moviliza al grupo con metas compartidas y apoyo, que es la esencia del liderazgo.",
+      "Error: castigar con tareas es una actitud rígida que no resuelve la desmotivación.",
+      "Error: delega en el coordinador algo que es parte de su propia práctica de aula.",
+      "Error: traslada a las familias una responsabilidad que le corresponde y no genera motivación."
+    ],
+    "explicacion": "El liderazgo docente se muestra al movilizar a otros hacia metas comunes. Implica analizar la situación con el grupo y fijar acciones compartidas, no imponer castigos ni delegar lo propio.",
+    "fuente": "Competencia: Liderazgo — Guía 31 MEN (competencias comportamentales)"
+  },
+  {
+    "id": "psicotecnica-02",
+    "tema": "psicotecnica",
+    "subtema": "Liderazgo",
+    "dificultad": 3,
+    "tipo": "situacional",
+    "contexto": "Rector recién llegado a una institución. Los docentes con mayor antigüedad se muestran escépticos frente a un proyecto de convivencia que él propone.",
+    "enunciado": "¿Cuál es la mejor decisión del rector?",
+    "opciones": [
+      "Adoptar el proyecto por resolución rectoral para evitar debates que retrasen su aplicación",
+      "Construir con los docentes una visión compartida del proyecto, escuchando sus objeciones y definiendo responsabilidades conjuntas",
+      "Posponer el proyecto hasta que los docentes lo soliciten por su propia iniciativa",
+      "Asignar el proyecto únicamente a los docentes nuevos, que sí lo aceptan sin objeciones"
+    ],
+    "correcta": 1,
+    "retro": [
+      "Error: actúa sin diálogo e impone, lo que genera resistencia.",
+      "Correcto: lidera con diálogo y corresponsabilidad.",
+      "Error: evita el conflicto aplazando la decisión y pierde la oportunidad de liderar.",
+      "Error: delega en unos pocos lo que es responsabilidad de toda la institución."
+    ],
+    "explicacion": "Un directivo con liderazgo inspira y convoca. Construye visión compartida, escucha las objeciones y reparte responsabilidades, en vez de imponer o aplazar.",
+    "fuente": "Competencia: Liderazgo — Guía 31 MEN (competencias comportamentales)"
+  },
+  {
+    "id": "psicotecnica-03",
+    "tema": "psicotecnica",
+    "subtema": "Liderazgo",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": "Docente jefe de área de ciencias. Una compañera recién llegada tiene dificultades para planear sus clases y se siente insegura.",
+    "enunciado": "¿Qué debe hacer el jefe de área?",
+    "opciones": [
+      "Entregarle sus planes de clase para que los use tal cual durante el año escolar",
+      "Informar al rector que la compañera no se adapta al área y pedir que la reubiquen",
+      "Acompañarla compartiendo experiencias y herramientas, y acordar con ella espacios de planeación conjunta",
+      "Dejar que aprenda por su cuenta, porque así desarrollará más rápido su autonomía"
+    ],
+    "correcta": 2,
+    "retro": [
+      "Error: entregar planes ajenos crea dependencia y no desarrolla su capacidad de planear.",
+      "Error: acudir a la dirección sin intentar apoyarla es evadir su rol de jefe de área.",
+      "Correcto: acompaña y fortalece sus capacidades, un rasgo del liderazgo.",
+      "Error: abandonarla es una actitud pasiva que no ayuda al equipo."
+    ],
+    "explicacion": "El liderazgo de un jefe de área se mide por su capacidad de desarrollar a su equipo. Acompañar, compartir saberes y hacer planeación conjunta es más efectivo que imponer o abandonar.",
+    "fuente": "Competencia: Liderazgo — Guía 31 MEN (competencias comportamentales)"
+  },
+  {
+    "id": "psicotecnica-04",
+    "tema": "psicotecnica",
+    "subtema": "Liderazgo",
+    "dificultad": 3,
+    "tipo": "situacional",
+    "contexto": "Coordinador de una institución. A mitad de año, el docente que lidera el proyecto de lectura se traslada a otra ciudad y el equipo queda desorientado.",
+    "enunciado": "¿Qué debe hacer el coordinador?",
+    "opciones": [
+      "Cancelar el proyecto, porque sin su líder original no se puede continuar de la misma forma",
+      "Asumir personalmente todas las tareas del proyecto para asegurar que se cumpla",
+      "Esperar a que la secretaría de educación envíe a un docente que reemplace al líder",
+      "Convocar al equipo, reasignar roles con criterios claros y mantener el seguimiento de las metas del proyecto"
+    ],
+    "correcta": 3,
+    "retro": [
+      "Error: cancelar muestra falta de iniciativa y de capacidad para sostener los compromisos.",
+      "Error: asumirlo todo es un control excesivo y no desarrolla al equipo.",
+      "Error: esperar a un tercero evita resolver lo que está en sus manos.",
+      "Correcto: sostiene el proyecto reorganizando al equipo con claridad."
+    ],
+    "explicacion": "Un líder distribuye responsabilidades y mantiene el rumbo ante imprevistos. Reasignar roles y hacer seguimiento evita que el proyecto se detenga.",
+    "fuente": "Competencia: Liderazgo — Guía 31 MEN (competencias comportamentales)"
+  },
+  {
+    "id": "psicotecnica-05",
+    "tema": "psicotecnica",
+    "subtema": "Liderazgo",
+    "dificultad": 1,
+    "tipo": "situacional",
+    "contexto": "Docente de quinto grado. Un grupo de estudiantes propone organizar una campaña de reciclaje en la escuela y le pide su apoyo.",
+    "enunciado": "¿Cuál es la mejor acción del docente?",
+    "opciones": [
+      "Orientar a los estudiantes para que lideren la campaña, con roles y metas claras, y acompañar su avance",
+      "Dirigir yo toda la campaña para asegurar que los resultados sean los esperados",
+      "Rechazar la propuesta porque no está contemplada en el plan de área del periodo",
+      "Enviar la propuesta al rector sin comentarios para que él decida qué hacer"
+    ],
+    "correcta": 0,
+    "retro": [
+      "Correcto: promueve el liderazgo de los estudiantes y los acompaña.",
+      "Error: controlar todo anula la participación de los estudiantes.",
+      "Error: es una actitud rígida frente a una iniciativa valiosa.",
+      "Error: delega una decisión que puede orientar desde su rol."
+    ],
+    "explicacion": "Un docente con liderazgo forma la capacidad de otros para liderar: orienta, define metas con ellos y acompaña, sin apropiarse de la iniciativa ni evadirla.",
+    "fuente": "Competencia: Liderazgo — Guía 31 MEN (competencias comportamentales)"
+  },
+  {
+    "id": "psicotecnica-06",
+    "tema": "psicotecnica",
+    "subtema": "Comunicación y relaciones interpersonales",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": "Rector de una institución. Un acudiente llega furioso a la rectoría y exige ser atendido en ese momento porque su hijo fue sancionado.",
+    "enunciado": "¿Cuál es la mejor reacción del rector?",
+    "opciones": [
+      "Pedirle que se retire y vuelva cuando se haya calmado, sin darle una cita concreta",
+      "Invitarlo a un espacio tranquilo, escucharlo con atención y explicarle el procedimiento y la fecha para revisar el caso",
+      "Revocar la sanción en ese momento para evitar un escándalo en la institución",
+      "Remitirlo a la coordinadora de convivencia sin explicarle nada del proceso"
+    ],
+    "correcta": 1,
+    "retro": [
+      "Error: la actitud rígida no resuelve la inconformidad ni abre el diálogo.",
+      "Correcto: escucha, mantiene la calma y explica el procedimiento.",
+      "Error: revoca la sanción por presión y rompe el procedimiento.",
+      "Error: evade la conversación y deja al acudiente sin información."
+    ],
+    "explicacion": "La comunicación asertiva implica escuchar con respeto, mantener la calma y dar información clara sobre el procedimiento, sin ceder por presión ni evadir al interlocutor.",
+    "fuente": "Competencia: Comunicación y relaciones interpersonales — Guía 31 MEN (competencias comportamentales)"
+  },
+  {
+    "id": "psicotecnica-07",
+    "tema": "psicotecnica",
+    "subtema": "Comunicación y relaciones interpersonales",
+    "dificultad": 1,
+    "tipo": "situacional",
+    "contexto": "Docente de tercero. Debe informar a una familia que el estudiante tiene un rendimiento bajo en lectura y escritura.",
+    "enunciado": "¿Cuál es la mejor manera de hacerlo?",
+    "opciones": [
+      "Enviar una nota escrita con la calificación final para que la familia la revise en casa",
+      "Comentar el caso en la reunión general para que los otros padres den consejos a la familia",
+      "Citar al acudiente, presentar evidencias con lenguaje claro y proponer juntos compromisos y apoyos",
+      "Esperar a que el acudiente pregunte por el rendimiento del niño durante el periodo"
+    ],
+    "correcta": 2,
+    "retro": [
+      "Error: una nota escrita no permite el diálogo ni la comprensión de la situación.",
+      "Error: exponer el caso ante otros padres vulnera la privacidad del estudiante.",
+      "Correcto: comunica con claridad, evidencias y construcción conjunta.",
+      "Error: esperar a que pregunten es una actitud pasiva que retrasa los apoyos."
+    ],
+    "explicacion": "Una comunicación efectiva con las familias es oportuna, clara, respetuosa y bidireccional. Compartir evidencias y acordar compromisos fortalece la relación.",
+    "fuente": "Competencia: Comunicación y relaciones interpersonales — Guía 31 MEN (competencias comportamentales)"
+  },
+  {
+    "id": "psicotecnica-08",
+    "tema": "psicotecnica",
+    "subtema": "Comunicación y relaciones interpersonales",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": "Docente de séptimo. Una colega cree que usted habló mal de ella con los estudiantes y la nota distante desde hace unos días.",
+    "enunciado": "¿Qué debe hacer el docente?",
+    "opciones": [
+      "Pedir a otros docentes que le expliquen que fue un malentendido",
+      "No decir nada y confiar en que con el tiempo la situación se arreglará sola",
+      "Escribir al rector exigiendo que le aclare a la colega que usted no hizo nada",
+      "Conversar directamente con la colega, aclarar lo ocurrido y escuchar su versión"
+    ],
+    "correcta": 3,
+    "retro": [
+      "Error: usa intermediarios y no se comunica directamente.",
+      "Error: evita el conflicto, lo que deja crecer el malentendido.",
+      "Error: escala a la autoridad un asunto que se puede resolver con diálogo.",
+      "Correcto: aclara directamente y con respeto."
+    ],
+    "explicacion": "Las buenas relaciones interpersonales se sostienen con diálogo directo y escucha activa. Evitar o escalar sin intentar hablar deteriora el clima del equipo.",
+    "fuente": "Competencia: Comunicación y relaciones interpersonales — Guía 31 MEN (competencias comportamentales)"
+  },
+  {
+    "id": "psicotecnica-09",
+    "tema": "psicotecnica",
+    "subtema": "Comunicación y relaciones interpersonales",
+    "dificultad": 3,
+    "tipo": "situacional",
+    "contexto": "Rector de una institución. Debe cambiar el horario de la jornada escolar y los docentes se enteran por rumores antes de que se les informe.",
+    "enunciado": "¿Cuál es la mejor acción?",
+    "opciones": [
+      "Convocar a una reunión para explicar el cambio, sus razones y escuchar las inquietudes antes de aplicarlo",
+      "Publicar una circular con el nuevo horario y aplicarlo desde la semana siguiente sin discusión",
+      "Esperar a que los coordinadores expliquen el cambio de manera informal a los docentes",
+      "Aplazar el cambio sin explicación para evitar la reacción de los docentes"
+    ],
+    "correcta": 0,
+    "retro": [
+      "Correcto: comunica de forma directa, abierta y con espacio para el diálogo.",
+      "Error: informa sin diálogo y deja a los docentes sin voz.",
+      "Error: delega una comunicación importante en canales informales.",
+      "Error: evita la conversación y mantiene la incertidumbre."
+    ],
+    "explicacion": "Comunicar decisiones institucionales exige claridad, oportunidad y espacio para escuchar. Hacerlo por canales informales o sin diálogo alimenta los rumores.",
+    "fuente": "Competencia: Comunicación y relaciones interpersonales — Guía 31 MEN (competencias comportamentales)"
+  },
+  {
+    "id": "psicotecnica-10",
+    "tema": "psicotecnica",
+    "subtema": "Comunicación y relaciones interpersonales",
+    "dificultad": 1,
+    "tipo": "situacional",
+    "contexto": "Docente de sexto. Una estudiante con hipoacusia suele quedarse callada en clase y parece no participar.",
+    "enunciado": "¿Cuál es la mejor actuación del docente?",
+    "opciones": [
+      "Hablar más fuerte durante toda la clase para que todos los estudiantes escuchen",
+      "Adaptar mi comunicación (ubicación, apoyos visuales, trato directo) y dialogar con ella y su familia sobre lo que necesita",
+      "Pedir a un compañero que le repita todo lo que digo durante la clase",
+      "Sugerir a la familia que busque otra institución con apoyos especializados"
+    ],
+    "correcta": 1,
+    "retro": [
+      "Error: hablar más fuerte no atiende las necesidades específicas de la estudiante.",
+      "Correcto: ajusta su forma de comunicarse y construye la relación con la estudiante y su familia.",
+      "Error: delega su comunicación en otro estudiante y limita la participación de ella.",
+      "Error: la remisión a otra institución evita el compromiso de incluirla."
+    ],
+    "explicacion": "Comunicarse bien es adaptarse al interlocutor. Un docente construye la relación con la estudiante y su familia, y ajusta sus estrategias para que participe.",
+    "fuente": "Competencia: Comunicación y relaciones interpersonales — Guía 31 MEN (competencias comportamentales)"
+  },
+  {
+    "id": "psicotecnica-11",
+    "tema": "psicotecnica",
+    "subtema": "Trabajo en equipo",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": "Docente del equipo de ciclo. Están preparando un proyecto interdisciplinario y un colega no ha cumplido su parte en las últimas dos semanas.",
+    "enunciado": "¿Qué debe hacer el docente?",
+    "opciones": [
+      "Hacer yo su parte en silencio para evitar conflictos y entregar el proyecto a tiempo",
+      "Reportar de inmediato al rector que el colega no cumple con su parte del proyecto",
+      "Dialogar con el colega, conocer sus dificultades y reorganizar las tareas con acuerdos de todo el equipo",
+      "Dejar al colega por fuera de las decisiones del proyecto hasta que cumpla"
+    ],
+    "correcta": 2,
+    "retro": [
+      "Error: asumir la tarea en silencio no resuelve la causa y genera resentimiento.",
+      "Error: escala sin intentar antes un acuerdo con su compañero.",
+      "Correcto: busca soluciones con el equipo, dialogando y reorganizando.",
+      "Error: excluir al colega rompe la cohesión del equipo."
+    ],
+    "explicacion": "El trabajo en equipo exige corresponsabilidad. Cuando un integrante falla, lo primero es dialogar y redistribuir tareas por consenso, sin cargarse el trabajo ni excluir.",
+    "fuente": "Competencia: Trabajo en equipo — Guía 31 MEN (competencias comportamentales)"
+  },
+  {
+    "id": "psicotecnica-12",
+    "tema": "psicotecnica",
+    "subtema": "Trabajo en equipo",
+    "dificultad": 3,
+    "tipo": "situacional",
+    "contexto": "Rector de una institución. Los coordinadores trabajan de forma aislada, repiten actividades y a veces dan indicaciones contradictorias a los docentes.",
+    "enunciado": "¿Qué debe hacer el rector?",
+    "opciones": [
+      "Evaluar a cada coordinador por separado y que cada uno decida cómo organizar su trabajo",
+      "Esperar a que los coordinadores resuelvan entre ellos sus diferencias de criterio",
+      "Concentrar todas las decisiones en él para evitar indicaciones contradictorias",
+      "Establecer reuniones periódicas del equipo directivo con objetivos comunes y espacios para compartir avances"
+    ],
+    "correcta": 3,
+    "retro": [
+      "Error: refuerza el trabajo aislado en lugar de integrarlo.",
+      "Error: evita intervenir y mantiene la descoordinación.",
+      "Error: centraliza todo y anula el trabajo en equipo.",
+      "Correcto: crea condiciones para el trabajo coordinado y articulado."
+    ],
+    "explicacion": "El trabajo en equipo se construye con objetivos comunes, comunicación periódica y roles claros. Concentrar decisiones o dejar que cada uno actúe solo debilita la gestión.",
+    "fuente": "Competencia: Trabajo en equipo — Guía 31 MEN (competencias comportamentales)"
+  },
+  {
+    "id": "psicotecnica-13",
+    "tema": "psicotecnica",
+    "subtema": "Trabajo en equipo",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": "Docente de matemáticas. En la reunión de área se discute cómo evaluar el trabajo en equipo de los estudiantes y hay posiciones muy distintas.",
+    "enunciado": "¿Cuál es la mejor actuación del docente?",
+    "opciones": [
+      "Escuchar todas las posturas, buscar puntos comunes y decidir los criterios por consenso en el área",
+      "Defender mi propuesta hasta que los demás docentes acepten mi punto de vista",
+      "Aceptar la propuesta del jefe de área sin dar mi opinión para no generar tensión",
+      "Aplicar mi propia forma de evaluar solo en mis grupos, sin consultar al área"
+    ],
+    "correcta": 0,
+    "retro": [
+      "Correcto: construye acuerdos de forma colaborativa.",
+      "Error: la postura rígida impide el consenso.",
+      "Error: renuncia a participar y evita su aporte al equipo.",
+      "Error: actúa por su cuenta, sin articularse con el equipo."
+    ],
+    "explicacion": "En un equipo, las diferencias se resuelven escuchando y construyendo acuerdos. Imponer, callar o actuar solo debilita la coherencia del área.",
+    "fuente": "Competencia: Trabajo en equipo — Guía 31 MEN (competencias comportamentales)"
+  },
+  {
+    "id": "psicotecnica-14",
+    "tema": "psicotecnica",
+    "subtema": "Trabajo en equipo",
+    "dificultad": 1,
+    "tipo": "situacional",
+    "contexto": "Docente de primaria. Un docente nuevo llegó a la institución y los demás no lo han integrado a las reuniones ni a los proyectos.",
+    "enunciado": "¿Qué debe hacer el docente?",
+    "opciones": [
+      "Esperar a que él pida ayuda, porque cada quien debe aprender a integrarse solo",
+      "Invitarlo a las reuniones, compartirle materiales y presentarle las prácticas y los proyectos del equipo",
+      "Decirle que lea el PEI y el manual de convivencia y que luego pregunte lo que no entienda",
+      "Dejar que sea el coordinador quien se encargue de la integración del docente nuevo"
+    ],
+    "correcta": 1,
+    "retro": [
+      "Error: espera pasivamente en lugar de generar cooperación.",
+      "Correcto: facilita la integración y fortalece al equipo.",
+      "Error: reduce la integración a leer documentos, sin acompañamiento.",
+      "Error: delega una tarea que puede asumir como compañero."
+    ],
+    "explicacion": "Integrar a quien llega es parte del trabajo en equipo. La cooperación activa construye un clima de confianza y acelera la adaptación.",
+    "fuente": "Competencia: Trabajo en equipo — Guía 31 MEN (competencias comportamentales)"
+  },
+  {
+    "id": "psicotecnica-15",
+    "tema": "psicotecnica",
+    "subtema": "Trabajo en equipo",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": "Director rural de varias sedes dispersas. Los docentes de cada sede trabajan solos y casi no comparten experiencias ni planean en conjunto.",
+    "enunciado": "¿Cuál es la mejor acción del director rural?",
+    "opciones": [
+      "Visitar cada sede y dar instrucciones individuales a cada docente sobre su trabajo",
+      "Limitar la comunicación a circulares para que cada docente trabaje de forma independiente",
+      "Organizar encuentros periódicos, presenciales o virtuales, para planear y compartir experiencias entre las sedes",
+      "Permitir que cada sede decida su rumbo sin articulación con las demás"
+    ],
+    "correcta": 2,
+    "retro": [
+      "Error: mantiene el trabajo aislado en vez de articularlo.",
+      "Error: reduce la comunicación a un solo sentido, sin construcción conjunta.",
+      "Correcto: crea espacios de trabajo conjunto a pesar de la distancia.",
+      "Error: fragmenta la gestión y evita su papel de articulador."
+    ],
+    "explicacion": "Un director rural articula sedes dispersas creando espacios de planeación y aprendizaje conjunto, lo que fortalece el trabajo en equipo.",
+    "fuente": "Competencia: Trabajo en equipo — Guía 31 MEN (competencias comportamentales)"
+  },
+  {
+    "id": "psicotecnica-16",
+    "tema": "psicotecnica",
+    "subtema": "Negociación y mediación",
+    "dificultad": 1,
+    "tipo": "situacional",
+    "contexto": "Docente de cuarto. Dos estudiantes pelean por quién debe dirigir el grupo de trabajo y el resto del curso queda detenido.",
+    "enunciado": "¿Cuál es la mejor actuación del docente?",
+    "opciones": [
+      "Decidir yo quién lidera el grupo sin escucharlos, para terminar rápido con la discusión",
+      "Separarlos del grupo y asignarles trabajos individuales como consecuencia de la pelea",
+      "Ignorar la discusión, porque los niños deben resolver solos sus diferencias",
+      "Reunir a los dos estudiantes, dejar que expongan sus puntos de vista y ayudarles a acordar una solución"
+    ],
+    "correcta": 3,
+    "retro": [
+      "Error: actúa sin diálogo e impone la solución.",
+      "Error: elimina el conflicto en vez de resolverlo.",
+      "Error: evita intervenir y deja el conflicto sin resolver.",
+      "Correcto: media y facilita acuerdos entre las partes."
+    ],
+    "explicacion": "La mediación consiste en que las partes expongan su punto de vista y construyan un acuerdo con ayuda de un tercero. Imponer o ignorar no resuelve el conflicto.",
+    "fuente": "Competencia: Negociación y mediación — Guía 31 MEN (competencias comportamentales)"
+  },
+  {
+    "id": "psicotecnica-17",
+    "tema": "psicotecnica",
+    "subtema": "Negociación y mediación",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": "Rector de una institución. Varias familias reclaman que un docente deja demasiadas tareas, y el docente asegura que cumple con el plan de estudios.",
+    "enunciado": "¿Qué debe hacer el rector?",
+    "opciones": [
+      "Convocar a las partes, escuchar sus posiciones y construir acuerdos sobre la cantidad de tareas, acorde con los lineamientos institucionales",
+      "Dar la razón a las familias y ordenar al docente que reduzca las tareas de inmediato",
+      "Defender al docente sin escuchar a las familias, porque conoce su trabajo",
+      "Decir a las familias que es un asunto del consejo de padres y no del colegio"
+    ],
+    "correcta": 0,
+    "retro": [
+      "Correcto: media entre los intereses y busca un acuerdo.",
+      "Error: cede a la presión sin escuchar al docente.",
+      "Error: toma partido sin escuchar a las familias.",
+      "Error: evita su responsabilidad como directivo."
+    ],
+    "explicacion": "En una negociación, el directivo escucha los intereses de cada parte y busca acuerdos que sean viables, sin tomar partido de entrada ni evadir.",
+    "fuente": "Competencia: Negociación y mediación — Guía 31 MEN (competencias comportamentales)"
+  },
+  {
+    "id": "psicotecnica-18",
+    "tema": "psicotecnica",
+    "subtema": "Negociación y mediación",
+    "dificultad": 3,
+    "tipo": "situacional",
+    "contexto": "Coordinador de una institución. Varios docentes pelean por usar la sala de informática en el mismo horario.",
+    "enunciado": "¿Cuál es la mejor decisión del coordinador?",
+    "opciones": [
+      "Dar la sala a quien llegue primero cada día, sin horarios definidos",
+      "Reunir a los interesados, identificar sus necesidades y acordar un horario rotativo equitativo",
+      "Asignarla al área con más docentes, porque hay más personas interesadas",
+      "Cerrar la sala hasta que los docentes se pongan de acuerdo entre ellos"
+    ],
+    "correcta": 1,
+    "retro": [
+      "Error: no resuelve el conflicto y favorece a los más rápidos.",
+      "Correcto: concilia necesidades con un acuerdo equitativo.",
+      "Error: usa un criterio que ignora las necesidades pedagógicas.",
+      "Error: evita el conflicto sacrificando el recurso."
+    ],
+    "explicacion": "Negociar es encontrar soluciones que atiendan las necesidades de todos. Un horario rotativo acordado es mejor que criterios arbitrarios o cerrar el recurso.",
+    "fuente": "Competencia: Negociación y mediación — Guía 31 MEN (competencias comportamentales)"
+  },
+  {
+    "id": "psicotecnica-19",
+    "tema": "psicotecnica",
+    "subtema": "Negociación y mediación",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": "Docente de undécimo. Los estudiantes piden aplazar una evaluación porque coincide con otras tres pruebas esa semana.",
+    "enunciado": "¿Cuál es la mejor respuesta del docente?",
+    "opciones": [
+      "Aceptar el aplazamiento sin condiciones para evitar el desacuerdo con el grupo",
+      "Negarme sin explicar, porque la fecha del cronograma es inamovible",
+      "Escuchar sus razones, explicar las restricciones del cronograma y negociar una alternativa dentro de lo permitido",
+      "Decirles que consulten al coordinador y no tomar ninguna decisión por mi parte"
+    ],
+    "correcta": 2,
+    "retro": [
+      "Error: cede sin tener en cuenta las reglas institucionales.",
+      "Error: es una actitud rígida que no explica sus razones.",
+      "Correcto: negocia con argumentos y dentro de las normas.",
+      "Error: delega una decisión que puede discutir con los estudiantes."
+    ],
+    "explicacion": "Negociar es equilibrar intereses con argumentos y límites claros. El docente escucha, explica las restricciones y busca una alternativa viable.",
+    "fuente": "Competencia: Negociación y mediación — Guía 31 MEN (competencias comportamentales)"
+  },
+  {
+    "id": "psicotecnica-20",
+    "tema": "psicotecnica",
+    "subtema": "Compromiso social e institucional",
+    "dificultad": 1,
+    "tipo": "situacional",
+    "contexto": "Docente de una escuela rural sin conectividad. La institución propone clases virtuales y sus estudiantes no pueden acceder a internet.",
+    "enunciado": "¿Qué debe hacer el docente?",
+    "opciones": [
+      "Esperar a que la secretaría de educación instale internet en la vereda antes de actuar",
+      "Suspender las actividades pedagógicas hasta que haya conectividad en la zona",
+      "Pedir a las familias que paguen datos móviles para que los estudiantes se conecten",
+      "Diseñar guías impresas y estrategias de acuerdo con el contexto para asegurar que los estudiantes sigan aprendiendo"
+    ],
+    "correcta": 3,
+    "retro": [
+      "Error: espera pasivamente una solución externa.",
+      "Error: suspende el servicio y vulnera el derecho a la educación.",
+      "Error: traslada a las familias un costo que no pueden asumir.",
+      "Correcto: adecúa su práctica al contexto y garantiza el derecho a aprender."
+    ],
+    "explicacion": "El compromiso social e institucional se evidencia al adecuar la práctica a las necesidades del contexto y garantizar la continuidad del aprendizaje.",
+    "fuente": "Competencia: Compromiso social e institucional — Guía 31 MEN (competencias comportamentales)"
+  },
+  {
+    "id": "psicotecnica-21",
+    "tema": "psicotecnica",
+    "subtema": "Compromiso social e institucional",
+    "dificultad": 1,
+    "tipo": "situacional",
+    "contexto": "Rector de una institución. Varios estudiantes están en riesgo de abandonar el colegio porque deben trabajar para ayudar a sus familias.",
+    "enunciado": "¿Cuál es la mejor acción del rector?",
+    "opciones": [
+      "Identificar los casos, articular con las familias y las entidades locales y ajustar estrategias para que permanezcan en el sistema",
+      "Reportar las cifras de deserción a la secretaría de educación y esperar instrucciones",
+      "Retirar a los estudiantes de las listas cuando dejen de asistir, para mantener los registros",
+      "Dejar que las familias decidan sin intervenir, porque es un asunto privado"
+    ],
+    "correcta": 0,
+    "retro": [
+      "Correcto: asume la permanencia escolar como compromiso social.",
+      "Error: se limita a reportar sin actuar.",
+      "Error: elimina el problema de los registros sin resolverlo.",
+      "Error: evade su compromiso con el derecho a la educación."
+    ],
+    "explicacion": "Garantizar la permanencia es parte del compromiso social del directivo: identifica casos, articula con el entorno y ajusta estrategias institucionales.",
+    "fuente": "Competencia: Compromiso social e institucional — Guía 31 MEN (competencias comportamentales)"
+  },
+  {
+    "id": "psicotecnica-22",
+    "tema": "psicotecnica",
+    "subtema": "Compromiso social e institucional",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": "Docente de educación física. La institución lanzó un proyecto de lectura en el que todas las áreas deben participar.",
+    "enunciado": "¿Qué debe hacer el docente?",
+    "opciones": [
+      "Considerar que el proyecto es solo del área de lengua castellana y no participar",
+      "Articular mi área con el proyecto, aportando actividades de lectura relacionadas con el deporte y el cuerpo",
+      "Participar solo si me incluyen en la evaluación de desempeño del año",
+      "Dejar que los directivos decidan cuándo y cómo participará mi área"
+    ],
+    "correcta": 1,
+    "retro": [
+      "Error: se desentiende de un proyecto de toda la institución.",
+      "Correcto: se compromete con los objetivos institucionales desde su área.",
+      "Error: condiciona su compromiso a un beneficio.",
+      "Error: delega una decisión que puede proponer desde su disciplina."
+    ],
+    "explicacion": "El compromiso institucional implica asumir los proyectos del colegio como propios y aportar desde el área sin condicionamientos.",
+    "fuente": "Competencia: Compromiso social e institucional — Guía 31 MEN (competencias comportamentales)"
+  },
+  {
+    "id": "psicotecnica-23",
+    "tema": "psicotecnica",
+    "subtema": "Compromiso social e institucional",
+    "dificultad": 3,
+    "tipo": "situacional",
+    "contexto": "Rector de una institución ubicada en zona de deslizamientos. El colegio no tiene un plan de gestión del riesgo y los estudiantes están expuestos en temporada de lluvias.",
+    "enunciado": "¿Cuál es la mejor decisión del rector?",
+    "opciones": [
+      "Esperar a que la alcaldía envíe un plan elaborado para toda la zona",
+      "Adoptar un plan genérico copiado de otra institución, sin adaptarlo al contexto",
+      "Liderar con la comunidad educativa y las entidades locales la elaboración del plan de gestión del riesgo",
+      "Aplazar el plan hasta que ocurra un incidente que lo justifique"
+    ],
+    "correcta": 2,
+    "retro": [
+      "Error: espera pasivamente una solución externa.",
+      "Error: usa un plan que no responde a los riesgos reales.",
+      "Correcto: asume la protección de la comunidad con acciones concretas y articuladas.",
+      "Error: actúa de manera reactiva, cuando ya puede ser tarde."
+    ],
+    "explicacion": "El compromiso social se evidencia al proteger a la comunidad. El directivo lidera la prevención con participación y articulación local, y no espera a que ocurra el daño.",
+    "fuente": "Competencia: Compromiso social e institucional — Guía 31 MEN (competencias comportamentales)"
+  },
+  {
+    "id": "psicotecnica-24",
+    "tema": "psicotecnica",
+    "subtema": "Compromiso social e institucional",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": "Docente de décimo. Observa que una estudiante antes participativa está aislada y tiene bajo rendimiento; sabe que atraviesa una situación familiar difícil.",
+    "enunciado": "¿Qué debe hacer el docente?",
+    "opciones": [
+      "Llamar su atención en clase para que reaccione y retome su rendimiento anterior",
+      "Visitar la casa de la estudiante por mi cuenta para investigar lo que pasa",
+      "Esperar a que ella misma pida ayuda, porque es un tema personal de su familia",
+      "Acercarme con empatía y activar la ruta de apoyo con orientación escolar y coordinación para acompañarla"
+    ],
+    "correcta": 3,
+    "retro": [
+      "Error: expone a la estudiante y no atiende su situación.",
+      "Error: actúa sin seguir la ruta institucional y puede vulnerar su privacidad.",
+      "Error: se desentiende de su compromiso con la formación integral.",
+      "Correcto: acompaña con empatía y usa la ruta institucional de apoyo."
+    ],
+    "explicacion": "El compromiso con los estudiantes incluye reconocer señales de alerta y activar las rutas de apoyo institucionales con respeto a su privacidad.",
+    "fuente": "Competencia: Compromiso social e institucional — Guía 31 MEN (competencias comportamentales)"
+  },
+  {
+    "id": "psicotecnica-25",
+    "tema": "psicotecnica",
+    "subtema": "Iniciativa",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": "Docente de lenguaje. La biblioteca de la institución casi no se usa y los estudiantes tienen pocas oportunidades de lectura.",
+    "enunciado": "¿Qué debe hacer el docente?",
+    "opciones": [
+      "Proponer al coordinador un proyecto de lectura con un plan concreto, que use los recursos existentes y alianzas externas",
+      "Esperar a que la institución reciba una dotación nueva de libros para dinamizar la biblioteca",
+      "Solicitar un presupuesto especial sin presentar un plan de uso de los recursos",
+      "Usar la biblioteca solo con mis grupos, sin involucrar a los demás docentes"
+    ],
+    "correcta": 0,
+    "retro": [
+      "Correcto: toma la iniciativa con una propuesta concreta y viable.",
+      "Error: espera pasivamente condiciones ideales.",
+      "Error: pide recursos sin una propuesta estructurada.",
+      "Error: actúa por su cuenta sin proyección institucional."
+    ],
+    "explicacion": "La iniciativa consiste en anticiparse y proponer soluciones viables aprovechando lo que se tiene. Una propuesta estructurada es más sólida que esperar o pedir sin plan.",
+    "fuente": "Competencia: Iniciativa — Guía 31 MEN (competencias comportamentales)"
+  },
+  {
+    "id": "psicotecnica-26",
+    "tema": "psicotecnica",
+    "subtema": "Iniciativa",
+    "dificultad": 3,
+    "tipo": "situacional",
+    "contexto": "Rector de una institución. Los resultados de las pruebas Saber muestran un bajo desempeño en matemáticas en los últimos dos años.",
+    "enunciado": "¿Cuál es la mejor decisión del rector?",
+    "opciones": [
+      "Esperar los lineamientos de la secretaría de educación para decidir qué hacer",
+      "Analizar los resultados con el consejo académico, diseñar estrategias de apoyo y proponer metas de mejora",
+      "Reemplazar a los docentes del área para cambiar los resultados rápidamente",
+      "Solicitar capacitación general a los docentes sin analizar antes las causas del bajo desempeño"
+    ],
+    "correcta": 1,
+    "retro": [
+      "Error: espera que otros decidan y no actúa por sí mismo.",
+      "Correcto: se anticipa con un diagnóstico y un plan propio.",
+      "Error: toma una medida drástica sin analizar las causas.",
+      "Error: actúa sin diagnóstico, con una solución genérica."
+    ],
+    "explicacion": "La iniciativa directiva implica diagnosticar y proponer estrategias propias de mejora, sin depender de lineamientos externos ni aplicar soluciones sin análisis.",
+    "fuente": "Competencia: Iniciativa — Guía 31 MEN (competencias comportamentales)"
+  },
+  {
+    "id": "psicotecnica-27",
+    "tema": "psicotecnica",
+    "subtema": "Iniciativa",
+    "dificultad": 1,
+    "tipo": "situacional",
+    "contexto": "Docente de tecnología. La institución recibió tabletas y una herramienta digital nueva para evaluar, pero nadie las usa porque no se ha dado una orden.",
+    "enunciado": "¿Qué debe hacer el docente?",
+    "opciones": [
+      "Esperar a que la institución exija su uso para empezar a probarla",
+      "Aplicarla en todos mis grupos desde ahora sin haberla probado antes",
+      "Explorar la herramienta, probarla con un grupo piloto y compartir los resultados con los colegas",
+      "Rechazarla, porque no he recibido una capacitación formal sobre su uso"
+    ],
+    "correcta": 2,
+    "retro": [
+      "Error: espera una orden y se queda sin actuar.",
+      "Error: actúa sin probar y arriesga resultados.",
+      "Correcto: toma la iniciativa de forma planeada y comparte lo aprendido.",
+      "Error: se excusa en la falta de capacitación en lugar de explorar."
+    ],
+    "explicacion": "La iniciativa combina disposición a innovar con prudencia: un piloto permite probar, aprender y compartir con los colegas antes de generalizar.",
+    "fuente": "Competencia: Iniciativa — Guía 31 MEN (competencias comportamentales)"
+  },
+  {
+    "id": "psicotecnica-28",
+    "tema": "psicotecnica",
+    "subtema": "Iniciativa",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": "Coordinador de convivencia. Observa que no hay un registro sistemático del seguimiento a los estudiantes con inasistencias repetidas.",
+    "enunciado": "¿Cuál es la mejor acción del coordinador?",
+    "opciones": [
+      "Informar al rector de la falta de registro y esperar a que él defina qué hacer",
+      "Pedir a cada docente que lleve el registro a su manera, sin un formato común",
+      "Dejar el registro para el final del periodo, cuando haya más información",
+      "Diseñar un formato y un procedimiento de seguimiento, proponerlos al rector y probarlos durante un periodo"
+    ],
+    "correcta": 3,
+    "retro": [
+      "Error: solo informa y no propone ni actúa.",
+      "Error: delega sin un formato y pierde la coherencia del registro.",
+      "Error: posterga una acción preventiva.",
+      "Correcto: propone una solución concreta y la pone a prueba."
+    ],
+    "explicacion": "La iniciativa lleva a proponer mejoras sin que se las pidan: diseñar un procedimiento, presentarlo y probarlo es más efectivo que reportar y esperar.",
+    "fuente": "Competencia: Iniciativa — Guía 31 MEN (competencias comportamentales)"
+  },
+  {
+    "id": "psicotecnica-29",
+    "tema": "psicotecnica",
+    "subtema": "Orientación al logro",
+    "dificultad": 1,
+    "tipo": "situacional",
+    "contexto": "Rector de una institución. La repitencia en grado sexto es alta y el consejo directivo quiere reducirla este año.",
+    "enunciado": "¿Cuál es la mejor decisión del rector?",
+    "opciones": [
+      "Definir metas medibles con indicadores, responsables y seguimiento periódico, y ajustar las estrategias según los resultados",
+      "Aumentar la exigencia en las evaluaciones para que los estudiantes se esfuercen más",
+      "Esperar al final del año para revisar cuántos estudiantes repitieron",
+      "Fijar la meta de reducción general sin indicadores ni responsables"
+    ],
+    "correcta": 0,
+    "retro": [
+      "Correcto: orienta la gestión hacia resultados medibles.",
+      "Error: aumenta la exigencia sin un análisis de causas, lo que puede empeorar la repitencia.",
+      "Error: espera al final del año sin seguimiento ni oportunidad de ajustar.",
+      "Error: una meta sin indicadores no se puede evaluar."
+    ],
+    "explicacion": "La orientación al logro exige metas claras, indicadores, responsables y seguimiento, para ajustar a tiempo las estrategias.",
+    "fuente": "Competencia: Orientación al logro — Guía 31 MEN (competencias comportamentales)"
+  },
+  {
+    "id": "psicotecnica-30",
+    "tema": "psicotecnica",
+    "subtema": "Orientación al logro",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": "Docente de tercero. Se propuso que el 80 % de sus estudiantes lea con fluidez a mitad de año, pero la última evaluación muestra que solo el 40 % lo logró.",
+    "enunciado": "¿Qué debe hacer el docente?",
+    "opciones": [
+      "Mantener el mismo plan, porque los resultados mejorarán con el tiempo",
+      "Analizar qué falló, ajustar las estrategias y definir acciones concretas para alcanzar la meta en el siguiente periodo",
+      "Bajar la meta para que el resultado final parezca cumplido",
+      "Atribuir los resultados a la falta de apoyo familiar y no cambiar nada en el aula"
+    ],
+    "correcta": 1,
+    "retro": [
+      "Error: no corrige lo que no ha funcionado.",
+      "Correcto: usa los resultados para ajustar y alcanzar la meta.",
+      "Error: reduce la exigencia para ocultar el resultado.",
+      "Error: culpa a factores externos y evita asumir su responsabilidad."
+    ],
+    "explicacion": "La orientación al logro implica comparar resultados con metas, identificar causas y ajustar las acciones, no justificar ni ocultar la brecha.",
+    "fuente": "Competencia: Orientación al logro — Guía 31 MEN (competencias comportamentales)"
+  },
+  {
+    "id": "psicotecnica-31",
+    "tema": "psicotecnica",
+    "subtema": "Orientación al logro",
+    "dificultad": 3,
+    "tipo": "situacional",
+    "contexto": "Docente de ciencias naturales. Quiere que sus estudiantes realicen experimentos, pero el laboratorio no tiene materiales suficientes.",
+    "enunciado": "¿Cuál es la mejor decisión del docente?",
+    "opciones": [
+      "Reducir las actividades prácticas hasta que se cuente con todos los materiales",
+      "Cumplir solo con lo mínimo del plan de estudios sin buscar más resultados",
+      "Priorizar las actividades, buscar alternativas de bajo costo con materiales del entorno y verificar los avances con indicadores",
+      "Pedir un presupuesto especial y esperar la respuesta antes de hacer los experimentos"
+    ],
+    "correcta": 2,
+    "retro": [
+      "Error: abandona la meta por la falta de recursos.",
+      "Error: se conforma con el mínimo.",
+      "Correcto: busca resultados a pesar de las limitaciones.",
+      "Error: espera sin buscar alternativas."
+    ],
+    "explicacion": "Quien se orienta al logro busca alcanzar sus metas con lo que tiene y verifica sus avances, sin esperar condiciones ideales.",
+    "fuente": "Competencia: Orientación al logro — Guía 31 MEN (competencias comportamentales)"
+  },
+  {
+    "id": "psicotecnica-32",
+    "tema": "psicotecnica",
+    "subtema": "Orientación al logro",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": "Coordinador de convivencia. Durante el primer periodo aumentaron los reportes por agresiones entre estudiantes.",
+    "enunciado": "¿Cuál es la mejor acción del coordinador?",
+    "opciones": [
+      "Aumentar las sanciones para que los estudiantes eviten las agresiones",
+      "Dejar de registrar los casos leves para que las cifras parezcan menores",
+      "Esperar a que el aumento se estabilice por sí solo con el paso del tiempo",
+      "Definir una meta de reducción, intervenir las causas con el comité de convivencia y evaluar los resultados cada periodo"
+    ],
+    "correcta": 3,
+    "retro": [
+      "Error: se centra en el castigo y no en las causas.",
+      "Error: oculta el problema y falsea las cifras.",
+      "Error: espera pasivamente sin buscar resultados.",
+      "Correcto: establece metas, interviene las causas y evalúa resultados."
+    ],
+    "explicacion": "La orientación al logro exige metas, intervención sobre las causas y evaluación periódica. Ocultar datos o esperar no mejora la convivencia.",
+    "fuente": "Competencia: Orientación al logro — Guía 31 MEN (competencias comportamentales)"
+  }
+]

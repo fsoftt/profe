@@ -1,0 +1,722 @@
+[
+  {
+    "id": "matematicas-01",
+    "tema": "matematicas",
+    "subtema": "Números reales: radicales",
+    "dificultad": 1,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "Al simplificar √50 se obtiene:",
+    "opciones": [
+      "25√2",
+      "5√2",
+      "10√5",
+      "2√25"
+    ],
+    "correcta": 1,
+    "retro": [
+      "Error: se sacó el 25 del radicando sin calcular su raíz; el factor que sale es √25 = 5, no 25.",
+      "Correcto: 50 = 25 · 2 y √25 = 5, por lo que √50 = 5√2.",
+      "Error: (10√5)² = 500, no 50; no corresponde a una factorización de 50.",
+      "Error: 2√25 = 2 · 5 = 10, que es distinto de √50 ≈ 7,07."
+    ],
+    "explicacion": "Para simplificar un radical se busca el mayor cuadrado perfecto que divide al radicando. Como 50 = 25 · 2, √50 = √25 · √2 = 5√2. Comprobación: (5√2)² = 25 · 2 = 50.",
+    "fuente": "Conocimiento disciplinar de matemáticas"
+  },
+  {
+    "id": "matematicas-02",
+    "tema": "matematicas",
+    "subtema": "Aritmética: divisibilidad",
+    "dificultad": 1,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "El máximo común divisor de 48 y 36 es:",
+    "opciones": [
+      "6",
+      "24",
+      "144",
+      "12"
+    ],
+    "correcta": 3,
+    "retro": [
+      "Error: 6 es un divisor común, pero no el mayor; 12 también divide a ambos.",
+      "Error: 24 divide a 48 pero no a 36 (36 ÷ 24 no es entero).",
+      "Error: 144 es el mínimo común múltiplo, no el máximo común divisor.",
+      "Correcto: 48 = 2⁴ · 3 y 36 = 2² · 3²; el MCD es 2² · 3 = 12."
+    ],
+    "explicacion": "Se descomponen ambos números en factores primos y se toman los comunes con el menor exponente. 48 = 2⁴ · 3 y 36 = 2² · 3², así que MCD = 2² · 3 = 12. Verificación: 48 ÷ 12 = 4 y 36 ÷ 12 = 3.",
+    "fuente": "Conocimiento disciplinar de matemáticas"
+  },
+  {
+    "id": "matematicas-03",
+    "tema": "matematicas",
+    "subtema": "Álgebra: ecuaciones lineales",
+    "dificultad": 1,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "La solución de la ecuación 3x − 7 = 11 es:",
+    "opciones": [
+      "x = 4/3",
+      "x = 18",
+      "x = 6",
+      "x = −6"
+    ],
+    "correcta": 2,
+    "retro": [
+      "Error: se restó 7 en lugar de sumarlo (11 − 7 = 4) y luego se dividió entre 3.",
+      "Error: 18 es el valor de 3x; falta dividir entre 3.",
+      "Correcto: 3x = 11 + 7 = 18, luego x = 6.",
+      "Error: es un error de signo; al sustituir, 3(−6) − 7 = −25, no 11."
+    ],
+    "explicacion": "Se aísla la incógnita con operaciones inversas. Sumando 7 en ambos lados: 3x = 18. Dividiendo entre 3: x = 6. Comprobación: 3 · 6 − 7 = 11.",
+    "fuente": "Conocimiento disciplinar de matemáticas"
+  },
+  {
+    "id": "matematicas-04",
+    "tema": "matematicas",
+    "subtema": "Funciones lineales",
+    "dificultad": 1,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "La recta que pasa por los puntos (1, 3) y (3, 7) tiene ecuación:",
+    "opciones": [
+      "y = 2x + 3",
+      "y = x + 2",
+      "y = 2x + 1",
+      "y = 3x"
+    ],
+    "correcta": 2,
+    "retro": [
+      "Error: tiene la pendiente correcta, pero en x = 1 da 5, no 3; el intercepto está mal.",
+      "Error: pasa por (1, 3), pero en x = 3 da 5, no 7; la pendiente no es 1.",
+      "Correcto: pendiente (7 − 3)/(3 − 1) = 2 y 3 = 2 · 1 + b da b = 1.",
+      "Error: pasa por (1, 3), pero en x = 3 da 9, no 7."
+    ],
+    "explicacion": "Primero se calcula la pendiente m = (7 − 3)/(3 − 1) = 2. Luego se halla el intercepto con un punto: 3 = 2 · 1 + b, así b = 1. Comprobación con el otro punto: 2 · 3 + 1 = 7.",
+    "fuente": "Conocimiento disciplinar de matemáticas"
+  },
+  {
+    "id": "matematicas-05",
+    "tema": "matematicas",
+    "subtema": "Probabilidad: eventos compuestos",
+    "dificultad": 1,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "Se lanza un dado equilibrado de seis caras. ¿Cuál es la probabilidad de obtener un número par o un número mayor que 4?",
+    "opciones": [
+      "5/6",
+      "2/3",
+      "1/2",
+      "1/3"
+    ],
+    "correcta": 1,
+    "retro": [
+      "Error: se suman 3/6 + 2/6 contando dos veces el 6, que es par y mayor que 4.",
+      "Correcto: el evento es {2, 4, 5, 6}, con 4 casos favorables de 6.",
+      "Error: 1/2 es solo la probabilidad de obtener par; se ignora el 5, que es mayor que 4.",
+      "Error: 1/3 es la probabilidad de mayor que 4 (5 o 6) solamente."
+    ],
+    "explicacion": "El evento «par o mayor que 4» incluye los resultados 2, 4, 5 y 6. Son 4 casos favorables de 6 posibles, así que P = 4/6 = 2/3. Con la fórmula: 3/6 + 2/6 − 1/6 = 4/6, restando el 6 que se contó dos veces.",
+    "fuente": "Conocimiento disciplinar de matemáticas"
+  },
+  {
+    "id": "matematicas-06",
+    "tema": "matematicas",
+    "subtema": "Funciones cuadráticas",
+    "dificultad": 2,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "El vértice de la parábola y = x² − 6x + 5 es:",
+    "opciones": [
+      "(3, −4)",
+      "(3, 4)",
+      "(−3, 32)",
+      "(6, 5)"
+    ],
+    "correcta": 0,
+    "retro": [
+      "Correcto: x = −b/2a = 3 y y = 9 − 18 + 5 = −4.",
+      "Error: la abscisa es correcta, pero y = 9 − 18 + 5 = −4, no 4; hay un error de signo.",
+      "Error: se tomó x = −3 (signo mal) y se evaluó, f(−3) = 32.",
+      "Error: (6, 5) es un punto de la parábola (f(6) = 5), no el vértice."
+    ],
+    "explicacion": "La abscisa del vértice es x = −b/(2a) = 6/2 = 3. Se evalúa: f(3) = 9 − 18 + 5 = −4. El vértice es (3, −4), el mínimo de la función porque a > 0.",
+    "fuente": "Conocimiento disciplinar de matemáticas"
+  },
+  {
+    "id": "matematicas-07",
+    "tema": "matematicas",
+    "subtema": "Funciones exponenciales",
+    "dificultad": 2,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "Un cultivo tiene 200 bacterias y su población se duplica cada 3 horas. Si el crecimiento es exponencial, ¿cuántas bacterias habrá a las 9 horas?",
+    "opciones": [
+      "800",
+      "3.200",
+      "1.600",
+      "600"
+    ],
+    "correcta": 2,
+    "retro": [
+      "Error: corresponde a un crecimiento lineal (+200 cada 3 h), no exponencial.",
+      "Error: se contaron 4 duplicaciones (200 · 2⁴); 9 h son 3 periodos de 3 h.",
+      "Correcto: en 9 h hay 3 duplicaciones, 200 · 2³ = 1.600.",
+      "Error: es 200 · 3, es decir, multiplicar por el número de periodos en vez de duplicar en cada uno."
+    ],
+    "explicacion": "En 9 horas transcurren 9 ÷ 3 = 3 periodos de duplicación. La población es P = 200 · 2³ = 200 · 8 = 1.600. Un modelo lineal daría 200 + 3 · 200 = 800, lo que muestra la diferencia entre crecimiento lineal y exponencial.",
+    "fuente": "Conocimiento disciplinar de matemáticas"
+  },
+  {
+    "id": "matematicas-08",
+    "tema": "matematicas",
+    "subtema": "Trigonometría",
+    "dificultad": 2,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "En un triángulo rectángulo la hipotenusa mide 10 cm y uno de los ángulos agudos mide 30°. ¿Cuánto mide el cateto opuesto a ese ángulo?",
+    "opciones": [
+      "5√3 cm",
+      "10 cm",
+      "20 cm",
+      "5 cm"
+    ],
+    "correcta": 3,
+    "retro": [
+      "Error: 5√3 ≈ 8,66 cm es el cateto adyacente (10 · cos 30°), no el opuesto.",
+      "Error: se asumió que el seno es 1; sen 30° = 1/2, no 1.",
+      "Error: un cateto no puede medir más que la hipotenusa.",
+      "Correcto: sen 30° = 1/2, así que cateto opuesto = 10 · 1/2 = 5 cm."
+    ],
+    "explicacion": "El seno de un ángulo agudo es cateto opuesto sobre hipotenusa. Como sen 30° = 1/2, el cateto opuesto mide 10 · 1/2 = 5 cm. Comprobación: el otro cateto es 5√3 y 5² + (5√3)² = 25 + 75 = 100.",
+    "fuente": "Conocimiento disciplinar de matemáticas"
+  },
+  {
+    "id": "matematicas-09",
+    "tema": "matematicas",
+    "subtema": "Estadística descriptiva",
+    "dificultad": 2,
+    "tipo": "conocimiento",
+    "contexto": "Puntajes de cinco estudiantes en una prueba: 3, 5, 5, 7, 10.",
+    "enunciado": "Con los datos del contexto, ¿cuál afirmación sobre las medidas de tendencia central es correcta?",
+    "opciones": [
+      "La media es 5, la mediana es 6 y la moda es 5.",
+      "La media es 6, la mediana es 7 y la moda es 5.",
+      "La media es 6, la mediana es 5 y la moda es 5.",
+      "La media es 7, la mediana es 5 y la moda es 10."
+    ],
+    "correcta": 2,
+    "retro": [
+      "Error: se intercambiaron media y mediana; la suma 30 ÷ 5 da media 6.",
+      "Error: la mediana es el dato central (el tercero), 5, no 7.",
+      "Correcto: 30 ÷ 5 = 6; el dato central ordenado es 5; el 5 es el más frecuente.",
+      "Error: la media es 30 ÷ 5 = 6 y la moda es el dato más repetido (5), no el mayor."
+    ],
+    "explicacion": "Media: (3 + 5 + 5 + 7 + 10) ÷ 5 = 30 ÷ 5 = 6. Mediana: con los datos ordenados, el tercero es 5. Moda: el 5 aparece dos veces, más que cualquier otro valor.",
+    "fuente": "Conocimiento disciplinar de matemáticas"
+  },
+  {
+    "id": "matematicas-10",
+    "tema": "matematicas",
+    "subtema": "Introducción al cálculo: derivadas",
+    "dificultad": 2,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "Si f(x) = x³ − 3x, entonces f′(2) es:",
+    "opciones": [
+      "2",
+      "12",
+      "6",
+      "9"
+    ],
+    "correcta": 3,
+    "retro": [
+      "Error: es f(2) = 8 − 6 = 2, el valor de la función y no el de su derivada.",
+      "Error: se derivó solo x³ (3x²) y se olvidó que −3x aporta −3.",
+      "Error: se calculó 3 · 2 sin elevar al cuadrado ni restar el término lineal.",
+      "Correcto: f′(x) = 3x² − 3, luego f′(2) = 12 − 3 = 9."
+    ],
+    "explicacion": "Se deriva término a término: f′(x) = 3x² − 3. Se evalúa en 2: f′(2) = 3 · 4 − 3 = 12 − 3 = 9. Es la pendiente de la recta tangente en x = 2.",
+    "fuente": "Conocimiento disciplinar de matemáticas"
+  },
+  {
+    "id": "matematicas-11",
+    "tema": "matematicas",
+    "subtema": "Introducción al cálculo: límites",
+    "dificultad": 2,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "El valor de lim (x→3) (x² − 9)/(x − 3) es:",
+    "opciones": [
+      "6",
+      "0",
+      "3",
+      "No existe"
+    ],
+    "correcta": 0,
+    "retro": [
+      "Correcto: (x² − 9)/(x − 3) = x + 3 para x ≠ 3, y el límite es 6.",
+      "Error: el numerador tiende a 0, pero el denominador también; la forma 0/0 no es 0 y hay que factorizar.",
+      "Error: se simplificó mal, quedándose con x en lugar de x + 3.",
+      "Error: aunque la función no está definida en 3, el límite existe y vale 6."
+    ],
+    "explicacion": "Al sustituir aparece la forma indeterminada 0/0. Se factoriza x² − 9 = (x − 3)(x + 3) y se simplifica: la expresión equivale a x + 3 para x ≠ 3. Por tanto, el límite es 3 + 3 = 6.",
+    "fuente": "Conocimiento disciplinar de matemáticas"
+  },
+  {
+    "id": "matematicas-12",
+    "tema": "matematicas",
+    "subtema": "Geometría: circunferencia y círculo",
+    "dificultad": 2,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "Una circunferencia tiene longitud 10π cm. ¿Cuál es el área del círculo que limita?",
+    "opciones": [
+      "100π cm²",
+      "10π cm²",
+      "50π cm²",
+      "25π cm²"
+    ],
+    "correcta": 3,
+    "retro": [
+      "Error: se tomó 10 como radio (A = π · 10²), pero 10 es el diámetro.",
+      "Error: 10π es la longitud de la circunferencia, no el área.",
+      "Error: se calculó π · 5 · 10, mezclando fórmulas; el área es πr².",
+      "Correcto: 2πr = 10π da r = 5 y A = π · 5² = 25π."
+    ],
+    "explicacion": "De L = 2πr = 10π se obtiene r = 5 cm. El área es A = πr² = π · 25 = 25π cm². Nótese que longitud (cm) y área (cm²) son magnitudes distintas.",
+    "fuente": "Conocimiento disciplinar de matemáticas"
+  },
+  {
+    "id": "matematicas-13",
+    "tema": "matematicas",
+    "subtema": "Sucesiones y series",
+    "dificultad": 3,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "En una progresión aritmética con primer término 3 y razón 4, ¿cuánto suman los primeros 10 términos?",
+    "opciones": [
+      "210",
+      "39",
+      "420",
+      "390"
+    ],
+    "correcta": 0,
+    "retro": [
+      "Correcto: a₁₀ = 3 + 9 · 4 = 39 y S = 10 · (3 + 39)/2 = 210.",
+      "Error: 39 es el décimo término, no la suma de los diez primeros.",
+      "Error: se olvidó dividir entre 2 en la fórmula S = n(a₁ + aₙ)/2.",
+      "Error: se multiplicó n por aₙ (10 · 39), lo que no es la suma de una progresión aritmética."
+    ],
+    "explicacion": "El décimo término es a₁₀ = 3 + (10 − 1) · 4 = 39. La suma es S = n(a₁ + a₁₀)/2 = 10 · 42/2 = 210. Comprobación: 3 + 7 + 11 + 15 + 19 + 23 + 27 + 31 + 35 + 39 = 210.",
+    "fuente": "Conocimiento disciplinar de matemáticas"
+  },
+  {
+    "id": "matematicas-14",
+    "tema": "matematicas",
+    "subtema": "Probabilidad condicional",
+    "dificultad": 3,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "Una urna tiene 5 bolas rojas y 3 azules. Se extraen dos bolas sin reemplazo. ¿Cuál es la probabilidad de que ambas sean rojas?",
+    "opciones": [
+      "5/14",
+      "25/64",
+      "5/8",
+      "4/7"
+    ],
+    "correcta": 0,
+    "retro": [
+      "Correcto: (5/8) · (4/7) = 20/56 = 5/14.",
+      "Error: 25/64 = (5/8)² corresponde a extracción con reemplazo.",
+      "Error: 5/8 es solo la probabilidad de que la primera sea roja.",
+      "Error: 4/7 es la probabilidad de que la segunda sea roja dado que la primera lo fue; falta multiplicar por 5/8."
+    ],
+    "explicacion": "Sin reemplazo, el segundo evento depende del primero. P(R₁) = 5/8 y P(R₂ | R₁) = 4/7. Se multiplica: 5/8 · 4/7 = 20/56 = 5/14.",
+    "fuente": "Conocimiento disciplinar de matemáticas"
+  },
+  {
+    "id": "matematicas-15",
+    "tema": "matematicas",
+    "subtema": "Geometría analítica",
+    "dificultad": 3,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "La recta perpendicular a y = 2x + 1 que pasa por el punto (4, 1) tiene ecuación:",
+    "opciones": [
+      "y = −x/2 + 3",
+      "y = −2x + 9",
+      "y = x/2 − 1",
+      "y = 2x − 7"
+    ],
+    "correcta": 0,
+    "retro": [
+      "Correcto: pendiente −1/2 y 1 = −(1/2) · 4 + b da b = 3.",
+      "Error: pasa por (4, 1), pero su pendiente −2 es la opuesta, no la recíproca negativa (−1/2).",
+      "Error: pasa por (4, 1), pero su pendiente 1/2 es la recíproca sin cambiar el signo.",
+      "Error: pasa por (4, 1), pero es paralela a la recta dada (misma pendiente 2)."
+    ],
+    "explicacion": "Dos rectas son perpendiculares si el producto de sus pendientes es −1; luego m = −1/2. Con el punto: 1 = −1/2 · 4 + b, así b = 3. Comprobación: y(4) = −2 + 3 = 1.",
+    "fuente": "Conocimiento disciplinar de matemáticas"
+  },
+  {
+    "id": "matematicas-16",
+    "tema": "matematicas",
+    "subtema": "Pensamientos matemáticos",
+    "dificultad": 1,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "Los Estándares Básicos de Competencias en Matemáticas organizan el currículo en cinco tipos de pensamiento. ¿Cuál lista es la correcta?",
+    "opciones": [
+      "Numérico, espacial, métrico, lógico y variacional",
+      "Aritmético, geométrico, algebraico, trigonométrico y estadístico",
+      "Numérico, espacial, métrico, aleatorio y variacional",
+      "Numérico, geométrico, estadístico, analítico y deductivo"
+    ],
+    "correcta": 2,
+    "retro": [
+      "Error: el quinto no es «lógico»; el pensamiento aleatorio y sistemas de datos aborda la estadística y la probabilidad.",
+      "Error: esta lista corresponde a ramas disciplinares tradicionales, no a los pensamientos de los Estándares.",
+      "Correcto: son los cinco pensamientos (con sus sistemas asociados) de los Estándares.",
+      "Error: mezcla nombres de ramas disciplinares; los pensamientos son numérico, espacial, métrico, aleatorio y variacional."
+    ],
+    "explicacion": "Los Estándares agrupan los contenidos en pensamiento numérico y sistemas numéricos, espacial y sistemas geométricos, métrico y sistemas de medidas, aleatorio y sistemas de datos, y variacional y sistemas algebraicos y analíticos. Se trabajan articulados con los procesos generales.",
+    "fuente": "Estándares Básicos de Competencias en Matemáticas (MEN, 2006)"
+  },
+  {
+    "id": "matematicas-17",
+    "tema": "matematicas",
+    "subtema": "Procesos generales",
+    "dificultad": 2,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "Entre las siguientes opciones, ¿cuál NO es uno de los cinco procesos generales de la actividad matemática en los Lineamientos Curriculares y los Estándares?",
+    "opciones": [
+      "Modelar procesos y fenómenos de la realidad",
+      "Comunicar",
+      "Memorizar algoritmos y fórmulas",
+      "Razonar"
+    ],
+    "correcta": 2,
+    "retro": [
+      "Error: modelar sí es un proceso general.",
+      "Error: comunicar sí es un proceso general.",
+      "Correcto: memorizar no figura entre los procesos generales; el quinto es formular, comparar y ejercitar procedimientos.",
+      "Error: razonar sí es un proceso general."
+    ],
+    "explicacion": "Los cinco procesos son formular y resolver problemas; modelar procesos y fenómenos de la realidad; comunicar; razonar; y formular, comparar y ejercitar procedimientos. La memorización mecánica no es un proceso general, y ejercitar procedimientos implica comprenderlos y compararlos.",
+    "fuente": "Lineamientos Curriculares de Matemáticas (MEN, 1998)"
+  },
+  {
+    "id": "matematicas-18",
+    "tema": "matematicas",
+    "subtema": "Modelo de van Hiele",
+    "dificultad": 2,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "Según el modelo de van Hiele, un estudiante que reconoce un rectángulo por su apariencia global, sin mencionar sus propiedades, se encuentra en el nivel de:",
+    "opciones": [
+      "Análisis",
+      "Visualización o reconocimiento",
+      "Deducción informal u ordenación",
+      "Deducción formal"
+    ],
+    "correcta": 1,
+    "retro": [
+      "Error: en el análisis el estudiante ya describe las propiedades de las figuras.",
+      "Correcto: identifica las figuras por su forma como un todo.",
+      "Error: en este nivel se relacionan propiedades y se clasifica de forma lógica.",
+      "Error: es el nivel de demostraciones y sistemas axiomáticos, mucho más avanzado."
+    ],
+    "explicacion": "El modelo de van Hiele describe niveles de razonamiento geométrico: visualización, análisis, deducción informal, deducción formal y rigor. Al inicio las figuras se perciben como un todo. Avanzar requiere experiencias didácticas adecuadas, no solo la edad.",
+    "fuente": "Modelo de van Hiele (didáctica de la geometría)"
+  },
+  {
+    "id": "matematicas-19",
+    "tema": "matematicas",
+    "subtema": "Resolución de problemas (Pólya)",
+    "dificultad": 1,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "En el método de Pólya para resolver problemas, la primera fase es:",
+    "opciones": [
+      "Concebir un plan",
+      "Ejecutar el plan",
+      "Examinar la solución obtenida",
+      "Comprender el problema"
+    ],
+    "correcta": 3,
+    "retro": [
+      "Error: concebir un plan es la segunda fase.",
+      "Error: ejecutar el plan es la tercera fase.",
+      "Error: examinar la solución es la cuarta y última fase.",
+      "Correcto: antes de actuar se identifican datos, incógnita y condiciones."
+    ],
+    "explicacion": "Pólya propone cuatro fases: comprender el problema, concebir un plan, ejecutar el plan y examinar la solución obtenida. Los Lineamientos Curriculares retoman la resolución de problemas como proceso central.",
+    "fuente": "Pólya, Cómo plantear y resolver problemas"
+  },
+  {
+    "id": "matematicas-20",
+    "tema": "matematicas",
+    "subtema": "Errores típicos: productos notables",
+    "dificultad": 1,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "En clase de octavo, un estudiante escribe (a + b)² = a² + b². ¿Cuál es la mejor acción didáctica del docente?",
+    "opciones": [
+      "Pedirle que pruebe con valores concretos (a = 2, b = 3) y que represente el cuadrado de lado a + b con áreas para descubrir el término 2ab.",
+      "Corregir en el tablero y pedirle que memorice la fórmula del binomio al cuadrado.",
+      "Proponer veinte ejercicios iguales para que la práctica repetida corrija el error.",
+      "Indicar que es un descuido y continuar con el tema para no perder tiempo de clase."
+    ],
+    "correcta": 0,
+    "retro": [
+      "Correcto: la contrastación numérica y el modelo de áreas generan conflicto cognitivo y dan sentido al resultado.",
+      "Insuficiente: la memorización no ataca la sobregeneralización de la linealidad y el error suele reaparecer.",
+      "Insuficiente: practicar sin comprender puede consolidar el mismo error.",
+      "Inadecuado: es un error conceptual frecuente, no un simple descuido; ignorarlo deja el obstáculo."
+    ],
+    "explicacion": "Con a = 2 y b = 3, (a + b)² = 25, mientras que a² + b² = 13; el contraejemplo lo evidencia. El cuadrado de lado a + b se descompone en a², b² y dos rectángulos ab. Así se favorecen el razonamiento y la comunicación.",
+    "fuente": "Estándares Básicos de Competencias en Matemáticas (MEN, 2006)"
+  },
+  {
+    "id": "matematicas-21",
+    "tema": "matematicas",
+    "subtema": "Fracciones: comparación",
+    "dificultad": 1,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "Un estudiante de sexto afirma que 1/3 es mayor que 1/2 «porque 3 es mayor que 2». ¿Qué acción es más adecuada?",
+    "opciones": [
+      "Darle la regla «a mayor denominador, menor fracción» sin más explicación.",
+      "Pedirle que convierta a decimales con calculadora y pasar al siguiente ejercicio.",
+      "Esperar a que descubra el error en la evaluación.",
+      "Usar tiras o círculos de fracciones y la recta numérica para comparar ambas fracciones y discutir qué representa el denominador."
+    ],
+    "correcta": 3,
+    "retro": [
+      "Insuficiente: la regla no se comprende y, además, solo es válida con el mismo numerador (compárense 1/3 y 2/5).",
+      "Insuficiente: no se trabaja el significado de la fracción como parte-todo.",
+      "Inadecuado: se deja el error sin retroalimentación y se pierde la oportunidad formativa.",
+      "Correcto: el material concreto y la recta numérica dan significado a la fracción y cuestionan el razonamiento con números naturales."
+    ],
+    "explicacion": "El error surge de aplicar a las fracciones el razonamiento de los números naturales. Representar 1/2 y 1/3 con tiras iguales muestra que al dividir en más partes cada una es menor. Esto desarrolla el pensamiento numérico y la comunicación.",
+    "fuente": "Estándares Básicos de Competencias en Matemáticas (MEN, 2006)"
+  },
+  {
+    "id": "matematicas-22",
+    "tema": "matematicas",
+    "subtema": "Geometría con tecnología",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "Un docente de octavo quiere que sus estudiantes comprendan el teorema de Pitágoras. ¿Cuál estrategia favorece mejor la comprensión y el razonamiento?",
+    "opciones": [
+      "Presentar la fórmula a² + b² = c² y proponer ejercicios de sustitución.",
+      "Usar GeoGebra para que construyan triángulos rectángulos, midan las áreas de los cuadrados sobre los lados, formulen conjeturas y luego formalizar y demostrar.",
+      "Mostrar la demostración formal y evaluar con un taller de ejercicios.",
+      "Pedir que busquen la fórmula en internet y la apliquen en problemas."
+    ],
+    "correcta": 1,
+    "retro": [
+      "Insuficiente: se aplica una fórmula sin comprender de dónde viene.",
+      "Correcto: la exploración dinámica permite conjeturar y luego justificar, integrando razonamiento y tecnología.",
+      "Insuficiente: una demostración presentada de entrada suele ser recibida de forma pasiva.",
+      "Insuficiente: se delega la comprensión y se reduce a aplicar una fórmula."
+    ],
+    "explicacion": "Los Estándares promueven el uso de tecnología en la exploración y la formulación de conjeturas. Arrastrando los vértices en GeoGebra, los estudiantes ven que la suma de las áreas de los cuadrados de los catetos iguala la del cuadrado de la hipotenusa. Luego se formaliza.",
+    "fuente": "Estándares Básicos de Competencias en Matemáticas (MEN, 2006)"
+  },
+  {
+    "id": "matematicas-23",
+    "tema": "matematicas",
+    "subtema": "Resolución de problemas",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "Los estudiantes de noveno resuelven bien ejercicios rutinarios, pero no logran abordar problemas nuevos. ¿Qué decisión es más coherente con los Lineamientos Curriculares?",
+    "opciones": [
+      "Aumentar los ejercicios rutinarios hasta que automaticen todos los procedimientos.",
+      "Plantear situaciones problema abiertas y enseñar heurísticas (comprender, planear, ejecutar, revisar), con espacios para discutir estrategias.",
+      "Enseñar primero todos los algoritmos y dejar los problemas para el final del año.",
+      "Entregar la solución modelo de cada problema para que la copien y estudien."
+    ],
+    "correcta": 1,
+    "retro": [
+      "Error: más práctica rutinaria no desarrolla la capacidad de abordar situaciones nuevas.",
+      "Correcto: la resolución de problemas se aprende resolviendo problemas con apoyo en heurísticas y reflexión.",
+      "Error: separa procedimientos y problemas; los Lineamientos los integran desde el inicio.",
+      "Error: copiar soluciones no desarrolla el razonamiento ni la autonomía."
+    ],
+    "explicacion": "Los Lineamientos Curriculares de 1998 ubican la resolución de problemas como eje de la actividad matemática. Las fases de Pólya ofrecen un andamiaje, y discutir las estrategias de los compañeros enriquece el repertorio de heurísticas.",
+    "fuente": "Lineamientos Curriculares de Matemáticas (MEN, 1998)"
+  },
+  {
+    "id": "matematicas-24",
+    "tema": "matematicas",
+    "subtema": "Errores típicos: jerarquía de operaciones",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "Al calcular −3² un estudiante responde 9. ¿Qué acción es la más adecuada?",
+    "opciones": [
+      "Hacerle comparar (−3)² y −3² con una tabla y con la calculadora, y discutir el papel de los paréntesis y la jerarquía de operaciones.",
+      "Indicarle que su respuesta es correcta porque el cuadrado de un negativo siempre es positivo.",
+      "Prohibir la calculadora en clase para que haga todo mentalmente.",
+      "Pedirle que escriba siempre todo entre paréntesis y no estudiar más el tema."
+    ],
+    "correcta": 0,
+    "retro": [
+      "Correcto: el contraste entre ambas expresiones muestra que el exponente solo afecta al 3 y por eso −3² = −9.",
+      "Error: −3² = −(3²) = −9; el cuadrado es positivo solo para (−3)².",
+      "Inadecuado: la calculadora puede servir para contrastar y no resuelve el error conceptual.",
+      "Insuficiente: evita el problema de fondo sin comprender la jerarquía."
+    ],
+    "explicacion": "Sin paréntesis, la potencia se evalúa antes que el signo menos: −3² = −(3 · 3) = −9. En cambio, (−3)² = 9. Comparar ambos casos hace explícita la convención y evita errores de signo.",
+    "fuente": "Conocimiento disciplinar de matemáticas"
+  },
+  {
+    "id": "matematicas-25",
+    "tema": "matematicas",
+    "subtema": "Probabilidad: concepciones erróneas",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "Después de ver cinco caras seguidas al lanzar una moneda justa, varios estudiantes de décimo creen que «ahora es más probable que salga sello». ¿Qué acción es más adecuada?",
+    "opciones": [
+      "Explicar que tienen razón, pues a la larga los resultados deben compensarse.",
+      "Hacer que simulen muchos lanzamientos (con monedas o software), registren frecuencias y analicen la independencia de los lanzamientos.",
+      "Omitir el tema, porque la probabilidad es muy abstracta para esa edad.",
+      "Dar la definición clásica de probabilidad y pedir que la memoricen."
+    ],
+    "correcta": 1,
+    "retro": [
+      "Error: los lanzamientos son independientes; la probabilidad de sello sigue siendo 1/2.",
+      "Correcto: la experimentación y la simulación permiten confrontar la falacia del jugador con datos.",
+      "Inadecuado: el pensamiento aleatorio forma parte del currículo y estas ideas se corrigen con experiencia.",
+      "Insuficiente: la definición no cuestiona la creencia de los estudiantes."
+    ],
+    "explicacion": "Esta idea se conoce como falacia del jugador. En una moneda justa los lanzamientos son independientes y P(sello) = 1/2 en cada uno. La simulación con muchos ensayos y el análisis de frecuencias relativas favorece el pensamiento aleatorio.",
+    "fuente": "Estándares Básicos de Competencias en Matemáticas (MEN, 2006)"
+  },
+  {
+    "id": "matematicas-26",
+    "tema": "matematicas",
+    "subtema": "División por cero",
+    "dificultad": 3,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "Una estudiante de octavo pregunta por qué no se puede dividir entre cero. ¿Cuál respuesta es más rigurosa y adecuada para el nivel?",
+    "opciones": [
+      "Porque el resultado es infinito, así que no se puede escribir.",
+      "Si 6 ÷ 0 = x, entonces 0 · x = 6, y ningún número lo cumple; y 0 ÷ 0 sería indeterminado porque cualquier número cumpliría 0 · x = 0.",
+      "Porque es una regla que los matemáticos decidieron por convención, sin una razón de fondo.",
+      "Porque la calculadora muestra error, lo que demuestra que no existe."
+    ],
+    "correcta": 1,
+    "retro": [
+      "Error: no es correcto decir que el resultado es infinito; no existe ningún número real que sea cociente.",
+      "Correcto: relaciona la división con su operación inversa, la multiplicación, y justifica los dos casos.",
+      "Error: no es arbitraria; se sigue de la definición de división como inversa de la multiplicación.",
+      "Error: la calculadora es una herramienta, no una prueba matemática."
+    ],
+    "explicacion": "La división a ÷ b se define como el número c tal que b · c = a. Para b = 0 y a ≠ 0 no hay ningún c; para a = 0, todo c sirve y no hay un valor único. Esta explicación apoya el razonamiento y la comunicación.",
+    "fuente": "Conocimiento disciplinar de matemáticas"
+  },
+  {
+    "id": "matematicas-27",
+    "tema": "matematicas",
+    "subtema": "Evaluación formativa",
+    "dificultad": 3,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "Una estudiante resuelve correctamente un problema de proporcionalidad, pero al explicar su procedimiento se nota que usó una relación aditiva incorrecta que coincidió con la respuesta. ¿Qué debe hacer el docente?",
+    "opciones": [
+      "Dar la respuesta por correcta, pues el resultado final es lo que se evalúa.",
+      "Calificarla como incorrecta sin más comentarios.",
+      "Pedirle que justifique y que pruebe su método con otros valores para que ella misma detecte la falla, reconociendo lo logrado.",
+      "Mostrar el procedimiento correcto a todo el grupo sin referirse a su trabajo."
+    ],
+    "correcta": 2,
+    "retro": [
+      "Error: ignorar el procedimiento deja intacto un razonamiento incorrecto que fallará en otros casos.",
+      "Inadecuado: no hay retroalimentación que permita aprender del error.",
+      "Correcto: la evaluación formativa atiende al razonamiento y promueve la autorregulación.",
+      "Insuficiente: no aborda el error específico de la estudiante ni la hace participar en la corrección."
+    ],
+    "explicacion": "Evaluar solo el resultado oculta errores de razonamiento. Al probar su método con otros números, la estudiante verifica que el razonamiento aditivo no se generaliza a una relación proporcional. Esto desarrolla los procesos de razonar y comunicar.",
+    "fuente": "Estándares Básicos de Competencias en Matemáticas (MEN, 2006)"
+  },
+  {
+    "id": "matematicas-28",
+    "tema": "matematicas",
+    "subtema": "Clasificación de cuadriláteros",
+    "dificultad": 3,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "Al trabajar cuadriláteros, estudiantes de séptimo sostienen que «un cuadrado no es un rectángulo» porque «se ven diferentes». ¿Qué estrategia ayuda a avanzar al siguiente nivel de razonamiento geométrico (van Hiele)?",
+    "opciones": [
+      "Dar la definición «el cuadrado es un rectángulo» y pedir que la memoricen.",
+      "Pasar a demostraciones formales de congruencia de triángulos.",
+      "Mostrar más dibujos prototípicos de cada figura para que las reconozcan por su apariencia.",
+      "Actividades en las que, con GeoGebra o papel, identifiquen propiedades (lados, ángulos, diagonales) y clasifiquen figuras según ellas, deformando los dibujos para ver qué se conserva."
+    ],
+    "correcta": 3,
+    "retro": [
+      "Insuficiente: memorizar una definición no cambia el criterio visual.",
+      "Error: es un salto de nivel que supera su razonamiento actual.",
+      "Error: refuerza justo el criterio visual que se busca superar.",
+      "Correcto: centra la atención en las propiedades y no en la apariencia, que caracteriza el nivel de análisis."
+    ],
+    "explicacion": "Los estudiantes razonan en el nivel de visualización. Para pasar al análisis deben explorar propiedades, por ejemplo, que un cuadrado cumple todas las propiedades de un rectángulo (cuatro ángulos rectos, lados opuestos iguales). El arrastre en un software de geometría dinámica lo hace visible.",
+    "fuente": "Modelo de van Hiele; Estándares Básicos de Competencias en Matemáticas (MEN, 2006)"
+  },
+  {
+    "id": "matematicas-29",
+    "tema": "matematicas",
+    "subtema": "Magnitudes: perímetro y área",
+    "dificultad": 3,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "Un grupo de sexto afirma que la figura de mayor perímetro siempre tiene mayor área. ¿Qué acción promueve mejor el pensamiento métrico?",
+    "opciones": [
+      "Hacerles construir con geoplano o papel cuadriculado figuras de igual área y distinto perímetro (y viceversa) y compararlas.",
+      "Entregar las fórmulas de área y perímetro de cada figura para que las apliquen.",
+      "Decirles que están equivocados y mostrar un ejemplo resuelto en el tablero.",
+      "Evitar tratar ambas magnitudes en la misma clase para no confundirlas."
+    ],
+    "correcta": 0,
+    "retro": [
+      "Correcto: la construcción y la comparación generan contraejemplos propios.",
+      "Insuficiente: aplicar fórmulas no produce comprensión de que son magnitudes distintas.",
+      "Insuficiente: un ejemplo del docente es menos significativo que construirlo.",
+      "Error: separarlas evita el conflicto cognitivo necesario para diferenciarlas."
+    ],
+    "explicacion": "Perímetro y área son magnitudes diferentes. Un rectángulo de 1 × 8 tiene perímetro 18 y área 8; uno de 3 × 4 tiene perímetro 14 y área 12. Manipular material concreto permite descubrir estas relaciones.",
+    "fuente": "Estándares Básicos de Competencias en Matemáticas (MEN, 2006)"
+  },
+  {
+    "id": "matematicas-30",
+    "tema": "matematicas",
+    "subtema": "Estadística: medidas de tendencia central",
+    "dificultad": 3,
+    "tipo": "situacional",
+    "contexto": "Salarios mensuales (millones de pesos) de 7 empleados de una pequeña empresa: 1,2; 1,2; 1,3; 1,4; 1,5; 1,6; 9,0.",
+    "enunciado": "En una clase de estadística de décimo, los estudiantes calculan la media (≈ 2,46 millones) y afirman que «ese es el salario típico». ¿Qué acción es más adecuada?",
+    "opciones": [
+      "Aceptar la conclusión porque la media es la medida más usada y precisa.",
+      "Pedirles que calculen también la mediana (1,4) y analicen cómo el valor 9,0 afecta cada medida, para decidir cuál representa mejor el salario típico.",
+      "Eliminar el dato 9,0 sin discusión, por considerarlo un error de digitación.",
+      "Pedir que usen solo la moda, porque es la única que no se afecta."
+    ],
+    "correcta": 1,
+    "retro": [
+      "Error: la media se deforma por el valor extremo y supera a seis de los siete salarios.",
+      "Correcto: la comparación evidencia que la media es sensible a valores extremos y que la mediana resume mejor aquí.",
+      "Error: no hay evidencia de que sea un error; descartar datos sin criterio sesga el análisis.",
+      "Insuficiente: la moda (1,2) ignora la mayoría de la información y también puede no ser representativa."
+    ],
+    "explicacion": "La suma es 17,2, así que la media es 17,2 ÷ 7 ≈ 2,46. La mediana (dato central) es 1,4. Un valor extremo mueve la media pero no la mediana, y comprenderlo es parte del pensamiento aleatorio.",
+    "fuente": "Estándares Básicos de Competencias en Matemáticas (MEN, 2006)"
+  }
+]

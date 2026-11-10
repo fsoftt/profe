@@ -1,0 +1,506 @@
+[
+ {
+  "id": "cuantitativo-01",
+  "tema": "cuantitativo",
+  "subtema": "Porcentajes",
+  "dificultad": 1,
+  "tipo": "conocimiento",
+  "contexto": null,
+  "enunciado": "Un colegio tiene 800 estudiantes y el 35 % cursa primaria. ¿Cuántos estudiantes hay en primaria?",
+  "opciones": [
+   "350",
+   "28",
+   "280",
+   "520"
+  ],
+  "correcta": 2,
+  "explicacion": "Se calcula el 35 % de 800: 800 × 35 / 100 = 800 × 0,35 = 280. Los 520 estudiantes restantes (65 %) no están en primaria; 350 resulta de confundir el porcentaje con la cantidad.",
+  "fuente": "Ejercicio original"
+ },
+ {
+  "id": "cuantitativo-02",
+  "tema": "cuantitativo",
+  "subtema": "Porcentajes",
+  "dificultad": 2,
+  "tipo": "conocimiento",
+  "contexto": null,
+  "enunciado": "Un libro de texto cuesta $40.000 y la librería ofrece un descuento del 15 %. ¿Cuánto se paga por el libro?",
+  "opciones": [
+   "$34.000",
+   "$25.000",
+   "$6.000",
+   "$46.000"
+  ],
+  "correcta": 0,
+  "explicacion": "El descuento es 40.000 × 0,15 = $6.000. El precio final es 40.000 − 6.000 = $34.000. Equivale a pagar el 85 % del precio: 40.000 × 0,85 = 34.000. Los $6.000 son solo el descuento; $25.000 resulta de restar 15.000 por error.",
+  "fuente": "Ejercicio original"
+ },
+ {
+  "id": "cuantitativo-03",
+  "tema": "cuantitativo",
+  "subtema": "Porcentajes",
+  "dificultad": 3,
+  "tipo": "conocimiento",
+  "contexto": null,
+  "enunciado": "Un colegio tenía 500 estudiantes en 2024. En 2025 aumentó un 20 % y en 2026 disminuyó un 20 % respecto a 2025. ¿Cuántos estudiantes tiene en 2026?",
+  "opciones": [
+   "500",
+   "520",
+   "400",
+   "480"
+  ],
+  "correcta": 3,
+  "explicacion": "En 2025: 500 × 1,20 = 600. En 2026: 600 × 0,80 = 480. Los porcentajes no se compensan porque el 20 % de la disminución se aplica sobre una base mayor (600) que la del aumento (500).",
+  "fuente": "Ejercicio original"
+ },
+ {
+  "id": "cuantitativo-04",
+  "tema": "cuantitativo",
+  "subtema": "Proporciones y regla de tres",
+  "dificultad": 1,
+  "tipo": "conocimiento",
+  "contexto": null,
+  "enunciado": "Tres cuadernos cuestan $12.000. Si todos tienen el mismo precio, ¿cuánto cuestan 8 cuadernos?",
+  "opciones": [
+   "$36.000",
+   "$32.000",
+   "$24.000",
+   "$28.000"
+  ],
+  "correcta": 1,
+  "explicacion": "Cada cuaderno cuesta 12.000 / 3 = $4.000. Entonces 8 cuadernos cuestan 8 × 4.000 = $32.000. Es una proporción directa: a más cuadernos, mayor costo.",
+  "fuente": "Ejercicio original"
+ },
+ {
+  "id": "cuantitativo-05",
+  "tema": "cuantitativo",
+  "subtema": "Proporciones y regla de tres",
+  "dificultad": 2,
+  "tipo": "conocimiento",
+  "contexto": null,
+  "enunciado": "Un docente corrige 12 talleres en 40 minutos. Al mismo ritmo, ¿cuántos minutos tardará en corregir 30 talleres?",
+  "opciones": [
+   "58 minutos",
+   "160 minutos",
+   "100 minutos",
+   "80 minutos"
+  ],
+  "correcta": 2,
+  "explicacion": "Regla de tres directa: 12 talleres ---- 40 min; 30 talleres ---- x. Entonces x = 30 × 40 / 12 = 1.200 / 12 = 100 minutos. Cada taller toma 40/12 ≈ 3,33 minutos, y 30 × 3,33 = 100.",
+  "fuente": "Ejercicio original"
+ },
+ {
+  "id": "cuantitativo-06",
+  "tema": "cuantitativo",
+  "subtema": "Proporciones y regla de tres",
+  "dificultad": 3,
+  "tipo": "conocimiento",
+  "contexto": null,
+  "enunciado": "Cuatro docentes califican un conjunto de exámenes en 6 horas, trabajando al mismo ritmo. ¿Cuántas horas tardarían 3 docentes en calificar el mismo conjunto?",
+  "opciones": [
+   "8 horas",
+   "4,5 horas",
+   "7 horas",
+   "9 horas"
+  ],
+  "correcta": 0,
+  "explicacion": "Es una proporción inversa: menos docentes, más tiempo. El trabajo total es 4 × 6 = 24 horas-docente. Con 3 docentes: 24 / 3 = 8 horas. Quien responde 4,5 aplicó una proporción directa (6 × 3 / 4).",
+  "fuente": "Ejercicio original"
+ },
+ {
+  "id": "cuantitativo-07",
+  "tema": "cuantitativo",
+  "subtema": "Promedio, mediana y moda",
+  "dificultad": 1,
+  "tipo": "conocimiento",
+  "contexto": null,
+  "enunciado": "Las notas de cinco estudiantes en un examen son 3,0; 4,0; 4,5; 2,5 y 5,0. ¿Cuál es el promedio del grupo?",
+  "opciones": [
+   "4,0",
+   "3,8",
+   "3,5",
+   "19,0"
+  ],
+  "correcta": 1,
+  "explicacion": "Se suman las notas: 3,0 + 4,0 + 4,5 + 2,5 + 5,0 = 19,0. Se divide entre 5 estudiantes: 19 / 5 = 3,8. El 4,0 es la mediana y el 19,0 es solo la suma.",
+  "fuente": "Ejercicio original"
+ },
+ {
+  "id": "cuantitativo-08",
+  "tema": "cuantitativo",
+  "subtema": "Promedio, mediana y moda",
+  "dificultad": 2,
+  "tipo": "conocimiento",
+  "contexto": null,
+  "enunciado": "Los puntajes de siete estudiantes en un taller fueron: 7, 5, 9, 5, 8, 5, 9. ¿Cuál afirmación es correcta?",
+  "opciones": [
+   "La moda es 5 y la mediana es 5.",
+   "La moda es 9 y la mediana es 7.",
+   "La moda es 5 y la mediana es 8.",
+   "La moda es 5 y la mediana es 7."
+  ],
+  "correcta": 3,
+  "explicacion": "Ordenados: 5, 5, 5, 7, 8, 9, 9. La moda es el dato más frecuente: 5 (aparece 3 veces). La mediana es el valor central, el cuarto de siete datos: 7. El 9 se repite solo 2 veces.",
+  "fuente": "Ejercicio original"
+ },
+ {
+  "id": "cuantitativo-09",
+  "tema": "cuantitativo",
+  "subtema": "Promedio, mediana y moda",
+  "dificultad": 2,
+  "tipo": "conocimiento",
+  "contexto": null,
+  "enunciado": "El promedio de cinco notas de un estudiante es 3,6. Se agrega una sexta nota de 4,2. ¿Cuál es el nuevo promedio?",
+  "opciones": [
+   "3,7",
+   "3,9",
+   "3,8",
+   "4,2"
+  ],
+  "correcta": 0,
+  "explicacion": "La suma de las cinco notas es 5 × 3,6 = 18,0. Con la sexta: 18,0 + 4,2 = 22,2. Nuevo promedio: 22,2 / 6 = 3,7. Promediar solo 3,6 y 4,2 (3,9) es un error: se ignora que el 3,6 representa cinco notas.",
+  "fuente": "Ejercicio original"
+ },
+ {
+  "id": "cuantitativo-10",
+  "tema": "cuantitativo",
+  "subtema": "Promedio, mediana y moda",
+  "dificultad": 3,
+  "tipo": "conocimiento",
+  "contexto": null,
+  "enunciado": "Las edades de seis docentes de un área son: 28, 31, 35, 40, 41 y 52 años. ¿Cuál es la mediana de las edades?",
+  "opciones": [
+   "35 años",
+   "40 años",
+   "37,5 años",
+   "37,8 años"
+  ],
+  "correcta": 2,
+  "explicacion": "Con una cantidad par de datos ordenados, la mediana es el promedio de los dos centrales: (35 + 40) / 2 = 37,5. El promedio aritmético es 227 / 6 ≈ 37,8, que es otra medida distinta.",
+  "fuente": "Ejercicio original"
+ },
+ {
+  "id": "cuantitativo-11",
+  "tema": "cuantitativo",
+  "subtema": "Lectura de tablas",
+  "dificultad": 2,
+  "tipo": "conocimiento",
+  "contexto": "Asistencia del lunes por grado\nGrado | Matriculados | Asistieron\n6.° | 50 | 40\n7.° | 40 | 34\n8.° | 30 | 27\n9.° | 20 | 16",
+  "enunciado": "Según la tabla, ¿qué grado tuvo el mayor porcentaje de asistencia el lunes?",
+  "opciones": [
+   "6.°",
+   "8.°",
+   "7.°",
+   "9.°"
+  ],
+  "correcta": 1,
+  "explicacion": "Se calcula asistieron / matriculados: 6.° = 40/50 = 80 %; 7.° = 34/40 = 85 %; 8.° = 27/30 = 90 %; 9.° = 16/20 = 80 %. El mayor es 8.° con 90 %. El 6.° tiene más asistentes en número, pero no en porcentaje.",
+  "fuente": "Ejercicio original"
+ },
+ {
+  "id": "cuantitativo-12",
+  "tema": "cuantitativo",
+  "subtema": "Lectura de tablas",
+  "dificultad": 1,
+  "tipo": "conocimiento",
+  "contexto": "Asistencia del lunes por grado\nGrado | Matriculados | Asistieron\n6.° | 50 | 40\n7.° | 40 | 34\n8.° | 30 | 27\n9.° | 20 | 16",
+  "enunciado": "Según la tabla, ¿cuántos estudiantes en total faltaron el lunes en los cuatro grados?",
+  "opciones": [
+   "117",
+   "140",
+   "21",
+   "23"
+  ],
+  "correcta": 3,
+  "explicacion": "Faltaron: 6.° = 50 − 40 = 10; 7.° = 40 − 34 = 6; 8.° = 30 − 27 = 3; 9.° = 20 − 16 = 4. Total: 10 + 6 + 3 + 4 = 23. El 117 es el total de asistentes y el 140, el de matriculados (117 + 23 = 140).",
+  "fuente": "Ejercicio original"
+ },
+ {
+  "id": "cuantitativo-13",
+  "tema": "cuantitativo",
+  "subtema": "Lectura de gráficas",
+  "dificultad": 1,
+  "tipo": "conocimiento",
+  "contexto": "Ventas de la tienda escolar durante una semana (en miles de pesos)\nLunes: 120\nMartes: 150\nMiércoles: 90\nJueves: 180\nViernes: 210",
+  "enunciado": "¿Cuál fue el promedio diario de ventas de la tienda escolar durante la semana?",
+  "opciones": [
+   "$150.000",
+   "$750.000",
+   "$180.000",
+   "$120.000"
+  ],
+  "correcta": 0,
+  "explicacion": "Total de la semana: 120 + 150 + 90 + 180 + 210 = 750 (miles). Promedio diario: 750 / 5 = 150 mil, es decir, $150.000. Los $750.000 son el total semanal.",
+  "fuente": "Ejercicio original"
+ },
+ {
+  "id": "cuantitativo-14",
+  "tema": "cuantitativo",
+  "subtema": "Lectura de gráficas",
+  "dificultad": 2,
+  "tipo": "conocimiento",
+  "contexto": "Ventas de la tienda escolar durante una semana (en miles de pesos)\nLunes: 120\nMartes: 150\nMiércoles: 90\nJueves: 180\nViernes: 210",
+  "enunciado": "¿Qué porcentaje aumentaron las ventas del miércoles al jueves?",
+  "opciones": [
+   "50 %",
+   "90 %",
+   "100 %",
+   "200 %"
+  ],
+  "correcta": 2,
+  "explicacion": "El aumento fue 180 − 90 = 90 mil. El porcentaje se calcula sobre el valor inicial (miércoles): 90 / 90 = 1 = 100 %. El 50 % resulta de dividir por el valor final (90 / 180).",
+  "fuente": "Ejercicio original"
+ },
+ {
+  "id": "cuantitativo-15",
+  "tema": "cuantitativo",
+  "subtema": "Probabilidad",
+  "dificultad": 1,
+  "tipo": "conocimiento",
+  "contexto": null,
+  "enunciado": "En una bolsa hay 5 fichas rojas, 3 azules y 2 verdes. Si un estudiante saca una ficha al azar, ¿cuál es la probabilidad de que sea azul?",
+  "opciones": [
+   "3/7",
+   "3/10",
+   "1/3",
+   "3/5"
+  ],
+  "correcta": 1,
+  "explicacion": "Hay 5 + 3 + 2 = 10 fichas en total y 3 son azules. Probabilidad = casos favorables / casos posibles = 3/10. El 3/7 compara azules con no azules, que no es una probabilidad.",
+  "fuente": "Ejercicio original"
+ },
+ {
+  "id": "cuantitativo-16",
+  "tema": "cuantitativo",
+  "subtema": "Probabilidad",
+  "dificultad": 2,
+  "tipo": "conocimiento",
+  "contexto": null,
+  "enunciado": "Un docente lanza un dado de seis caras para elegir un grupo. ¿Cuál es la probabilidad de obtener un número par o un múltiplo de 3?",
+  "opciones": [
+   "5/6",
+   "1/2",
+   "1/6",
+   "2/3"
+  ],
+  "correcta": 3,
+  "explicacion": "Pares: {2, 4, 6}. Múltiplos de 3: {3, 6}. La unión es {2, 3, 4, 6}, con 4 resultados favorables de 6: 4/6 = 2/3. Si se sumaran 3/6 + 2/6 = 5/6 se contaría dos veces el 6.",
+  "fuente": "Ejercicio original"
+ },
+ {
+  "id": "cuantitativo-17",
+  "tema": "cuantitativo",
+  "subtema": "Probabilidad",
+  "dificultad": 3,
+  "tipo": "conocimiento",
+  "contexto": null,
+  "enunciado": "De un grupo de 4 niñas y 6 niños se eligen al azar, uno tras otro y sin reposición, dos estudiantes para una comisión. ¿Cuál es la probabilidad de que ambos sean niñas?",
+  "opciones": [
+   "2/15",
+   "4/25",
+   "2/5",
+   "1/3"
+  ],
+  "correcta": 0,
+  "explicacion": "Primera niña: 4/10. Como no hay reposición, quedan 3 niñas entre 9 estudiantes: 3/9. Probabilidad: (4/10) × (3/9) = 12/90 = 2/15. El 4/25 (16/100) corresponde al caso con reposición.",
+  "fuente": "Ejercicio original"
+ },
+ {
+  "id": "cuantitativo-18",
+  "tema": "cuantitativo",
+  "subtema": "Sucesiones y patrones",
+  "dificultad": 1,
+  "tipo": "conocimiento",
+  "contexto": null,
+  "enunciado": "En la sucesión 3, 7, 11, 15, … cada término aumenta en 4. ¿Cuál es el décimo término?",
+  "opciones": [
+   "43",
+   "40",
+   "39",
+   "37"
+  ],
+  "correcta": 2,
+  "explicacion": "El término general es an = 3 + 4(n − 1) = 4n − 1. Para n = 10: 4 × 10 − 1 = 39. Comprobación: los términos son 3, 7, 11, 15, 19, 23, 27, 31, 35, 39.",
+  "fuente": "Ejercicio original"
+ },
+ {
+  "id": "cuantitativo-19",
+  "tema": "cuantitativo",
+  "subtema": "Sucesiones y patrones",
+  "dificultad": 2,
+  "tipo": "conocimiento",
+  "contexto": null,
+  "enunciado": "Un directivo envía un mensaje a 2 docentes. En cada ronda, cada docente que lo recibe lo envía a 3 nuevos docentes. La cantidad de docentes que reciben el mensaje en cada ronda es 2, 6, 18, 54… ¿Cuántos lo reciben en la quinta ronda?",
+  "opciones": [
+   "108",
+   "216",
+   "135",
+   "162"
+  ],
+  "correcta": 3,
+  "explicacion": "Es una sucesión geométrica de razón 3: se multiplica por 3 en cada paso. Rondas: 2, 6, 18, 54 y 54 × 3 = 162. Sumar o multiplicar por otro número da resultados distintos.",
+  "fuente": "Ejercicio original"
+ },
+ {
+  "id": "cuantitativo-20",
+  "tema": "cuantitativo",
+  "subtema": "Sucesiones y patrones",
+  "dificultad": 3,
+  "tipo": "conocimiento",
+  "contexto": null,
+  "enunciado": "Para una feria, se arman filas de mesas triangulares: la fila 1 tiene 1 mesa, la 2 tiene 3, la 3 tiene 6, la 4 tiene 10 y la 5 tiene 15. Si el patrón continúa, ¿cuántas mesas tendrá la fila 6?",
+  "opciones": [
+   "20",
+   "21",
+   "22",
+   "36"
+  ],
+  "correcta": 1,
+  "explicacion": "Las diferencias entre términos consecutivos son +2, +3, +4, +5, así que la siguiente es +6: 15 + 6 = 21. El 20 supone repetir +5, y el 36 (6²) aplica un patrón de cuadrados que aquí no corresponde.",
+  "fuente": "Ejercicio original"
+ },
+ {
+  "id": "cuantitativo-21",
+  "tema": "cuantitativo",
+  "subtema": "Razonamiento lógico",
+  "dificultad": 1,
+  "tipo": "conocimiento",
+  "contexto": null,
+  "enunciado": "Premisas: «Todos los docentes de la institución son licenciados». «María es docente de la institución». ¿Qué conclusión se sigue necesariamente?",
+  "opciones": [
+   "María es licenciada.",
+   "Todos los licenciados son docentes de la institución.",
+   "María no es licenciada.",
+   "Algunos licenciados no son docentes de la institución."
+  ],
+  "correcta": 0,
+  "explicacion": "Si todos los docentes son licenciados y María es docente, entonces es licenciada (silogismo válido). La opción que invierte la primera premisa es un error de conversión: no todo licenciado es docente de la institución.",
+  "fuente": "Ejercicio original"
+ },
+ {
+  "id": "cuantitativo-22",
+  "tema": "cuantitativo",
+  "subtema": "Razonamiento lógico",
+  "dificultad": 2,
+  "tipo": "conocimiento",
+  "contexto": null,
+  "enunciado": "Se sabe que: «Si un estudiante entrega todas las tareas, entonces aprueba la materia». Carlos no aprobó la materia. ¿Qué se puede concluir?",
+  "opciones": [
+   "Carlos no entregó ninguna tarea.",
+   "Carlos entregó todas las tareas.",
+   "Carlos no entregó todas las tareas.",
+   "No se puede concluir nada sobre las tareas de Carlos."
+  ],
+  "correcta": 2,
+  "explicacion": "Es una negación del consecuente (modus tollens): si P implica Q y no ocurre Q, entonces no ocurre P. Como Carlos no aprobó, no entregó todas las tareas (pudo haber entregado algunas). No se concluye que no entregó ninguna.",
+  "fuente": "Ejercicio original"
+ },
+ {
+  "id": "cuantitativo-23",
+  "tema": "cuantitativo",
+  "subtema": "Razonamiento lógico",
+  "dificultad": 3,
+  "tipo": "conocimiento",
+  "contexto": null,
+  "enunciado": "Se sabe que: «Si llueve, se cancela el recreo». Hoy se canceló el recreo. ¿Qué se puede concluir con certeza?",
+  "opciones": [
+   "Que hoy llovió.",
+   "Que hoy no llovió.",
+   "Que el recreo siempre se cancela cuando hay actividades especiales.",
+   "Nada seguro sobre la lluvia, pues el recreo pudo cancelarse por otra razón."
+  ],
+  "correcta": 3,
+  "explicacion": "Afirmar el consecuente («se canceló, luego llovió») es una falacia: la condición dice que la lluvia basta para cancelar, no que sea la única causa. Con certeza, no puede concluirse nada sobre la lluvia.",
+  "fuente": "Ejercicio original"
+ },
+ {
+  "id": "cuantitativo-24",
+  "tema": "cuantitativo",
+  "subtema": "Conteo",
+  "dificultad": 1,
+  "tipo": "conocimiento",
+  "contexto": null,
+  "enunciado": "En el uniforme deportivo, un estudiante puede elegir entre 3 camisetas y 4 pantalonetas diferentes. ¿Cuántas combinaciones distintas de camiseta y pantaloneta puede formar?",
+  "opciones": [
+   "7",
+   "12",
+   "6",
+   "24"
+  ],
+  "correcta": 1,
+  "explicacion": "Por el principio multiplicativo, cada una de las 3 camisetas se combina con las 4 pantalonetas: 3 × 4 = 12. Sumar (7) cuenta opciones por separado, no combinaciones.",
+  "fuente": "Ejercicio original"
+ },
+ {
+  "id": "cuantitativo-25",
+  "tema": "cuantitativo",
+  "subtema": "Conteo",
+  "dificultad": 2,
+  "tipo": "conocimiento",
+  "contexto": null,
+  "enunciado": "Una institución cuenta con 6 docentes y debe formar un comité de 2 personas, sin cargos diferenciados. ¿Cuántos comités distintos se pueden formar?",
+  "opciones": [
+   "15",
+   "30",
+   "12",
+   "36"
+  ],
+  "correcta": 0,
+  "explicacion": "Como el orden no importa, se usa la combinación: C(6, 2) = (6 × 5) / 2 = 15. El 30 resulta de contar el orden (por ejemplo, presidente y secretario), lo que duplicaría cada pareja.",
+  "fuente": "Ejercicio original"
+ },
+ {
+  "id": "cuantitativo-26",
+  "tema": "cuantitativo",
+  "subtema": "Conversión de unidades",
+  "dificultad": 2,
+  "tipo": "conocimiento",
+  "contexto": null,
+  "enunciado": "El patio de una escuela mide 12 m de largo y 8 m de ancho. ¿Cuál es su área expresada en centímetros cuadrados?",
+  "opciones": [
+   "96.000 cm²",
+   "9.600.000 cm²",
+   "9.600 cm²",
+   "960.000 cm²"
+  ],
+  "correcta": 3,
+  "explicacion": "El área es 12 × 8 = 96 m². Como 1 m = 100 cm, entonces 1 m² = 100 × 100 = 10.000 cm². Por tanto, 96 × 10.000 = 960.000 cm². Multiplicar por 100 en lugar de 10.000 es el error más común.",
+  "fuente": "Ejercicio original"
+ },
+ {
+  "id": "cuantitativo-27",
+  "tema": "cuantitativo",
+  "subtema": "Conversión de unidades",
+  "dificultad": 2,
+  "tipo": "conocimiento",
+  "contexto": null,
+  "enunciado": "Un bus escolar circula a 54 km/h. ¿A cuántos metros por segundo equivale esa velocidad?",
+  "opciones": [
+   "194,4 m/s",
+   "15 m/s",
+   "0,9 m/s",
+   "5,4 m/s"
+  ],
+  "correcta": 1,
+  "explicacion": "1 km = 1.000 m y 1 h = 3.600 s. Entonces 54 km/h = 54 × 1.000 / 3.600 = 54.000 / 3.600 = 15 m/s. Equivale a dividir entre 3,6; multiplicar por 3,6 da 194,4, que es un error de sentido.",
+  "fuente": "Ejercicio original"
+ },
+ {
+  "id": "cuantitativo-28",
+  "tema": "cuantitativo",
+  "subtema": "Presupuesto escolar",
+  "dificultad": 3,
+  "tipo": "conocimiento",
+  "contexto": "Fondo de servicios docentes de la institución: $12.000.000\nRubro | Valor ejecutado\nMaterial didáctico | $2.400.000\nMantenimiento | $1.800.000\nRefrigerios | $3.600.000\nEventos culturales | $1.200.000",
+  "enunciado": "Según la tabla, ¿qué porcentaje del fondo de $12.000.000 no ha sido ejecutado?",
+  "opciones": [
+   "75 %",
+   "30 %",
+   "25 %",
+   "20 %"
+  ],
+  "correcta": 2,
+  "explicacion": "Lo ejecutado es 2.400.000 + 1.800.000 + 3.600.000 + 1.200.000 = $9.000.000. Quedan 12.000.000 − 9.000.000 = $3.000.000. Porcentaje no ejecutado: 3.000.000 / 12.000.000 = 0,25 = 25 %. El 75 % es lo ya ejecutado.",
+  "fuente": "Ejercicio original"
+ }
+]

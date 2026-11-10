@@ -1,0 +1,722 @@
+[
+  {
+    "id": "lenguaje-01",
+    "tema": "lenguaje",
+    "subtema": "Ortografía: tildes",
+    "dificultad": 1,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "¿Cuál de las siguientes palabras está mal tildada según la ortografía de la RAE?",
+    "opciones": [
+      "Camión",
+      "Examén",
+      "Árbol",
+      "Lápiz"
+    ],
+    "correcta": 1,
+    "explicacion": "Las palabras graves llevan tilde cuando terminan en consonante distinta de -n o -s. Las agudas la llevan cuando terminan en vocal, -n o -s. «Examen» termina en -n, por eso se escribe sin tilde.",
+    "retro": [
+      "Está bien tildada: es aguda terminada en -n, y las agudas con esa terminación llevan tilde.",
+      "Correcto: «examen» es grave terminada en -n, por lo que no lleva tilde.",
+      "Está bien tildada: es grave terminada en consonante distinta de -n y -s, y por eso lleva tilde.",
+      "Está bien tildada: es grave terminada en -z, consonante distinta de -n y -s, así que lleva tilde."
+    ],
+    "fuente": "RAE-ASALE, Ortografía de la lengua española (2010)"
+  },
+  {
+    "id": "lenguaje-02",
+    "tema": "lenguaje",
+    "subtema": "Concordancia: verbo haber",
+    "dificultad": 1,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "¿En qué oración se usa correctamente el verbo haber con sentido impersonal?",
+    "opciones": [
+      "Hubieron muchas dificultades en la prueba.",
+      "Habían muchas dificultades en el examen.",
+      "Han habido muchas dificultades este año.",
+      "Hubo muchas dificultades en la prueba."
+    ],
+    "correcta": 3,
+    "explicacion": "Cuando «haber» significa existir u ocurrir, es impersonal y el sustantivo que lo acompaña es complemento directo, no sujeto. Por eso el verbo permanece en singular: «hubo», «había», «ha habido».",
+    "retro": [
+      "Error: se hace concordar el verbo con el complemento directo «dificultades», que no es sujeto.",
+      "Error: se pluraliza «haber» por concordancia con el sustantivo, aunque en uso impersonal no tiene sujeto.",
+      "Error: «han habido» pluraliza el auxiliar; en uso impersonal debe ser «ha habido».",
+      "Correcto: «haber» impersonal se conjuga solo en tercera persona del singular."
+    ],
+    "fuente": "RAE-ASALE, Nueva gramática de la lengua española (2009)"
+  },
+  {
+    "id": "lenguaje-03",
+    "tema": "lenguaje",
+    "subtema": "Ortografía: puntuación",
+    "dificultad": 1,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "¿Cuál de los siguientes enunciados tiene un error de puntuación según la RAE?",
+    "opciones": [
+      "Mañana, si llueve, no saldremos al patio.",
+      "Pedro, ven acá un momento.",
+      "Los estudiantes de grado once, presentaron la prueba.",
+      "Compré lápices, cuadernos y libros."
+    ],
+    "correcta": 2,
+    "explicacion": "La coma no debe separar el sujeto de su predicado, salvo que se intercale un inciso entre comas. Los vocativos, las enumeraciones y los incisos sí se marcan con coma.",
+    "retro": [
+      "Es correcto: la coma enmarca la subordinada condicional intercalada.",
+      "Es correcto: la coma separa el vocativo del resto del enunciado.",
+      "Correcto: no debe ponerse coma entre el sujeto y el verbo.",
+      "Es correcto: la coma separa los elementos de una enumeración."
+    ],
+    "fuente": "RAE-ASALE, Ortografía de la lengua española (2010)"
+  },
+  {
+    "id": "lenguaje-04",
+    "tema": "lenguaje",
+    "subtema": "Semántica léxica",
+    "dificultad": 1,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "Las palabras «llama» (animal andino) y «llama» (de fuego) son un caso de",
+    "opciones": [
+      "homonimia: igual forma, origen y significados distintos",
+      "polisemia: una misma palabra con varios sentidos relacionados",
+      "sinonimia: dos palabras con significado equivalente",
+      "antonimia: palabras de significado opuesto"
+    ],
+    "correcta": 0,
+    "explicacion": "«Llama» (animal) procede del quechua y «llama» (fuego) del latín «flamma». Son palabras distintas que coinciden en la forma, es decir, homónimas.",
+    "retro": [
+      "Correcto: tienen la misma forma pero distinto origen y significado.",
+      "Incorrecto: la polisemia exige un origen común y sentidos relacionados, y aquí no lo hay.",
+      "Incorrecto: la sinonimia relaciona formas distintas con igual significado, no una misma forma.",
+      "Incorrecto: la antonimia opone significados y aquí no hay oposición."
+    ],
+    "fuente": "RAE-ASALE, Nueva gramática de la lengua española (2009)"
+  },
+  {
+    "id": "lenguaje-05",
+    "tema": "lenguaje",
+    "subtema": "Pragmática: actos de habla",
+    "dificultad": 3,
+    "tipo": "conocimiento",
+    "contexto": "En el comedor escolar, una estudiante le dice a su compañero: «¿Puedes pasarme la sal?». Él se la alcanza sin responder «sí».",
+    "enunciado": "Desde la pragmática, el enunciado de la estudiante es",
+    "opciones": [
+      "una pregunta literal sobre la capacidad del compañero, que exige respuesta afirmativa o negativa",
+      "una aserción cuya verdad o falsedad puede comprobarse",
+      "un acto comisivo en el que la estudiante se compromete a una acción futura",
+      "un acto de habla indirecto: tiene forma de pregunta, pero su fuerza ilocutiva es una petición"
+    ],
+    "correcta": 3,
+    "explicacion": "Según Austin y Searle, hablar es actuar: un enunciado puede tener una forma y una fuerza ilocutiva distintas. En los actos indirectos, el oyente infiere la intención a partir del contexto.",
+    "retro": [
+      "Incorrecto: se queda en el significado literal e ignora que el contexto convierte la pregunta en petición.",
+      "Incorrecto: confunde una pregunta con un acto asertivo; no afirma nada sobre el mundo.",
+      "Incorrecto: el acto comisivo compromete al hablante, y aquí quien actúa es el oyente.",
+      "Correcto: la intención comunicativa (pedir la sal) difiere de la forma literal interrogativa."
+    ],
+    "fuente": "Austin (1962) y Searle (1969), teoría de los actos de habla"
+  },
+  {
+    "id": "lenguaje-06",
+    "tema": "lenguaje",
+    "subtema": "Tipologías textuales",
+    "dificultad": 1,
+    "tipo": "conocimiento",
+    "contexto": "Las instituciones deberían ofrecer jornadas de lectura diaria, porque la práctica constante mejora la comprensión y amplía el vocabulario. Además, los colegios que las han adoptado muestran avances. Por tanto, conviene incorporarlas en todos los planes de estudio.",
+    "enunciado": "La secuencia textual dominante en el fragmento es",
+    "opciones": [
+      "expositiva: presenta un tema sin tomar postura",
+      "argumentativa: tesis, argumentos y conclusión",
+      "narrativa: situación inicial, nudo y desenlace",
+      "descriptiva: enumera rasgos de un objeto o lugar"
+    ],
+    "correcta": 1,
+    "explicacion": "La secuencia argumentativa busca convencer: plantea una tesis, la sustenta con argumentos y la concluye. Los marcadores «porque», «además» y «por tanto» señalan esa organización.",
+    "retro": [
+      "Incorrecto: el texto no se limita a informar, sino que busca persuadir y toma postura.",
+      "Correcto: defiende una tesis, la apoya con razones y la cierra con una conclusión.",
+      "Incorrecto: no hay personajes ni transformación de una situación en el tiempo.",
+      "Incorrecto: no describe características de un objeto, sino que defiende una medida."
+    ],
+    "fuente": "Adam (1992), tipologías textuales; MEN, Lineamientos Curriculares de Lengua Castellana (1998)"
+  },
+  {
+    "id": "lenguaje-07",
+    "tema": "lenguaje",
+    "subtema": "Tipologías textuales",
+    "dificultad": 2,
+    "tipo": "conocimiento",
+    "contexto": "La tala indiscriminada elimina la cobertura vegetal; sin raíces que lo sujeten, el suelo se erosiona; como consecuencia, los ríos arrastran sedimentos y disminuye la fertilidad de las tierras.",
+    "enunciado": "La organización predominante del párrafo expositivo es",
+    "opciones": [
+      "problema-solución",
+      "comparación-contraste",
+      "descripción enumerativa",
+      "causa-consecuencia"
+    ],
+    "correcta": 3,
+    "explicacion": "En la estructura causal, cada hecho explica el siguiente. Conviene que los estudiantes reconozcan conectores como «por eso», «debido a» y «como consecuencia» para identificarla.",
+    "retro": [
+      "Incorrecto: se describe un problema, pero el texto no propone ninguna solución.",
+      "Incorrecto: no confronta dos elementos para señalar semejanzas y diferencias.",
+      "Incorrecto: no lista rasgos de un objeto, sino que encadena efectos.",
+      "Correcto: encadena un hecho con los efectos que produce, con marcadores como «como consecuencia»."
+    ],
+    "fuente": "MEN, Lineamientos Curriculares de Lengua Castellana (1998)"
+  },
+  {
+    "id": "lenguaje-08",
+    "tema": "lenguaje",
+    "subtema": "Narratología",
+    "dificultad": 2,
+    "tipo": "conocimiento",
+    "contexto": "Mi hermano guardó el sobre en el cajón, mirando a todos lados. Yo, escondida tras la puerta, vi cómo le temblaban las manos.",
+    "enunciado": "El narrador del fragmento es",
+    "opciones": [
+      "un narrador omnisciente en tercera persona, que conoce los pensamientos de todos",
+      "un narrador testigo en primera persona, que cuenta lo que observa sin ser el protagonista",
+      "un narrador protagonista, que relata sus propias acciones centrales",
+      "un narrador objetivo que solo describe hechos externos y no se implica"
+    ],
+    "correcta": 1,
+    "explicacion": "El narrador testigo participa en la historia como observador, pero no es su protagonista. Distinguirlo del protagonista y del omnisciente es base para el análisis narrativo.",
+    "retro": [
+      "Incorrecto: no hay tercera persona ni acceso a pensamientos ajenos.",
+      "Correcto: usa la primera persona y relata lo que presencia como observadora.",
+      "Incorrecto: la acción central la protagoniza el hermano, no quien narra.",
+      "Incorrecto: la voz se implica con un «yo» y valora lo que ve."
+    ],
+    "fuente": "Genette, Figuras III (1972)"
+  },
+  {
+    "id": "lenguaje-09",
+    "tema": "lenguaje",
+    "subtema": "Literatura colombiana",
+    "dificultad": 1,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "La novela «María» (1867), de Jorge Isaacs, se inscribe en",
+    "opciones": [
+      "el Romanticismo, por su amor idealizado y su paisaje del Valle del Cauca",
+      "el Modernismo, por su renovación del verso y su esteticismo",
+      "el realismo social, por su denuncia de la explotación cauchera",
+      "el Boom latinoamericano, por su estructura fragmentaria y su realismo mágico"
+    ],
+    "correcta": 0,
+    "explicacion": "«María» (1867) es una obra del Romanticismo hispanoamericano: sentimentalismo, idealización del amor y descripción del paisaje vallecaucano.",
+    "retro": [
+      "Correcto: es la novela romántica colombiana por excelencia, con amor trágico y naturaleza.",
+      "Incorrecto: el Modernismo se desarrolla después, hacia 1880-1910, sobre todo en poesía.",
+      "Incorrecto: confunde esta obra con «La vorágine», de José Eustasio Rivera (1924).",
+      "Incorrecto: el Boom corresponde a los años sesenta del siglo XX."
+    ],
+    "fuente": "Isaacs, María (1867); historia de la literatura colombiana"
+  },
+  {
+    "id": "lenguaje-10",
+    "tema": "lenguaje",
+    "subtema": "Literatura colombiana",
+    "dificultad": 2,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "En «La vorágine» (1924), José Eustasio Rivera denuncia principalmente",
+    "opciones": [
+      "la explotación de los caucheros y la crueldad del sistema en la selva",
+      "las guerras civiles del siglo XIX y la pérdida de Panamá",
+      "la matanza de las bananeras y el poder de las compañías extranjeras",
+      "la esclavitud en las haciendas azucareras del Valle del Cauca"
+    ],
+    "correcta": 0,
+    "explicacion": "Rivera narra el viaje de Arturo Cova hacia los llanos y la selva, y retrata la explotación de los trabajadores del caucho. La obra se vincula con la novela de la tierra.",
+    "retro": [
+      "Correcto: la novela expone el cautiverio y los abusos de la industria cauchera.",
+      "Incorrecto: ese no es el eje de la novela, que se ubica en los llanos y la selva.",
+      "Incorrecto: se confunde con un episodio que aparece en «Cien años de soledad».",
+      "Incorrecto: ese ambiente corresponde a «María», de Isaacs, y no denuncia el trabajo en la selva."
+    ],
+    "fuente": "Rivera, La vorágine (1924)"
+  },
+  {
+    "id": "lenguaje-11",
+    "tema": "lenguaje",
+    "subtema": "Literatura latinoamericana",
+    "dificultad": 2,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "«Cien años de soledad» (1967), de Gabriel García Márquez, es obra emblemática de",
+    "opciones": [
+      "el Boom latinoamericano y el realismo mágico",
+      "el Modernismo hispanoamericano de finales del siglo XIX",
+      "el costumbrismo colombiano de mediados del siglo XIX",
+      "las vanguardias de las primeras décadas del siglo XX"
+    ],
+    "correcta": 0,
+    "explicacion": "Publicada en 1967, narra la saga de los Buendía en Macondo, mezclando lo cotidiano y lo extraordinario. García Márquez recibió el Nobel de Literatura en 1982.",
+    "retro": [
+      "Correcto: es una de las novelas centrales del Boom y del realismo mágico.",
+      "Incorrecto: el Modernismo corresponde a Darío y a su generación, antes de 1910.",
+      "Incorrecto: el costumbrismo retrata tipos y escenas locales con tono realista, sin lo mágico.",
+      "Incorrecto: las vanguardias son anteriores y experimentan con la forma, como el creacionismo."
+    ],
+    "fuente": "García Márquez, Cien años de soledad (1967)"
+  },
+  {
+    "id": "lenguaje-12",
+    "tema": "lenguaje",
+    "subtema": "Literatura latinoamericana",
+    "dificultad": 3,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "¿Qué obra suele considerarse la iniciadora del Modernismo hispanoamericano?",
+    "opciones": [
+      "«Fervor de Buenos Aires» (1923), de Jorge Luis Borges",
+      "«Residencia en la tierra» (1933), de Pablo Neruda",
+      "«Trilce» (1922), de César Vallejo",
+      "«Azul…» (1888), de Rubén Darío"
+    ],
+    "correcta": 3,
+    "explicacion": "«Azul…» (1888) de Rubén Darío, poeta nicaragüense, se toma habitualmente como punto de partida del Modernismo. Algunos críticos destacan antes a José Martí y a otros precursores.",
+    "retro": [
+      "Incorrecto: es el primer libro de Borges, posterior al Modernismo y ligado al ultraísmo.",
+      "Incorrecto: es un libro de Neruda de los años treinta, de tono posvanguardista.",
+      "Incorrecto: «Trilce» es un libro vanguardista que rompe con el Modernismo.",
+      "Correcto: «Azul…» publicada en Valparaíso inaugura el movimiento modernista."
+    ],
+    "fuente": "Rubén Darío, Azul… (1888)"
+  },
+  {
+    "id": "lenguaje-13",
+    "tema": "lenguaje",
+    "subtema": "Literatura universal",
+    "dificultad": 1,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "¿Cuál de las siguientes obras es de Jorge Luis Borges?",
+    "opciones": [
+      "«El Aleph»",
+      "«Pedro Páramo»",
+      "«Rayuela»",
+      "«El túnel»"
+    ],
+    "correcta": 0,
+    "explicacion": "Borges cultivó cuento, poesía y ensayo, con temas como el infinito, los laberintos, los espejos y el tiempo. «Ficciones» (1944) y «El Aleph» (1949) son sus colecciones de cuentos más conocidas.",
+    "retro": [
+      "Correcto: «El Aleph» (1949) es un libro de cuentos de Borges.",
+      "Incorrecto: «Pedro Páramo» es del mexicano Juan Rulfo.",
+      "Incorrecto: «Rayuela» es del argentino Julio Cortázar.",
+      "Incorrecto: «El túnel» es del argentino Ernesto Sabato."
+    ],
+    "fuente": "Borges, El Aleph (1949)"
+  },
+  {
+    "id": "lenguaje-14",
+    "tema": "lenguaje",
+    "subtema": "Literatura universal",
+    "dificultad": 1,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "«Don Quijote de la Mancha», de Miguel de Cervantes, cuya primera parte se publicó en 1605, pertenece al",
+    "opciones": [
+      "Siglo de Oro español",
+      "Medioevo, junto al mester de juglaría",
+      "Romanticismo del siglo XIX",
+      "Ilustración del siglo XVIII"
+    ],
+    "correcta": 0,
+    "explicacion": "La primera parte apareció en 1605 y la segunda en 1615. Muchos críticos consideran la obra el punto de partida de la novela moderna.",
+    "retro": [
+      "Correcto: se escribe en el Siglo de Oro, entre el Renacimiento y el Barroco.",
+      "Incorrecto: el mester de juglaría es medieval y la obra es del siglo XVII.",
+      "Incorrecto: el Romanticismo es posterior en más de dos siglos.",
+      "Incorrecto: la Ilustración es posterior a la publicación de la obra."
+    ],
+    "fuente": "Cervantes, Don Quijote de la Mancha (1605, 1615)"
+  },
+  {
+    "id": "lenguaje-15",
+    "tema": "lenguaje",
+    "subtema": "Figuras retóricas",
+    "dificultad": 3,
+    "tipo": "conocimiento",
+    "contexto": "«Es hielo abrasador, es fuego helado» (Francisco de Quevedo)",
+    "enunciado": "La figura retórica predominante en el verso es",
+    "opciones": [
+      "metáfora pura",
+      "anáfora",
+      "oxímoron",
+      "hipérbole"
+    ],
+    "correcta": 2,
+    "explicacion": "En el oxímoron los términos se contradicen: el hielo no abrasa y el fuego no se hiela. Quevedo lo usa para expresar las contradicciones del amor.",
+    "retro": [
+      "Incorrecto: no sustituye un término por otro, sino que junta dos contradictorios.",
+      "Incorrecto: la anáfora repite una palabra al comienzo de versos y aquí no es lo central.",
+      "Correcto: une términos de significado contradictorio en una misma expresión.",
+      "Incorrecto: la hipérbole exagera, pero el verso no se basa en la exageración."
+    ],
+    "fuente": "Quevedo, «Definiendo el amor»"
+  },
+  {
+    "id": "lenguaje-16",
+    "tema": "lenguaje",
+    "subtema": "Literatura colombiana",
+    "dificultad": 3,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "¿Qué movimiento literario colombiano, fundado en 1958 por Gonzalo Arango, se caracterizó por su espíritu contestatario?",
+    "opciones": [
+      "Piedra y Cielo",
+      "El nadaísmo",
+      "Los Panidas",
+      "La generación del Mito"
+    ],
+    "correcta": 1,
+    "explicacion": "El nadaísmo cuestionó los valores establecidos de la sociedad colombiana. Gonzalo Arango fue su figura central, con un manifiesto en 1958.",
+    "retro": [
+      "Incorrecto: Piedra y Cielo fue un grupo poético de los años treinta.",
+      "Correcto: el nadaísmo surgió en Medellín como movimiento de ruptura y provocación.",
+      "Incorrecto: Los Panidas fue un grupo de poetas de 1915.",
+      "Incorrecto: Mito fue una revista cultural de los años cincuenta, sin ese carácter."
+    ],
+    "fuente": "Historia de la literatura colombiana"
+  },
+  {
+    "id": "lenguaje-17",
+    "tema": "lenguaje",
+    "subtema": "Lineamientos curriculares",
+    "dificultad": 3,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "Los Lineamientos Curriculares de Lengua Castellana (1998) proponen como orientación central",
+    "opciones": [
+      "enseñar reglas gramaticales prescriptivas antes de pedir cualquier texto",
+      "memorizar autores, obras y fechas como base de la formación literaria",
+      "centrar el trabajo del lenguaje en la ortografía y la caligrafía",
+      "construir la significación mediante distintos sistemas simbólicos y en contextos comunicativos reales"
+    ],
+    "correcta": 3,
+    "explicacion": "Los Lineamientos plantean el lenguaje como construcción de sentido y comunicación. El área se organiza en ejes como los procesos de interpretación y producción de textos, la literatura y la ética de la comunicación.",
+    "retro": [
+      "Incorrecto: el enfoque rechaza la enseñanza normativa y descontextualizada de la gramática.",
+      "Incorrecto: la literatura se trabaja con lectura y análisis, no con datos memorizados.",
+      "Incorrecto: la ortografía es un aspecto del texto, no el eje del área.",
+      "Correcto: parten del enfoque semántico-comunicativo y de la significación."
+    ],
+    "fuente": "MEN, Lineamientos Curriculares de Lengua Castellana (1998)"
+  },
+  {
+    "id": "lenguaje-18",
+    "tema": "lenguaje",
+    "subtema": "Niveles de lectura",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": "Tras leer «Un señor muy viejo con unas alas enormes», de García Márquez, una docente de grado 9 nota que sus estudiantes solo responden preguntas como «¿Quién encontró al anciano en el patio?».",
+    "enunciado": "¿Qué acción es más adecuada para avanzar en los niveles de lectura?",
+    "opciones": [
+      "Insistir en preguntas literales hasta que todos respondan con exactitud antes de pasar a otro nivel",
+      "Sustituir el cuento por un resumen para que memoricen la trama",
+      "Plantear preguntas inferenciales y críticas, como qué sugiere la reacción del pueblo ante el ángel y qué opinan, pidiendo justificar con el texto",
+      "Pedir que copien la definición de realismo mágico del manual"
+    ],
+    "correcta": 2,
+    "explicacion": "La lectura se trabaja en niveles literal, inferencial y crítico-intertextual, y no son pasos que se agoten uno a uno. Preguntas que piden justificar con el texto desarrollan la interpretación.",
+    "retro": [
+      "Error: supone que los niveles de lectura son una escalera rígida, y se estanca en lo literal.",
+      "Error: reduce la lectura a retener datos y elimina la interpretación.",
+      "Correcto: lleva a inferir y a valorar apoyándose en el texto.",
+      "Error: confunde conocer un término con comprender e interpretar el texto."
+    ],
+    "fuente": "MEN, Lineamientos Curriculares de Lengua Castellana (1998); MEN, Estándares Básicos de Competencias en Lenguaje (2006)"
+  },
+  {
+    "id": "lenguaje-19",
+    "tema": "lenguaje",
+    "subtema": "Escritura como proceso",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": "Un estudiante entrega un texto con ideas desordenadas, escrito en una sola sesión y sin revisión.",
+    "enunciado": "¿Cuál es la mejor acción didáctica?",
+    "opciones": [
+      "Calificarlo solo por ortografía y entregar la nota final",
+      "Pedirle que copie un texto modelo para que lo imite",
+      "Dictarle una lista de conectores para que la memorice",
+      "Devolverlo con comentarios sobre criterios acordados y guiar la planificación, la revisión y la reescritura"
+    ],
+    "correcta": 3,
+    "explicacion": "La escritura es un proceso recursivo de planificación, textualización y revisión. La retroalimentación con criterios claros y la reescritura permiten mejorar el texto.",
+    "retro": [
+      "Error: reduce la escritura a la corrección ortográfica y no ayuda a mejorar el texto.",
+      "Error: copiar no desarrolla la capacidad de planear ni de organizar ideas propias.",
+      "Error: los conectores aislados no resuelven la falta de planificación ni de revisión.",
+      "Correcto: trata la escritura como proceso con planificación, textualización y revisión."
+    ],
+    "fuente": "MEN, Estándares Básicos de Competencias en Lenguaje (2006)"
+  },
+  {
+    "id": "lenguaje-20",
+    "tema": "lenguaje",
+    "subtema": "Oralidad",
+    "dificultad": 1,
+    "tipo": "situacional",
+    "contexto": "Una estudiante muy tímida casi nunca habla en clase.",
+    "enunciado": "¿Cuál es la mejor acción del docente?",
+    "opciones": [
+      "Exigir una exposición individual ante todo el curso con nota, para vencer la timidez",
+      "Proponer situaciones graduales de oralidad (parejas, grupos pequeños y luego exposición) con propósito y audiencia reales",
+      "Eximirla de toda actividad oral porque no es evaluable",
+      "Hacerla leer en voz alta textos ajenos sin preparación previa"
+    ],
+    "correcta": 1,
+    "explicacion": "La oralidad se desarrolla con situaciones comunicativas reales y graduales: conversar, argumentar, exponer. El docente debe ofrecer apoyo y retroalimentación antes de la exposición.",
+    "retro": [
+      "Error: la exposición improvisada con nota puede aumentar la ansiedad y no enseña a hablar.",
+      "Correcto: construye confianza y desarrolla la oralidad con tareas significativas.",
+      "Error: la oralidad es parte de las competencias comunicativas y debe trabajarse.",
+      "Error: leer sin preparación es lectura en voz alta, no desarrolla la expresión oral."
+    ],
+    "fuente": "MEN, Estándares Básicos de Competencias en Lenguaje (2006)"
+  },
+  {
+    "id": "lenguaje-21",
+    "tema": "lenguaje",
+    "subtema": "Enfoque semántico-comunicativo",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": "Un docente dedica semanas al análisis sintáctico de oraciones sueltas tomadas de un manual y evalúa con listas de términos.",
+    "enunciado": "Según el enfoque semántico-comunicativo, ¿qué cambio es más coherente?",
+    "opciones": [
+      "Eliminar toda reflexión sobre la lengua y centrarse en leer",
+      "Trabajar la gramática al servicio de la comprensión y la producción de textos reales con propósito comunicativo",
+      "Aumentar los ejercicios de análisis sintáctico aislado",
+      "Evaluar con dictados para asegurar la ortografía"
+    ],
+    "correcta": 1,
+    "explicacion": "El enfoque semántico-comunicativo concibe la lengua como construcción de significado y comunicación. La gramática se aprende cuando ayuda a entender y a producir textos.",
+    "retro": [
+      "Error: el enfoque no elimina la gramática, la reubica en función del sentido.",
+      "Correcto: la reflexión sobre la lengua se integra a situaciones de uso.",
+      "Error: más análisis aislado repite el problema de descontextualizar la lengua.",
+      "Error: el dictado mide una destreza ortográfica y no el uso comunicativo."
+    ],
+    "fuente": "MEN, Lineamientos Curriculares de Lengua Castellana (1998)"
+  },
+  {
+    "id": "lenguaje-22",
+    "tema": "lenguaje",
+    "subtema": "Didáctica de la literatura",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": "Los estudiantes de grado 10 sienten lejana la novela «María», de Jorge Isaacs.",
+    "enunciado": "¿Qué estrategia favorece mejor la formación de lectores?",
+    "opciones": [
+      "Leer fragmentos seleccionados, relacionarlos con su contexto, compararlos con experiencias actuales y organizar círculos de lectura y escritura creativa",
+      "Dar un resumen y un cuestionario de datos sobre la vida del autor",
+      "Reemplazar la lectura por la adaptación audiovisual para evitar la dificultad",
+      "Exigir la lectura completa en una noche y evaluar con un quiz de datos"
+    ],
+    "correcta": 0,
+    "explicacion": "La literatura se trabaja como experiencia estética y cultural, por medio de lectura, diálogo y producción. Los Lineamientos destacan la literatura como un eje del área.",
+    "retro": [
+      "Correcto: conecta la obra con los lectores y los invita a interpretar y crear.",
+      "Error: enseña datos sobre la literatura en lugar de que los estudiantes lean literatura.",
+      "Error: la adaptación puede complementar, pero sustituir el texto elimina la experiencia de leerlo.",
+      "Error: la presión y el quiz de datos desmotivan y no evalúan la comprensión."
+    ],
+    "fuente": "MEN, Estándares Básicos de Competencias en Lenguaje (2006), factor Literatura"
+  },
+  {
+    "id": "lenguaje-23",
+    "tema": "lenguaje",
+    "subtema": "Revisión y ortografía",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": "En los textos de varios estudiantes aparece con frecuencia «hubieron muchas dificultades».",
+    "enunciado": "¿Qué acción didáctica es más pertinente?",
+    "opciones": [
+      "Marcar cada error en rojo sin explicar la causa",
+      "Ignorarlo, porque el mensaje se entiende",
+      "Seleccionar los errores recurrentes de sus propios textos y trabajarlos en la revisión con la regla y la reescritura",
+      "Pedirles copiar cien veces la forma correcta"
+    ],
+    "correcta": 2,
+    "explicacion": "La reflexión normativa es más eficaz cuando se aborda en la fase de revisión de textos propios. El error de pluralizar «haber» impersonal es de los más frecuentes.",
+    "retro": [
+      "Error: la marca sin explicación no ayuda a comprender la regla.",
+      "Error: la norma también forma parte de un texto bien escrito.",
+      "Correcto: parte de textos reales, explica la norma y la aplica al reescribir.",
+      "Error: la repetición mecánica no lleva a comprender cuándo se aplica la regla."
+    ],
+    "fuente": "RAE-ASALE, Ortografía de la lengua española (2010); MEN, Estándares Básicos de Competencias en Lenguaje (2006)"
+  },
+  {
+    "id": "lenguaje-24",
+    "tema": "lenguaje",
+    "subtema": "Medios y sistemas simbólicos",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": "Una docente planea una secuencia en la que los estudiantes analizan un anuncio publicitario, una caricatura y un noticiero de televisión.",
+    "enunciado": "Para trabajar el factor «Medios de comunicación y otros sistemas simbólicos», ¿qué actividad es más coherente?",
+    "opciones": [
+      "Copiar las definiciones de publicidad y propaganda del manual",
+      "Prohibir el uso de celulares durante la secuencia",
+      "Identificar la intención, el público y los recursos de cada medio y producir un mensaje propio en uno de esos lenguajes",
+      "Limitar el análisis a la ortografía de los textos"
+    ],
+    "correcta": 2,
+    "explicacion": "Este factor busca que los estudiantes interpreten y produzcan mensajes en medios e imágenes con sentido crítico. Los cinco factores de los Estándares incluyen también producción textual, comprensión e interpretación, literatura y ética de la comunicación.",
+    "retro": [
+      "Error: memorizar definiciones no desarrolla el análisis de los mensajes.",
+      "Error: no se relaciona con el factor y evita el trabajo con medios.",
+      "Correcto: combina análisis crítico y producción con distintos sistemas simbólicos.",
+      "Error: la ortografía no abarca la imagen, el sonido ni la intención del mensaje."
+    ],
+    "fuente": "MEN, Estándares Básicos de Competencias en Lenguaje (2006)"
+  },
+  {
+    "id": "lenguaje-25",
+    "tema": "lenguaje",
+    "subtema": "Plan Nacional de Lectura y Escritura",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": "En una institución, los libros de la biblioteca permanecen guardados bajo llave para evitar pérdidas.",
+    "enunciado": "Acorde con el Plan Nacional de Lectura y Escritura, ¿cuál es la mejor acción?",
+    "opciones": [
+      "Mantener los libros guardados para evitar pérdidas",
+      "Imponer listas obligatorias de lectura con examen de datos",
+      "Integrar la biblioteca a los proyectos de aula y de lectura, con préstamo, lectura libre y mediación del docente",
+      "Limitar la lectura al libro de texto de cada área"
+    ],
+    "correcta": 2,
+    "explicacion": "El Plan Nacional de Lectura y Escritura del MEN busca fortalecer las competencias comunicativas y el acceso a los materiales de lectura y escritura. La biblioteca escolar debe estar al servicio del currículo.",
+    "retro": [
+      "Error: el riesgo de pérdida no justifica impedir que los libros se lean.",
+      "Error: la obligación sin mediación suele desmotivar la lectura.",
+      "Correcto: favorece el acceso y la mediación lectora.",
+      "Error: restringir las fuentes empobrece la experiencia lectora."
+    ],
+    "fuente": "MEN, Plan Nacional de Lectura y Escritura «Leer es mi cuento»"
+  },
+  {
+    "id": "lenguaje-26",
+    "tema": "lenguaje",
+    "subtema": "Lectura crítico-intertextual",
+    "dificultad": 3,
+    "tipo": "situacional",
+    "contexto": "Después de leer un fragmento de «La vorágine», un docente quiere llevar a sus estudiantes al nivel crítico-intertextual.",
+    "enunciado": "¿Qué actividad es más adecuada?",
+    "opciones": [
+      "Preguntar el nombre del protagonista y el lugar de los hechos",
+      "Contrastar el fragmento con una noticia actual sobre la explotación de recursos en la Amazonía y valorar la postura del autor",
+      "Pedir una paráfrasis para comprobar la comprensión literal",
+      "Pedir que deduzcan el significado de «vorágine» por el contexto"
+    ],
+    "correcta": 1,
+    "explicacion": "El nivel crítico-intertextual implica valorar el texto, tomar posición y relacionarlo con otros textos y contextos. Se distingue de los niveles literal e inferencial.",
+    "retro": [
+      "Error: es una pregunta de nivel literal.",
+      "Correcto: relaciona textos y asume una posición crítica.",
+      "Error: la paráfrasis también corresponde al nivel literal.",
+      "Error: deducir por el contexto es una tarea inferencial."
+    ],
+    "fuente": "MEN, Lineamientos Curriculares de Lengua Castellana (1998)"
+  },
+  {
+    "id": "lenguaje-27",
+    "tema": "lenguaje",
+    "subtema": "Ética de la comunicación",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": "En el grupo de WhatsApp del curso circula una cadena con información falsa sobre un compañero.",
+    "enunciado": "¿Cuál es la acción didáctica más adecuada?",
+    "opciones": [
+      "Prohibir el uso de WhatsApp en la institución",
+      "Sancionar sin diálogo a quien reenvió el mensaje",
+      "Analizar con ellos la fuente, la intención, las pruebas y las consecuencias de difundirla, y proponer pautas de comunicación responsable",
+      "Ignorarlo porque no pertenece al área de lenguaje"
+    ],
+    "correcta": 2,
+    "explicacion": "El factor de ética de la comunicación busca que los estudiantes reflexionen sobre el efecto de sus mensajes y respeten al otro. Analizar casos reales permite aplicarlo.",
+    "retro": [
+      "Error: la prohibición no desarrolla habilidades para evaluar información.",
+      "Error: la sanción sin reflexión no enseña ética de la comunicación.",
+      "Correcto: forma criterio y responsabilidad en el uso de los medios.",
+      "Error: la ética de la comunicación es un factor del área."
+    ],
+    "fuente": "MEN, Estándares Básicos de Competencias en Lenguaje (2006)"
+  },
+  {
+    "id": "lenguaje-28",
+    "tema": "lenguaje",
+    "subtema": "Evaluación de la escritura",
+    "dificultad": 3,
+    "tipo": "situacional",
+    "contexto": "Una docente evaluará ensayos argumentativos de grado 10.",
+    "enunciado": "¿Qué estrategia es más coherente con concebir la escritura como proceso?",
+    "opciones": [
+      "Una única nota al texto final, comparado con el modelo del docente",
+      "Una rúbrica conocida desde el inicio, con criterios (tesis, argumentos, cohesión, normativa) y retroalimentación sobre versiones sucesivas",
+      "Contar palabras y errores ortográficos",
+      "Una autoevaluación libre sin criterios"
+    ],
+    "correcta": 1,
+    "explicacion": "La evaluación formativa de la escritura requiere criterios compartidos y varias versiones con retroalimentación. Así los estudiantes reconocen qué mejorar.",
+    "retro": [
+      "Error: valora solo el producto y compara con un modelo, sin acompañar el proceso.",
+      "Correcto: evalúa de forma formativa con criterios claros.",
+      "Error: mide aspectos superficiales y no la calidad argumentativa.",
+      "Error: sin criterios, la autoevaluación no orienta la mejora."
+    ],
+    "fuente": "MEN, Estándares Básicos de Competencias en Lenguaje (2006)"
+  },
+  {
+    "id": "lenguaje-29",
+    "tema": "lenguaje",
+    "subtema": "Atención a la diversidad lectora",
+    "dificultad": 3,
+    "tipo": "situacional",
+    "contexto": "En un mismo curso hay estudiantes con niveles de lectura muy distintos.",
+    "enunciado": "¿Qué decisión didáctica es más adecuada?",
+    "opciones": [
+      "Asignar el mismo texto complejo a todos y calificar igual",
+      "Separar durante todo el año a quienes leen menos con textos infantiles",
+      "Eximir de lectura a quienes tienen bajo nivel",
+      "Diversificar apoyos y tareas, con textos de distinta complejidad sobre un mismo tema y mediación, manteniendo las mismas metas"
+    ],
+    "correcta": 3,
+    "explicacion": "Atender la diversidad implica ofrecer apoyos diferenciados con metas comunes. Leer sobre un mismo tema con textos distintos permite participar en la conversación del grupo.",
+    "retro": [
+      "Error: ignora las diferencias y genera frustración.",
+      "Error: reduce las expectativas y los excluye del trabajo con el grupo.",
+      "Error: negarles la lectura amplía la brecha.",
+      "Correcto: reconoce las diferencias sin renunciar a metas comunes."
+    ],
+    "fuente": "MEN, Estándares Básicos de Competencias en Lenguaje (2006)"
+  },
+  {
+    "id": "lenguaje-30",
+    "tema": "lenguaje",
+    "subtema": "Géneros literarios",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": "Un docente quiere que sus estudiantes distingan los géneros lírico, narrativo y dramático.",
+    "enunciado": "¿Qué secuencia es más adecuada?",
+    "opciones": [
+      "Leer y comparar un tema en un poema, un cuento y una escena teatral, identificando voz, tiempo y forma, y luego escribir versiones propias",
+      "Dictar definiciones de los géneros para memorizarlas",
+      "Pedir que clasifiquen títulos de obras sin leerlas",
+      "Evaluar solo con una lista de autores"
+    ],
+    "correcta": 0,
+    "explicacion": "Los géneros se comprenden al leer, comparar y producir textos. Este trabajo favorece la competencia literaria.",
+    "retro": [
+      "Correcto: construye el concepto a partir de textos y de la producción.",
+      "Error: la memorización no permite reconocer rasgos en los textos.",
+      "Error: clasificar sin leer lleva a memorizar y no a comprender.",
+      "Error: la lista de autores no enseña a distinguir los géneros."
+    ],
+    "fuente": "MEN, Estándares Básicos de Competencias en Lenguaje (2006)"
+  }
+]

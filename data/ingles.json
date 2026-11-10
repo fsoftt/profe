@@ -1,0 +1,722 @@
+[
+  {
+    "id": "ingles-01",
+    "tema": "ingles",
+    "subtema": "Conditionals",
+    "dificultad": 3,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "Choose the correct option: \"If I _____ the report earlier this week, I wouldn't be working so late tonight.\"",
+    "opciones": [
+      "was finishing",
+      "would finish",
+      "had finished",
+      "have finished"
+    ],
+    "correcta": 2,
+    "explicacion": "Es un condicional mixto (tipo 3 + tipo 2): condición pasada irreal (\"had finished\") con resultado presente (\"wouldn't be working\"). Las demás formas no combinan con \"this week\" y \"wouldn't be\".",
+    "fuente": "Gramática inglesa B2-C1"
+  },
+  {
+    "id": "ingles-02",
+    "tema": "ingles",
+    "subtema": "Passive voice",
+    "dificultad": 3,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "Choose the correct option: \"By the time the inspectors arrive next Monday, all the classrooms _____ .\"",
+    "opciones": [
+      "will have been repainted",
+      "will be repainting",
+      "had repainted",
+      "are repainted"
+    ],
+    "correcta": 0,
+    "explicacion": "Se necesita futuro perfecto en voz pasiva: \"will have been + participio\", porque la acción se completa antes de un momento futuro y las aulas reciben la acción. \"will be repainting\" y \"had repainted\" son activas.",
+    "fuente": "Gramática inglesa B2-C1"
+  },
+  {
+    "id": "ingles-03",
+    "tema": "ingles",
+    "subtema": "Reported speech",
+    "dificultad": 3,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "Which sentence correctly reports: \"I'll send you the results as soon as I have them,\" the coordinator said to us?",
+    "opciones": [
+      "The coordinator said us that she will send us the results as soon as she has them.",
+      "The coordinator told that she would send us the results as soon as she had them.",
+      "The coordinator told us she would have sent the results as soon as she would have them.",
+      "The coordinator told us she would send us the results as soon as she had them."
+    ],
+    "correcta": 3,
+    "explicacion": "En discurso indirecto con verbo en pasado hay \"backshift\": will pasa a would, have a had. \"Tell\" exige objeto (\"told us\"), mientras que \"say\" no lo admite directamente (\"said us\" es incorrecto).",
+    "fuente": "Gramática inglesa B2-C1"
+  },
+  {
+    "id": "ingles-04",
+    "tema": "ingles",
+    "subtema": "Modal verbs",
+    "dificultad": 2,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "Choose the best option: \"The lights are off and the car has gone from the garage. They _____ out.\"",
+    "opciones": [
+      "needn't have gone",
+      "must have gone",
+      "shouldn't have gone",
+      "would have gone"
+    ],
+    "correcta": 1,
+    "explicacion": "\"Must have + participio\" expresa deducción casi segura sobre el pasado a partir de evidencia. \"Needn't have\" y \"shouldn't have\" expresan crítica o falta de necesidad, no deducción.",
+    "fuente": "Gramática inglesa B2-C1"
+  },
+  {
+    "id": "ingles-05",
+    "tema": "ingles",
+    "subtema": "Relative clauses",
+    "dificultad": 1,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "Choose the correct option: \"The teacher _____ classroom was flooded was moved to another building.\"",
+    "opciones": [
+      "who's",
+      "whose",
+      "which",
+      "whom"
+    ],
+    "correcta": 1,
+    "explicacion": "\"Whose\" es el relativo posesivo y acompaña a un sustantivo (\"whose classroom\"). \"Who's\" es la contracción de \"who is\" o \"who has\", y \"which/whom\" no expresan posesión.",
+    "fuente": "Gramática inglesa B2-C1"
+  },
+  {
+    "id": "ingles-06",
+    "tema": "ingles",
+    "subtema": "Phrasal verbs",
+    "dificultad": 2,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "Choose the best option: \"The ministry plans to _____ the old textbooks gradually and replace them with digital materials.\"",
+    "opciones": [
+      "put off",
+      "take after",
+      "hold up",
+      "phase out"
+    ],
+    "correcta": 3,
+    "explicacion": "\"Phase out\" significa retirar progresivamente. \"Put off\" es aplazar, \"take after\" es parecerse a un familiar y \"hold up\" es retrasar o sostener; ninguno encaja con el sentido de retirar gradualmente.",
+    "fuente": "Gramática inglesa B2-C1"
+  },
+  {
+    "id": "ingles-07",
+    "tema": "ingles",
+    "subtema": "Cloze and collocations",
+    "dificultad": 2,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "Choose the pair of words that best completes the text: \"Teachers who (1) _____ their students' attention in the first minutes of a lesson tend to face fewer discipline problems, provided that the activities are (2) _____ to the students' interests.\"",
+    "opciones": [
+      "capture / relevant",
+      "make / relevant",
+      "capture / relative",
+      "take / related"
+    ],
+    "correcta": 0,
+    "explicacion": "La colocación correcta es \"capture (somebody's) attention\", y \"relevant to\" significa pertinente para. \"Relative\" es un falso amigo de \"relevante\"; \"make attention\" y \"take attention\" no son colocaciones naturales.",
+    "fuente": "Vocabulario y colocaciones B2-C1"
+  },
+  {
+    "id": "ingles-08",
+    "tema": "ingles",
+    "subtema": "Error identification",
+    "dificultad": 3,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "Identify the part of the sentence that is incorrect: \"Neither the students nor the teacher were aware that the exam had been postponed until Friday.\"",
+    "opciones": [
+      "aware",
+      "had been postponed",
+      "were",
+      "until Friday"
+    ],
+    "correcta": 2,
+    "explicacion": "Con \"neither ... nor\" el verbo concuerda con el sujeto más cercano (regla de proximidad): \"the teacher\" es singular, por lo tanto debe ser \"was\". El resto de la oración es correcto.",
+    "fuente": "Gramática inglesa B2-C1"
+  },
+  {
+    "id": "ingles-09",
+    "tema": "ingles",
+    "subtema": "Reading: main idea",
+    "dificultad": 1,
+    "tipo": "conocimiento",
+    "contexto": "When Marta arrived at the small school in the mountains, she found twelve students of different ages sharing one room and one dictionary. Instead of waiting for new textbooks, which the municipality had promised but never delivered, she asked the children to collect stories from their grandparents and translate the key words into English. Within a month, the walls were covered with hand-drawn posters in two languages. Some colleagues doubted that this would improve the students' grammar. Marta admitted that it might not, at least not at first. However, she noticed that even the shyest children began to ask how to say things, and that was what she cared about most. By June, the pupils were presenting their family stories to visitors, using simple but confident English.",
+    "enunciado": "What is the main idea of the text?",
+    "opciones": [
+      "The municipality failed to deliver textbooks and was criticised by the teachers.",
+      "Mixed-age classes cannot be taught without a dictionary for every child.",
+      "Grammar improves fastest when children translate their grandparents' stories.",
+      "A teacher used the students' own family stories to get them to use English despite the lack of materials."
+    ],
+    "correcta": 3,
+    "explicacion": "La idea principal es que Marta aprovechó recursos locales (las historias familiares) para motivar el uso del inglés. La falta de libros es solo un detalle del contexto, y el texto no afirma que la gramática mejore más rápido.",
+    "fuente": "Texto original"
+  },
+  {
+    "id": "ingles-10",
+    "tema": "ingles",
+    "subtema": "Reading: inference",
+    "dificultad": 2,
+    "tipo": "conocimiento",
+    "contexto": "When Marta arrived at the small school in the mountains, she found twelve students of different ages sharing one room and one dictionary. Instead of waiting for new textbooks, which the municipality had promised but never delivered, she asked the children to collect stories from their grandparents and translate the key words into English. Within a month, the walls were covered with hand-drawn posters in two languages. Some colleagues doubted that this would improve the students' grammar. Marta admitted that it might not, at least not at first. However, she noticed that even the shyest children began to ask how to say things, and that was what she cared about most. By June, the pupils were presenting their family stories to visitors, using simple but confident English.",
+    "enunciado": "What can be inferred about Marta's priorities?",
+    "opciones": [
+      "She believed that grammar should never be taught.",
+      "She was mainly interested in impressing visitors.",
+      "She valued the students' willingness to communicate more than immediate grammatical accuracy.",
+      "She was waiting for the municipality's textbooks before starting any activity."
+    ],
+    "correcta": 2,
+    "explicacion": "El texto dice que ella admite que la gramática quizá no mejore \"at first\", pero le importa que los niños \"ask how to say things\". Es una inferencia sobre sus prioridades; las otras opciones exageran o contradicen el texto.",
+    "fuente": "Texto original"
+  },
+  {
+    "id": "ingles-11",
+    "tema": "ingles",
+    "subtema": "Reading: reference words",
+    "dificultad": 1,
+    "tipo": "conocimiento",
+    "contexto": "When Marta arrived at the small school in the mountains, she found twelve students of different ages sharing one room and one dictionary. Instead of waiting for new textbooks, which the municipality had promised but never delivered, she asked the children to collect stories from their grandparents and translate the key words into English. Within a month, the walls were covered with hand-drawn posters in two languages. Some colleagues doubted that this would improve the students' grammar. Marta admitted that it might not, at least not at first. However, she noticed that even the shyest children began to ask how to say things, and that was what she cared about most. By June, the pupils were presenting their family stories to visitors, using simple but confident English.",
+    "enunciado": "In the text, the word \"which\" in \"new textbooks, which the municipality had promised\" refers to:",
+    "opciones": [
+      "the municipality",
+      "new textbooks",
+      "twelve students",
+      "one dictionary"
+    ],
+    "correcta": 1,
+    "explicacion": "El pronombre relativo \"which\" retoma el sustantivo inmediatamente anterior, \"new textbooks\" (los libros que se prometieron pero no se entregaron).",
+    "fuente": "Texto original"
+  },
+  {
+    "id": "ingles-12",
+    "tema": "ingles",
+    "subtema": "Reading: author's purpose",
+    "dificultad": 2,
+    "tipo": "conocimiento",
+    "contexto": "Language-learning apps have become so popular that some people believe they will soon replace classroom teaching. Supporters point out that apps are available at any hour, give instant feedback and turn repetition into a game. Critics reply that no screen can respond to a learner's real intentions in a conversation. A small study in a secondary school seems to support both sides. Students who practised for fifteen minutes a day for a semester recognised considerably more words than their classmates. Nevertheless, when asked to describe their weekend aloud, they were no more fluent than the control group. The researchers therefore suggest that apps should be treated as a useful complement rather than a substitute, and that teachers should design speaking tasks that put the new vocabulary to work.",
+    "enunciado": "What is the writer's main purpose?",
+    "opciones": [
+      "To weigh the strengths and limits of language-learning apps.",
+      "To persuade teachers to replace classes with apps.",
+      "To tell the personal experience of one student.",
+      "To criticise the methods used by the researchers."
+    ],
+    "correcta": 0,
+    "explicacion": "El autor presenta argumentos de defensores y críticos y luego un estudio, para concluir que las apps son un complemento. Es un texto equilibrado, no persuasivo ni anecdótico.",
+    "fuente": "Texto original"
+  },
+  {
+    "id": "ingles-13",
+    "tema": "ingles",
+    "subtema": "Reading: inference",
+    "dificultad": 3,
+    "tipo": "conocimiento",
+    "contexto": "Language-learning apps have become so popular that some people believe they will soon replace classroom teaching. Supporters point out that apps are available at any hour, give instant feedback and turn repetition into a game. Critics reply that no screen can respond to a learner's real intentions in a conversation. A small study in a secondary school seems to support both sides. Students who practised for fifteen minutes a day for a semester recognised considerably more words than their classmates. Nevertheless, when asked to describe their weekend aloud, they were no more fluent than the control group. The researchers therefore suggest that apps should be treated as a useful complement rather than a substitute, and that teachers should design speaking tasks that put the new vocabulary to work.",
+    "enunciado": "What can be concluded from the study described in the text?",
+    "opciones": [
+      "Greater vocabulary knowledge did not automatically lead to better speaking fluency.",
+      "Apps harm students' speaking skills.",
+      "The control group learned more words than the app users.",
+      "Students disliked practising with apps every day."
+    ],
+    "correcta": 0,
+    "explicacion": "Los estudiantes reconocían más palabras, pero \"no eran más fluidos\" que el grupo de control. No se dice que las apps perjudiquen ni que a los estudiantes les disgustaran.",
+    "fuente": "Texto original"
+  },
+  {
+    "id": "ingles-14",
+    "tema": "ingles",
+    "subtema": "Reading: reference words",
+    "dificultad": 2,
+    "tipo": "conocimiento",
+    "contexto": "Language-learning apps have become so popular that some people believe they will soon replace classroom teaching. Supporters point out that apps are available at any hour, give instant feedback and turn repetition into a game. Critics reply that no screen can respond to a learner's real intentions in a conversation. A small study in a secondary school seems to support both sides. Students who practised for fifteen minutes a day for a semester recognised considerably more words than their classmates. Nevertheless, when asked to describe their weekend aloud, they were no more fluent than the control group. The researchers therefore suggest that apps should be treated as a useful complement rather than a substitute, and that teachers should design speaking tasks that put the new vocabulary to work.",
+    "enunciado": "In the text, \"both sides\" refers to:",
+    "opciones": [
+      "students and teachers",
+      "the supporters and the critics of apps",
+      "the study and the control group",
+      "vocabulary and fluency"
+    ],
+    "correcta": 1,
+    "explicacion": "\"Both sides\" retoma las dos posturas presentadas antes: \"Supporters\" y \"Critics\". El estudio parece apoyar ambas, porque mostró avance en vocabulario pero no en fluidez.",
+    "fuente": "Texto original"
+  },
+  {
+    "id": "ingles-15",
+    "tema": "ingles",
+    "subtema": "Reading: purpose of a text",
+    "dificultad": 1,
+    "tipo": "conocimiento",
+    "contexto": "Dear Mr. Ortega,\n\nI am writing about the English club we discussed last week. I fully understand that the school schedule is tight, and I would not want to add to your workload. Still, several students have asked me whether they could meet on Thursday afternoons, when the library is free. I could supervise the sessions myself, and we would only need a few chairs and the old projector. If you agree, I will prepare a short plan and show it to you before the end of the month. I would be grateful for your thoughts.\n\nKind regards,\nLucía Ramírez",
+    "enunciado": "What is the main purpose of Lucía's email?",
+    "opciones": [
+      "To complain about the school schedule.",
+      "To report the results of an English club.",
+      "To ask for permission and support to start an English club.",
+      "To announce that a decision has already been made."
+    ],
+    "correcta": 2,
+    "explicacion": "Ella escribe sobre el club \"we discussed\", ofrece supervisar y propone un plan \"if you agree\": solicita aprobación. No se queja ni informa resultados.",
+    "fuente": "Texto original"
+  },
+  {
+    "id": "ingles-16",
+    "tema": "ingles",
+    "subtema": "Reading: tone and inference",
+    "dificultad": 2,
+    "tipo": "conocimiento",
+    "contexto": "Dear Mr. Ortega,\n\nI am writing about the English club we discussed last week. I fully understand that the school schedule is tight, and I would not want to add to your workload. Still, several students have asked me whether they could meet on Thursday afternoons, when the library is free. I could supervise the sessions myself, and we would only need a few chairs and the old projector. If you agree, I will prepare a short plan and show it to you before the end of the month. I would be grateful for your thoughts.\n\nKind regards,\nLucía Ramírez",
+    "enunciado": "How can Lucía's tone be described?",
+    "opciones": [
+      "Demanding and impatient.",
+      "Informal and humorous.",
+      "Hesitant and apologetic about the idea itself.",
+      "Polite and tactful, anticipating possible objections."
+    ],
+    "correcta": 3,
+    "explicacion": "Expresiones como \"I fully understand\" y \"I would not want to add to your workload\" muestran cortesía y anticipación de objeciones, sin dudar de la propuesta ni exigir.",
+    "fuente": "Texto original"
+  },
+  {
+    "id": "ingles-17",
+    "tema": "ingles",
+    "subtema": "Reading: main idea",
+    "dificultad": 2,
+    "tipo": "conocimiento",
+    "contexto": "Many adult learners feel embarrassed about their accent and avoid speaking until they sound \"perfect\". Yet research on English as a lingua franca shows that most conversations in English today take place between non-native speakers. In these exchanges, a listener rarely cares whether a speaker sounds like someone from London or Chicago; what matters is whether the message can be understood without effort. Certain features, such as stressing the right syllable, are far more important for understanding than the exact sound of every vowel. Teachers who insist on a native-like model may therefore be setting an unrealistic goal and, without realising it, making their students more anxious.",
+    "enunciado": "What is the main idea of the text?",
+    "opciones": [
+      "Adult learners can never improve their accent.",
+      "Being easily understood is a more realistic goal for learners than sounding like a native speaker.",
+      "Pronunciation should be removed from English lessons.",
+      "Native speakers cannot understand learners of English."
+    ],
+    "correcta": 1,
+    "explicacion": "El texto defiende la inteligibilidad (message \"understood without effort\") frente al acento nativo, y critica fijar un modelo irreal. No propone eliminar la pronunciación.",
+    "fuente": "Texto original"
+  },
+  {
+    "id": "ingles-18",
+    "tema": "ingles",
+    "subtema": "Reading: inference",
+    "dificultad": 3,
+    "tipo": "conocimiento",
+    "contexto": "Many adult learners feel embarrassed about their accent and avoid speaking until they sound \"perfect\". Yet research on English as a lingua franca shows that most conversations in English today take place between non-native speakers. In these exchanges, a listener rarely cares whether a speaker sounds like someone from London or Chicago; what matters is whether the message can be understood without effort. Certain features, such as stressing the right syllable, are far more important for understanding than the exact sound of every vowel. Teachers who insist on a native-like model may therefore be setting an unrealistic goal and, without realising it, making their students more anxious.",
+    "enunciado": "Which statement would the author most likely agree with?",
+    "opciones": [
+      "Stressing the right syllable can matter more for communication than perfecting every vowel sound.",
+      "Most conversations in English take place between native speakers.",
+      "Accent reduction courses are essential for every adult learner.",
+      "The exact sound of each vowel never affects understanding."
+    ],
+    "correcta": 0,
+    "explicacion": "El texto dice que rasgos como el acento de palabra son \"far more important\" que cada vocal. La primera opción contradice el texto y la última exagera (\"never\").",
+    "fuente": "Texto original"
+  },
+  {
+    "id": "ingles-19",
+    "tema": "ingles",
+    "subtema": "Mixed-level classes",
+    "dificultad": 3,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "In a grade 9 class, five students are around A1 and several others are around B1. The teacher is planning a lesson on describing daily routines. What is the best action?",
+    "opciones": [
+      "Teach at the A1 level so that nobody feels left out and give the B1 students nothing extra.",
+      "Teach at the B1 level and let the A1 students catch up on their own.",
+      "Separate the class permanently by level and teach only the B1 group.",
+      "Keep one common objective but offer tiered versions of the task (different levels of support and extension) and use mixed-level pairs."
+    ],
+    "correcta": 3,
+    "explicacion": "La diferenciación mantiene un objetivo común pero ajusta el apoyo y el reto (tiered tasks, scaffolding, parejas mixtas). Enseñar solo a un nivel o separar de forma permanente deja a parte del grupo sin oportunidades de aprendizaje.",
+    "fuente": "Práctica pedagógica (diferenciación)"
+  },
+  {
+    "id": "ingles-20",
+    "tema": "ingles",
+    "subtema": "Affective filter",
+    "dificultad": 1,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "Students are afraid of making mistakes and stay silent during speaking activities. Which action best lowers their affective filter?",
+    "opciones": [
+      "Call on students one by one in front of the class and correct every error immediately.",
+      "Give extra grammar exercises until they feel ready to speak.",
+      "Start with low-stakes pair work and rehearsal time, and treat mistakes as a normal part of learning.",
+      "Reward only answers that contain no errors."
+    ],
+    "correcta": 2,
+    "explicacion": "Según Krashen, la ansiedad eleva el \"affective filter\" y bloquea la adquisición. Trabajo en parejas, ensayo previo y una actitud positiva ante el error lo reducen; la exposición pública y la corrección inmediata lo aumentan.",
+    "fuente": "Krashen (1982)"
+  },
+  {
+    "id": "ingles-21",
+    "tema": "ingles",
+    "subtema": "Teaching with limited resources",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "In a rural school, a teacher has 42 students, one board, no internet and only a few photocopied pages. Which plan is most appropriate?",
+    "opciones": [
+      "Postpone all speaking activities until more resources arrive.",
+      "Dictate a long text every lesson and have everyone copy it.",
+      "Use only whole-class choral repetition of grammar rules.",
+      "Use pair and group routines with songs, short dialogues and student-made materials from the local context, such as drawings and word cards."
+    ],
+    "correcta": 3,
+    "explicacion": "Con grupos grandes y pocos recursos funcionan las rutinas de trabajo en parejas o grupos y los materiales creados con los estudiantes. Esto maximiza el tiempo de práctica oral sin depender de tecnología.",
+    "fuente": "Práctica pedagógica (contextos rurales)"
+  },
+  {
+    "id": "ingles-22",
+    "tema": "ingles",
+    "subtema": "Error correction",
+    "dificultad": 1,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "During a fluency activity a student says: \"Yesterday I go to the market with my mother.\" The teacher wants to keep the conversation going while giving feedback. Which reply is a recast?",
+    "opciones": [
+      "\"You should say 'went', not 'go'. Repeat after me.\"",
+      "\"Oh, you went to the market with your mother yesterday? What did you buy?\"",
+      "\"Yesterday I ...?\" (pausing and waiting for the student to correct)",
+      "\"Wrong! Use the past tense.\""
+    ],
+    "correcta": 1,
+    "explicacion": "Un \"recast\" reformula correctamente el enunciado del estudiante sin interrumpir el sentido. La opción con pausa es \"elicitation\" (se pide al estudiante que se autocorrija) y las otras son corrección explícita.",
+    "fuente": "Lyster y Ranta (1997)"
+  },
+  {
+    "id": "ingles-23",
+    "tema": "ingles",
+    "subtema": "Krashen: input hypothesis",
+    "dificultad": 1,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "In Krashen's Input Hypothesis, \"i + 1\" refers to:",
+    "opciones": [
+      "one extra hour of instruction each day",
+      "one new grammar rule introduced at the end of every unit",
+      "comprehensible input slightly beyond the learner's current level",
+      "output produced one level above the learner's level and corrected by the teacher"
+    ],
+    "correcta": 2,
+    "explicacion": "\"i\" es el nivel actual del aprendiz y \"+1\" el paso siguiente: input comprensible un poco más difícil. Para Krashen, la adquisición ocurre al comprender mensajes, no al corregir producción.",
+    "fuente": "Krashen (1982)"
+  },
+  {
+    "id": "ingles-24",
+    "tema": "ingles",
+    "subtema": "Task-Based Language Teaching",
+    "dificultad": 1,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "A teacher wants to apply Task-Based Language Teaching. Which activity is a genuine task?",
+    "opciones": [
+      "Groups plan a one-day school trip within a budget and present their final plan to the class.",
+      "Students complete blanks with the correct past simple forms.",
+      "Students repeat the lines of a dialogue in chorus.",
+      "Students translate a paragraph into Spanish."
+    ],
+    "correcta": 0,
+    "explicacion": "En TBLT una tarea tiene un resultado no lingüístico (un plan, una decisión) y el significado es lo central. Los ejercicios de completar, repetir o traducir se centran en la forma.",
+    "fuente": "Willis (1996), TBLT"
+  },
+  {
+    "id": "ingles-25",
+    "tema": "ingles",
+    "subtema": "Assessing speaking",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "A teacher must grade short oral presentations fairly. Which is the best practice?",
+    "opciones": [
+      "Give one global mark after the last presentation, based on general impression.",
+      "Count only grammar mistakes.",
+      "Use an analytic rubric (fluency, accuracy, vocabulary, pronunciation, delivery) with clear descriptors and share it before the task.",
+      "Grade only the students who volunteer."
+    ],
+    "correcta": 2,
+    "explicacion": "Una rúbrica analítica con descriptores claros y conocida de antemano da transparencia, coherencia y retroalimentación formativa. Una impresión general o un solo criterio no refleja la competencia oral completa.",
+    "fuente": "Evaluación del lenguaje (rúbricas)"
+  },
+  {
+    "id": "ingles-26",
+    "tema": "ingles",
+    "subtema": "Scaffolding",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "A teacher assigns an authentic article that is slightly too difficult for the group. Which approach best exemplifies scaffolding?",
+    "opciones": [
+      "Hand out the article and a dictionary and wait.",
+      "Replace it with a text far below the students' level.",
+      "Translate the whole article into Spanish before reading.",
+      "Pre-teach key vocabulary, activate prior knowledge, use a graphic organiser and gradually withdraw the support."
+    ],
+    "correcta": 3,
+    "explicacion": "\"Scaffolding\" es un apoyo temporal que permite lograr lo que el estudiante aún no haría solo (zona de desarrollo próximo) y que se retira gradualmente. Dejarlos solos o simplificar en exceso no cumple ese fin.",
+    "fuente": "Vygotsky; Bruner (andamiaje)"
+  },
+  {
+    "id": "ingles-27",
+    "tema": "ingles",
+    "subtema": "Teaching pronunciation",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "Students pronounce \"ship\" and \"sheep\" in the same way, which causes misunderstandings. What is the most effective activity?",
+    "opciones": [
+      "Minimal pair listening and production practice in meaningful contexts, focusing on the /ɪ/ and /iː/ contrast.",
+      "Explain the contrast only in writing, without any listening.",
+      "Ask students to read aloud until they fix it on their own.",
+      "Avoid those words in class."
+    ],
+    "correcta": 0,
+    "explicacion": "Los pares mínimos (ship/sheep) entrenan la discriminación auditiva y la producción de /ɪ/ y /iː/. Explicar solo por escrito o evitar las palabras no desarrolla la percepción ni la producción.",
+    "fuente": "Didáctica de la pronunciación"
+  },
+  {
+    "id": "ingles-28",
+    "tema": "ingles",
+    "subtema": "Skills integration",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "Which sequence best integrates skills in a single lesson about recycling?",
+    "opciones": [
+      "Four unrelated worksheets on different topics, one for each skill.",
+      "Students listen to a short report, discuss it in groups and then write an opinion paragraph using ideas from the discussion.",
+      "Students read aloud the same text three times.",
+      "A grammar drill followed by translation of isolated sentences."
+    ],
+    "correcta": 1,
+    "explicacion": "La integración de destrezas encadena listening, speaking y writing alrededor de un mismo tema y propósito, con lo cual cada actividad aporta insumos a la siguiente.",
+    "fuente": "Didáctica de las cuatro destrezas"
+  },
+  {
+    "id": "ingles-29",
+    "tema": "ingles",
+    "subtema": "Lexical Approach",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "Students often write \"make homework\" and \"do a mistake\". From a Lexical Approach perspective, what should the teacher do?",
+    "opciones": [
+      "Teach and recycle common collocations as chunks in context (do homework, make a mistake).",
+      "Explain only that \"make\" and \"do\" are verbs.",
+      "Give a translated list of isolated words to memorise.",
+      "Forbid the use of Spanish in class."
+    ],
+    "correcta": 0,
+    "explicacion": "El Lexical Approach (Lewis) sostiene que el lenguaje se aprende en bloques o colocaciones, no en palabras sueltas. Enseñar \"do homework\" y \"make a mistake\" como chunks y reciclarlos corrige ese error.",
+    "fuente": "Lewis (1993), Lexical Approach"
+  },
+  {
+    "id": "ingles-30",
+    "tema": "ingles",
+    "subtema": "CEFR can-do descriptors",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "A teacher writes learning objectives for a B1 group, based on CEFR can-do descriptors. Which objective is the best?",
+    "opciones": [
+      "Students will learn the past simple tense.",
+      "The teacher will explain the irregular verb list.",
+      "Students will be able to describe a past experience and give brief reasons for their opinions.",
+      "Students will memorise forty irregular verbs."
+    ],
+    "correcta": 2,
+    "explicacion": "Los descriptores \"can-do\" del MCER definen lo que el estudiante puede hacer con la lengua. Un buen objetivo se redacta en términos de desempeño comunicativo observable, no de contenido gramatical o actividad del docente.",
+    "fuente": "MCER (Consejo de Europa)"
+  },
+  {
+    "id": "ingles-31",
+    "tema": "ingles",
+    "subtema": "CLIL",
+    "dificultad": 1,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "A science teacher and an English teacher plan to teach a unit on the water cycle in English. Which design reflects CLIL?",
+    "opciones": [
+      "The science is taught in Spanish and an English word list is added at the end.",
+      "Both content and language objectives are set, and tasks support subject language (evaporation, condensation) while teaching the concepts.",
+      "Only English grammar is taught, using water cycle sentences as examples.",
+      "The assessment covers only English grammar."
+    ],
+    "correcta": 1,
+    "explicacion": "CLIL (Content and Language Integrated Learning) tiene un doble foco: contenido y lengua, con andamiaje del lenguaje propio de la materia. Las otras opciones separan o descuidan uno de los dos focos.",
+    "fuente": "Coyle, Hood y Marsh (2010)"
+  },
+  {
+    "id": "ingles-32",
+    "tema": "ingles",
+    "subtema": "PPP vs TTT",
+    "dificultad": 3,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "Which sequence describes Test-Teach-Test (TTT)?",
+    "opciones": [
+      "The teacher presents the grammar, students practise it in controlled exercises and then produce it freely.",
+      "Students memorise dialogues and then translate them.",
+      "Students listen silently for a month before producing language.",
+      "Students attempt a task first, the teacher analyses their difficulties and teaches the language needed, then students do a similar task again."
+    ],
+    "correcta": 3,
+    "explicacion": "En TTT el estudiante empieza con una tarea, el docente detecta necesidades y enseña, y luego se repite la tarea. La primera alternativa descrita en las opciones incorrectas corresponde a PPP (Presentation-Practice-Production).",
+    "fuente": "Didáctica del inglés (PPP/TTT)"
+  },
+  {
+    "id": "ingles-33",
+    "tema": "ingles",
+    "subtema": "Methods and approaches",
+    "dificultad": 1,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "Which pairing of method and feature is correct?",
+    "opciones": [
+      "Audiolingual Method: the main activity is translating literary passages.",
+      "Grammar-Translation: oral pattern drills to form habits.",
+      "Total Physical Response: students write long argumentative essays.",
+      "Total Physical Response: students respond to commands with body movements."
+    ],
+    "correcta": 3,
+    "explicacion": "TPR (Asher) vincula el lenguaje con acciones físicas. Grammar-Translation se basa en traducir textos y reglas; el método Audiolingual, en repeticiones y patrones para formar hábitos. Las opciones incorrectas intercambian esas características.",
+    "fuente": "Richards y Rodgers (2014)"
+  },
+  {
+    "id": "ingles-34",
+    "tema": "ingles",
+    "subtema": "Ley 1651 de 2013",
+    "dificultad": 3,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "Ley 1651 de 2013 (Ley de Bilingüismo) is best described as:",
+    "opciones": [
+      "a law that amends Ley 115 de 1994 to include foreign-language development among educational goals",
+      "a law that created the Saber 11 exam",
+      "a decree that sets the salary scale for teachers",
+      "a law that bans teaching in Spanish in public schools"
+    ],
+    "correcta": 0,
+    "explicacion": "La Ley 1651 de 2013 modifica artículos de la Ley 115 de 1994 (Ley General de Educación) para incluir el desarrollo de competencias en lengua extranjera entre los objetivos y fines de la educación. No crea el examen Saber 11 ni regula salarios.",
+    "fuente": "Ley 1651 de 2013"
+  },
+  {
+    "id": "ingles-35",
+    "tema": "ingles",
+    "subtema": "Estándares Básicos: levels",
+    "dificultad": 1,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "According to the Estándares Básicos de Competencias en Lenguas Extranjeras: Inglés (Guía 22), which level is expected for students at the end of grade 11?",
+    "opciones": [
+      "A2",
+      "B2",
+      "B1",
+      "C1"
+    ],
+    "correcta": 2,
+    "explicacion": "La Guía 22 (MEN, 2006), alineada con el MCER, propone A1 en grados 1 a 3, A2 en 4 a 7 y B1 en 8 a 11. La meta del Programa Nacional de Bilingüismo es B1 para los estudiantes al terminar el grado 11 y B2 para los docentes de inglés.",
+    "fuente": "Guía 22 MEN (2006)"
+  },
+  {
+    "id": "ingles-36",
+    "tema": "ingles",
+    "subtema": "Saber 11 English levels",
+    "dificultad": 2,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "Which is the highest level reported in the English section of Saber 11?",
+    "opciones": [
+      "B2",
+      "B+",
+      "C1",
+      "A2+"
+    ],
+    "correcta": 1,
+    "explicacion": "La prueba de inglés de Saber 11 reporta los niveles A-, A1, A2, B1 y B+. B+ indica un desempeño superior a B1; no se reportan B2 ni C1.",
+    "fuente": "ICFES, Saber 11"
+  },
+  {
+    "id": "ingles-37",
+    "tema": "ingles",
+    "subtema": "Derechos Básicos de Aprendizaje",
+    "dificultad": 2,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "The Derechos Básicos de Aprendizaje (DBA) de Inglés, published by the MEN, are:",
+    "opciones": [
+      "a mandatory textbook series for public schools",
+      "references of what students should know and be able to do in each grade from 6 to 11, articulated with the national standards",
+      "an instrument for evaluating teacher performance",
+      "a test that replaced Saber 11"
+    ],
+    "correcta": 1,
+    "explicacion": "Los DBA de Inglés (grados 6 a 11) describen aprendizajes esperados por grado y se articulan con los Estándares y el MCER. Se complementan con el Currículo Sugerido de Inglés (2016), una propuesta flexible para planear.",
+    "fuente": "DBA Inglés MEN (2016)"
+  },
+  {
+    "id": "ingles-38",
+    "tema": "ingles",
+    "subtema": "Curricular planning",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "A grade 10 teacher must plan the annual English syllabus. Which approach best follows the national references?",
+    "opciones": [
+      "Follow a commercial textbook's table of contents regardless of the students' level.",
+      "Design the course only around a list of grammar topics.",
+      "Use the Estándares and the DBA as references, adapt the Currículo Sugerido to the school context and set outcomes aimed at B1.",
+      "Practise only Saber 11 multiple-choice items all year."
+    ],
+    "correcta": 2,
+    "explicacion": "El MEN ofrece como referentes los Estándares (Guía 22), los DBA y el Currículo Sugerido, que el docente adapta a su contexto. Limitarse a un libro, a la gramática o a la práctica de pruebas no atiende las competencias comunicativas ni el nivel meta B1.",
+    "fuente": "Currículo Sugerido de Inglés MEN (2016)"
+  },
+  {
+    "id": "ingles-39",
+    "tema": "ingles",
+    "subtema": "Meeting students at their level",
+    "dificultad": 3,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "A grade 9 student arrives from a rural school with an A1 level in English. The national goal is B1 by grade 11. What is the most professional response?",
+    "opciones": [
+      "Fail the student until the level matches the grade.",
+      "Lower expectations permanently and offer no further support.",
+      "Place the student in a grade 4 class.",
+      "Diagnose the level, set progressive realistic goals with scaffolded support and keep B1 as the horizon while recognising progress."
+    ],
+    "correcta": 3,
+    "explicacion": "Una respuesta profesional parte de un diagnóstico, define metas graduales con andamiaje y mantiene la meta nacional (B1) como referencia. Reprobar, rebajar permanentemente las expectativas o bajar de grado no favorecen el aprendizaje.",
+    "fuente": "Guía 22 MEN (2006)"
+  },
+  {
+    "id": "ingles-40",
+    "tema": "ingles",
+    "subtema": "Estándares: levels by grade",
+    "dificultad": 1,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "A parent of a grade 5 student asks which level the national standards expect for grades 4 to 7. What should the teacher answer?",
+    "opciones": [
+      "A2",
+      "A1",
+      "B1",
+      "B2"
+    ],
+    "correcta": 0,
+    "explicacion": "La Guía 22 establece A2 (nivel básico) para los grados 4 a 7. A1 corresponde a los grados 1 a 3 y B1 a los grados 8 a 11.",
+    "fuente": "Guía 22 MEN (2006)"
+  }
+]

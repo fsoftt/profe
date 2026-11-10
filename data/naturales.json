@@ -1,0 +1,722 @@
+[
+  {
+    "id": "naturales-01",
+    "tema": "naturales",
+    "subtema": "Biología: célula",
+    "dificultad": 1,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "¿En qué organelo de la célula eucariota se produce la mayor parte del ATP mediante la respiración celular aeróbica?",
+    "opciones": [
+      "Ribosoma",
+      "Aparato de Golgi",
+      "Lisosoma",
+      "Mitocondria"
+    ],
+    "correcta": 3,
+    "retro": [
+      "Error: el ribosoma sintetiza proteínas; no produce ATP.",
+      "Error: el aparato de Golgi modifica, empaqueta y distribuye proteínas y lípidos.",
+      "Error: el lisosoma realiza digestión intracelular con enzimas hidrolíticas.",
+      "Correcto: en la mitocondria ocurren el ciclo de Krebs y la fosforilación oxidativa."
+    ],
+    "explicacion": "La mitocondria es el principal sitio de producción de ATP en células eucariotas con oxígeno. Allí se completa la oxidación de la glucosa. Por eso abundan en células con alta demanda energética, como las musculares.",
+    "fuente": "Conocimiento disciplinar de biología"
+  },
+  {
+    "id": "naturales-02",
+    "tema": "naturales",
+    "subtema": "Biología: ADN",
+    "dificultad": 1,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "Una hebra de ADN tiene la secuencia 5′-ATGCCA-3′. ¿Cuál es la secuencia de la hebra complementaria, escrita de 3′ a 5′?",
+    "opciones": [
+      "3′-UACGGU-5′",
+      "3′-ATGCCA-5′",
+      "3′-TACGGT-5′",
+      "3′-CGTAAC-5′"
+    ],
+    "correcta": 2,
+    "retro": [
+      "Error: el uracilo (U) es propio del ARN; el ADN usa timina (T).",
+      "Error: es la misma secuencia original, no la complementaria.",
+      "Correcto: A se aparea con T y G con C, así que ATGCCA se complementa con TACGGT.",
+      "Error: se aparearon mal las bases (A con C y T con G); los pares correctos son A–T y G–C."
+    ],
+    "explicacion": "En el ADN, la adenina se aparea con la timina y la guanina con la citosina. Base por base: A→T, T→A, G→C, C→G, C→G, A→T, que da TACGGT. Las dos hebras son antiparalelas.",
+    "fuente": "Conocimiento disciplinar de biología"
+  },
+  {
+    "id": "naturales-03",
+    "tema": "naturales",
+    "subtema": "Genética mendeliana",
+    "dificultad": 1,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "Dos plantas de arveja heterocigotas para el color de la flor (Aa), donde A (púrpura) domina sobre a (blanca), se cruzan. ¿Qué proporción fenotípica se espera en la descendencia?",
+    "opciones": [
+      "1 púrpura : 1 blanca",
+      "3 púrpuras : 1 blanca",
+      "1 púrpura : 2 rosadas : 1 blanca",
+      "Todas púrpuras"
+    ],
+    "correcta": 1,
+    "retro": [
+      "Error: 1 : 1 corresponde al cruce Aa × aa.",
+      "Correcto: AA, Aa y Aa son púrpuras y aa es blanca, en proporción 3 : 1.",
+      "Error: esa proporción sería de dominancia incompleta; aquí A domina sobre a.",
+      "Error: la blanca (aa) aparece en 1/4 de la descendencia."
+    ],
+    "explicacion": "El cuadro de Punnett de Aa × Aa da 1 AA : 2 Aa : 1 aa. Como A es dominante, los fenotipos son 3 púrpuras y 1 blanca. La proporción genotípica es 1 : 2 : 1.",
+    "fuente": "Conocimiento disciplinar de biología (genética mendeliana)"
+  },
+  {
+    "id": "naturales-04",
+    "tema": "naturales",
+    "subtema": "Química: pH",
+    "dificultad": 1,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "Una solución tiene pH 3 y otra pH 5. ¿Cuál afirmación es correcta?",
+    "opciones": [
+      "La de pH 3 es 2 veces más ácida.",
+      "La de pH 5 es 100 veces más ácida.",
+      "La de pH 3 es 100 veces más ácida, porque su concentración de H⁺ es 100 veces mayor.",
+      "Ambas son básicas."
+    ],
+    "correcta": 2,
+    "retro": [
+      "Error: la escala de pH es logarítmica; dos unidades equivalen a 10² = 100 veces.",
+      "Error: a menor pH, mayor acidez; la de pH 5 es la menos ácida.",
+      "Correcto: pH = −log[H⁺], así que [H⁺] = 10⁻³ y 10⁻⁵ M, una razón de 100.",
+      "Error: los valores de pH menores que 7 corresponden a soluciones ácidas."
+    ],
+    "explicacion": "El pH se define como −log[H⁺]. Con pH 3, [H⁺] = 10⁻³ M; con pH 5, [H⁺] = 10⁻⁵ M. La razón es 10⁻³ / 10⁻⁵ = 10² = 100.",
+    "fuente": "Conocimiento disciplinar de química"
+  },
+  {
+    "id": "naturales-05",
+    "tema": "naturales",
+    "subtema": "Química: tabla periódica",
+    "dificultad": 1,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "¿Cuál par de elementos tiene propiedades químicas más parecidas por pertenecer al mismo grupo de la tabla periódica?",
+    "opciones": [
+      "Sodio (Na) y cloro (Cl)",
+      "Sodio (Na) y potasio (K)",
+      "Sodio (Na) y magnesio (Mg)",
+      "Carbono (C) y oxígeno (O)"
+    ],
+    "correcta": 1,
+    "retro": [
+      "Error: el sodio es metal alcalino y el cloro es un halógeno; sus propiedades son muy distintas.",
+      "Correcto: ambos son metales alcalinos (grupo 1) con un electrón de valencia.",
+      "Error: el magnesio está en el grupo 2 (alcalinotérreos), con dos electrones de valencia.",
+      "Error: están en el mismo periodo, pero en grupos distintos."
+    ],
+    "explicacion": "Los elementos de un mismo grupo tienen igual número de electrones de valencia y, por ello, propiedades químicas semejantes. El Na y el K, del grupo 1, forman iones +1 y reaccionan vigorosamente con el agua.",
+    "fuente": "Conocimiento disciplinar de química"
+  },
+  {
+    "id": "naturales-06",
+    "tema": "naturales",
+    "subtema": "Genética: dihibridismo",
+    "dificultad": 2,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "Se cruzan dos plantas AaBb, con genes que se heredan de forma independiente. ¿Qué fracción de la descendencia se espera con genotipo aabb?",
+    "opciones": [
+      "1/4",
+      "1/8",
+      "3/16",
+      "1/16"
+    ],
+    "correcta": 3,
+    "retro": [
+      "Error: 1/4 es la probabilidad de aa (o de bb) por separado, no de ambos.",
+      "Error: no corresponde a ningún producto de las probabilidades de los dos genes.",
+      "Error: 3/16 es la proporción de cada fenotipo mixto (por ejemplo, dominante en un gen y recesivo en el otro), no la del doble recesivo.",
+      "Correcto: P(aa) = 1/4 y P(bb) = 1/4, y por independencia 1/4 · 1/4 = 1/16."
+    ],
+    "explicacion": "Para cada gen, Aa × Aa produce aa en 1/4 de los casos, y lo mismo ocurre para bb. Al ser genes independientes se multiplican las probabilidades: 1/4 · 1/4 = 1/16. La proporción fenotípica clásica del dihíbrido es 9 : 3 : 3 : 1.",
+    "fuente": "Conocimiento disciplinar de biología (segunda ley de Mendel)"
+  },
+  {
+    "id": "naturales-07",
+    "tema": "naturales",
+    "subtema": "Ecología: ecosistemas colombianos",
+    "dificultad": 2,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "En Colombia, los páramos se consideran ecosistemas estratégicos principalmente porque:",
+    "opciones": [
+      "Su vegetación y sus suelos regulan y almacenan agua, y de ellos nacen muchos ríos que abastecen a poblaciones.",
+      "Tienen las temperaturas más altas del país, lo que favorece la evaporación.",
+      "Son la zona de mayor producción de cultivos de tierra caliente.",
+      "Carecen de vegetación, lo que facilita su urbanización."
+    ],
+    "correcta": 0,
+    "retro": [
+      "Correcto: el páramo funciona como regulador hídrico y fuente de agua.",
+      "Error: los páramos son ecosistemas fríos de alta montaña.",
+      "Error: los cultivos de tierra caliente se dan en zonas bajas, no en los páramos.",
+      "Error: tienen vegetación característica (pajonales, frailejones, musgos) y requieren protección frente a la ocupación."
+    ],
+    "explicacion": "Los páramos son ecosistemas de alta montaña, con frailejones, pajonales y suelos ricos en materia orgánica que retienen agua y la liberan gradualmente. Muchas fuentes de agua dependen de ellos. Por eso es prioritaria su conservación.",
+    "fuente": "Conocimiento disciplinar de ecología; Estándares Básicos de Competencias en Ciencias Naturales (MEN, 2004)"
+  },
+  {
+    "id": "naturales-08",
+    "tema": "naturales",
+    "subtema": "Evolución: selección natural",
+    "dificultad": 2,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "¿Cuál enunciado describe mejor el mecanismo de la selección natural?",
+    "opciones": [
+      "Los individuos desarrollan los rasgos que necesitan y los transmiten a su descendencia.",
+      "Los individuos más fuertes siempre sobreviven y los demás se extinguen en una generación.",
+      "En una población con variación heredable, los individuos con rasgos que favorecen su supervivencia y reproducción dejan más descendientes, por lo que esos rasgos se vuelven más frecuentes.",
+      "Las mutaciones aparecen porque el ambiente las exige."
+    ],
+    "correcta": 2,
+    "retro": [
+      "Error: es la idea lamarckiana de herencia de caracteres adquiridos, que no describe el mecanismo.",
+      "Error: la selección actúa sobre la reproducción diferencial en poblaciones a lo largo de generaciones, no es una eliminación inmediata.",
+      "Correcto: requiere variación, herencia y reproducción diferencial.",
+      "Error: las mutaciones ocurren al azar; el ambiente solo influye en cuáles se mantienen."
+    ],
+    "explicacion": "Darwin y Wallace propusieron que, con variación heredable y reproducción diferencial, las poblaciones cambian con el tiempo. La selección no crea variantes, sino que favorece unas sobre otras. Actúa sobre poblaciones, no sobre individuos.",
+    "fuente": "Conocimiento disciplinar de biología evolutiva"
+  },
+  {
+    "id": "naturales-09",
+    "tema": "naturales",
+    "subtema": "Química: estequiometría",
+    "dificultad": 2,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "Según la ecuación 2H₂ + O₂ → 2H₂O, ¿cuántos gramos de agua se forman cuando reaccionan completamente 4 g de H₂ con exceso de oxígeno? (Masas molares: H₂ = 2 g/mol; H₂O = 18 g/mol)",
+    "opciones": [
+      "18 g",
+      "72 g",
+      "4 g",
+      "36 g"
+    ],
+    "correcta": 3,
+    "retro": [
+      "Error: 18 g son solo 1 mol de agua; con 2 mol de H₂ se forman 2 mol.",
+      "Error: 72 g serían 4 mol de agua, el doble de lo que permite 2 mol de H₂.",
+      "Error: la masa del producto no es igual a la masa del reactivo limitante; el oxígeno también se incorpora.",
+      "Correcto: 4 g ÷ 2 g/mol = 2 mol de H₂, que producen 2 mol de H₂O = 36 g."
+    ],
+    "explicacion": "Se pasa a moles: 4 g ÷ 2 g/mol = 2 mol de H₂. La razón molar H₂ : H₂O es 2 : 2, así que se forman 2 mol de H₂O. Su masa es 2 mol · 18 g/mol = 36 g.",
+    "fuente": "Conocimiento disciplinar de química"
+  },
+  {
+    "id": "naturales-10",
+    "tema": "naturales",
+    "subtema": "Física: cinemática",
+    "dificultad": 2,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "Un carro parte del reposo con aceleración constante de 2 m/s². ¿Qué distancia recorre en los primeros 5 s?",
+    "opciones": [
+      "10 m",
+      "50 m",
+      "5 m",
+      "25 m"
+    ],
+    "correcta": 3,
+    "retro": [
+      "Error: 10 m/s es la rapidez a los 5 s (v = a · t), no la distancia.",
+      "Error: se calculó a · t² sin el factor ½.",
+      "Error: 5 es el tiempo en segundos, no una distancia.",
+      "Correcto: x = ½ · a · t² = ½ · 2 · 25 = 25 m."
+    ],
+    "explicacion": "Con velocidad inicial nula, x = ½ a t². Reemplazando: x = ½ · 2 m/s² · (5 s)² = 25 m. La rapidez a los 5 s es 10 m/s.",
+    "fuente": "Conocimiento disciplinar de física"
+  },
+  {
+    "id": "naturales-11",
+    "tema": "naturales",
+    "subtema": "Física: energía",
+    "dificultad": 2,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "Un objeto de 2 kg se suelta desde 5 m de altura (g = 10 m/s², sin fricción). ¿Con qué rapidez llega al suelo?",
+    "opciones": [
+      "10 m/s",
+      "100 m/s",
+      "20 m/s",
+      "5 m/s"
+    ],
+    "correcta": 0,
+    "retro": [
+      "Correcto: mgh = ½mv² da v = √(2 · 10 · 5) = 10 m/s.",
+      "Error: 100 es el valor de la energía en julios (2 · 10 · 5), no la rapidez.",
+      "Error: se duplicó el resultado; v² = 2gh = 100 y v = 10 m/s.",
+      "Error: 5 m es la altura inicial, no la rapidez final."
+    ],
+    "explicacion": "Por conservación de la energía mecánica, la energía potencial se convierte en cinética: mgh = ½mv². La masa se cancela: v = √(2gh) = √(2 · 10 · 5) = √100 = 10 m/s.",
+    "fuente": "Conocimiento disciplinar de física"
+  },
+  {
+    "id": "naturales-12",
+    "tema": "naturales",
+    "subtema": "Física: circuitos",
+    "dificultad": 2,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "Dos resistencias de 4 Ω y 6 Ω se conectan en serie a una batería de 20 V. ¿Cuál es la corriente en el circuito?",
+    "opciones": [
+      "5 A",
+      "2 A",
+      "3,3 A",
+      "0,5 A"
+    ],
+    "correcta": 1,
+    "retro": [
+      "Error: 5 A es 20 V ÷ 4 Ω; se usó solo una de las resistencias.",
+      "Correcto: R total = 10 Ω e I = 20 V ÷ 10 Ω = 2 A.",
+      "Error: 3,3 A es 20 V ÷ 6 Ω; se usó solo una de las resistencias.",
+      "Error: 0,5 A es el resultado de invertir la relación (10 ÷ 20); la ley de Ohm es I = V/R."
+    ],
+    "explicacion": "En serie, las resistencias se suman: R = 4 + 6 = 10 Ω. Por la ley de Ohm, I = V/R = 20 V ÷ 10 Ω = 2 A. La misma corriente circula por ambas resistencias.",
+    "fuente": "Conocimiento disciplinar de física"
+  },
+  {
+    "id": "naturales-13",
+    "tema": "naturales",
+    "subtema": "Química: soluciones",
+    "dificultad": 3,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "Se disuelven 20 g de NaOH (masa molar 40 g/mol) en agua hasta completar 500 mL de solución. ¿Cuál es la molaridad?",
+    "opciones": [
+      "1 M",
+      "0,5 M",
+      "2 M",
+      "0,04 M"
+    ],
+    "correcta": 0,
+    "retro": [
+      "Correcto: 20 g ÷ 40 g/mol = 0,5 mol en 0,5 L, es decir, 1 mol/L.",
+      "Error: 0,5 son los moles, no la molaridad; falta dividir entre el volumen en litros.",
+      "Error: se dividió entre 0,25 L, o se duplicó el volumen en lugar de convertir 500 mL a 0,5 L.",
+      "Error: 20 ÷ 500 es una densidad en g/mL, no una concentración molar."
+    ],
+    "explicacion": "Moles de soluto: 20 g ÷ 40 g/mol = 0,5 mol. Volumen: 500 mL = 0,5 L. Molaridad = 0,5 mol ÷ 0,5 L = 1 mol/L = 1 M.",
+    "fuente": "Conocimiento disciplinar de química"
+  },
+  {
+    "id": "naturales-14",
+    "tema": "naturales",
+    "subtema": "Genética: herencia ligada al sexo",
+    "dificultad": 3,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "El daltonismo es un rasgo recesivo ligado al cromosoma X. Una mujer portadora se une con un hombre de visión normal. ¿Qué probabilidad hay de que un hijo varón sea daltónico?",
+    "opciones": [
+      "50 %",
+      "25 %",
+      "100 %",
+      "0 %"
+    ],
+    "correcta": 0,
+    "retro": [
+      "Correcto: el hijo recibe el X de la madre, que es X^d o X^D con igual probabilidad.",
+      "Error: 25 % es la probabilidad de un hijo varón daltónico entre todos los hijos, no condicionada a que sea varón.",
+      "Error: solo la mitad de los hijos varones hereda el X con el alelo recesivo.",
+      "Error: los varones reciben su único X de la madre portadora, por lo que sí pueden ser daltónicos."
+    ],
+    "explicacion": "La madre portadora (X^D X^d) transmite uno de sus X con probabilidad 1/2 a cada hijo. El hijo varón recibe el Y del padre y, por tanto, expresa el rasgo si recibe X^d: probabilidad 1/2. Entre todos los hijos (de ambos sexos), un hijo varón daltónico tiene probabilidad 1/4.",
+    "fuente": "Conocimiento disciplinar de biología (herencia ligada al sexo)"
+  },
+  {
+    "id": "naturales-15",
+    "tema": "naturales",
+    "subtema": "Estándares de Ciencias Naturales",
+    "dificultad": 1,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "Los Estándares Básicos de Competencias en Ciencias Naturales agrupan las acciones de pensamiento y producción en tres componentes. ¿Cuál lista es la correcta?",
+    "opciones": [
+      "Biología, química y física.",
+      "Me aproximo al conocimiento como científico natural; manejo conocimientos propios de las ciencias naturales; desarrollo compromisos personales y sociales.",
+      "Conceptos, procedimientos y actitudes.",
+      "Observación, experimentación y comunicación."
+    ],
+    "correcta": 1,
+    "retro": [
+      "Error: biología, química y física son disciplinas, no los componentes de los Estándares.",
+      "Correcto: son los tres grupos de estándares.",
+      "Error: es otra clasificación de contenidos escolares y no la de los Estándares.",
+      "Error: son habilidades científicas, pero no los tres componentes de los Estándares."
+    ],
+    "explicacion": "Los Estándares se organizan en tres grupos: aproximarse al conocimiento como científico natural, manejar conocimientos propios de las ciencias naturales (entorno vivo, entorno físico, ciencia, tecnología y sociedad) y desarrollar compromisos personales y sociales.",
+    "fuente": "Estándares Básicos de Competencias en Ciencias Naturales (MEN, 2004)"
+  },
+  {
+    "id": "naturales-16",
+    "tema": "naturales",
+    "subtema": "Saber 11: competencias",
+    "dificultad": 2,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "En Saber 11, Ciencias Naturales, ¿qué competencia se evalúa cuando el estudiante plantea preguntas, formula hipótesis y analiza datos de un experimento?",
+    "opciones": [
+      "Indagación",
+      "Uso comprensivo del conocimiento científico",
+      "Explicación de fenómenos",
+      "Competencia ciudadana ambiental"
+    ],
+    "correcta": 0,
+    "retro": [
+      "Correcto: la indagación incluye plantear preguntas, hipótesis, procedimientos y análisis de datos.",
+      "Error: esta competencia se refiere a usar conceptos y teorías para resolver problemas.",
+      "Error: esta competencia consiste en construir explicaciones y argumentos sobre fenómenos.",
+      "Error: no es una de las tres competencias de la prueba de Ciencias Naturales."
+    ],
+    "explicacion": "La prueba evalúa tres competencias: uso comprensivo del conocimiento científico, explicación de fenómenos e indagación. Esta última se refleja en formular preguntas y problemas, plantear hipótesis, diseñar y analizar experimentos e interpretar resultados.",
+    "fuente": "Saber 11, Ciencias Naturales (ICFES)"
+  },
+  {
+    "id": "naturales-17",
+    "tema": "naturales",
+    "subtema": "PRAE",
+    "dificultad": 2,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "El Proyecto Ambiental Escolar (PRAE) en Colombia se caracteriza por:",
+    "opciones": [
+      "Ser una asignatura dictada solo por el docente de biología.",
+      "Incorporar la problemática ambiental local en el PEI, de forma interdisciplinaria y con participación de la comunidad educativa.",
+      "Ser una campaña de reciclaje de un día al año.",
+      "Ser una actividad opcional sin relación con el PEI."
+    ],
+    "correcta": 1,
+    "retro": [
+      "Error: no es una asignatura de un solo docente; es transversal a todas las áreas.",
+      "Correcto: el PRAE es transversal y está articulado con el proyecto educativo institucional.",
+      "Error: es un proyecto continuo de formación y gestión, no una actividad aislada.",
+      "Error: debe articularse con el PEI."
+    ],
+    "explicacion": "El PRAE se establece en el Decreto 1743 de 1994 para todos los niveles de la educación formal. Parte de un diagnóstico de la problemática ambiental del contexto y compromete a varias áreas, estudiantes, docentes y comunidad.",
+    "fuente": "Decreto 1743 de 1994 (MEN)"
+  },
+  {
+    "id": "naturales-18",
+    "tema": "naturales",
+    "subtema": "Cambio conceptual",
+    "dificultad": 3,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "Según el modelo de cambio conceptual (Posner, Strike, Hewson y Gertzog, 1982), para que un estudiante reemplace una idea previa por una concepción científica, esta debe ser, además de generar insatisfacción con la idea previa:",
+    "opciones": [
+      "Memorizable, breve y con ejemplos",
+      "Autorizada por el docente, formal y matemática",
+      "Inteligible, plausible y fructífera",
+      "Simple, popular y coherente con el sentido común"
+    ],
+    "correcta": 2,
+    "retro": [
+      "Error: la facilidad para memorizar no garantiza el cambio de concepción.",
+      "Error: la autoridad del docente no es una condición del modelo.",
+      "Correcto: son las condiciones del modelo: insatisfacción, inteligibilidad, plausibilidad y fecundidad.",
+      "Error: el sentido común suele ser la fuente de las ideas previas que se quiere revisar."
+    ],
+    "explicacion": "El modelo propone que el cambio ocurre si el estudiante está insatisfecho con su concepción y la nueva le resulta inteligible, plausible y fructífera para explicar más situaciones. Por eso se diseñan actividades que generen conflicto cognitivo.",
+    "fuente": "Posner, Strike, Hewson y Gertzog (1982)"
+  },
+  {
+    "id": "naturales-19",
+    "tema": "naturales",
+    "subtema": "Trabajo de laboratorio seguro",
+    "dificultad": 1,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "Antes de una práctica con ácido clorhídrico diluido, el docente de grado noveno quiere garantizar un trabajo seguro. ¿Qué acción es más adecuada?",
+    "opciones": [
+      "Entregar la guía y explicar la seguridad solo si ocurre algún incidente.",
+      "Permitir que huelan o prueben la solución para reconocer su acidez.",
+      "Revisar con los estudiantes la ficha de datos de seguridad, los elementos de protección personal (gafas, bata, guantes) y los procedimientos ante derrames o salpicaduras, antes de iniciar.",
+      "Delegar el uso del ácido en los estudiantes con mejores notas, sin supervisión directa."
+    ],
+    "correcta": 2,
+    "retro": [
+      "Error: la seguridad se explica antes, no después del incidente.",
+      "Error: oler o probar sustancias químicas es una práctica insegura.",
+      "Correcto: la prevención incluye informar riesgos, usar protección y saber actuar ante accidentes.",
+      "Error: el docente debe supervisar siempre."
+    ],
+    "explicacion": "El trabajo seguro en el laboratorio se planea antes de la práctica: conocer los riesgos de las sustancias, usar protección y establecer normas. Esto se articula con el compromiso personal y social de cuidar de sí mismo y de los demás.",
+    "fuente": "Estándares Básicos de Competencias en Ciencias Naturales (MEN, 2004)"
+  },
+  {
+    "id": "naturales-20",
+    "tema": "naturales",
+    "subtema": "Ideas previas: caída de los cuerpos",
+    "dificultad": 1,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "Estudiantes de sexto creen que los objetos más pesados caen más rápido. ¿Qué acción didáctica es mejor?",
+    "opciones": [
+      "Explicar la ley de caída libre en el tablero y pedir que la memoricen.",
+      "Decirles que su idea es errónea y pasar a otro tema.",
+      "Pedirles que predigan, dejar caer objetos de distinta masa pero similar forma, observar y explicar las diferencias entre predicción y resultado.",
+      "Evitar el tema hasta que lo vean en física de grado décimo."
+    ],
+    "correcta": 2,
+    "retro": [
+      "Insuficiente: memorizar la ley no modifica la idea previa.",
+      "Inadecuado: sin evidencia ni discusión, la idea previa suele persistir.",
+      "Correcto: predecir, observar y explicar genera conflicto cognitivo a partir de la evidencia.",
+      "Inadecuado: se pierde la oportunidad de trabajar la idea cuando surge."
+    ],
+    "explicacion": "Las ideas previas son resistentes y se enfrentan con experiencias que las ponen a prueba. La secuencia predecir-observar-explicar permite que los estudiantes noten que, con resistencia del aire similar, la masa no cambia la rapidez de caída.",
+    "fuente": "Estándares Básicos de Competencias en Ciencias Naturales (MEN, 2004)"
+  },
+  {
+    "id": "naturales-21",
+    "tema": "naturales",
+    "subtema": "PRAE: manejo de residuos",
+    "dificultad": 1,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "La institución presenta problemas con el manejo de residuos en patios y aulas. ¿Cómo se debe orientar el PRAE?",
+    "opciones": [
+      "Que los estudiantes diagnostiquen el problema, planteen y ejecuten acciones con apoyo de varias áreas y de la comunidad, y evalúen sus resultados.",
+      "Que el docente de ciencias elabore y ejecute solo el plan de reciclaje.",
+      "Poner carteles y multar a quien arroje basura.",
+      "Dictar una charla anual sobre contaminación."
+    ],
+    "correcta": 0,
+    "retro": [
+      "Correcto: parte de un diagnóstico y es participativo e interdisciplinario.",
+      "Insuficiente: debe ser interdisciplinario y participativo, no responsabilidad de un solo docente.",
+      "Insuficiente: son medidas punitivas que no forman en compromiso ambiental.",
+      "Insuficiente: una acción puntual no genera cambios sostenidos."
+    ],
+    "explicacion": "El PRAE parte del contexto: los estudiantes investigan su entorno, proponen soluciones y las evalúan, de forma articulada con varias áreas. Así se desarrollan los compromisos personales y sociales.",
+    "fuente": "Decreto 1743 de 1994 (MEN); Estándares Básicos de Competencias en Ciencias Naturales (MEN, 2004)"
+  },
+  {
+    "id": "naturales-22",
+    "tema": "naturales",
+    "subtema": "Ideas previas: nutrición vegetal",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "En grado séptimo, varios estudiantes dicen que las plantas obtienen su masa casi por completo del suelo. ¿Qué acción promueve mejor el cambio conceptual?",
+    "opciones": [
+      "Explicar la fotosíntesis con una presentación y aplicar un quiz.",
+      "Diseñar con ellos un experimento (planta en maceta con suelo previamente pesado), registrar la masa del suelo y de la planta al cabo de semanas, y discutir los resultados con un modelo de fotosíntesis.",
+      "Pedir que copien el esquema de la fotosíntesis del libro.",
+      "Aceptar la idea, pues el suelo sí aporta nutrientes."
+    ],
+    "correcta": 1,
+    "retro": [
+      "Insuficiente: la transmisión verbal rara vez cambia ideas previas arraigadas.",
+      "Correcto: pone a prueba la idea con evidencia propia y se articula con indagación.",
+      "Insuficiente: copiar no genera comprensión ni conflicto cognitivo.",
+      "Insuficiente: el suelo aporta minerales, pero no la mayor parte de la masa; aceptar la idea mantiene el error."
+    ],
+    "explicacion": "En el experimento clásico de Van Helmont, el árbol ganó mucha masa mientras que el suelo casi no cambió. Los estudiantes pueden reproducirlo en pequeño y comparar con el modelo de fotosíntesis, en el que el carbono proviene del CO₂ y el agua. Es una actividad de indagación.",
+    "fuente": "Estándares Básicos de Competencias en Ciencias Naturales (MEN, 2004)"
+  },
+  {
+    "id": "naturales-23",
+    "tema": "naturales",
+    "subtema": "Ideas previas: corriente eléctrica",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "En un circuito simple, los estudiantes de décimo afirman que la corriente «se gasta» en el bombillo, por lo que es menor al regresar a la batería. ¿Qué actividad es más adecuada?",
+    "opciones": [
+      "Medir con amperímetros la corriente antes y después del bombillo, comparar con sus predicciones y usar un modelo (por ejemplo, agua circulando en un circuito cerrado) para discutir la conservación de la carga.",
+      "Entregar la ley de Ohm y resolver problemas numéricos.",
+      "Mostrar un video sobre la historia de la electricidad.",
+      "Corregir oralmente y continuar con circuitos en paralelo."
+    ],
+    "correcta": 0,
+    "retro": [
+      "Correcto: la medición contradice la idea previa y el modelo ayuda a explicar por qué.",
+      "Insuficiente: resolver problemas no confronta la idea de que la corriente se consume.",
+      "Insuficiente: no aborda la idea previa.",
+      "Insuficiente: sin evidencia, la corrección oral no cambia la concepción."
+    ],
+    "explicacion": "En un circuito en serie, la corriente es la misma en todos los puntos: lo que se transforma es la energía, no la carga. Medirla antes y después del bombillo muestra el mismo valor. Se promueven la indagación y el cambio conceptual.",
+    "fuente": "Estándares Básicos de Competencias en Ciencias Naturales (MEN, 2004)"
+  },
+  {
+    "id": "naturales-24",
+    "tema": "naturales",
+    "subtema": "Ideas previas: evolución",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "Una estudiante explica que las jirafas tienen el cuello largo porque «se esforzaron por alcanzar las hojas altas y lo heredaron». ¿Qué acción es más adecuada?",
+    "opciones": [
+      "Aceptar su explicación como válida porque es creativa.",
+      "Contrastar con una simulación de selección natural (variación, herencia y reproducción diferencial) y discutir por qué los caracteres adquiridos en vida no se heredan.",
+      "Decirle que es incorrecta y asignarle una lectura sobre Darwin.",
+      "Pedir que memorice la definición de selección natural."
+    ],
+    "correcta": 1,
+    "retro": [
+      "Error: es una explicación lamarckiana, no una explicación científica actual.",
+      "Correcto: la simulación permite construir la explicación y contrastarla con la idea previa.",
+      "Insuficiente: sin discusión ni actividad, la idea previa suele persistir.",
+      "Insuficiente: memorizar la definición no cambia la concepción."
+    ],
+    "explicacion": "Los estudiantes suelen explicar la evolución como respuesta de los individuos a necesidades. Una simulación con variación en una población (por ejemplo, picos de distinta forma y semillas) muestra cómo cambia la frecuencia de los rasgos entre generaciones.",
+    "fuente": "Estándares Básicos de Competencias en Ciencias Naturales (MEN, 2004)"
+  },
+  {
+    "id": "naturales-25",
+    "tema": "naturales",
+    "subtema": "Gestión del laboratorio",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "Un laboratorio cuenta con cinco kits de materiales para 40 estudiantes. ¿Qué organización es más adecuada para una práctica de indagación?",
+    "opciones": [
+      "Hacer solo una demostración del docente y pedir un informe.",
+      "Rotación por estaciones o grupos de ocho con roles definidos, una guía de preguntas previa y puesta en común de resultados.",
+      "Que cada estudiante trabaje sin guía y se turne cuando quiera.",
+      "Cancelar la práctica y dar la teoría."
+    ],
+    "correcta": 1,
+    "retro": [
+      "Insuficiente: se pierde la participación activa de los estudiantes.",
+      "Correcto: permite que todos participen con roles claros y con propósito de indagación.",
+      "Error: sin organización ni guía se pierde el propósito y la seguridad.",
+      "Inadecuado: la limitación de recursos se puede resolver con una buena organización."
+    ],
+    "explicacion": "Con pocos recursos, el trabajo cooperativo con roles (por ejemplo, coordinador, registrador y vocero) y estaciones rotativas permite que todos participen. Una guía con preguntas orienta la indagación y la puesta en común cierra el aprendizaje.",
+    "fuente": "Estándares Básicos de Competencias en Ciencias Naturales (MEN, 2004)"
+  },
+  {
+    "id": "naturales-26",
+    "tema": "naturales",
+    "subtema": "Indagación: análisis de resultados",
+    "dificultad": 3,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "En una práctica, un grupo obtiene datos que no coinciden con el valor esperado. ¿Cuál es la mejor respuesta del docente?",
+    "opciones": [
+      "Pedirles que ajusten los datos para que coincidan con el valor esperado.",
+      "Calificar con baja nota por no obtener el resultado correcto.",
+      "Guiar al grupo para que revise el procedimiento, las mediciones y las posibles fuentes de error, repita si es posible y reporte los datos reales con su análisis.",
+      "Descartar la práctica y entregar los datos correctos del libro."
+    ],
+    "correcta": 2,
+    "retro": [
+      "Error: alterar datos es contrario a la ética científica.",
+      "Error: castiga el proceso y desalienta el reporte honesto.",
+      "Correcto: analizar el error es parte de la indagación y promueve la honestidad científica.",
+      "Error: elimina la oportunidad de aprender del análisis del error."
+    ],
+    "explicacion": "Los datos que no coinciden con lo esperado son una oportunidad para analizar variables, instrumentos y procedimientos. Reportar honestamente lo observado y discutirlo es una práctica científica que se desarrolla en la competencia de indagación.",
+    "fuente": "Estándares Básicos de Competencias en Ciencias Naturales (MEN, 2004); Saber 11, Ciencias Naturales (ICFES)"
+  },
+  {
+    "id": "naturales-27",
+    "tema": "naturales",
+    "subtema": "Saber 11: explicación de fenómenos",
+    "dificultad": 3,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "En un simulacro Saber 11, los estudiantes de grado once obtienen bajo desempeño en la competencia de explicación de fenómenos. ¿Qué decisión pedagógica es más coherente?",
+    "opciones": [
+      "Plantear situaciones cotidianas o experimentales en las que deban predecir y justificar usando modelos y conceptos científicos, y retroalimentar la calidad de sus argumentos.",
+      "Aumentar las listas de definiciones para memorizar.",
+      "Entrenar solo con cuadernillos buscando la respuesta por descarte, sin analizar el fenómeno.",
+      "Concentrarse en las competencias que ya dominan para subir el promedio."
+    ],
+    "correcta": 0,
+    "retro": [
+      "Correcto: la competencia exige construir explicaciones con modelos y evidencias.",
+      "Insuficiente: conocer definiciones no implica poder explicar fenómenos.",
+      "Insuficiente: se obtiene práctica con el formato, pero no se desarrolla la competencia.",
+      "Error: deja sin atender la debilidad detectada."
+    ],
+    "explicacion": "Explicar fenómenos implica relacionar modelos científicos con situaciones concretas y justificar con evidencias. La estrategia más coherente es practicar esa explicación con retroalimentación, en lugar de reducir el trabajo a memoria o a técnicas de examen.",
+    "fuente": "Saber 11, Ciencias Naturales (ICFES)"
+  },
+  {
+    "id": "naturales-28",
+    "tema": "naturales",
+    "subtema": "Indagación: análisis de datos",
+    "dificultad": 3,
+    "tipo": "situacional",
+    "contexto": "Datos de una práctica con un péndulo simple. Longitud L (m): 0,25; 0,50; 1,00. Periodo T (s): 1,00; 1,42; 2,01.",
+    "enunciado": "Un grupo concluye que «el periodo es proporcional a la longitud». ¿Qué acción orienta mejor la indagación?",
+    "opciones": [
+      "Aceptar la conclusión, pues el periodo aumenta cuando aumenta la longitud.",
+      "Informar que la relación correcta es T = 2π√(L/g) y pedir que la usen en el informe.",
+      "Solicitar repetir la práctica hasta que los datos den proporcionalidad.",
+      "Pedirles que verifiquen la proporcionalidad calculando T/L (4,0; 2,8; 2,0, no constante) y que exploren otras relaciones, como T² frente a L, graficando los datos."
+    ],
+    "correcta": 3,
+    "retro": [
+      "Error: que ambas magnitudes crezcan no implica proporcionalidad; al duplicar L, T no se duplica.",
+      "Insuficiente: se entrega la relación sin que la construyan a partir de sus datos.",
+      "Error: se manipularía la práctica para confirmar una hipótesis, lo cual no es indagar.",
+      "Correcto: los estudiantes ponen a prueba su hipótesis con los datos y descubren una mejor relación (T² ∝ L)."
+    ],
+    "explicacion": "T/L = 1,00/0,25 = 4,0; 1,42/0,50 = 2,84; 2,01/1,00 = 2,01: no es constante. En cambio, T² = 1,00; 2,02; 4,04, y T²/L ≈ 4,0; 4,0; 4,0 es constante. Así se muestra que T² es proporcional a L, coherente con T = 2π√(L/g).",
+    "fuente": "Estándares Básicos de Competencias en Ciencias Naturales (MEN, 2004)"
+  },
+  {
+    "id": "naturales-29",
+    "tema": "naturales",
+    "subtema": "Respeto a las creencias",
+    "dificultad": 3,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "Un estudiante de décimo manifiesta que no acepta la evolución por sus creencias religiosas. ¿Cuál es la mejor actuación del docente?",
+    "opciones": [
+      "Ridiculizar su creencia y mostrar que la ciencia la refuta.",
+      "Omitir el tema de la evolución para evitar conflictos.",
+      "Presentar el creacionismo como una teoría científica equivalente.",
+      "Respetar su creencia, aclarar que la clase presenta la explicación científica con sus evidencias, sin exigirle renunciar a su fe, y evaluar su comprensión del modelo científico."
+    ],
+    "correcta": 3,
+    "retro": [
+      "Error: irrespeta al estudiante y no promueve el diálogo.",
+      "Error: la evolución es un contenido central de las ciencias naturales.",
+      "Error: el creacionismo no es una explicación científica, ya que no genera hipótesis contrastables.",
+      "Correcto: respeta a la persona y mantiene el rigor científico."
+    ],
+    "explicacion": "El docente puede respetar las creencias personales y a la vez enseñar el conocimiento científico con sus evidencias. Se evalúa que el estudiante comprenda el modelo, no que lo asuma como creencia. Esto se relaciona con los compromisos personales y sociales.",
+    "fuente": "Estándares Básicos de Competencias en Ciencias Naturales (MEN, 2004)"
+  },
+  {
+    "id": "naturales-30",
+    "tema": "naturales",
+    "subtema": "Conservación de la masa",
+    "dificultad": 3,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "Al quemar un trozo de papel en una balanza abierta, los estudiantes de noveno observan que la masa disminuye y concluyen que «la materia se destruyó». ¿Qué actividad es la más adecuada?",
+    "opciones": [
+      "Decirles que la ley de conservación no aplica a la combustión.",
+      "Escribir en el tablero la ecuación balanceada y pedir que la memoricen.",
+      "Repetir el experimento más veces en el sistema abierto hasta que la masa se mantenga.",
+      "Repetir la reacción en un sistema cerrado (por ejemplo, un matraz tapado, o una reacción cuyos gases queden atrapados) y comparar la masa antes y después para discutir la conservación de la masa."
+    ],
+    "correcta": 3,
+    "retro": [
+      "Error: la ley sí aplica; los productos gaseosos escapan al aire y por eso la masa medida disminuye.",
+      "Insuficiente: balancear no hace que comprendan por qué la masa parece disminuir.",
+      "Error: en un sistema abierto, la masa seguirá disminuyendo.",
+      "Correcto: en un sistema cerrado los gases no escapan y la masa total se conserva."
+    ],
+    "explicacion": "En la combustión del papel se forman CO₂ y vapor de agua que se escapan al ambiente, por lo que la masa medida baja. En un sistema cerrado se mide la masa total y se observa que se conserva. La experiencia confronta la idea de que la materia se destruye.",
+    "fuente": "Estándares Básicos de Competencias en Ciencias Naturales (MEN, 2004)"
+  }
+]

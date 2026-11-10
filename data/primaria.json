@@ -1,0 +1,770 @@
+[
+  {
+    "id": "primaria-01",
+    "tema": "primaria",
+    "subtema": "Actividades rectoras",
+    "dificultad": 1,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "¿Cuáles son las actividades rectoras de la educación inicial según las Bases Curriculares para la Educación Inicial y Preescolar (MEN, 2017)?",
+    "opciones": [
+      "El juego, el arte, la literatura y la exploración del medio",
+      "La lectura, la escritura, el cálculo y las ciencias naturales",
+      "El dictado, la copia, el dibujo dirigido y la ronda",
+      "La psicomotricidad, la música, la religión y la ética"
+    ],
+    "correcta": 0,
+    "retro": [
+      "Es correcta: son las cuatro actividades rectoras que definen las Bases Curriculares.",
+      "Confunde las actividades rectoras con áreas de contenido escolarizado, lo cual no corresponde al enfoque de la educación inicial.",
+      "Presenta tareas de instrucción dirigida y repetitiva, contrarias al protagonismo del niño que plantean las Bases.",
+      "Mezcla áreas de desarrollo o asignaturas con las actividades rectoras, que son juego, arte, literatura y exploración del medio."
+    ],
+    "explicacion": "Las Bases Curriculares definen cuatro actividades rectoras: juego, arte, literatura y exploración del medio, que orientan las experiencias pedagógicas. Las opciones con lectura, escritura y cálculo describen contenidos escolarizados, no actividades rectoras.",
+    "fuente": "Bases Curriculares para la Educación Inicial y Preescolar (MEN, 2017)"
+  },
+  {
+    "id": "primaria-02",
+    "tema": "primaria",
+    "subtema": "Ley 1804 de 2016",
+    "dificultad": 1,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "¿Qué establece la Ley 1804 de 2016?",
+    "opciones": [
+      "La obligatoriedad del grado transición en todo el país",
+      "La política de Estado para el desarrollo integral de la primera infancia De Cero a Siempre",
+      "El sistema institucional de evaluación de los estudiantes",
+      "La jornada única en las instituciones oficiales"
+    ],
+    "correcta": 1,
+    "retro": [
+      "Atribuye a esta ley la obligatoriedad de transición, que proviene de la Constitución y de la Ley 115.",
+      "Es correcta: la ley establece la política De Cero a Siempre.",
+      "Confunde la ley con la normativa de evaluación escolar, que se regula en otras normas.",
+      "Confunde la política de primera infancia con la política de jornada escolar."
+    ],
+    "explicacion": "La Ley 1804 de 2016 crea la política de Estado De Cero a Siempre, que articula la atención integral a la primera infancia. La obligatoriedad de un año de preescolar viene de la Constitución y de la Ley 115, no de esta ley.",
+    "fuente": "Ley 1804 de 2016"
+  },
+  {
+    "id": "primaria-03",
+    "tema": "primaria",
+    "subtema": "Preescolar obligatorio",
+    "dificultad": 1,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "Según el artículo 67 de la Constitución Política de Colombia, la educación obligatoria comprende como mínimo:",
+    "opciones": [
+      "Tres años de preescolar y seis de educación básica",
+      "Un año de preescolar y cinco de educación básica",
+      "Un año de preescolar y nueve de educación básica",
+      "Dos años de preescolar y nueve de educación media"
+    ],
+    "correcta": 2,
+    "retro": [
+      "Exagera la duración del preescolar obligatorio; la Constitución exige como mínimo un año.",
+      "Reduce la educación básica a cinco años, que es solo la primaria, y omite la secundaria básica.",
+      "Es correcta: el texto constitucional exige mínimo un año de preescolar y nueve de básica.",
+      "Confunde la educación básica con la media y aumenta el preescolar obligatorio."
+    ],
+    "explicacion": "El artículo 67 dispone que la educación será obligatoria entre los cinco y los quince años y comprenderá como mínimo un año de preescolar y nueve de educación básica. Los otros periodos no corresponden al texto constitucional.",
+    "fuente": "Constitución Política de Colombia, art. 67"
+  },
+  {
+    "id": "primaria-04",
+    "tema": "primaria",
+    "subtema": "Decreto 2247 de 1997",
+    "dificultad": 2,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "¿Cuáles son los principios de la educación preescolar establecidos en el Decreto 2247 de 1997?",
+    "opciones": [
+      "Instrucción, disciplina y rendimiento",
+      "Autonomía, promoción y estandarización",
+      "Secuencialidad, repetición y competencia",
+      "Integralidad, participación y lúdica"
+    ],
+    "correcta": 3,
+    "retro": [
+      "Describe una visión tradicional y escolarizada del preescolar, opuesta a sus principios.",
+      "Mezcla conceptos de la educación formal posterior y no los principios del decreto.",
+      "Propone repetición y competencia, contrarios al enfoque lúdico y participativo del nivel.",
+      "Es correcta: son los tres principios del decreto."
+    ],
+    "explicacion": "El decreto define la integralidad, la participación y la lúdica como principios del preescolar, lo que implica reconocer al niño como ser integral, que participa y aprende jugando. Los demás conjuntos reflejan una visión escolarizada que el decreto no plantea.",
+    "fuente": "Decreto 2247 de 1997"
+  },
+  {
+    "id": "primaria-05",
+    "tema": "primaria",
+    "subtema": "Evaluación en preescolar",
+    "dificultad": 1,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "De acuerdo con la normativa colombiana sobre preescolar (Decreto 2247 de 1997), la evaluación en este nivel:",
+    "opciones": [
+      "Es cualitativa y de carácter descriptivo, y no se reprueban grados ni actividades",
+      "Es numérica y permite repetir el grado de transición",
+      "Se hace con exámenes escritos al final de cada periodo",
+      "Solo se aplica en el grado transición y es opcional"
+    ],
+    "correcta": 0,
+    "retro": [
+      "Es correcta: la evaluación es cualitativa y no hay reprobación.",
+      "Supone una calificación numérica y reprobación, que la norma excluye en preescolar.",
+      "Asume exámenes escritos, inadecuados para la edad y ajenos a la observación que exige el nivel.",
+      "Afirma que la evaluación es opcional, cuando es parte del proceso pedagógico en todo el nivel."
+    ],
+    "explicacion": "En preescolar se valora el desarrollo del niño de forma cualitativa, mediante observación y registro, y no se reprueban grados ni actividades. La evaluación numérica con reprobación contradice el carácter integral del nivel.",
+    "fuente": "Decreto 2247 de 1997"
+  },
+  {
+    "id": "primaria-06",
+    "tema": "primaria",
+    "subtema": "Escritura inicial",
+    "dificultad": 2,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "Según Emilia Ferreiro y Ana Teberosky, ¿cuál es el orden de los niveles de conceptualización de la escritura?",
+    "opciones": [
+      "Silábico, presilábico, alfabético y silábico-alfabético",
+      "Presilábico, silábico, silábico-alfabético y alfabético",
+      "Alfabético, silábico-alfabético, silábico y presilábico",
+      "Presilábico, alfabético, silábico y silábico-alfabético"
+    ],
+    "correcta": 1,
+    "retro": [
+      "Pone el nivel silábico antes que el presilábico, invirtiendo el inicio del proceso.",
+      "Es correcta: respeta la progresión descrita por las autoras.",
+      "Invierte toda la progresión, empezando por el nivel más avanzado.",
+      "Ubica el alfabético antes del silábico, cuando es el último nivel de la progresión."
+    ],
+    "explicacion": "Los niños construyen hipótesis sobre el sistema de escritura que evolucionan del nivel presilábico al silábico, luego al silábico-alfabético y finalmente al alfabético. Los otros órdenes alteran la progresión que describen las autoras.",
+    "fuente": "Ferreiro y Teberosky, Los sistemas de escritura en el desarrollo del niño (1979)"
+  },
+  {
+    "id": "primaria-07",
+    "tema": "primaria",
+    "subtema": "Conciencia fonológica",
+    "dificultad": 2,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "La conciencia fonológica es la habilidad de:",
+    "opciones": [
+      "Reconocer la forma y el nombre de las letras del alfabeto",
+      "Copiar palabras con buena caligrafía y ortografía",
+      "Reconocer y manipular los sonidos del habla, como sílabas, rimas y fonemas",
+      "Comprender el significado global de un texto escrito"
+    ],
+    "correcta": 2,
+    "retro": [
+      "Confunde la conciencia fonológica con el conocimiento alfabético, que trabaja con letras escritas.",
+      "La confunde con habilidades grafomotoras y ortográficas, que no son su objeto.",
+      "Es correcta: se trata de reflexionar sobre los sonidos del habla.",
+      "Describe la comprensión lectora, que es una habilidad distinta."
+    ],
+    "explicacion": "Es una habilidad oral que permite segmentar, combinar y comparar unidades sonoras, y se relaciona con el aprendizaje de la lectura. Conocer las letras o comprender textos son habilidades distintas, aunque complementarias.",
+    "fuente": "Desarrollo de la lectoescritura inicial"
+  },
+  {
+    "id": "primaria-08",
+    "tema": "primaria",
+    "subtema": "Matemática inicial",
+    "dificultad": 2,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "Desde la perspectiva constructivista de Constance Kamii, el concepto de número en el niño:",
+    "opciones": [
+      "Se aprende por repetición de series numéricas y planas de números",
+      "Se transmite directamente desde el docente al estudiante",
+      "Se adquiere al memorizar los símbolos numéricos del 1 al 10",
+      "Lo construye mediante abstracción reflexiva al establecer relaciones entre objetos"
+    ],
+    "correcta": 3,
+    "retro": [
+      "Reduce el número a memoria y repetición, lo que no garantiza comprender la cantidad.",
+      "Supone una transmisión directa, contraria al constructivismo en el que se basa Kamii.",
+      "Confunde conocer los símbolos con comprender el concepto de número.",
+      "Es correcta: el número es una construcción mental del niño."
+    ],
+    "explicacion": "Kamii, siguiendo a Piaget, sostiene que el número no se enseña por transmisión: el niño lo construye al relacionar y ordenar objetos y situaciones. Contar de memoria no garantiza comprender la cantidad.",
+    "fuente": "Kamii, El niño reinventa la aritmética"
+  },
+  {
+    "id": "primaria-09",
+    "tema": "primaria",
+    "subtema": "DBA",
+    "dificultad": 1,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "Los Derechos Básicos de Aprendizaje (DBA) del MEN, incluidos los de transición, se entienden mejor como:",
+    "opciones": [
+      "Aprendizajes estructurantes que orientan el currículo, sin reemplazarlo",
+      "Un currículo completo que todas las instituciones deben copiar",
+      "Una prueba estandarizada para clasificar a los estudiantes",
+      "Una lista de contenidos y temas con horas asignadas"
+    ],
+    "correcta": 0,
+    "retro": [
+      "Es correcta: orientan la planeación sin sustituir el currículo institucional.",
+      "Los presenta como currículo único, cuando cada institución tiene autonomía para construir el suyo.",
+      "Los confunde con una prueba; son referentes de aprendizaje y no un instrumento de clasificación.",
+      "Los reduce a temas con horas, cuando describen aprendizajes y no listas de contenidos."
+    ],
+    "explicacion": "Los DBA son aprendizajes clave por grado que apoyan la planeación, pero cada institución construye su propio currículo y plan de estudios. No son prueba ni un currículo cerrado.",
+    "fuente": "MEN, Derechos Básicos de Aprendizaje"
+  },
+  {
+    "id": "primaria-10",
+    "tema": "primaria",
+    "subtema": "Programa Todos a Aprender",
+    "dificultad": 3,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "El Programa Todos a Aprender (PTA) del MEN se caracteriza por:",
+    "opciones": [
+      "Entregar pruebas externas para evaluar a los docentes de primaria",
+      "Formación situada y acompañamiento de tutores en el aula para mejorar lenguaje y matemáticas",
+      "Reemplazar el currículo institucional por guías únicas nacionales",
+      "Ofrecer cursos virtuales sin visitas a los establecimientos"
+    ],
+    "correcta": 1,
+    "retro": [
+      "Lo confunde con una evaluación de docentes; su fin es el acompañamiento y no la medición.",
+      "Es correcta: el PTA se basa en formación situada y acompañamiento en aula.",
+      "Afirma que sustituye el currículo, lo cual ignora la autonomía institucional.",
+      "Omite que el acompañamiento es presencial, en el establecimiento y en el aula."
+    ],
+    "explicacion": "El PTA busca mejorar los aprendizajes en lenguaje y matemáticas en primaria mediante tutores que acompañan al docente en su aula y fomentan comunidades de aprendizaje. No es una evaluación de docentes ni elimina la autonomía curricular.",
+    "fuente": "Programa Todos a Aprender (MEN)"
+  },
+  {
+    "id": "primaria-11",
+    "tema": "primaria",
+    "subtema": "Métodos de lectoescritura",
+    "dificultad": 2,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "¿Cuál describe correctamente la diferencia entre los métodos sintéticos y los analíticos de lectoescritura?",
+    "opciones": [
+      "Los sintéticos parten de la frase y los analíticos de la letra",
+      "Los sintéticos usan textos reales y los analíticos solo planas",
+      "Los sintéticos parten de unidades menores (letras o sílabas) y los analíticos del todo (palabra o frase)",
+      "Ambos parten de la comprensión y solo difieren en la caligrafía"
+    ],
+    "correcta": 2,
+    "retro": [
+      "Invierte las definiciones de ambos métodos.",
+      "Atribuye a los sintéticos el uso de textos reales, cuando parten de unidades menores.",
+      "Es correcta: los sintéticos van de las partes al todo y los analíticos del todo a las partes.",
+      "Ignora que la diferencia está en el punto de partida del método y no en la caligrafía."
+    ],
+    "explicacion": "Los métodos sintéticos van de las partes al todo (letras, sílabas, palabras), mientras que los analíticos parten de unidades con sentido como la palabra o la frase para luego analizarlas. Las otras opciones invierten o confunden esa lógica.",
+    "fuente": "Didáctica de la lectoescritura inicial"
+  },
+  {
+    "id": "primaria-12",
+    "tema": "primaria",
+    "subtema": "Evaluación formativa",
+    "dificultad": 3,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "En primaria, la evaluación formativa se caracteriza porque:",
+    "opciones": [
+      "Verifica al final del periodo qué contenidos memorizó el estudiante",
+      "Compara el desempeño de cada estudiante con el promedio del grupo",
+      "Se limita a asignar una nota que se promedia con las demás",
+      "Recoge información durante el proceso para retroalimentar al estudiante y ajustar la enseñanza"
+    ],
+    "correcta": 3,
+    "retro": [
+      "Describe una evaluación sumativa y memorística, no formativa.",
+      "Describe una evaluación normativa que compara estudiantes, no una formativa.",
+      "Reduce la evaluación a una nota, sin retroalimentación para mejorar.",
+      "Es correcta: la evaluación formativa ocurre durante el proceso y sirve para mejorar."
+    ],
+    "explicacion": "Su propósito es mejorar el aprendizaje mientras ocurre, usando evidencias para dar retroalimentación y replantear la práctica. La evaluación que solo mide al final y califica es sumativa.",
+    "fuente": "Decreto 1075 de 2015 y SIEE institucional"
+  },
+  {
+    "id": "primaria-13",
+    "tema": "primaria",
+    "subtema": "Grados del preescolar",
+    "dificultad": 1,
+    "tipo": "conocimiento",
+    "contexto": null,
+    "enunciado": "Según el Decreto 2247 de 1997, el nivel de educación preescolar se organiza en los grados:",
+    "opciones": [
+      "Prejardín, jardín y transición",
+      "Párvulos, kínder y primero",
+      "Sala cuna, maternal y transición",
+      "Jardín, transición y pre-primaria"
+    ],
+    "correcta": 0,
+    "retro": [
+      "Es correcta: son los tres grados del nivel.",
+      "Usa denominaciones ajenas a la norma e incluye primero, que es básica primaria.",
+      "Usa nombres de atención a la primera infancia que no son grados de preescolar según el decreto.",
+      "Inventa el grado pre-primaria y omite el prejardín."
+    ],
+    "explicacion": "El decreto organiza el preescolar en prejardín, jardín y transición, siendo este último el grado obligatorio. Las otras denominaciones no corresponden a la norma colombiana.",
+    "fuente": "Decreto 2247 de 1997"
+  },
+  {
+    "id": "primaria-14",
+    "tema": "primaria",
+    "subtema": "Preescolar y lectoescritura",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "En un grado transición, la docente nota que varios niños de cinco años se aburren con las planas de letras. ¿Cuál es la mejor acción pedagógica?",
+    "opciones": [
+      "Aumentar el tiempo de planas para que se acostumbren pronto",
+      "Proponer experiencias con juego y literatura, como rimas, cuentos y escritura de sus nombres con sentido",
+      "Suspender todo acercamiento a lo escrito hasta primero",
+      "Pedir a las familias que enseñen las letras en casa"
+    ],
+    "correcta": 1,
+    "retro": [
+      "Intensifica una práctica mecánica que ya genera desinterés y contradice la lúdica.",
+      "Es la mejor acción: acerca a lo escrito con sentido y por medio del juego.",
+      "Ignora que los niños ya construyen hipótesis sobre lo escrito desde antes de primero.",
+      "Traslada a las familias una responsabilidad pedagógica de la docente."
+    ],
+    "explicacion": "Las Bases Curriculares plantean que los niños se acercan a la lectura y escritura a través del juego y la literatura, con experiencias significativas. Insistir en planas contradice el principio de lúdica; evitar lo escrito tampoco es necesario.",
+    "fuente": "Bases Curriculares (MEN, 2017) y Decreto 2247 de 1997"
+  },
+  {
+    "id": "primaria-15",
+    "tema": "primaria",
+    "subtema": "Presilábico",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "Una niña de transición dibuja líneas onduladas y afirma que escribió \"mamá\". Según los niveles de Ferreiro y Teberosky, la mejor respuesta de la docente es:",
+    "opciones": [
+      "Corregirla de inmediato y obligarla a copiar la palabra veinte veces",
+      "Decirle que eso no es escribir hasta que aprenda las letras",
+      "Reconocer su hipótesis, leer con ella lo que escribió y ofrecerle modelos de escritura con sentido, como su nombre",
+      "Evitar que escriba hasta que identifique todas las vocales"
+    ],
+    "correcta": 2,
+    "retro": [
+      "Sanciona la hipótesis y propone copia repetitiva, que no genera reflexión sobre la escritura.",
+      "Desconoce que sus grafías ya son un intento de escribir y la desmotiva.",
+      "Es la mejor respuesta: valora su hipótesis y la acerca a modelos con sentido.",
+      "Condiciona escribir al dominio de las vocales, cuando se aprende escribiendo."
+    ],
+    "explicacion": "Es un nivel presilábico, y la niña ya diferencia dibujar de escribir. La docente debe acompañar su proceso con situaciones reales de escritura y no sancionar la hipótesis. Copiar repetitivamente no genera la reflexión sobre el sistema.",
+    "fuente": "Ferreiro y Teberosky (1979)"
+  },
+  {
+    "id": "primaria-16",
+    "tema": "primaria",
+    "subtema": "Hipótesis silábica",
+    "dificultad": 3,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "Un niño escribe \"AO\" para \"gato\", poniendo una letra por cada sílaba. ¿Cuál es la mejor intervención docente?",
+    "opciones": [
+      "Borrar lo escrito y dictarle la palabra letra por letra",
+      "Ignorar el error porque corregirá solo con la edad",
+      "Pasarlo a un grupo de refuerzo para que repita las sílabas",
+      "Generar conflicto cognitivo comparando su escritura con otras palabras y favoreciendo que analice los sonidos de la palabra"
+    ],
+    "correcta": 3,
+    "retro": [
+      "Impone la forma convencional sin que el niño reflexione sobre el sistema.",
+      "Supone que la maduración basta, cuando el avance requiere situaciones que desafíen su hipótesis.",
+      "Usa la repetición de sílabas, que no cuestiona su hipótesis ni la hace evolucionar.",
+      "Es la mejor intervención: genera conflicto cognitivo que impulsa el avance de nivel."
+    ],
+    "explicacion": "Es una hipótesis silábica. La docente la reconoce y propone situaciones que generen conflicto cognitivo, como comparar con otras palabras o analizar sonidos, para avanzar al nivel silábico-alfabético. El dictado letra por letra no promueve la construcción.",
+    "fuente": "Ferreiro y Teberosky (1979)"
+  },
+  {
+    "id": "primaria-17",
+    "tema": "primaria",
+    "subtema": "Adaptación socioemocional",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "Al iniciar el año en transición, un niño llora y se aferra a su madre cada mañana. ¿Cuál es la mejor acción de la docente?",
+    "opciones": [
+      "Acompañar la adaptación con calidez, acordar con la familia despedidas breves y ofrecerle actividades que le interesen",
+      "Pedirle a la madre que se vaya sin despedirse",
+      "Dejarlo llorando hasta que se acostumbre sin intervenir",
+      "Remitirlo de inmediato al psicólogo por trastorno de ansiedad"
+    ],
+    "correcta": 0,
+    "retro": [
+      "Es la mejor acción: acompaña con afecto y coordina con la familia.",
+      "Genera inseguridad al cortar la despedida de manera abrupta y sin acuerdos.",
+      "Ignora su necesidad emocional y puede aumentar su angustia.",
+      "Patologiza una reacción propia de la adaptación sin acompañar primero el proceso."
+    ],
+    "explicacion": "La separación es parte del desarrollo socioemocional a esa edad y exige un acompañamiento afectivo y coordinado con la familia. Dejarlo solo o patologizarlo sin observar el proceso no atiende su necesidad.",
+    "fuente": "Bases Curriculares (MEN, 2017)"
+  },
+  {
+    "id": "primaria-18",
+    "tema": "primaria",
+    "subtema": "Evaluación en transición",
+    "dificultad": 1,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "Una docente de transición debe informar el avance de sus niños. ¿Cuál estrategia es más coherente con la evaluación en preescolar?",
+    "opciones": [
+      "Aplicar una prueba escrita y asignar notas de 1 a 5",
+      "Observar y registrar el proceso de cada niño y reportarlo de forma descriptiva con evidencias",
+      "Comparar a los niños entre sí para ordenarlos por desempeño",
+      "Decidir con un examen quién repite el grado"
+    ],
+    "correcta": 1,
+    "retro": [
+      "Aplica una evaluación numérica y escrita, inadecuada para el nivel.",
+      "Es la más coherente: la evaluación es cualitativa, basada en observación y evidencias.",
+      "Compara niños entre sí, cuando se valora el proceso individual de cada uno.",
+      "Contempla repetir el grado, algo que no existe en preescolar."
+    ],
+    "explicacion": "La evaluación en preescolar es cualitativa y se basa en la observación, el registro y los portafolios, sin reprobar. Las notas numéricas, el ranking y la repetición no corresponden al nivel.",
+    "fuente": "Decreto 2247 de 1997"
+  },
+  {
+    "id": "primaria-19",
+    "tema": "primaria",
+    "subtema": "Valor posicional",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "En primero, varios estudiantes no entienden el valor posicional al leer números de dos cifras. ¿Qué acción es la más adecuada?",
+    "opciones": [
+      "Repetir el algoritmo escrito hasta que lo memoricen",
+      "Prohibir el uso de material para que se acostumbren a lo abstracto",
+      "Usar material concreto, como bloques de base diez, para agrupar y desagrupar antes de pasar a la notación",
+      "Pasar a números de tres cifras para que lo deduzcan"
+    ],
+    "correcta": 2,
+    "retro": [
+      "Confunde memorizar un procedimiento con comprender el valor de la posición.",
+      "Elimina el apoyo concreto que necesitan a esta edad para llegar a lo abstracto.",
+      "Es la más adecuada: el material concreto permite comprender las agrupaciones decimales.",
+      "Aumenta la dificultad sin resolver la falta de comprensión de base."
+    ],
+    "explicacion": "El valor posicional se comprende al agrupar de diez en diez con material manipulable, y luego se pasa a representaciones simbólicas. Memorizar el algoritmo no construye el sentido del sistema decimal.",
+    "fuente": "Estándares Básicos de Competencias en Matemáticas (MEN, 2006)"
+  },
+  {
+    "id": "primaria-20",
+    "tema": "primaria",
+    "subtema": "Sentido numérico",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "Un niño de primero recita los números hasta 20, pero al contar objetos desordenados se equivoca. ¿Qué actividad es la más pertinente?",
+    "opciones": [
+      "Hacerle repetir la serie numérica en voz alta varias veces",
+      "Darle una ficha con sumas para que practique en casa",
+      "Explicarle que debe contar más despacio sin otra actividad",
+      "Contar colecciones de objetos manipulables promoviendo la correspondencia uno a uno, separando los que ya contó"
+    ],
+    "correcta": 3,
+    "retro": [
+      "Refuerza la memoria de la serie, que el niño ya domina, y no la correspondencia con objetos.",
+      "Pasa a operaciones sin haber consolidado el conteo.",
+      "Atribuye el error a la rapidez y no a la falta de correspondencia.",
+      "Es la más pertinente: trabaja directamente la correspondencia uno a uno."
+    ],
+    "explicacion": "Recitar la serie no implica comprender que cada objeto corresponde a un número. La correspondencia uno a uno y el conteo con material construyen el sentido numérico. Repetir la serie refuerza solo la memoria.",
+    "fuente": "Estándares Básicos de Competencias en Matemáticas (MEN, 2006)"
+  },
+  {
+    "id": "primaria-21",
+    "tema": "primaria",
+    "subtema": "Kamii y juegos",
+    "dificultad": 3,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "Un docente de primero enseña la suma solo con tarjetas para memorizar resultados. Siguiendo a Kamii, ¿qué cambio es más coherente?",
+    "opciones": [
+      "Proponer juegos de cartas o dados y situaciones problema donde los niños inventen estrategias y las discutan",
+      "Aumentar el número de tarjetas y el tiempo de práctica",
+      "Enseñar primero la regla y luego aplicarla en ejercicios",
+      "Reducir la suma a problemas escritos de textos largos"
+    ],
+    "correcta": 0,
+    "retro": [
+      "Es el cambio más coherente: los niños construyen estrategias en situaciones de juego.",
+      "Intensifica la memorización, lo que Kamii cuestiona.",
+      "Mantiene la transmisión de reglas, contraria al enfoque constructivista.",
+      "Sustituye la memoria por textos largos, que no se corresponden con la propuesta de juego y construcción."
+    ],
+    "explicacion": "Kamii propone que los niños construyan el conocimiento lógico-matemático en situaciones de juego y resolución de problemas, no por transmisión. Más tarjetas o aplicar reglas mantiene la lógica de memorización.",
+    "fuente": "Kamii, El niño reinventa la aritmética"
+  },
+  {
+    "id": "primaria-22",
+    "tema": "primaria",
+    "subtema": "Conciencia fonológica en el aula",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "En primero, varios niños confunden los sonidos /p/ y /b/ al escribir. ¿Cuál es la mejor acción?",
+    "opciones": [
+      "Hacerlos copiar las dos letras en renglones completos",
+      "Realizar juegos orales de rimas, aislamiento del sonido inicial y comparación de palabras junto con la escritura",
+      "Esperar a segundo grado cuando madure su oído",
+      "Prohibir que escriban hasta que pronuncien bien"
+    ],
+    "correcta": 1,
+    "retro": [
+      "Cree que copiar letras corrige una confusión auditiva, sin trabajar los sonidos.",
+      "Es la mejor acción: trabaja la discriminación de sonidos con actividades orales y escritas.",
+      "Espera la maduración sin intervenir, cuando la discriminación se desarrolla con práctica.",
+      "Condiciona la escritura a la pronunciación, cuando ambas se desarrollan juntas."
+    ],
+    "explicacion": "El trabajo oral con sonidos desarrolla la conciencia fonológica y apoya la relación entre fonemas y grafemas. Copiar sin reflexión o esperar no ayuda a discriminar sonidos.",
+    "fuente": "Didáctica de la lectoescritura inicial"
+  },
+  {
+    "id": "primaria-23",
+    "tema": "primaria",
+    "subtema": "Escuela multigrado",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "Una docente rural atiende de primero a quinto en una sola aula. ¿Qué estrategia es la más adecuada?",
+    "opciones": [
+      "Dar la misma clase magistral a todos y exigir lo mismo",
+      "Atender un grado por día mientras los otros esperan",
+      "Usar guías de aprendizaje, trabajo cooperativo y tutoría entre pares, con proyectos que integren grados",
+      "Dejar que los mayores trabajen solos sin retroalimentación"
+    ],
+    "correcta": 2,
+    "retro": [
+      "Ignora los distintos niveles de los estudiantes al uniformar la enseñanza.",
+      "Deja a los demás grados sin atención durante el día.",
+      "Es la más adecuada: es la lógica de Escuela Nueva para aulas multigrado.",
+      "Abandona a los mayores sin acompañamiento ni retroalimentación."
+    ],
+    "explicacion": "La metodología de Escuela Nueva, creada en Colombia, usa guías, aprendizaje cooperativo y flexibilidad para atender varios grados a la vez. Una única clase magistral no responde a niveles diferentes.",
+    "fuente": "Modelo Escuela Nueva (MEN)"
+  },
+  {
+    "id": "primaria-24",
+    "tema": "primaria",
+    "subtema": "Acompañamiento PTA",
+    "dificultad": 3,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "A una sede llega un tutor del Programa Todos a Aprender y una docente se muestra reacia porque siente que será evaluada. ¿Cuál es la mejor actitud?",
+    "opciones": [
+      "Aceptar las visitas pero no modificar nada de su práctica",
+      "Pedirle al tutor que dicte las clases por ella",
+      "Rechazar las visitas porque el currículo es autónomo",
+      "Aprovechar el acompañamiento para planear juntos, observar la práctica y reflexionar sobre cómo mejorar los aprendizajes"
+    ],
+    "correcta": 3,
+    "retro": [
+      "Acepta la visita de forma pasiva y desaprovecha la reflexión sobre la práctica.",
+      "Delega su labor en el tutor, que acompaña y no reemplaza al docente.",
+      "Confunde la autonomía curricular con rechazar el acompañamiento.",
+      "Es la mejor actitud: usa el acompañamiento para el desarrollo profesional."
+    ],
+    "explicacion": "El PTA se basa en formación situada y acompañamiento para el desarrollo profesional, no en una evaluación punitiva. Aprovecharlo implica planear y reflexionar con el tutor.",
+    "fuente": "Programa Todos a Aprender (MEN)"
+  },
+  {
+    "id": "primaria-25",
+    "tema": "primaria",
+    "subtema": "Integración de áreas",
+    "dificultad": 1,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "Un docente de tercero con poco tiempo quiere integrar áreas. ¿Cuál propuesta es más coherente?",
+    "opciones": [
+      "Un proyecto de aula como la huerta escolar que articule ciencias, medición en matemáticas y registros en lenguaje",
+      "Dictar cada área por separado con diferentes cuadernos",
+      "Unir las áreas en una sola evaluación final",
+      "Eliminar matemáticas para dedicar más tiempo a ciencias"
+    ],
+    "correcta": 0,
+    "retro": [
+      "Es la más coherente: el proyecto articula saberes en torno a un problema real.",
+      "Mantiene las áreas aisladas, lo contrario de integrarlas.",
+      "Integra solo la evaluación final y no el proceso de enseñanza.",
+      "Elimina un área obligatoria, lo que no integra sino que empobrece el currículo."
+    ],
+    "explicacion": "Los proyectos de aula permiten abordar problemas reales con saberes de varias áreas, dando sentido a los aprendizajes. Separarlas o eliminar una no integra.",
+    "fuente": "Lineamientos y Estándares Básicos de Competencias (MEN)"
+  },
+  {
+    "id": "primaria-26",
+    "tema": "primaria",
+    "subtema": "Ritmos de aprendizaje",
+    "dificultad": 1,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "En segundo, algunos estudiantes terminan rápido las tareas y otros necesitan más tiempo. ¿Qué acción atiende mejor los ritmos de aprendizaje?",
+    "opciones": [
+      "Exigir a todos el mismo tiempo y el mismo producto",
+      "Diseñar actividades con distintos niveles de complejidad y tiempos flexibles para el mismo objetivo",
+      "Dejar sin tareas a quienes terminan rápido",
+      "Separar de forma permanente a los más lentos"
+    ],
+    "correcta": 1,
+    "retro": [
+      "Confunde igualdad con equidad e ignora las diferencias de ritmo.",
+      "Es la mejor acción: flexibiliza tiempos y niveles sin cambiar el objetivo.",
+      "Desaprovecha a quienes avanzan rápido al no ofrecerles retos.",
+      "Segrega de forma permanente, lo que vulnera la inclusión."
+    ],
+    "explicacion": "Atender ritmos implica flexibilizar tiempos y niveles de apoyo manteniendo el objetivo común. Igualar o segregar vulnera la equidad.",
+    "fuente": "Decreto 1421 de 2017 (DUA)"
+  },
+  {
+    "id": "primaria-27",
+    "tema": "primaria",
+    "subtema": "Educación inclusiva",
+    "dificultad": 3,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "En segundo grado hay un estudiante con discapacidad intelectual. ¿Cuál es la acción más adecuada según el Decreto 1421 de 2017?",
+    "opciones": [
+      "Pedir que asista solo a medio tiempo en un aula aparte",
+      "Aplicar la misma evaluación y bajar la nota final",
+      "Construir con la familia y el equipo institucional un PIAR y planear la clase con principios del DUA",
+      "Esperar un diagnóstico clínico antes de ajustar la enseñanza"
+    ],
+    "correcta": 2,
+    "retro": [
+      "Excluye al estudiante del aula regular, contra el enfoque de educación inclusiva.",
+      "Evalúa sin ajustes razonables y penaliza la discapacidad.",
+      "Es la más adecuada: son las herramientas que establece el decreto.",
+      "Condiciona los ajustes a un diagnóstico clínico, cuando se parte de la observación pedagógica."
+    ],
+    "explicacion": "El decreto establece el DUA y el Plan Individual de Ajustes Razonables como herramientas para garantizar la participación y aprendizaje. Excluir o esperar un diagnóstico para ajustar contradice el enfoque.",
+    "fuente": "Decreto 1421 de 2017"
+  },
+  {
+    "id": "primaria-28",
+    "tema": "primaria",
+    "subtema": "Evaluación formativa en aula",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "Varios estudiantes de tercero obtienen resultados bajos en una prueba de matemáticas. ¿Cuál es la acción más coherente con la evaluación formativa?",
+    "opciones": [
+      "Repetir la misma prueba hasta que mejoren los resultados",
+      "Registrar la nota y continuar con el siguiente tema",
+      "Citar a los acudientes para informar que reprobaron",
+      "Analizar los errores, retroalimentar a los estudiantes y ajustar las estrategias de enseñanza"
+    ],
+    "correcta": 3,
+    "retro": [
+      "Mide de nuevo sin cambiar la enseñanza, con lo cual no se aprende de los errores.",
+      "Usa la evaluación solo para calificar y no para mejorar.",
+      "Atribuye el resultado al estudiante y no revisa la enseñanza.",
+      "Es la más coherente: usa los errores como insumo para mejorar."
+    ],
+    "explicacion": "La evaluación formativa usa los errores como información para mejorar, con retroalimentación y cambios en la enseñanza. Repetir la prueba o solo registrar no promueve el aprendizaje.",
+    "fuente": "Decreto 1075 de 2015 y SIEE institucional"
+  },
+  {
+    "id": "primaria-29",
+    "tema": "primaria",
+    "subtema": "Convivencia y emociones",
+    "dificultad": 2,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "Dos niños de segundo discuten con frecuencia en el recreo. ¿Cuál es la mejor intervención?",
+    "opciones": [
+      "Acompañarlos en un diálogo mediado para reconocer emociones y acordar soluciones, trabajando competencias ciudadanas",
+      "Sancionarlos sin recreo cada vez que ocurra",
+      "Separar a los niños y no permitir que se hablen",
+      "Ignorar las discusiones por ser cosas de niños"
+    ],
+    "correcta": 0,
+    "retro": [
+      "Es la mejor intervención: enseña a reconocer emociones y resolver conflictos.",
+      "Castiga sin enseñar una alternativa para resolver el conflicto.",
+      "Evita el conflicto sin resolverlo y no desarrolla habilidades de diálogo.",
+      "Omite el rol docente en la formación socioemocional y la convivencia."
+    ],
+    "explicacion": "El desarrollo socioemocional y las competencias ciudadanas se fortalecen con mediación y reflexión sobre las emociones. La sanción por sí sola no enseña a resolver conflictos.",
+    "fuente": "Estándares de Competencias Ciudadanas (MEN, 2004) y Ley 1620 de 2013"
+  },
+  {
+    "id": "primaria-30",
+    "tema": "primaria",
+    "subtema": "Diálogo con familias",
+    "dificultad": 3,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "Una familia exige que su hijo salga de transición leyendo con planas diarias. ¿Cuál es la mejor respuesta de la docente?",
+    "opciones": [
+      "Ceder y enviar planas diarias como tarea",
+      "Dialogar sobre el enfoque del nivel y mostrar evidencias de cómo el juego y la literatura apoyan la lectoescritura",
+      "Responder que la familia no debe intervenir",
+      "Prometer que leerá a fin de año sin explicar cómo"
+    ],
+    "correcta": 1,
+    "retro": [
+      "Abandona su criterio pedagógico por presión de la familia.",
+      "Es la mejor respuesta: dialoga y fundamenta con evidencias.",
+      "Excluye a la familia, que es corresponsable del desarrollo del niño.",
+      "Hace una promesa sin sustento pedagógico y no aclara el enfoque del nivel."
+    ],
+    "explicacion": "La docente debe explicar con argumentos y evidencias el enfoque de las Bases Curriculares y del Decreto 2247, y a la vez escuchar a la familia. Ceder o excluirla desaprovecha la alianza.",
+    "fuente": "Bases Curriculares (MEN, 2017) y Decreto 2247 de 1997"
+  },
+  {
+    "id": "primaria-31",
+    "tema": "primaria",
+    "subtema": "Comprensión lectora",
+    "dificultad": 3,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "Con un método sintético estricto, los niños de primero decodifican bien pero no comprenden lo que leen. ¿Qué acción es más adecuada?",
+    "opciones": [
+      "Aumentar los ejercicios de decodificación de sílabas",
+      "Esperar a tercero para trabajar comprensión",
+      "Complementar con lectura de textos con sentido, lectura en voz alta y conversación sobre lo leído",
+      "Eliminar la enseñanza de letras y sonidos"
+    ],
+    "correcta": 2,
+    "retro": [
+      "Insiste en la decodificación, que los niños ya dominan, sin atender la comprensión.",
+      "Pospone la comprensión, que debe trabajarse desde el inicio de la lectura.",
+      "Es la más adecuada: añade textos con sentido y conversación para comprender.",
+      "Elimina la enseñanza de lo alfabético, que es necesaria aunque no suficiente."
+    ],
+    "explicacion": "Decodificar es necesario pero insuficiente; la comprensión se desarrolla con textos reales, lectura compartida y diálogo. Sobreentrenar sílabas no la resuelve, y eliminar la enseñanza de sonidos tampoco.",
+    "fuente": "Lineamientos Curriculares de Lengua Castellana (MEN, 1998)"
+  },
+  {
+    "id": "primaria-32",
+    "tema": "primaria",
+    "subtema": "Juego y participación",
+    "dificultad": 1,
+    "tipo": "situacional",
+    "contexto": null,
+    "enunciado": "Un niño de transición prefiere jugar solo y no se une a los juegos grupales. ¿Qué acción es más adecuada?",
+    "opciones": [
+      "Obligarlo a participar en el juego de todo el grupo",
+      "Dejarlo siempre aparte para no incomodarlo",
+      "Informar a la familia que tiene problemas de socialización",
+      "Observarlo y ofrecerle juegos en parejas o pequeños grupos de forma gradual, sin forzarlo ni etiquetarlo"
+    ],
+    "correcta": 3,
+    "retro": [
+      "Fuerza la participación y puede generar rechazo hacia el juego.",
+      "Lo aísla y no favorece su socialización.",
+      "Etiqueta al niño sin observación suficiente y alarma a la familia.",
+      "Es la más adecuada: respeta su ritmo e invita a participar gradualmente."
+    ],
+    "explicacion": "El juego es actividad rectora y la participación se construye gradualmente respetando los tiempos del niño. Forzarlo o etiquetarlo sin observar no favorece su desarrollo.",
+    "fuente": "Bases Curriculares (MEN, 2017)"
+  }
+]
